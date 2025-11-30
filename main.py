@@ -174,7 +174,10 @@ with open('output\\game\\in_game\\map_data\\anb_definitions.txt', 'w', encoding=
                 for area in region.areas:
                     def_file.write(f'\t\t\t{area.name} = {{\n')
                     for province in area.provinces:
-                        province_string = f'\t\t\t\t{province.name} = {{'
+                        province_name_string = province.name
+                        if not province_name_string.endswith('_province'):
+                            province_name_string += '_province'
+                        province_string = f'\t\t\t\t{province_name_string} = {{'
                         for location in province.locations:
                             province_string += f' {location.name}'
                         province_string += ' }\n'
