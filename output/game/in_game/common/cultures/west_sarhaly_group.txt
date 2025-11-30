@@ -1,0 +1,105 @@
+mantimatu = {
+	language = mantimatu_dialect
+	
+	color = rgb { 250 214 115 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		west_sarhaly_group
+	}
+}
+
+ndurubu = {
+	language = ndurubu_dialect
+	
+	color = rgb { 255 153 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		west_sarhaly_group
+	}
+}
+
+kaino = {
+	language = kaino_dialect
+	
+	color = rgb { 99 134 15 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		west_sarhaly_group
+	}
+}
+
+tamajoba = {
+	language = tamajoba_dialect
+	
+	color = rgb { 128 0 32 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		west_sarhaly_group
+	}
+}
+
+taafi = {
+	language = taafi_dialect
+	
+	color = rgb { 255 255 153 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		west_sarhaly_group
+	}
+}
+
+jiromji = {
+	language = jiromji_dialect
+	
+	color = rgb { 102 153 255 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		west_sarhaly_group
+	}
+}
+
+binwarji = {
+	language = binwarji_dialect
+	
+	color = rgb { 192 192 192 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		west_sarhaly_group
+	}
+}
+

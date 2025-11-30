@@ -1,0 +1,51 @@
+elikhetist = { 
+	color = rgb { 252 162 100 }
+	group = khetist
+	
+	definition_modifier = {
+	}
+	
+	opinions = {
+	}
+
+	unique_names = {
+	}
+
+	tags = {  }
+	custom_tags = {  }
+}
+
+nirakhetist = { 
+	color = rgb { 36 131 194 }
+	group = khetist
+	
+	definition_modifier = {
+	}
+	
+	opinions = {
+	}
+
+	unique_names = {
+	}
+
+	tags = {  }
+	custom_tags = {  }
+}
+
+aakhetist = { 
+	color = rgb { 112 74 7 }
+	group = khetist
+	
+	definition_modifier = {
+	}
+	
+	opinions = {
+	}
+
+	unique_names = {
+	}
+
+	tags = {  }
+	custom_tags = {  }
+}
+

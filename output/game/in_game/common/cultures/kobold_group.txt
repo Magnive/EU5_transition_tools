@@ -1,0 +1,225 @@
+redscale_kobold = {
+	language = redscale_kobold_dialect
+	
+	color = rgb { 174 75 75 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		kobold_group
+	}
+}
+
+bluescale_kobold = {
+	language = bluescale_kobold_dialect
+	
+	color = rgb { 75 147 174 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		kobold_group
+	}
+}
+
+greenscale_kobold = {
+	language = greenscale_kobold_dialect
+	
+	color = rgb { 129 151 94 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		kobold_group
+	}
+}
+
+kobildzani_kobold = {
+	language = kobildzani_kobold_dialect
+	
+	color = rgb { 204 181 189 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		kobold_group
+	}
+}
+
+darkscale_kobold = {
+	language = darkscale_kobold_dialect
+	
+	color = rgb { 189 8 8 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		kobold_group
+	}
+}
+
+goldscale_kobold = {
+	language = goldscale_kobold_dialect
+	
+	color = rgb { 208 170 45 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		kobold_group
+	}
+}
+
+dragonfire_kobold = {
+	language = dragonfire_kobold_dialect
+	
+	color = rgb { 179 30 30 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		kobold_group
+	}
+}
+
+steelscale_kobold = {
+	language = steelscale_kobold_dialect
+	
+	color = rgb { 174 181 189 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		kobold_group
+	}
+}
+
+yawasichya_kobold = {
+	language = yawasichya_kobold_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		kobold_group
+	}
+}
+
+jatukyu_kobold = {
+	language = jatukyu_kobold_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		kobold_group
+	}
+}
+
+unitsan_kobold = {
+	language = unitsan_kobold_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		kobold_group
+	}
+}
+
+sirimadsik_kobold = {
+	language = sirimadsik_kobold_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		kobold_group
+	}
+}
+
+vrendzani_kobold = {
+	language = vrendzani_kobold_dialect
+	
+	color = rgb { 0 75 77 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		kobold_group
+	}
+}
+
+dragonmask_kobold = {
+	language = dragonmask_kobold_dialect
+	
+	color = rgb { 147 255 114 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		kobold_group
+	}
+}
+
+whitescale_kobold = {
+	language = whitescale_kobold_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		kobold_group
+	}
+}
+

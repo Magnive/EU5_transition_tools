@@ -1,0 +1,17 @@
+PH_RELIGION_NAME = { 
+	color = PH_RELIGION_COLOR
+	group = PH_RELIGION_GROUP
+	PH_ENABLE
+	definition_modifier = {
+	}
+	
+	opinions = {
+	}
+
+	unique_names = {
+	}
+
+	tags = {  }
+	custom_tags = {  }
+}
+

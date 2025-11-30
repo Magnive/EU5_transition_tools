@@ -1,0 +1,120 @@
+larankarha = {
+	language = larankarha_dialect
+	
+	color = rgb { 180 117 63 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		taychendi_ruinborn_elf_group
+	}
+}
+
+advakhalla = {
+	language = advakhalla_dialect
+	
+	color = rgb { 197 157 152 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		taychendi_ruinborn_elf_group
+	}
+}
+
+sarihaddi = {
+	language = sarihaddi_dialect
+	
+	color = rgb { 213 164 100 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		taychendi_ruinborn_elf_group
+	}
+}
+
+yodhanpir = {
+	language = yodhanpir_dialect
+	
+	color = rgb { 100 100 100 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		taychendi_ruinborn_elf_group
+	}
+}
+
+kalavendhi = {
+	language = kalavendhi_dialect
+	
+	color = rgb { 245 224 202 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		taychendi_ruinborn_elf_group
+	}
+}
+
+thekvrystana = {
+	language = thekvrystana_dialect
+	
+	color = rgb { 54 42 39 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		taychendi_ruinborn_elf_group
+	}
+}
+
+bekauta = {
+	language = bekauta_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		taychendi_ruinborn_elf_group
+	}
+}
+
+vaikazelhi = {
+	language = vaikazelhi_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		taychendi_ruinborn_elf_group
+	}
+}
+

@@ -1,0 +1,90 @@
+rzentur = {
+	language = rzentur_dialect
+	
+	color = rgb { 57 124 64 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		ynnic_ruinborn_elf_group
+	}
+}
+
+old_rzentur = {
+	language = old_rzentur_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		ynnic_ruinborn_elf_group
+	}
+}
+
+dolindhan = {
+	language = dolindhan_dialect
+	
+	color = rgb { 255 182 24 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		ynnic_ruinborn_elf_group
+	}
+}
+
+sarda = {
+	language = sarda_dialect
+	
+	color = rgb { 0 209 255 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		ynnic_ruinborn_elf_group
+	}
+}
+
+malacnari = {
+	language = malacnari_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		ynnic_ruinborn_elf_group
+	}
+}
+
+brelari = {
+	language = brelari_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		ynnic_ruinborn_elf_group
+	}
+}
+

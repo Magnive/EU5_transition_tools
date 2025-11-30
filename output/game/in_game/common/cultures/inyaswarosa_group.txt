@@ -1,0 +1,75 @@
+tanizu = {
+	language = tanizu_dialect
+	
+	color = rgb { 246 245 131 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		inyaswarosa_group
+	}
+}
+
+kombedak = {
+	language = kombedak_dialect
+	
+	color = rgb { 179 0 30 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		inyaswarosa_group
+	}
+}
+
+umsozidak = {
+	language = umsozidak_dialect
+	
+	color = rgb { 0 26 17 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		inyaswarosa_group
+	}
+}
+
+wakoodak = {
+	language = wakoodak_dialect
+	
+	color = rgb { 0 153 153 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		inyaswarosa_group
+	}
+}
+
+antmvura = {
+	language = antmvura_dialect
+	
+	color = rgb { 213 204 255 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		inyaswarosa_group
+	}
+}
+

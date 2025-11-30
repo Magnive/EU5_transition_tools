@@ -1,0 +1,86 @@
+harafic_ruinborn_elf_language = {
+	color = rgb { 160 128 122 }
+
+	family = common # Placeholder
+
+	male_names = {
+	}
+	female_names = {
+	}
+	dynasty_names = {
+	}
+	lowborn = {
+	}
+
+    # location_prefix = 
+	
+	# to override the default adjective and noun database for cultural works
+	#adjective = {
+	#}
+	#noun = {
+	#}
+
+	# patronym_suffix = 
+	# patronym_suffix_son = 
+	# patronym_suffix_daughter = 
+
+	# descendant_suffix_male = 
+	# descendant_suffix_female = 
+
+	# character_name_short_regnal_number = 
+	# character_name_order = 
+
+
+	dialects = {
+		harafe_dialect = {
+			male_names = {
+			}
+			female_names = {
+			}
+			dynasty_names = {
+			}
+			lowborn = {
+			}
+		}
+		kooras_dialect = {
+			male_names = {
+			}
+			female_names = {
+			}
+			dynasty_names = {
+			}
+			lowborn = {
+			}
+		}
+		mayte_dialect = {
+			male_names = {
+			}
+			female_names = {
+			}
+			dynasty_names = {
+			}
+			lowborn = {
+			}
+		}
+		epednar_dialect = {
+			male_names = {
+			}
+			female_names = {
+			}
+			dynasty_names = {
+			}
+			lowborn = {
+			}
+		}
+		chiunife_dialect = {
+			male_names = {
+			}
+			female_names = {
+			}
+			dynasty_names = {
+			}
+			lowborn = {
+			}
+		}
+	}
+}

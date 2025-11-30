@@ -1,0 +1,51 @@
+great_dookan = { 
+	color = rgb { 43 106 62 }
+	group = orcish
+	
+	definition_modifier = {
+	}
+	
+	opinions = {
+	}
+
+	unique_names = {
+	}
+
+	tags = {  }
+	custom_tags = {  }
+}
+
+old_dookan = { 
+	color = rgb { 13 56 22 }
+	group = orcish
+	
+	definition_modifier = {
+	}
+	
+	opinions = {
+	}
+
+	unique_names = {
+	}
+
+	tags = {  }
+	custom_tags = {  }
+}
+
+bulgu_orazan = { 
+	color = rgb { 8 150 19 }
+	group = orcish
+	
+	definition_modifier = {
+	}
+	
+	opinions = {
+	}
+
+	unique_names = {
+	}
+
+	tags = {  }
+	custom_tags = {  }
+}
+

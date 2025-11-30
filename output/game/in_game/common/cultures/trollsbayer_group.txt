@@ -1,0 +1,75 @@
+valorman = {
+	language = valorman_dialect
+	
+	color = rgb { 246 54 77 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		trollsbayer_group
+	}
+}
+
+isobeliner = {
+	language = isobeliner_dialect
+	
+	color = rgb { 98 52 54 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		trollsbayer_group
+	}
+}
+
+zanlibi = {
+	language = zanlibi_dialect
+	
+	color = rgb { 167 98 117 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		trollsbayer_group
+	}
+}
+
+marlliander = {
+	language = marlliander_dialect
+	
+	color = rgb { 31 49 238 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		trollsbayer_group
+	}
+}
+
+cestirmarker = {
+	language = cestirmarker_dialect
+	
+	color = rgb { 38 34 128 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		trollsbayer_group
+	}
+}
+

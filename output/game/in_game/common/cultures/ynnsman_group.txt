@@ -1,0 +1,105 @@
+chippengarder_half_orc = {
+	language = chippengarder_half_orc_dialect
+	
+	color = rgb { 209 197 154 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		ynnsman_group
+	}
+}
+
+corinsfielder = {
+	language = corinsfielder_dialect
+	
+	color = rgb { 233 122 86 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		ynnsman_group
+	}
+}
+
+istranari = {
+	language = istranari_dialect
+	
+	color = rgb { 148 201 177 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		ynnsman_group
+	}
+}
+
+new_havoric = {
+	language = new_havoric_dialect
+	
+	color = rgb { 64 111 169 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		ynnsman_group
+	}
+}
+
+dustman = {
+	language = dustman_dialect
+	
+	color = rgb { 138 36 118 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		ynnsman_group
+	}
+}
+
+steadsman = {
+	language = steadsman_dialect
+	
+	color = rgb { 150 100 200 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		ynnsman_group
+	}
+}
+
+sarnik = {
+	language = sarnik_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		ynnsman_group
+	}
+}
+

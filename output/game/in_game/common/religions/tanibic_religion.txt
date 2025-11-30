@@ -1,0 +1,68 @@
+nakavy_avo = { 
+	color = rgb { 183 110 121 }
+	group = tanibic_religion
+	
+	definition_modifier = {
+	}
+	
+	opinions = {
+	}
+
+	unique_names = {
+	}
+
+	tags = {  }
+	custom_tags = {  }
+}
+
+noukahi_pantheon = { 
+	color = rgb { 198 110 30 }
+	group = tanibic_religion
+	
+	definition_modifier = {
+	}
+	
+	opinions = {
+	}
+
+	unique_names = {
+	}
+
+	tags = {  }
+	custom_tags = {  }
+}
+
+fangaulan_pantheon = { 
+	color = rgb { 79 91 137 }
+	group = tanibic_religion
+	
+	definition_modifier = {
+	}
+	
+	opinions = {
+	}
+
+	unique_names = {
+	}
+
+	tags = {  }
+	custom_tags = {  }
+}
+
+mother_akasik = { 
+	color = rgb { 200 162 100 }
+	group = tanibic_religion
+	
+	definition_modifier = {
+	}
+	
+	opinions = {
+	}
+
+	unique_names = {
+	}
+
+	tags = {  }
+	custom_tags = {  }
+}
+

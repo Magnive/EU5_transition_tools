@@ -1,0 +1,51 @@
+bulwari_sun_cult = { 
+	color = rgb { 255 201 14 }
+	group = bulwari
+	
+	definition_modifier = {
+	}
+	
+	opinions = {
+	}
+
+	unique_names = {
+	}
+
+	tags = {  }
+	custom_tags = {  }
+}
+
+old_bulwari_sun_cult = { 
+	color = rgb { 255 67 24 }
+	group = bulwari
+	
+	definition_modifier = {
+	}
+	
+	opinions = {
+	}
+
+	unique_names = {
+	}
+
+	tags = {  }
+	custom_tags = {  }
+}
+
+the_jadd = { 
+	color = rgb { 255 138 12 }
+	group = bulwari
+	
+	definition_modifier = {
+	}
+	
+	opinions = {
+	}
+
+	unique_names = {
+	}
+
+	tags = {  }
+	custom_tags = {  }
+}
+

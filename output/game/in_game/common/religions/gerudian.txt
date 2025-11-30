@@ -1,0 +1,17 @@
+skaldhyrric_faith = { 
+	color = rgb { 255 201 201 }
+	group = gerudian
+	
+	definition_modifier = {
+	}
+	
+	opinions = {
+	}
+
+	unique_names = {
+	}
+
+	tags = {  }
+	custom_tags = {  }
+}
+

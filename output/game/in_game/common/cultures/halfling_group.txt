@@ -1,0 +1,210 @@
+imperial_halfling = {
+	language = imperial_halfling_dialect
+	
+	color = rgb { 255 242 100 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		halfling_group
+	}
+}
+
+bluefoot_halfling = {
+	language = bluefoot_halfling_dialect
+	
+	color = rgb { 226 224 106 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		halfling_group
+	}
+}
+
+redfoot_halfling = {
+	language = redfoot_halfling_dialect
+	
+	color = rgb { 209 0 54 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		halfling_group
+	}
+}
+
+newfoot_halfling = {
+	language = newfoot_halfling_dialect
+	
+	color = rgb { 181 106 106 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		halfling_group
+	}
+}
+
+visfoot_halfling = {
+	language = visfoot_halfling_dialect
+	
+	color = rgb { 200 200 200 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		halfling_group
+	}
+}
+
+towerfoot_halfling = {
+	language = towerfoot_halfling_dialect
+	
+	color = rgb { 178 178 178 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		halfling_group
+	}
+}
+
+pipefoot_halfling = {
+	language = pipefoot_halfling_dialect
+	
+	color = rgb { 209 130 203 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		halfling_group
+	}
+}
+
+creekfoot_halfling = {
+	language = creekfoot_halfling_dialect
+	
+	color = rgb { 147 255 114 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		halfling_group
+	}
+}
+
+amezatany = {
+	language = amezatany_dialect
+	
+	color = rgb { 255 255 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		halfling_group
+	}
+}
+
+mboala = {
+	language = mboala_dialect
+	
+	color = rgb { 102 98 236 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		halfling_group
+	}
+}
+
+mazava = {
+	language = mazava_dialect
+	
+	color = rgb { 250 188 55 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		halfling_group
+	}
+}
+
+fomarati = {
+	language = fomarati_dialect
+	
+	color = rgb { 157 197 220 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		halfling_group
+	}
+}
+
+vyoronsi = {
+	language = vyoronsi_dialect
+	
+	color = rgb { 165 210 253 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		halfling_group
+	}
+}
+
+zohebidi = {
+	language = zohebidi_dialect
+	
+	color = rgb { 165 210 253 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		halfling_group
+	}
+}
+

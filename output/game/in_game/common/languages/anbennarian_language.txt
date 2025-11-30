@@ -1,0 +1,256 @@
+anbennarian_language = {
+	color = rgb { 95 178 186 }
+
+	family = common # Placeholder
+
+	male_names = {
+	}
+	female_names = {
+	}
+	dynasty_names = {
+	}
+	lowborn = {
+	}
+
+    # location_prefix = 
+	
+	# to override the default adjective and noun database for cultural works
+	#adjective = {
+	#}
+	#noun = {
+	#}
+
+	# patronym_suffix = 
+	# patronym_suffix_son = 
+	# patronym_suffix_daughter = 
+
+	# descendant_suffix_male = 
+	# descendant_suffix_female = 
+
+	# character_name_short_regnal_number = 
+	# character_name_order = 
+
+
+	dialects = {
+		anbenncoster_dialect = {
+			male_names = {
+			}
+			female_names = {
+			}
+			dynasty_names = {
+			}
+			lowborn = {
+			}
+		}
+		half_elf_dialect = {
+			male_names = {
+			}
+			female_names = {
+			}
+			dynasty_names = {
+			}
+			lowborn = {
+			}
+		}
+		west_damerian_dialect = {
+			male_names = {
+			}
+			female_names = {
+			}
+			dynasty_names = {
+			}
+			lowborn = {
+			}
+		}
+		east_damerian_dialect = {
+			male_names = {
+			}
+			female_names = {
+			}
+			dynasty_names = {
+			}
+			lowborn = {
+			}
+		}
+		pearlsedger_dialect = {
+			male_names = {
+			}
+			female_names = {
+			}
+			dynasty_names = {
+			}
+			lowborn = {
+			}
+		}
+		crownsman_dialect = {
+			male_names = {
+			}
+			female_names = {
+			}
+			dynasty_names = {
+			}
+			lowborn = {
+			}
+		}
+		vernman_dialect = {
+			male_names = {
+			}
+			female_names = {
+			}
+			dynasty_names = {
+			}
+			lowborn = {
+			}
+		}
+		exwesser_dialect = {
+			male_names = {
+			}
+			female_names = {
+			}
+			dynasty_names = {
+			}
+			lowborn = {
+			}
+		}
+		arbarani_dialect = {
+			male_names = {
+			}
+			female_names = {
+			}
+			dynasty_names = {
+			}
+			lowborn = {
+			}
+		}
+		dhanaenno_dialect = {
+			male_names = {
+			}
+			female_names = {
+			}
+			dynasty_names = {
+			}
+			lowborn = {
+			}
+		}
+		esmari_dialect = {
+			male_names = {
+			}
+			female_names = {
+			}
+			dynasty_names = {
+			}
+			lowborn = {
+			}
+		}
+		arannese_dialect = {
+			male_names = {
+			}
+			female_names = {
+			}
+			dynasty_names = {
+			}
+			lowborn = {
+			}
+		}
+		uelairey_dialect = {
+			male_names = {
+			}
+			female_names = {
+			}
+			dynasty_names = {
+			}
+			lowborn = {
+			}
+		}
+		aldresian_dialect = {
+			male_names = {
+			}
+			female_names = {
+			}
+			dynasty_names = {
+			}
+			lowborn = {
+			}
+		}
+		telgeiran_dialect = {
+			male_names = {
+			}
+			female_names = {
+			}
+			dynasty_names = {
+			}
+			lowborn = {
+			}
+		}
+		pashainey_dialect = {
+			male_names = {
+			}
+			female_names = {
+			}
+			dynasty_names = {
+			}
+			lowborn = {
+			}
+		}
+		havoric_dialect = {
+			male_names = {
+			}
+			female_names = {
+			}
+			dynasty_names = {
+			}
+			lowborn = {
+			}
+		}
+		vanburian_dialect = {
+			male_names = {
+			}
+			female_names = {
+			}
+			dynasty_names = {
+			}
+			lowborn = {
+			}
+		}
+		themarian_dialect = {
+			male_names = {
+			}
+			female_names = {
+			}
+			dynasty_names = {
+			}
+			lowborn = {
+			}
+		}
+		gliosine_dialect = {
+			male_names = {
+			}
+			female_names = {
+			}
+			dynasty_names = {
+			}
+			lowborn = {
+			}
+		}
+		arthaman_dialect = {
+			male_names = {
+			}
+			female_names = {
+			}
+			dynasty_names = {
+			}
+			lowborn = {
+			}
+		}
+		fiadionni_dialect = {
+			male_names = {
+			}
+			female_names = {
+			}
+			dynasty_names = {
+			}
+			lowborn = {
+			}
+		}
+	}
+}

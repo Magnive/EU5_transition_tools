@@ -1,0 +1,75 @@
+busilari = {
+	language = busilari_dialect
+	
+	color = rgb { 211 85 4 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		businori_group
+	}
+}
+
+tefori = {
+	language = tefori_dialect
+	
+	color = rgb { 207 182 100 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		businori_group
+	}
+}
+
+ilatani = {
+	language = ilatani_dialect
+	
+	color = rgb { 59 148 235 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		businori_group
+	}
+}
+
+nariandi = {
+	language = nariandi_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		businori_group
+	}
+}
+
+businori_half_elf = {
+	language = businori_half_elf_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		businori_group
+	}
+}
+

@@ -1,0 +1,45 @@
+mteibhar = {
+	language = mteibhar_dialect
+	
+	color = rgb { 181 201 225 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		devandi_ruinborn_elf_group
+	}
+}
+
+basobhar = {
+	language = basobhar_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		devandi_ruinborn_elf_group
+	}
+}
+
+chendhyan = {
+	language = chendhyan_dialect
+	
+	color = rgb { 127 151 75 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		devandi_ruinborn_elf_group
+	}
+}
+

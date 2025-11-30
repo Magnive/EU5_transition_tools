@@ -1,0 +1,17 @@
+the_hunt = { 
+	color = rgb { 173 148 124 }
+	group = harpy_cults
+	
+	definition_modifier = {
+	}
+	
+	opinions = {
+	}
+
+	unique_names = {
+	}
+
+	tags = {  }
+	custom_tags = {  }
+}
+

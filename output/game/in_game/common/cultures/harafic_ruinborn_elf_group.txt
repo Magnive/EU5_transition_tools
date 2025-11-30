@@ -1,0 +1,75 @@
+harafe = {
+	language = harafe_dialect
+	
+	color = rgb { 160 128 122 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		harafic_ruinborn_elf_group
+	}
+}
+
+kooras = {
+	language = kooras_dialect
+	
+	color = rgb { 58 89 94 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		harafic_ruinborn_elf_group
+	}
+}
+
+mayte = {
+	language = mayte_dialect
+	
+	color = rgb { 65 19 40 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		harafic_ruinborn_elf_group
+	}
+}
+
+epednar = {
+	language = epednar_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		harafic_ruinborn_elf_group
+	}
+}
+
+chiunife = {
+	language = chiunife_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		harafic_ruinborn_elf_group
+	}
+}
+

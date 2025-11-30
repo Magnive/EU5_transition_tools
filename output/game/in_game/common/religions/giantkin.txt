@@ -1,0 +1,68 @@
+feast_of_the_gods = { 
+	color = rgb { 120 127 89 }
+	group = giantkin
+	
+	definition_modifier = {
+	}
+	
+	opinions = {
+	}
+
+	unique_names = {
+	}
+
+	tags = {  }
+	custom_tags = {  }
+}
+
+reformed_feast_of_the_gods = { 
+	color = rgb { 120 127 89 }
+	group = giantkin
+	
+	definition_modifier = {
+	}
+	
+	opinions = {
+	}
+
+	unique_names = {
+	}
+
+	tags = {  }
+	custom_tags = {  }
+}
+
+mountain_watchers = { 
+	color = rgb { 41 41 77 }
+	group = giantkin
+	
+	definition_modifier = {
+	}
+	
+	opinions = {
+	}
+
+	unique_names = {
+	}
+
+	tags = {  }
+	custom_tags = {  }
+}
+
+sudomegi = { 
+	color = rgb { 50 125 185 }
+	group = giantkin
+	
+	definition_modifier = {
+	}
+	
+	opinions = {
+	}
+
+	unique_names = {
+	}
+
+	tags = {  }
+	custom_tags = {  }
+}
+

@@ -1,0 +1,162 @@
+M20 = {
+	color = rgb { 119 189 128 }
+
+	culture_definition = awoken_mechanim
+	religion_definition = manago_poku
+}
+M21 = {
+	color = rgb { 18 80 122 }
+
+	culture_definition = awoken_mechanim
+	religion_definition = manago_poku
+}
+P10 = {
+	color = rgb { 60 128 5 }
+
+	culture_definition = dunguthapka
+	religion_definition = mumambarra
+}
+P11 = {
+	color = rgb { 76 71 200 }
+
+	culture_definition = dunguthapka
+	religion_definition = mumambarra
+}
+P12 = {
+	color = rgb { 226 1 0 }
+
+	culture_definition = walgakan
+	religion_definition = dunborgula
+}
+P13 = {
+	color = rgb { 69 1 59 }
+
+	culture_definition = malogadin
+	religion_definition = mumambarra
+}
+P14 = {
+	color = rgb { 0 1 11 }
+
+	culture_definition = bangowla
+	religion_definition = dunborgula
+}
+P15 = {
+	color = rgb { 200 18 250 }
+
+	culture_definition = yulitja
+	religion_definition = mumambarra
+}
+P16 = {
+	color = rgb { 206 212 215 }
+
+	culture_definition = dunguthapka
+	religion_definition = mumambarra
+}
+P17 = {
+	color = rgb { 222 28 206 }
+
+	culture_definition = walgakan
+	religion_definition = dunborgula
+}
+P18 = {
+	color = rgb { 2 128 251 }
+
+	culture_definition = baindundhi
+	religion_definition = dunborgula
+}
+P19 = {
+	color = rgb { 0 28 116 }
+
+	culture_definition = bangowla
+	religion_definition = dunborgula
+}
+P20 = {
+	color = rgb { 222 252 56 }
+
+	culture_definition = baindundhi
+	religion_definition = dunborgula
+}
+P21 = {
+	color = rgb { 204 0 204 }
+
+	culture_definition = laautele
+	religion_definition = endless_ocean
+}
+P22 = {
+	color = rgb { 255 137 1 }
+
+	culture_definition = laautele
+	religion_definition = endless_ocean
+}
+P23 = {
+	color = rgb { 96 96 96 }
+
+	culture_definition = aliiula
+	religion_definition = endless_ocean
+}
+P24 = {
+	color = rgb { 153 0 0 }
+
+	culture_definition = aliiula
+	religion_definition = endless_ocean
+}
+P25 = {
+	color = rgb { 128 255 0 }
+
+	culture_definition = togavaopaolo
+	religion_definition = endless_ocean
+}
+P26 = {
+	color = rgb { 20 29 108 }
+
+	culture_definition = togavaopaolo
+	religion_definition = endless_ocean
+}
+P30 = {
+	color = rgb { 252 186 3 }
+
+	culture_definition = yawasichya_kobold
+	religion_definition = aycha_alpa
+}
+P31 = {
+	color = rgb { 66 135 245 }
+
+	culture_definition = jatukyu_kobold
+	religion_definition = aycha_alpa
+}
+P32 = {
+	color = rgb { 28 209 25 }
+
+	culture_definition = unitsan_kobold
+	religion_definition = aycha_alpa
+}
+P33 = {
+	color = rgb { 209 40 25 }
+
+	culture_definition = unitsan_kobold
+	religion_definition = aycha_alpa
+}
+P34 = {
+	color = rgb { 110 52 235 }
+
+	culture_definition = jatukyu_kobold
+	religion_definition = aycha_alpa
+}
+P35 = {
+	color = rgb { 235 50 210 }
+
+	culture_definition = jatukyu_kobold
+	religion_definition = aycha_alpa
+}
+P36 = {
+	color = rgb { 100 25 40 }
+
+	culture_definition = yawasichya_kobold
+	religion_definition = aycha_alpa
+}
+P37 = {
+	color = rgb { 110 110 150 }
+
+	culture_definition = jatukyu_kobold
+	religion_definition = aycha_alpa
+}

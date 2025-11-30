@@ -1,0 +1,180 @@
+huinui = {
+	language = huinui_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		anakue_group
+	}
+}
+
+maukepa = {
+	language = maukepa_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		anakue_group
+	}
+}
+
+haloalao = {
+	language = haloalao_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		anakue_group
+	}
+}
+
+moilona = {
+	language = moilona_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		anakue_group
+	}
+}
+
+maupalo = {
+	language = maupalo_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		anakue_group
+	}
+}
+
+holoino = {
+	language = holoino_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		anakue_group
+	}
+}
+
+kaukai = {
+	language = kaukai_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		anakue_group
+	}
+}
+
+kapelami = {
+	language = kapelami_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		anakue_group
+	}
+}
+
+wailana = {
+	language = wailana_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		anakue_group
+	}
+}
+
+kahuipa = {
+	language = kahuipa_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		anakue_group
+	}
+}
+
+molopai = {
+	language = molopai_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		anakue_group
+	}
+}
+
+mokaika = {
+	language = mokaika_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		anakue_group
+	}
+}
+

@@ -1,0 +1,240 @@
+degabhen = {
+	language = degabhen_dialect
+	
+	color = rgb { 225 40 88 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		kheionai_ruinborn_elf_group
+	}
+}
+
+oktibhen = {
+	language = oktibhen_dialect
+	
+	color = rgb { 49 163 38 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		kheionai_ruinborn_elf_group
+	}
+}
+
+kherkabhen = {
+	language = kherkabhen_dialect
+	
+	color = rgb { 205 205 205 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		kheionai_ruinborn_elf_group
+	}
+}
+
+lokebhen = {
+	language = lokebhen_dialect
+	
+	color = rgb { 19 40 36 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		kheionai_ruinborn_elf_group
+	}
+}
+
+ormabhen = {
+	language = ormabhen_dialect
+	
+	color = rgb { 33 181 150 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		kheionai_ruinborn_elf_group
+	}
+}
+
+arpebhen = {
+	language = arpebhen_dialect
+	
+	color = rgb { 40 228 237 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		kheionai_ruinborn_elf_group
+	}
+}
+
+ambhen = {
+	language = ambhen_dialect
+	
+	color = rgb { 4 18 225 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		kheionai_ruinborn_elf_group
+	}
+}
+
+kimabhen = {
+	language = kimabhen_dialect
+	
+	color = rgb { 59 30 88 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		kheionai_ruinborn_elf_group
+	}
+}
+
+empkhebhen = {
+	language = empkhebhen_dialect
+	
+	color = rgb { 12 160 228 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		kheionai_ruinborn_elf_group
+	}
+}
+
+besolabhen = {
+	language = besolabhen_dialect
+	
+	color = rgb { 190 22 247 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		kheionai_ruinborn_elf_group
+	}
+}
+
+enebhen = {
+	language = enebhen_dialect
+	
+	color = rgb { 129 24 94 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		kheionai_ruinborn_elf_group
+	}
+}
+
+deyebhen = {
+	language = deyebhen_dialect
+	
+	color = rgb { 217 113 82 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		kheionai_ruinborn_elf_group
+	}
+}
+
+apikhobhen = {
+	language = apikhobhen_dialect
+	
+	color = rgb { 68 5 16 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		kheionai_ruinborn_elf_group
+	}
+}
+
+keyobhen = {
+	language = keyobhen_dialect
+	
+	color = rgb { 117 149 237 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		kheionai_ruinborn_elf_group
+	}
+}
+
+anisibhen = {
+	language = anisibhen_dialect
+	
+	color = rgb { 125 129 88 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		kheionai_ruinborn_elf_group
+	}
+}
+
+amgrebhen = {
+	language = amgrebhen_dialect
+	
+	color = rgb { 159 130 188 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		kheionai_ruinborn_elf_group
+	}
+}
+

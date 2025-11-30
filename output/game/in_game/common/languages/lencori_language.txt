@@ -1,0 +1,166 @@
+lencori_language = {
+	color = rgb { 90 0 0 }
+
+	family = common # Placeholder
+
+	male_names = {
+	}
+	female_names = {
+	}
+	dynasty_names = {
+	}
+	lowborn = {
+	}
+
+    # location_prefix = 
+	
+	# to override the default adjective and noun database for cultural works
+	#adjective = {
+	#}
+	#noun = {
+	#}
+
+	# patronym_suffix = 
+	# patronym_suffix_son = 
+	# patronym_suffix_daughter = 
+
+	# descendant_suffix_male = 
+	# descendant_suffix_female = 
+
+	# character_name_short_regnal_number = 
+	# character_name_order = 
+
+
+	dialects = {
+		high_lorentish_dialect = {
+			male_names = {
+			}
+			female_names = {
+			}
+			dynasty_names = {
+			}
+			lowborn = {
+			}
+		}
+		low_lorentish_dialect = {
+			male_names = {
+			}
+			female_names = {
+			}
+			dynasty_names = {
+			}
+			lowborn = {
+			}
+		}
+		derannic_dialect = {
+			male_names = {
+			}
+			female_names = {
+			}
+			dynasty_names = {
+			}
+			lowborn = {
+			}
+		}
+		sorncosti_dialect = {
+			male_names = {
+			}
+			female_names = {
+			}
+			dynasty_names = {
+			}
+			lowborn = {
+			}
+		}
+		sornicandi_dialect = {
+			male_names = {
+			}
+			female_names = {
+			}
+			dynasty_names = {
+			}
+			lowborn = {
+			}
+		}
+		roilsardi_dialect = {
+			male_names = {
+			}
+			female_names = {
+			}
+			dynasty_names = {
+			}
+			lowborn = {
+			}
+		}
+		iochander_dialect = {
+			male_names = {
+			}
+			female_names = {
+			}
+			dynasty_names = {
+			}
+			lowborn = {
+			}
+		}
+		carnetori_dialect = {
+			male_names = {
+			}
+			female_names = {
+			}
+			dynasty_names = {
+			}
+			lowborn = {
+			}
+		}
+		arbcoster_dialect = {
+			male_names = {
+			}
+			female_names = {
+			}
+			dynasty_names = {
+			}
+			lowborn = {
+			}
+		}
+		criodhi_dialect = {
+			male_names = {
+			}
+			female_names = {
+			}
+			dynasty_names = {
+			}
+			lowborn = {
+			}
+		}
+		thornish_dialect = {
+			male_names = {
+			}
+			female_names = {
+			}
+			dynasty_names = {
+			}
+			lowborn = {
+			}
+		}
+		cromorri_dialect = {
+			male_names = {
+			}
+			female_names = {
+			}
+			dynasty_names = {
+			}
+			lowborn = {
+			}
+		}
+		lencori_half_elf_dialect = {
+			male_names = {
+			}
+			female_names = {
+			}
+			dynasty_names = {
+			}
+			lowborn = {
+			}
+		}
+	}
+}

@@ -1,0 +1,492 @@
+A59 = {
+	color = rgb { 120 120 120 }
+
+	culture_definition = corvurian
+	religion_definition = regent_court
+}
+A74 = {
+	color = rgb { 66 66 66 }
+
+	culture_definition = nathalairey
+	religion_definition = regent_court
+}
+B01 = {
+	color = rgb { 82 151 32 }
+
+	culture_definition = green_orc
+	religion_definition = great_dookan
+}
+B02 = {
+	color = rgb { 233 82 86 }
+
+	culture_definition = corintari
+	religion_definition = regent_court
+}
+B03 = {
+	color = rgb { 0 71 171 }
+
+	culture_definition = gawedi
+	religion_definition = regent_court
+}
+B04 = {
+	color = rgb { 131 52 54 }
+
+	culture_definition = high_lorentish
+	religion_definition = regent_court
+}
+B05 = {
+	color = rgb { 209 160 107 }
+
+	culture_definition = east_damerian
+	religion_definition = regent_court
+}
+B06 = {
+	color = rgb { 226 186 165 }
+
+	culture_definition = west_damerian
+	religion_definition = regent_court
+}
+B07 = {
+	color = rgb { 82 158 181 }
+
+	culture_definition = east_damerian
+	religion_definition = regent_court
+}
+B08 = {
+	color = rgb { 182 196 235 }
+
+	culture_definition = esmari
+	religion_definition = regent_court
+}
+B09 = {
+	color = rgb { 226 200 107 }
+
+	culture_definition = crownsman
+	religion_definition = regent_court
+}
+B10 = {
+	color = rgb { 181 106 106 }
+
+	culture_definition = redfoot_halfling
+	religion_definition = regent_court
+}
+B12 = {
+	color = rgb { 246 54 3 }
+
+	culture_definition = vernman
+	religion_definition = regent_court
+}
+B13 = {
+	color = rgb { 164 145 223 }
+
+	culture_definition = busilari
+	religion_definition = regent_court
+}
+B14 = {
+	color = rgb { 112 112 153 }
+
+	culture_definition = corvurian
+	religion_definition = regent_court
+}
+B15 = {
+	color = rgb { 232 118 121 }
+
+	culture_definition = korosheshi
+	religion_definition = elikhetist
+}
+B18 = {
+	color = rgb { 217 231 232 }
+
+	culture_definition = stone_dwarf
+	religion_definition = regent_court
+}
+B19 = {
+	color = rgb { 168 211 244 }
+
+	culture_definition = aldresian
+	religion_definition = regent_court
+}
+B20 = {
+	color = rgb { 35 38 40 }
+
+	culture_definition = aldresian
+	religion_definition = regent_court
+}
+B21 = {
+	color = rgb { 128 128 0 }
+
+	culture_definition = green_orc
+	religion_definition = great_dookan
+}
+B22 = {
+	color = rgb { 114 140 0 }
+
+	culture_definition = green_orc
+	religion_definition = great_dookan
+}
+B23 = {
+	color = rgb { 154 205 50 }
+
+	culture_definition = green_orc
+	religion_definition = great_dookan
+}
+B24 = {
+	color = rgb { 240 255 240 }
+
+	culture_definition = green_orc
+	religion_definition = great_dookan
+}
+B25 = {
+	color = rgb { 73 121 107 }
+
+	culture_definition = green_orc
+	religion_definition = great_dookan
+}
+B26 = {
+	color = rgb { 0 105 62 }
+
+	culture_definition = green_orc
+	religion_definition = great_dookan
+}
+B27 = {
+	color = rgb { 169 186 158 }
+
+	culture_definition = green_orc
+	religion_definition = great_dookan
+}
+B28 = {
+	color = rgb { 62 180 137 }
+
+	culture_definition = green_orc
+	religion_definition = great_dookan
+}
+B29 = {
+	color = rgb { 54 94 59 }
+
+	culture_definition = green_orc
+	religion_definition = great_dookan
+}
+B30 = {
+	color = rgb { 80 200 120 }
+
+	culture_definition = green_orc
+	religion_definition = great_dookan
+}
+B31 = {
+	color = rgb { 144 144 200 }
+
+	culture_definition = castellyrian
+	religion_definition = regent_court
+}
+B32 = {
+	color = rgb { 255 255 255 }
+
+	culture_definition = castanorian
+	religion_definition = regent_court
+}
+B33 = {
+	color = rgb { 230 216 166 }
+
+	culture_definition = marcher
+	religion_definition = regent_court
+}
+B35 = {
+	color = rgb { 226 186 165 }
+
+	culture_definition = ancardian
+	religion_definition = regent_court
+}
+B36 = {
+	color = rgb { 157 121 115 }
+
+	culture_definition = marrodic
+	religion_definition = regent_court
+}
+B37 = {
+	color = rgb { 82 158 181 }
+
+	culture_definition = east_damerian
+	religion_definition = regent_court
+}
+B39 = {
+	color = rgb { 246 54 3 }
+
+	culture_definition = vernman
+	religion_definition = regent_court
+}
+B40 = {
+	color = rgb { 0 71 171 }
+
+	culture_definition = gawedi
+	religion_definition = regent_court
+}
+B41 = {
+	color = rgb { 50 25 50 }
+
+	culture_definition = common_goblin
+	religion_definition = goblinic_shamanism
+}
+B42 = {
+	color = rgb { 100 170 30 }
+
+	culture_definition = forest_goblin
+	religion_definition = goblinic_shamanism
+}
+B43 = {
+	color = rgb { 170 30 100 }
+
+	culture_definition = common_goblin
+	religion_definition = goblinic_shamanism
+}
+B44 = {
+	color = rgb { 30 100 170 }
+
+	culture_definition = common_goblin
+	religion_definition = goblinic_shamanism
+}
+B45 = {
+	color = rgb { 20 100 40 }
+
+	culture_definition = common_goblin
+	religion_definition = goblinic_shamanism
+}
+B46 = {
+	color = rgb { 145 72 131 }
+
+	culture_definition = common_goblin
+	religion_definition = goblinic_shamanism
+}
+B47 = {
+	color = rgb { 164 145 223 }
+
+	culture_definition = stalboric
+	religion_definition = regent_court
+}
+B48 = {
+	color = rgb { 59 52 72 }
+
+	culture_definition = corvurian
+	religion_definition = regent_court
+}
+B49 = {
+	color = rgb { 226 200 107 }
+
+	culture_definition = crownsman
+	religion_definition = regent_court
+}
+B50 = {
+	color = rgb { 181 106 106 }
+
+	culture_definition = redfoot_halfling
+	religion_definition = regent_court
+}
+B51 = {
+	color = rgb { 182 196 235 }
+
+	culture_definition = esmari
+	religion_definition = regent_court
+}
+B52 = {
+	color = rgb { 161 42 42 }
+
+	culture_definition = wood_elf
+	religion_definition = elven_forebears
+}
+B53 = {
+	color = rgb { 209 160 107 }
+
+	culture_definition = east_damerian
+	religion_definition = regent_court
+}
+B54 = {
+	color = rgb { 35 38 40 }
+
+	culture_definition = aldresian
+	religion_definition = regent_court
+}
+B55 = {
+	color = rgb { 100 100 100 }
+
+	culture_definition = castellyrian
+	religion_definition = regent_court
+}
+B56 = {
+	color = rgb { 192 192 192 }
+
+	culture_definition = merine
+	religion_definition = regent_court
+}
+B57 = {
+	color = rgb { 182 131 46 }
+
+	culture_definition = cardesti
+	religion_definition = regent_court
+}
+B58 = {
+	color = rgb { 15 117 187 }
+
+	culture_definition = adenner
+	religion_definition = regent_court
+}
+B61 = {
+	color = rgb { 192 192 192 }
+
+	culture_definition = castanorian
+	religion_definition = regent_court
+}
+B62 = {
+	color = rgb { 218 165 32 }
+
+	culture_definition = moredhalic
+	religion_definition = corinite
+}
+B95 = {
+	color = rgb { 21 88 27 }
+
+	culture_definition = estairey
+	religion_definition = regent_court
+}
+B97 = {
+	color = rgb { 79 0 20 }
+
+	culture_definition = corvurian
+	religion_definition = regent_court
+}
+I46 = {
+	color = rgb { 80 220 100 }
+
+	culture_definition = emerald_orc
+	religion_definition = ashentree_pact
+}
+U11 = {
+	color = rgb { 200 234 100 }
+
+	culture_definition = exodus_goblin
+	religion_definition = goblinic_shamanism
+}
+U12 = {
+	color = rgb { 43 232 43 }
+
+	culture_definition = forest_goblin
+	religion_definition = pactseeker
+}
+U16 = {
+	color = rgb { 90 120 60 }
+
+	culture_definition = ourdi
+	religion_definition = regent_court
+}
+Z07 = {
+	color = rgb { 162 0 2 }
+
+	culture_definition = dostanorian
+	religion_definition = regent_court
+}
+Z34 = {
+	color = rgb { 0 0 0 }
+
+	culture_definition = black_castanorian
+	religion_definition = skaldhyrric_faith
+}
+Z35 = {
+	color = rgb { 131 52 54 }
+
+	culture_definition = rosanda
+	religion_definition = regent_court
+}
+Z36 = {
+	color = rgb { 217 231 232 }
+
+	culture_definition = silver_dwarf
+	religion_definition = regent_court
+}
+Z37 = {
+	color = rgb { 168 211 244 }
+
+	culture_definition = covenbladic
+	religion_definition = corinite
+}
+Z51 = {
+	color = rgb { 100 180 100 }
+
+	culture_definition = green_orc
+	religion_definition = great_dookan
+}
+Z52 = {
+	color = rgb { 20 160 60 }
+
+	culture_definition = green_orc
+	religion_definition = great_dookan
+}
+Z53 = {
+	color = rgb { 220 210 50 }
+
+	culture_definition = green_orc
+	religion_definition = great_dookan
+}
+Z54 = {
+	color = rgb { 90 25 25 }
+
+	culture_definition = green_orc
+	religion_definition = great_dookan
+}
+Z75 = {
+	color = rgb { 80 80 80 }
+
+	culture_definition = black_demesner
+	religion_definition = regent_court
+}
+Z76 = {
+	color = rgb { 48 48 48 }
+
+	culture_definition = black_demesner
+	religion_definition = regent_court
+}
+Z77 = {
+	color = rgb { 22 17 27 }
+
+	culture_definition = black_demesner
+	religion_definition = regent_court
+}
+Z78 = {
+	color = rgb { 25 15 15 }
+
+	culture_definition = black_demesner
+	religion_definition = regent_court
+}
+Z79 = {
+	color = rgb { 25 25 25 }
+
+	culture_definition = black_demesner
+	religion_definition = regent_court
+}
+Z80 = {
+	color = rgb { 7 14 21 }
+
+	culture_definition = black_demesner
+	religion_definition = regent_court
+}
+Z81 = {
+	color = rgb { 25 20 29 }
+
+	culture_definition = black_demesner
+	religion_definition = regent_court
+}
+Z86 = {
+	color = rgb { 151 22 22 }
+
+	culture_definition = forest_goblin
+	religion_definition = goblinic_shamanism
+}
+Z87 = {
+	color = rgb { 19 58 20 }
+
+	culture_definition = forest_goblin
+	religion_definition = pactseeker
+}
+Z99 = {
+	color = rgb { 6 6 6 }
+
+	culture_definition = black_demesner
+	religion_definition = regent_court
+}

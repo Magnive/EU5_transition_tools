@@ -1,0 +1,255 @@
+shagashay_lizardfolk = {
+	language = shagashay_lizardfolk_dialect
+	
+	color = rgb { 225 102 153 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		lizardfolk_group
+	}
+}
+
+ichiadza_lizardfolk = {
+	language = ichiadza_lizardfolk_dialect
+	
+	color = rgb { 102 225 153 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		lizardfolk_group
+	}
+}
+
+rhada_lizardfolk = {
+	language = rhada_lizardfolk_dialect
+	
+	color = rgb { 0 12 108 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		lizardfolk_group
+	}
+}
+
+arraskay_lizardfolk = {
+	language = arraskay_lizardfolk_dialect
+	
+	color = rgb { 0 171 160 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		lizardfolk_group
+	}
+}
+
+shagatyn_lizardfolk = {
+	language = shagatyn_lizardfolk_dialect
+	
+	color = rgb { 255 255 255 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		lizardfolk_group
+	}
+}
+
+skarakara_lizardfolk = {
+	language = skarakara_lizardfolk_dialect
+	
+	color = rgb { 7 19 20 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		lizardfolk_group
+	}
+}
+
+mashkay_lizardfolk = {
+	language = mashkay_lizardfolk_dialect
+	
+	color = rgb { 37 81 160 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		lizardfolk_group
+	}
+}
+
+karshyray_lizardfolk = {
+	language = karshyray_lizardfolk_dialect
+	
+	color = rgb { 46 43 224 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		lizardfolk_group
+	}
+}
+
+ashhana_lizardfolk = {
+	language = ashhana_lizardfolk_dialect
+	
+	color = rgb { 204 10 192 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		lizardfolk_group
+	}
+}
+
+adzalanas_lizardfolk = {
+	language = adzalanas_lizardfolk_dialect
+	
+	color = rgb { 48 0 113 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		lizardfolk_group
+	}
+}
+
+itayzemby_lizardfolk = {
+	language = itayzemby_lizardfolk_dialect
+	
+	color = rgb { 46 43 224 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		lizardfolk_group
+	}
+}
+
+cyazizeta_lizardfolk = {
+	language = cyazizeta_lizardfolk_dialect
+	
+	color = rgb { 125 19 106 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		lizardfolk_group
+	}
+}
+
+irikin_lizardfolk = {
+	language = irikin_lizardfolk_dialect
+	
+	color = rgb { 10 68 50 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		lizardfolk_group
+	}
+}
+
+draktaya_lizardfolk = {
+	language = draktaya_lizardfolk_dialect
+	
+	color = rgb { 59 107 78 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		lizardfolk_group
+	}
+}
+
+hishakaya_lizardfolk = {
+	language = hishakaya_lizardfolk_dialect
+	
+	color = rgb { 59 107 78 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		lizardfolk_group
+	}
+}
+
+shyashkay_lizardfolk = {
+	language = shyashkay_lizardfolk_dialect
+	
+	color = rgb { 59 107 78 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		lizardfolk_group
+	}
+}
+
+ahzdara_lizardfolk = {
+	language = ahzdara_lizardfolk_dialect
+	
+	color = rgb { 59 107 78 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		lizardfolk_group
+	}
+}
+

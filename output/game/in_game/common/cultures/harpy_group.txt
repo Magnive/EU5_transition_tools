@@ -1,0 +1,150 @@
+firanyan_harpy = {
+	language = firanyan_harpy_dialect
+	
+	color = rgb { 200 169 168 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		harpy_group
+	}
+}
+
+siadunan_harpy = {
+	language = siadunan_harpy_dialect
+	
+	color = rgb { 173 228 219 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		harpy_group
+	}
+}
+
+naleni_harpy = {
+	language = naleni_harpy_dialect
+	
+	color = rgb { 255 138 101 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		harpy_group
+	}
+}
+
+pezarangi_harpy = {
+	language = pezarangi_harpy_dialect
+	
+	color = rgb { 112 11 187 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		harpy_group
+	}
+}
+
+reishao_harpy = {
+	language = reishao_harpy_dialect
+	
+	color = rgb { 40 75 99 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		harpy_group
+	}
+}
+
+kiohan_harpy = {
+	language = kiohan_harpy_dialect
+	
+	color = rgb { 238 46 46 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		harpy_group
+	}
+}
+
+nzeri_harpy = {
+	language = nzeri_harpy_dialect
+	
+	color = rgb { 50 125 159 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		harpy_group
+	}
+}
+
+jarnklo_harpy = {
+	language = jarnklo_harpy_dialect
+	
+	color = rgb { 215 218 255 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		harpy_group
+	}
+}
+
+nuzenapu_harpy = {
+	language = nuzenapu_harpy_dialect
+	
+	color = rgb { 21 25 126 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		harpy_group
+	}
+}
+
+stonewing_harpy = {
+	language = stonewing_harpy_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		harpy_group
+	}
+}
+

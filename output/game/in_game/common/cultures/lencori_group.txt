@@ -1,0 +1,195 @@
+high_lorentish = {
+	language = high_lorentish_dialect
+	
+	color = rgb { 90 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		lencori_group
+	}
+}
+
+low_lorentish = {
+	language = low_lorentish_dialect
+	
+	color = rgb { 170 143 111 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		lencori_group
+	}
+}
+
+derannic = {
+	language = derannic_dialect
+	
+	color = rgb { 170 37 246 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		lencori_group
+	}
+}
+
+sorncosti = {
+	language = sorncosti_dialect
+	
+	color = rgb { 130 60 108 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		lencori_group
+	}
+}
+
+sornicandi = {
+	language = sornicandi_dialect
+	
+	color = rgb { 130 60 108 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		lencori_group
+	}
+}
+
+roilsardi = {
+	language = roilsardi_dialect
+	
+	color = rgb { 238 13 121 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		lencori_group
+	}
+}
+
+iochander = {
+	language = iochander_dialect
+	
+	color = rgb { 147 255 114 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		lencori_group
+	}
+}
+
+carnetori = {
+	language = carnetori_dialect
+	
+	color = rgb { 49 143 75 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		lencori_group
+	}
+}
+
+arbcoster = {
+	language = arbcoster_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		lencori_group
+	}
+}
+
+criodhi = {
+	language = criodhi_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		lencori_group
+	}
+}
+
+thornish = {
+	language = thornish_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		lencori_group
+	}
+}
+
+cromorri = {
+	language = cromorri_dialect
+	
+	color = rgb { 238 13 121 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		lencori_group
+	}
+}
+
+lencori_half_elf = {
+	language = lencori_half_elf_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		lencori_group
+	}
+}
+

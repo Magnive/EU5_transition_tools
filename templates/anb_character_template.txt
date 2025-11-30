@@ -1,0 +1,16 @@
+	PH_CHARACTER_TAG = {
+		first_name = { name = PH_FIRST_NAME }
+PH_NICKNAME
+		culture = PH_CULTURE
+		religion = PH_RELIGION
+PH_FEMALE
+PH_STATS
+		birth_date = PH_BIRTH_DATE
+PH_DEATH_DATE
+PH_REIGN_START
+PH_REIGN_END
+		birth = PH_PLACE_OF_BIRTH
+		dynasty = PH_DYNASTY
+		tag = PH_TAG
+	}
+

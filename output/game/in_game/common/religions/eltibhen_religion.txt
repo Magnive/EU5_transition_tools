@@ -1,0 +1,17 @@
+gotiriei = { 
+	color = rgb { 145 144 119 }
+	group = eltibhen_religion
+	
+	definition_modifier = {
+	}
+	
+	opinions = {
+	}
+
+	unique_names = {
+	}
+
+	tags = {  }
+	custom_tags = {  }
+}
+

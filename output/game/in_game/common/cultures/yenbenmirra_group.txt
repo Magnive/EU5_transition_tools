@@ -1,0 +1,90 @@
+bangowla = {
+	language = bangowla_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		yenbenmirra_group
+	}
+}
+
+walgakan = {
+	language = walgakan_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		yenbenmirra_group
+	}
+}
+
+yulitja = {
+	language = yulitja_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		yenbenmirra_group
+	}
+}
+
+dunguthapka = {
+	language = dunguthapka_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		yenbenmirra_group
+	}
+}
+
+baindundhi = {
+	language = baindundhi_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		yenbenmirra_group
+	}
+}
+
+malogadin = {
+	language = malogadin_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		yenbenmirra_group
+	}
+}
+

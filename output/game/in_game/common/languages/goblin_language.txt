@@ -1,0 +1,196 @@
+goblin_language = {
+	color = rgb { 43 232 43 }
+
+	family = common # Placeholder
+
+	male_names = {
+	}
+	female_names = {
+	}
+	dynasty_names = {
+	}
+	lowborn = {
+	}
+
+    # location_prefix = 
+	
+	# to override the default adjective and noun database for cultural works
+	#adjective = {
+	#}
+	#noun = {
+	#}
+
+	# patronym_suffix = 
+	# patronym_suffix_son = 
+	# patronym_suffix_daughter = 
+
+	# descendant_suffix_male = 
+	# descendant_suffix_female = 
+
+	# character_name_short_regnal_number = 
+	# character_name_order = 
+
+
+	dialects = {
+		forest_goblin_dialect = {
+			male_names = {
+			}
+			female_names = {
+			}
+			dynasty_names = {
+			}
+			lowborn = {
+			}
+		}
+		trolltamer_goblin_dialect = {
+			male_names = {
+			}
+			female_names = {
+			}
+			dynasty_names = {
+			}
+			lowborn = {
+			}
+		}
+		cave_goblin_dialect = {
+			male_names = {
+			}
+			female_names = {
+			}
+			dynasty_names = {
+			}
+			lowborn = {
+			}
+		}
+		undergrowth_goblin_dialect = {
+			male_names = {
+			}
+			female_names = {
+			}
+			dynasty_names = {
+			}
+			lowborn = {
+			}
+		}
+		rustroad_goblin_dialect = {
+			male_names = {
+			}
+			female_names = {
+			}
+			dynasty_names = {
+			}
+			lowborn = {
+			}
+		}
+		coldcave_goblin_dialect = {
+			male_names = {
+			}
+			female_names = {
+			}
+			dynasty_names = {
+			}
+			lowborn = {
+			}
+		}
+		goldtooth_goblin_dialect = {
+			male_names = {
+			}
+			female_names = {
+			}
+			dynasty_names = {
+			}
+			lowborn = {
+			}
+		}
+		deep_goblin_dialect = {
+			male_names = {
+			}
+			female_names = {
+			}
+			dynasty_names = {
+			}
+			lowborn = {
+			}
+		}
+		straggler_goblin_dialect = {
+			male_names = {
+			}
+			female_names = {
+			}
+			dynasty_names = {
+			}
+			lowborn = {
+			}
+		}
+		common_goblin_dialect = {
+			male_names = {
+			}
+			female_names = {
+			}
+			dynasty_names = {
+			}
+			lowborn = {
+			}
+		}
+		skinburner_goblin_dialect = {
+			male_names = {
+			}
+			female_names = {
+			}
+			dynasty_names = {
+			}
+			lowborn = {
+			}
+		}
+		crawler_goblin_dialect = {
+			male_names = {
+			}
+			female_names = {
+			}
+			dynasty_names = {
+			}
+			lowborn = {
+			}
+		}
+		exodus_goblin_dialect = {
+			male_names = {
+			}
+			female_names = {
+			}
+			dynasty_names = {
+			}
+			lowborn = {
+			}
+		}
+		city_goblin_dialect = {
+			male_names = {
+			}
+			female_names = {
+			}
+			dynasty_names = {
+			}
+			lowborn = {
+			}
+		}
+		march_goblin_dialect = {
+			male_names = {
+			}
+			female_names = {
+			}
+			dynasty_names = {
+			}
+			lowborn = {
+			}
+		}
+		soot_goblin_dialect = {
+			male_names = {
+			}
+			female_names = {
+			}
+			dynasty_names = {
+			}
+			lowborn = {
+			}
+		}
+	}
+}

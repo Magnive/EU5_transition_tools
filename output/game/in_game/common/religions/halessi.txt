@@ -1,0 +1,85 @@
+accretive_path = { 
+	color = rgb { 222 222 222 }
+	group = halessi
+	
+	definition_modifier = {
+	}
+	
+	opinions = {
+	}
+
+	unique_names = {
+	}
+
+	tags = {  }
+	custom_tags = {  }
+}
+
+transmutative_path = { 
+	color = rgb { 195 255 197 }
+	group = halessi
+	
+	definition_modifier = {
+	}
+	
+	opinions = {
+	}
+
+	unique_names = {
+	}
+
+	tags = {  }
+	custom_tags = {  }
+}
+
+devouring_path = { 
+	color = rgb { 57 57 57 }
+	group = halessi
+	
+	definition_modifier = {
+	}
+	
+	opinions = {
+	}
+
+	unique_names = {
+	}
+
+	tags = {  }
+	custom_tags = {  }
+}
+
+mystic_accord = { 
+	color = rgb { 124 244 254 }
+	group = halessi
+	
+	definition_modifier = {
+	}
+	
+	opinions = {
+	}
+
+	unique_names = {
+	}
+
+	tags = {  }
+	custom_tags = {  }
+}
+
+neokttareum = { 
+	color = rgb { 67 179 105 }
+	group = halessi
+	
+	definition_modifier = {
+	}
+	
+	opinions = {
+	}
+
+	unique_names = {
+	}
+
+	tags = {  }
+	custom_tags = {  }
+}
+

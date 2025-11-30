@@ -1,0 +1,6 @@
+PH_COUNTRY_TAG = {
+	color = PH_COLOR
+
+	culture_definition = PH_CULTURE
+	religion_definition = PH_RELIGION
+}

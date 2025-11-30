@@ -1,0 +1,105 @@
+phonan = {
+	language = phonan_dialect
+	
+	color = rgb { 212 175 55 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		kai_group
+	}
+}
+
+hinphat = {
+	language = hinphat_dialect
+	
+	color = rgb { 170 180 145 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		kai_group
+	}
+}
+
+bokai = {
+	language = bokai_dialect
+	
+	color = rgb { 22 105 163 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		kai_group
+	}
+}
+
+binhrung = {
+	language = binhrung_dialect
+	
+	color = rgb { 181 0 20 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		kai_group
+	}
+}
+
+sikai = {
+	language = sikai_dialect
+	
+	color = rgb { 170 200 65 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		kai_group
+	}
+}
+
+tamran = {
+	language = tamran_dialect
+	
+	color = rgb { 213 213 90 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		kai_group
+	}
+}
+
+kai_half_elf = {
+	language = kai_half_elf_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		kai_group
+	}
+}
+

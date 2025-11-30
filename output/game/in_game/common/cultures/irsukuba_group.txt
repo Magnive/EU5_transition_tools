@@ -1,0 +1,90 @@
+kudemtu = {
+	language = kudemtu_dialect
+	
+	color = rgb { 210 180 140 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		irsukuba_group
+	}
+}
+
+gumzemo = {
+	language = gumzemo_dialect
+	
+	color = rgb { 102 102 153 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		irsukuba_group
+	}
+}
+
+ikilshebe = {
+	language = ikilshebe_dialect
+	
+	color = rgb { 102 153 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		irsukuba_group
+	}
+}
+
+zovanwe = {
+	language = zovanwe_dialect
+	
+	color = rgb { 100 214 11 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		irsukuba_group
+	}
+}
+
+kuivendi = {
+	language = kuivendi_dialect
+	
+	color = rgb { 100 214 11 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		irsukuba_group
+	}
+}
+
+echenka = {
+	language = echenka_dialect
+	
+	color = rgb { 45 22 80 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		irsukuba_group
+	}
+}
+

@@ -1,0 +1,108 @@
+regent_court = { 
+	color = rgb { 182 182 182 }
+	group = cannorian
+	
+	definition_modifier = {
+	}
+	
+	opinions = {
+	}
+
+	unique_names = {
+	}
+
+	tags = {  }
+	custom_tags = {  }
+}
+
+corinite = { 
+	color = rgb { 230 65 55 }
+	group = cannorian
+	
+	enable = 1510.1.1
+
+	definition_modifier = {
+	}
+	
+	opinions = {
+	}
+
+	unique_names = {
+	}
+
+	tags = {  }
+	custom_tags = {  }
+}
+
+ravelian = { 
+	color = rgb { 69 69 69 }
+	group = cannorian
+	
+	enable = 1550.1.1
+
+	definition_modifier = {
+	}
+	
+	opinions = {
+	}
+
+	unique_names = {
+	}
+
+	tags = {  }
+	custom_tags = {  }
+}
+
+dalcabba = { 
+	color = rgb { 192 102 60 }
+	group = cannorian
+	
+	enable = 1511.1.1
+
+	definition_modifier = {
+	}
+	
+	opinions = {
+	}
+
+	unique_names = {
+	}
+
+	tags = {  }
+	custom_tags = {  }
+}
+
+uelos_cult = { 
+	color = rgb { 24 47 161 }
+	group = cannorian
+	
+	definition_modifier = {
+	}
+	
+	opinions = {
+	}
+
+	unique_names = {
+	}
+
+	tags = {  }
+	custom_tags = {  }
+}
+
+infernal_court = { 
+	color = rgb { 122 20 20 }
+	group = cannorian
+	
+	definition_modifier = {
+	}
+	
+	opinions = {
+	}
+
+	unique_names = {
+	}
+
+	tags = {  }
+	custom_tags = {  }
+}
+

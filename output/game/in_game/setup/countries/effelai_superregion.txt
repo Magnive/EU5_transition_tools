@@ -1,0 +1,90 @@
+G15 = {
+	color = rgb { 173 215 247 }
+
+	culture_definition = parura
+	religion_definition = chahinanito
+}
+G16 = {
+	color = rgb { 122 82 114 }
+
+	culture_definition = soruinic
+	religion_definition = senanset
+}
+G17 = {
+	color = rgb { 137 135 123 }
+
+	culture_definition = effe
+	religion_definition = tswohvwohii
+}
+G18 = {
+	color = rgb { 234 192 0 }
+
+	culture_definition = laii
+	religion_definition = tswohvwohii
+}
+G19 = {
+	color = rgb { 10 107 34 }
+
+	culture_definition = thamvoii
+	religion_definition = tswohvwohii
+}
+G20 = {
+	color = rgb { 50 161 122 }
+
+	culture_definition = parura
+	religion_definition = chahinanito
+}
+H39 = {
+	color = rgb { 78 180 20 }
+
+	culture_definition = green_orc
+	religion_definition = bulgu_orazan
+}
+H62 = {
+	color = rgb { 16 138 144 }
+
+	culture_definition = arbarani
+	religion_definition = corinite
+}
+H63 = {
+	color = rgb { 16 138 144 }
+
+	culture_definition = arbarani
+	religion_definition = corinite
+}
+H66 = {
+	color = rgb { 207 177 52 }
+
+	culture_definition = sun_elf
+	religion_definition = bulwari_sun_cult
+}
+H67 = {
+	color = rgb { 207 140 52 }
+
+	culture_definition = dawn_elf
+	religion_definition = bulwari_sun_cult
+}
+U60 = {
+	color = rgb { 80 210 108 }
+
+	culture_definition = tefori
+	religion_definition = regent_court
+}
+U62 = {
+	color = rgb { 35 74 190 }
+
+	culture_definition = pearlsedger
+	religion_definition = regent_court
+}
+U67 = {
+	color = rgb { 230 140 140 }
+
+	culture_definition = firanyan_harpy
+	religion_definition = the_hunt
+}
+U68 = {
+	color = rgb { 238 46 46 }
+
+	culture_definition = firanyan_harpy
+	religion_definition = the_hunt
+}

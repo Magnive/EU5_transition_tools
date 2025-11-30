@@ -1,0 +1,51 @@
+night_coven = { 
+	color = rgb { 6 6 6 }
+	group = shadow_religion
+	
+	definition_modifier = {
+	}
+	
+	opinions = {
+	}
+
+	unique_names = {
+	}
+
+	tags = {  }
+	custom_tags = {  }
+}
+
+shadow_pact = { 
+	color = rgb { 10 4 30 }
+	group = shadow_religion
+	
+	definition_modifier = {
+	}
+	
+	opinions = {
+	}
+
+	unique_names = {
+	}
+
+	tags = {  }
+	custom_tags = {  }
+}
+
+death_cult_of_cheshosh = { 
+	color = rgb { 66 66 66 }
+	group = shadow_religion
+	
+	definition_modifier = {
+	}
+	
+	opinions = {
+	}
+
+	unique_names = {
+	}
+
+	tags = {  }
+	custom_tags = {  }
+}
+

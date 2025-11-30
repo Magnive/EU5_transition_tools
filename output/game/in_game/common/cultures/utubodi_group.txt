@@ -1,0 +1,60 @@
+kamgoro = {
+	language = kamgoro_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		utubodi_group
+	}
+}
+
+momoki = {
+	language = momoki_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		utubodi_group
+	}
+}
+
+atuganum = {
+	language = atuganum_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		utubodi_group
+	}
+}
+
+badarari = {
+	language = badarari_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		utubodi_group
+	}
+}
+

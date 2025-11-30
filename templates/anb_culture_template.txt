@@ -1,0 +1,15 @@
+PH_CULTURE_NAME = {
+	language = PH_LANGUAGE_NAME
+	
+	color = PH_COLOR
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		PH_CULTURE_GROUP
+	}
+}
+

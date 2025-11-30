@@ -1,0 +1,90 @@
+fjord_troll = {
+	language = fjord_troll_dialect
+	
+	color = rgb { 153 217 234 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		giantkind_group
+	}
+}
+
+forest_troll = {
+	language = forest_troll_dialect
+	
+	color = rgb { 239 131 131 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		giantkind_group
+	}
+}
+
+hill_troll = {
+	language = hill_troll_dialect
+	
+	color = rgb { 118 87 47 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		giantkind_group
+	}
+}
+
+swamp_troll = {
+	language = swamp_troll_dialect
+	
+	color = rgb { 40 40 40 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		giantkind_group
+	}
+}
+
+cave_troll = {
+	language = cave_troll_dialect
+	
+	color = rgb { 151 79 168 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		giantkind_group
+	}
+}
+
+true_giant = {
+	language = true_giant_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		giantkind_group
+	}
+}
+

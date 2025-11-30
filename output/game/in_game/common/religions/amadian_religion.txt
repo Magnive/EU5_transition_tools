@@ -1,0 +1,17 @@
+rioqay_diu = { 
+	color = rgb { 247 214 214 }
+	group = amadian_religion
+	
+	definition_modifier = {
+	}
+	
+	opinions = {
+	}
+
+	unique_names = {
+	}
+
+	tags = {  }
+	custom_tags = {  }
+}
+

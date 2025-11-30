@@ -1,0 +1,68 @@
+the_thought = { 
+	color = rgb { 221 128 212 }
+	group = faithless
+	
+	definition_modifier = {
+	}
+	
+	opinions = {
+	}
+
+	unique_names = {
+	}
+
+	tags = {  }
+	custom_tags = {  }
+}
+
+godlost = { 
+	color = rgb { 119 0 8 }
+	group = faithless
+	
+	definition_modifier = {
+	}
+	
+	opinions = {
+	}
+
+	unique_names = {
+	}
+
+	tags = {  }
+	custom_tags = {  }
+}
+
+kheionism = { 
+	color = rgb { 99 99 133 }
+	group = faithless
+	
+	definition_modifier = {
+	}
+	
+	opinions = {
+	}
+
+	unique_names = {
+	}
+
+	tags = {  }
+	custom_tags = {  }
+}
+
+black_doctrine = { 
+	color = rgb { 2 2 2 }
+	group = faithless
+	
+	definition_modifier = {
+	}
+	
+	opinions = {
+	}
+
+	unique_names = {
+	}
+
+	tags = {  }
+	custom_tags = {  }
+}
+

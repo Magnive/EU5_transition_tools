@@ -1,0 +1,34 @@
+xhazobkult = { 
+	color = rgb { 181 230 29 }
+	group = gnollish
+	
+	definition_modifier = {
+	}
+	
+	opinions = {
+	}
+
+	unique_names = {
+	}
+
+	tags = {  }
+	custom_tags = {  }
+}
+
+kvangahga = { 
+	color = rgb { 80 22 22 }
+	group = gnollish
+	
+	definition_modifier = {
+	}
+	
+	opinions = {
+	}
+
+	unique_names = {
+	}
+
+	tags = {  }
+	custom_tags = {  }
+}
+

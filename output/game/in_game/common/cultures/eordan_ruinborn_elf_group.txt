@@ -1,0 +1,90 @@
+selphereg = {
+	language = selphereg_dialect
+	
+	color = rgb { 112 11 187 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		eordan_ruinborn_elf_group
+	}
+}
+
+caamas = {
+	language = caamas_dialect
+	
+	color = rgb { 11 187 128 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		eordan_ruinborn_elf_group
+	}
+}
+
+peitar = {
+	language = peitar_dialect
+	
+	color = rgb { 233 154 64 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		eordan_ruinborn_elf_group
+	}
+}
+
+tuathak = {
+	language = tuathak_dialect
+	
+	color = rgb { 22 105 163 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		eordan_ruinborn_elf_group
+	}
+}
+
+snecboth = {
+	language = snecboth_dialect
+	
+	color = rgb { 238 238 238 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		eordan_ruinborn_elf_group
+	}
+}
+
+fograc = {
+	language = fograc_dialect
+	
+	color = rgb { 0 208 225 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		eordan_ruinborn_elf_group
+	}
+}
+

@@ -1,0 +1,17 @@
+manago_poku = { 
+	color = rgb { 66 66 66 }
+	group = mechanim_religion
+	
+	definition_modifier = {
+	}
+	
+	opinions = {
+	}
+
+	unique_names = {
+	}
+
+	tags = {  }
+	custom_tags = {  }
+}
+

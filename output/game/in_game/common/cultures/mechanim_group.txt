@@ -1,0 +1,495 @@
+awoken_mechanim = {
+	language = awoken_mechanim_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		mechanim_group
+	}
+}
+
+reeflight_mechanim = {
+	language = reeflight_mechanim_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		mechanim_group
+	}
+}
+
+ashfall_mechanim = {
+	language = ashfall_mechanim_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		mechanim_group
+	}
+}
+
+soulcycle_mechanim = {
+	language = soulcycle_mechanim_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		mechanim_group
+	}
+}
+
+flameweaver_mechanim = {
+	language = flameweaver_mechanim_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		mechanim_group
+	}
+}
+
+stargrasper_mechanim = {
+	language = stargrasper_mechanim_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		mechanim_group
+	}
+}
+
+mangalclimber_mechanim = {
+	language = mangalclimber_mechanim_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		mechanim_group
+	}
+}
+
+sporewalker_mechanim = {
+	language = sporewalker_mechanim_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		mechanim_group
+	}
+}
+
+magitek_mechanim = {
+	language = magitek_mechanim_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		mechanim_group
+	}
+}
+
+sparkdrive_mechanim = {
+	language = sparkdrive_mechanim_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		mechanim_group
+	}
+}
+
+vymafyzemby_mechanim = {
+	language = vymafyzemby_mechanim_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		mechanim_group
+	}
+}
+
+coaleater_mechanim = {
+	language = coaleater_mechanim_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		mechanim_group
+	}
+}
+
+deathwalker_mechanim = {
+	language = deathwalker_mechanim_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		mechanim_group
+	}
+}
+
+glorybound_mechanim = {
+	language = glorybound_mechanim_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		mechanim_group
+	}
+}
+
+feytouched_mechanim = {
+	language = feytouched_mechanim_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		mechanim_group
+	}
+}
+
+vytash_mechanim = {
+	language = vytash_mechanim_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		mechanim_group
+	}
+}
+
+smokevein_mechanim = {
+	language = smokevein_mechanim_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		mechanim_group
+	}
+}
+
+spiritfire_mechanim = {
+	language = spiritfire_mechanim_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		mechanim_group
+	}
+}
+
+giltpetal_mechanim = {
+	language = giltpetal_mechanim_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		mechanim_group
+	}
+}
+
+umsoroh_mechanim = {
+	language = umsoroh_mechanim_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		mechanim_group
+	}
+}
+
+udzalkerho_mechanim = {
+	language = udzalkerho_mechanim_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		mechanim_group
+	}
+}
+
+masiddu_mechanim = {
+	language = masiddu_mechanim_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		mechanim_group
+	}
+}
+
+golemkin_mechanim = {
+	language = golemkin_mechanim_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		mechanim_group
+	}
+}
+
+chainforged_mechanim = {
+	language = chainforged_mechanim_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		mechanim_group
+	}
+}
+
+songheart_mechanim = {
+	language = songheart_mechanim_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		mechanim_group
+	}
+}
+
+runescribed_mechanim = {
+	language = runescribed_mechanim_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		mechanim_group
+	}
+}
+
+ironheart_mechanim = {
+	language = ironheart_mechanim_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		mechanim_group
+	}
+}
+
+steelsworn_mechanim = {
+	language = steelsworn_mechanim_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		mechanim_group
+	}
+}
+
+windcast_mechanim = {
+	language = windcast_mechanim_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		mechanim_group
+	}
+}
+
+steelfolk_mechanim = {
+	language = steelfolk_mechanim_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		mechanim_group
+	}
+}
+
+nightengine_mechanim = {
+	language = nightengine_mechanim_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		mechanim_group
+	}
+}
+
+orderwrought_mechanim = {
+	language = orderwrought_mechanim_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		mechanim_group
+	}
+}
+
+soullistener_mechanim = {
+	language = soullistener_mechanim_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		mechanim_group
+	}
+}
+

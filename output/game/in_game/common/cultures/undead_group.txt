@@ -1,0 +1,30 @@
+lich = {
+	language = lich_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		undead_group
+	}
+}
+
+lesser_undead = {
+	language = lesser_undead_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		undead_group
+	}
+}
+

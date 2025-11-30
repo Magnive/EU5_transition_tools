@@ -1,0 +1,17 @@
+irdaeos_worship = { 
+	color = rgb { 60 40 20 }
+	group = centaur_religion
+	
+	definition_modifier = {
+	}
+	
+	opinions = {
+	}
+
+	unique_names = {
+	}
+
+	tags = {  }
+	custom_tags = {  }
+}
+

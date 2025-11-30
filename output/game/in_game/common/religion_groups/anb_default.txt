@@ -1,0 +1,175 @@
+cannorian = {
+	color = rgb { 182 182 182 }
+	convert_slaves_at_start = no
+}
+
+faithless = {
+	color = rgb { 221 128 212 }
+	convert_slaves_at_start = no
+}
+
+khetist = {
+	color = rgb { 252 162 100 }
+	convert_slaves_at_start = no
+}
+
+gnollish = {
+	color = rgb { 181 230 29 }
+	convert_slaves_at_start = no
+}
+
+dwarven = {
+	color = rgb { 254 254 254 }
+	convert_slaves_at_start = no
+}
+
+elven = {
+	color = rgb { 186 241 248 }
+	convert_slaves_at_start = no
+}
+
+bulwari = {
+	color = rgb { 255 201 14 }
+	convert_slaves_at_start = no
+}
+
+gerudian = {
+	color = rgb { 255 201 201 }
+	convert_slaves_at_start = no
+}
+
+orcish = {
+	color = rgb { 43 106 62 }
+	convert_slaves_at_start = no
+}
+
+dragon_cult = {
+	color = rgb { 3 85 124 }
+	convert_slaves_at_start = no
+}
+
+goblin = {
+	color = rgb { 127 76 76 }
+	convert_slaves_at_start = no
+}
+
+harpy_cults = {
+	color = rgb { 173 148 124 }
+	convert_slaves_at_start = no
+}
+
+aelantiri = {
+	color = rgb { 255 120 128 }
+	convert_slaves_at_start = no
+}
+
+harafic = {
+	color = rgb { 210 20 60 }
+	convert_slaves_at_start = no
+}
+
+effelai = {
+	color = rgb { 32 86 26 }
+	convert_slaves_at_start = no
+}
+
+taychendi = {
+	color = rgb { 188 181 73 }
+	convert_slaves_at_start = no
+}
+
+ynnic = {
+	color = rgb { 139 172 212 }
+	convert_slaves_at_start = no
+}
+
+devandi = {
+	color = rgb { 145 180 146 }
+	convert_slaves_at_start = no
+}
+
+fey_religion = {
+	color = rgb { 0 114 187 }
+	convert_slaves_at_start = no
+}
+
+raheni = {
+	color = rgb { 73 9 96 }
+	convert_slaves_at_start = no
+}
+
+halessi = {
+	color = rgb { 222 222 222 }
+	convert_slaves_at_start = no
+}
+
+supreme_spirit = {
+	color = rgb { 0 63 63 }
+	convert_slaves_at_start = no
+}
+
+triunic_lake = {
+	color = rgb { 235 88 48 }
+	convert_slaves_at_start = no
+}
+
+giantkin = {
+	color = rgb { 120 127 89 }
+	convert_slaves_at_start = no
+}
+
+centaur_religion = {
+	color = rgb { 60 40 20 }
+	convert_slaves_at_start = no
+}
+
+tanibic_religion = {
+	color = rgb { 183 110 121 }
+	convert_slaves_at_start = no
+}
+
+shadow_religion = {
+	color = rgb { 6 6 6 }
+	convert_slaves_at_start = no
+}
+
+lizardfolk_religion = {
+	color = rgb { 104 155 55 }
+	convert_slaves_at_start = no
+}
+
+eltibhen_religion = {
+	color = rgb { 145 144 119 }
+	convert_slaves_at_start = no
+}
+
+east_sarhal_religion = {
+	color = rgb { 150 180 250 }
+	convert_slaves_at_start = no
+}
+
+amadian_religion = {
+	color = rgb { 247 214 214 }
+	convert_slaves_at_start = no
+}
+
+danguranga_religion = {
+	color = rgb { 189 103 17 }
+	convert_slaves_at_start = no
+}
+
+kanolowele_religion = {
+	color = rgb { 56 29 80 }
+	convert_slaves_at_start = no
+}
+
+utubodi_religion = {
+	color = rgb { 198 198 198 }
+	convert_slaves_at_start = no
+}
+
+mechanim_religion = {
+	color = rgb { 66 66 66 }
+	convert_slaves_at_start = no
+}
+

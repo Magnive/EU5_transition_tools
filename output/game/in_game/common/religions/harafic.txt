@@ -1,0 +1,102 @@
+kalun_masks = { 
+	color = rgb { 210 20 60 }
+	group = harafic
+	
+	definition_modifier = {
+	}
+	
+	opinions = {
+	}
+
+	unique_names = {
+	}
+
+	tags = {  }
+	custom_tags = {  }
+}
+
+dai_nadeilhil = { 
+	color = rgb { 220 185 140 }
+	group = harafic
+	
+	definition_modifier = {
+	}
+	
+	opinions = {
+	}
+
+	unique_names = {
+	}
+
+	tags = {  }
+	custom_tags = {  }
+}
+
+jaakaiin = { 
+	color = rgb { 32 178 170 }
+	group = harafic
+	
+	definition_modifier = {
+	}
+	
+	opinions = {
+	}
+
+	unique_names = {
+	}
+
+	tags = {  }
+	custom_tags = {  }
+}
+
+eotomolaque = { 
+	color = rgb { 235 180 20 }
+	group = harafic
+	
+	definition_modifier = {
+	}
+	
+	opinions = {
+	}
+
+	unique_names = {
+	}
+
+	tags = {  }
+	custom_tags = {  }
+}
+
+great_tceusluhd = { 
+	color = rgb { 128 78 73 }
+	group = harafic
+	
+	definition_modifier = {
+	}
+	
+	opinions = {
+	}
+
+	unique_names = {
+	}
+
+	tags = {  }
+	custom_tags = {  }
+}
+
+raeldaeriach = { 
+	color = rgb { 32 63 123 }
+	group = harafic
+	
+	definition_modifier = {
+	}
+	
+	opinions = {
+	}
+
+	unique_names = {
+	}
+
+	tags = {  }
+	custom_tags = {  }
+}
+

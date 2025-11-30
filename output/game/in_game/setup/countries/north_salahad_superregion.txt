@@ -1,0 +1,78 @@
+F57 = {
+	color = rgb { 90 135 65 }
+
+	culture_definition = khasani
+	religion_definition = mother_akasik
+}
+F58 = {
+	color = rgb { 200 60 20 }
+
+	culture_definition = khasani
+	religion_definition = mother_akasik
+}
+F66 = {
+	color = rgb { 120 10 10 }
+
+	culture_definition = sorrowmane_gnoll
+	religion_definition = elikhetist
+}
+L27 = {
+	color = rgb { 201 173 165 }
+
+	culture_definition = shasouran
+	religion_definition = elikhetist
+}
+L28 = {
+	color = rgb { 90 170 150 }
+
+	culture_definition = korosheshi
+	religion_definition = elikhetist
+}
+U01 = {
+	color = rgb { 219 148 35 }
+
+	culture_definition = hapremiti
+	religion_definition = elikhetist
+}
+U02 = {
+	color = rgb { 36 112 194 }
+
+	culture_definition = hapremiti
+	religion_definition = nirakhetist
+}
+U04 = {
+	color = rgb { 112 74 7 }
+
+	culture_definition = hapremiti
+	religion_definition = aakhetist
+}
+U05 = {
+	color = rgb { 104 128 177 }
+
+	culture_definition = sun_elf
+	religion_definition = bulwari_sun_cult
+}
+U06 = {
+	color = rgb { 68 146 194 }
+
+	culture_definition = desha
+	religion_definition = mother_akasik
+}
+U07 = {
+	color = rgb { 34 173 146 }
+
+	culture_definition = seascourge_gnoll
+	religion_definition = xhazobkult
+}
+U08 = {
+	color = rgb { 206 222 199 }
+
+	culture_definition = far_akasi
+	religion_definition = mother_akasik
+}
+U10 = {
+	color = rgb { 150 149 122 }
+
+	culture_definition = windhowler_gnoll
+	religion_definition = kvangahga
+}

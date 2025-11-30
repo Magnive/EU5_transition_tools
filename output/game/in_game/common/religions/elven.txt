@@ -1,0 +1,51 @@
+elven_forebears = { 
+	color = rgb { 186 241 248 }
+	group = elven
+	
+	definition_modifier = {
+	}
+	
+	opinions = {
+	}
+
+	unique_names = {
+	}
+
+	tags = {  }
+	custom_tags = {  }
+}
+
+soise_vio = { 
+	color = rgb { 200 170 180 }
+	group = elven
+	
+	definition_modifier = {
+	}
+	
+	opinions = {
+	}
+
+	unique_names = {
+	}
+
+	tags = {  }
+	custom_tags = {  }
+}
+
+nur_dahvaraesa = { 
+	color = rgb { 200 170 180 }
+	group = elven
+	
+	definition_modifier = {
+	}
+	
+	opinions = {
+	}
+
+	unique_names = {
+	}
+
+	tags = {  }
+	custom_tags = {  }
+}
+

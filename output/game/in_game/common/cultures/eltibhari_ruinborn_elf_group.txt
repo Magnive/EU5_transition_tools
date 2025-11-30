@@ -1,0 +1,15 @@
+eltibhar = {
+	language = eltibhar_dialect
+	
+	color = rgb { 161 156 76 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		eltibhari_ruinborn_elf_group
+	}
+}
+

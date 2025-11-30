@@ -1,0 +1,240 @@
+forest_goblin = {
+	language = forest_goblin_dialect
+	
+	color = rgb { 43 232 43 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		goblin_group
+	}
+}
+
+trolltamer_goblin = {
+	language = trolltamer_goblin_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		goblin_group
+	}
+}
+
+cave_goblin = {
+	language = cave_goblin_dialect
+	
+	color = rgb { 250 207 185 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		goblin_group
+	}
+}
+
+undergrowth_goblin = {
+	language = undergrowth_goblin_dialect
+	
+	color = rgb { 0 105 62 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		goblin_group
+	}
+}
+
+rustroad_goblin = {
+	language = rustroad_goblin_dialect
+	
+	color = rgb { 13 53 46 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		goblin_group
+	}
+}
+
+coldcave_goblin = {
+	language = coldcave_goblin_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		goblin_group
+	}
+}
+
+goldtooth_goblin = {
+	language = goldtooth_goblin_dialect
+	
+	color = rgb { 148 234 227 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		goblin_group
+	}
+}
+
+deep_goblin = {
+	language = deep_goblin_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		goblin_group
+	}
+}
+
+straggler_goblin = {
+	language = straggler_goblin_dialect
+	
+	color = rgb { 175 129 123 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		goblin_group
+	}
+}
+
+common_goblin = {
+	language = common_goblin_dialect
+	
+	color = rgb { 150 155 117 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		goblin_group
+	}
+}
+
+skinburner_goblin = {
+	language = skinburner_goblin_dialect
+	
+	color = rgb { 204 85 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		goblin_group
+	}
+}
+
+crawler_goblin = {
+	language = crawler_goblin_dialect
+	
+	color = rgb { 41 40 105 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		goblin_group
+	}
+}
+
+exodus_goblin = {
+	language = exodus_goblin_dialect
+	
+	color = rgb { 100 100 200 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		goblin_group
+	}
+}
+
+city_goblin = {
+	language = city_goblin_dialect
+	
+	color = rgb { 99 138 197 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		goblin_group
+	}
+}
+
+march_goblin = {
+	language = march_goblin_dialect
+	
+	color = rgb { 67 111 78 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		goblin_group
+	}
+}
+
+soot_goblin = {
+	language = soot_goblin_dialect
+	
+	color = rgb { 125 250 185 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		goblin_group
+	}
+}
+

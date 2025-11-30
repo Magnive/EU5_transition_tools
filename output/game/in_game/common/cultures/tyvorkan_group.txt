@@ -1,0 +1,30 @@
+taric = {
+	language = taric_dialect
+	
+	color = rgb { 20 31 107 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		tyvorkan_group
+	}
+}
+
+cagodic = {
+	language = cagodic_dialect
+	
+	color = rgb { 20 107 28 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		tyvorkan_group
+	}
+}
+

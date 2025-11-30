@@ -1,0 +1,90 @@
+duguihi = {
+	language = duguihi_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		effelai_ruinborn_elf_group
+	}
+}
+
+effe = {
+	language = effe_dialect
+	
+	color = rgb { 137 135 123 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		effelai_ruinborn_elf_group
+	}
+}
+
+laii = {
+	language = laii_dialect
+	
+	color = rgb { 234 192 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		effelai_ruinborn_elf_group
+	}
+}
+
+parura = {
+	language = parura_dialect
+	
+	color = rgb { 173 215 247 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		effelai_ruinborn_elf_group
+	}
+}
+
+thamvoii = {
+	language = thamvoii_dialect
+	
+	color = rgb { 10 107 34 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		effelai_ruinborn_elf_group
+	}
+}
+
+oonoi = {
+	language = oonoi_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		effelai_ruinborn_elf_group
+	}
+}
+

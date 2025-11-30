@@ -1,0 +1,120 @@
+boek = {
+	language = boek_dialect
+	
+	color = rgb { 100 100 255 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		north_ruinborn_elf_group
+	}
+}
+
+kwineh = {
+	language = kwineh_dialect
+	
+	color = rgb { 190 99 99 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		north_ruinborn_elf_group
+	}
+}
+
+duskers = {
+	language = duskers_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		north_ruinborn_elf_group
+	}
+}
+
+starborn = {
+	language = starborn_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		north_ruinborn_elf_group
+	}
+}
+
+ruinchander = {
+	language = ruinchander_dialect
+	
+	color = rgb { 207 255 123 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		north_ruinborn_elf_group
+	}
+}
+
+cheshoshi = {
+	language = cheshoshi_dialect
+	
+	color = rgb { 99 99 99 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		north_ruinborn_elf_group
+	}
+}
+
+teira = {
+	language = teira_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		north_ruinborn_elf_group
+	}
+}
+
+veykodan = {
+	language = veykodan_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		north_ruinborn_elf_group
+	}
+}
+

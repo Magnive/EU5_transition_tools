@@ -1,0 +1,34 @@
+mazhthramazh = { 
+	color = rgb { 145 180 146 }
+	group = devandi
+	
+	definition_modifier = {
+	}
+	
+	opinions = {
+	}
+
+	unique_names = {
+	}
+
+	tags = {  }
+	custom_tags = {  }
+}
+
+askaeorg = { 
+	color = rgb { 184 125 65 }
+	group = devandi
+	
+	definition_modifier = {
+	}
+	
+	opinions = {
+	}
+
+	unique_names = {
+	}
+
+	tags = {  }
+	custom_tags = {  }
+}
+

@@ -1,0 +1,240 @@
+G01 = {
+	color = rgb { 100 100 255 }
+
+	culture_definition = boek
+	religion_definition = dotimism
+}
+G04 = {
+	color = rgb { 55 113 227 }
+
+	culture_definition = boek
+	religion_definition = dotimism
+}
+G05 = {
+	color = rgb { 190 99 99 }
+
+	culture_definition = kwineh
+	religion_definition = weeping_mother
+}
+G06 = {
+	color = rgb { 99 99 99 }
+
+	culture_definition = cheshoshi
+	religion_definition = death_cult_of_cheshosh
+}
+G07 = {
+	color = rgb { 82 65 145 }
+
+	culture_definition = cheshoshi
+	religion_definition = death_cult_of_cheshosh
+}
+G08 = {
+	color = rgb { 154 172 72 }
+
+	culture_definition = cheshoshi
+	religion_definition = death_cult_of_cheshosh
+}
+G09 = {
+	color = rgb { 190 99 99 }
+
+	culture_definition = cheshoshi
+	religion_definition = death_cult_of_cheshosh
+}
+G40 = {
+	color = rgb { 156 67 243 }
+
+	culture_definition = boek
+	religion_definition = dotimism
+}
+G41 = {
+	color = rgb { 193 174 202 }
+
+	culture_definition = boek
+	religion_definition = dotimism
+}
+G42 = {
+	color = rgb { 6 33 76 }
+
+	culture_definition = boek
+	religion_definition = dotimism
+}
+G90 = {
+	color = rgb { 243 120 28 }
+
+	culture_definition = silver_dwarf
+	religion_definition = regent_court
+}
+G91 = {
+	color = rgb { 98 52 54 }
+
+	culture_definition = roilsardi
+	religion_definition = regent_court
+}
+G92 = {
+	color = rgb { 213 98 157 }
+
+	culture_definition = zanite
+	religion_definition = bulwari_sun_cult
+}
+G93 = {
+	color = rgb { 74 58 130 }
+
+	culture_definition = ruinscourge_gnoll
+	religion_definition = xhazobkult
+}
+G95 = {
+	color = rgb { 31 49 238 }
+
+	culture_definition = arannese
+	religion_definition = regent_court
+}
+G96 = {
+	color = rgb { 178 178 178 }
+
+	culture_definition = visfoot_halfling
+	religion_definition = regent_court
+}
+G98 = {
+	color = rgb { 35 100 65 }
+
+	culture_definition = arbarani
+	religion_definition = regent_court
+}
+G99 = {
+	color = rgb { 130 27 186 }
+
+	culture_definition = derannic
+	religion_definition = regent_court
+}
+H33 = {
+	color = rgb { 38 34 128 }
+
+	culture_definition = east_damerian
+	religion_definition = regent_court
+}
+H36 = {
+	color = rgb { 246 54 77 }
+
+	culture_definition = vernman
+	religion_definition = regent_court
+}
+H38 = {
+	color = rgb { 167 98 117 }
+
+	culture_definition = bahari
+	religion_definition = old_bulwari_sun_cult
+}
+H40 = {
+	color = rgb { 130 60 108 }
+
+	culture_definition = sorncosti
+	religion_definition = regent_court
+}
+H41 = {
+	color = rgb { 130 60 108 }
+
+	culture_definition = sorncosti
+	religion_definition = regent_court
+}
+H42 = {
+	color = rgb { 33 33 33 }
+
+	culture_definition = corvurian
+	religion_definition = regent_court
+}
+H43 = {
+	color = rgb { 33 33 33 }
+
+	culture_definition = corvurian
+	religion_definition = regent_court
+}
+J95 = {
+	color = rgb { 213 0 39 }
+
+	culture_definition = steadsman
+	religion_definition = regent_court
+}
+J96 = {
+	color = rgb { 44 51 65 }
+
+	culture_definition = steadsman
+	religion_definition = regent_court
+}
+J97 = {
+	color = rgb { 200 225 228 }
+
+	culture_definition = steadsman
+	religion_definition = regent_court
+}
+J98 = {
+	color = rgb { 230 231 62 }
+
+	culture_definition = steadsman
+	religion_definition = regent_court
+}
+U48 = {
+	color = rgb { 108 48 130 }
+
+	culture_definition = boek
+	religion_definition = dotimism
+}
+U52 = {
+	color = rgb { 69 69 150 }
+
+	culture_definition = high_lorentish
+	religion_definition = regent_court
+}
+U55 = {
+	color = rgb { 50 160 150 }
+
+	culture_definition = pearlsedger
+	religion_definition = regent_court
+}
+U56 = {
+	color = rgb { 135 0 0 }
+
+	culture_definition = high_lorentish
+	religion_definition = regent_court
+}
+U57 = {
+	color = rgb { 115 100 100 }
+
+	culture_definition = vernman
+	religion_definition = corinite
+}
+Z43 = {
+	color = rgb { 28 31 150 }
+
+	culture_definition = star_elf
+	religion_definition = elven_forebears
+}
+Z69 = {
+	color = rgb { 28 40 180 }
+
+	culture_definition = star_elf
+	religion_definition = elven_forebears
+}
+Z70 = {
+	color = rgb { 60 50 150 }
+
+	culture_definition = star_elf
+	religion_definition = elven_forebears
+}
+Z71 = {
+	color = rgb { 28 50 150 }
+
+	culture_definition = star_elf
+	religion_definition = elven_forebears
+}
+Z72 = {
+	color = rgb { 95 50 150 }
+
+	culture_definition = star_elf
+	religion_definition = elven_forebears
+}
+Z73 = {
+	color = rgb { 70 31 150 }
+
+	culture_definition = star_elf
+	religion_definition = elven_forebears
+}

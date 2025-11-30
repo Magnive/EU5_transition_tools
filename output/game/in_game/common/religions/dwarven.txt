@@ -1,0 +1,51 @@
+ancestor_worship = { 
+	color = rgb { 254 254 254 }
+	group = dwarven
+	
+	definition_modifier = {
+	}
+	
+	opinions = {
+	}
+
+	unique_names = {
+	}
+
+	tags = {  }
+	custom_tags = {  }
+}
+
+dwarven_pantheon = { 
+	color = rgb { 33 64 96 }
+	group = dwarven
+	
+	definition_modifier = {
+	}
+	
+	opinions = {
+	}
+
+	unique_names = {
+	}
+
+	tags = {  }
+	custom_tags = {  }
+}
+
+runefather_worship = { 
+	color = rgb { 50 30 50 }
+	group = dwarven
+	
+	definition_modifier = {
+	}
+	
+	opinions = {
+	}
+
+	unique_names = {
+	}
+
+	tags = {  }
+	custom_tags = {  }
+}
+

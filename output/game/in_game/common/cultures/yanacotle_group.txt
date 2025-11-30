@@ -1,0 +1,180 @@
+tluinuhi = {
+	language = tluinuhi_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		yanacotle_group
+	}
+}
+
+mautpokla = {
+	language = mautpokla_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		yanacotle_group
+	}
+}
+
+poplacoa = {
+	language = poplacoa_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		yanacotle_group
+	}
+}
+
+xoitlonua = {
+	language = xoitlonua_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		yanacotle_group
+	}
+}
+
+taupotzlo = {
+	language = taupotzlo_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		yanacotle_group
+	}
+}
+
+honolitzlo = {
+	language = honolitzlo_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		yanacotle_group
+	}
+}
+
+kuichahiu = {
+	language = kuichahiu_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		yanacotle_group
+	}
+}
+
+cuaplatmi = {
+	language = cuaplatmi_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		yanacotle_group
+	}
+}
+
+woitlono = {
+	language = woitlono_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		yanacotle_group
+	}
+}
+
+kehepo = {
+	language = kehepo_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		yanacotle_group
+	}
+}
+
+motlapaxi = {
+	language = motlapaxi_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		yanacotle_group
+	}
+}
+
+motzaikli = {
+	language = motzaikli_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		yanacotle_group
+	}
+}
+

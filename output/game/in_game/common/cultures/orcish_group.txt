@@ -1,0 +1,315 @@
+gray_orc = {
+	language = gray_orc_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		orcish_group
+	}
+}
+
+green_orc = {
+	language = green_orc_dialect
+	
+	color = rgb { 82 151 32 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		orcish_group
+	}
+}
+
+moltenbrand_orc = {
+	language = moltenbrand_orc_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		orcish_group
+	}
+}
+
+black_orc = {
+	language = black_orc_dialect
+	
+	color = rgb { 13 210 70 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		orcish_group
+	}
+}
+
+blooded_orc = {
+	language = blooded_orc_dialect
+	
+	color = rgb { 51 3 14 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		orcish_group
+	}
+}
+
+manhunter_orc = {
+	language = manhunter_orc_dialect
+	
+	color = rgb { 161 210 141 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		orcish_group
+	}
+}
+
+drakeclaw_orc = {
+	language = drakeclaw_orc_dialect
+	
+	color = rgb { 178 135 46 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		orcish_group
+	}
+}
+
+highhold_orc = {
+	language = highhold_orc_dialect
+	
+	color = rgb { 100 153 24 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		orcish_group
+	}
+}
+
+cavelurker_orc = {
+	language = cavelurker_orc_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		orcish_group
+	}
+}
+
+skull_orc = {
+	language = skull_orc_dialect
+	
+	color = rgb { 239 220 171 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		orcish_group
+	}
+}
+
+tarakar_orc = {
+	language = tarakar_orc_dialect
+	
+	color = rgb { 40 48 41 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		orcish_group
+	}
+}
+
+emerald_orc = {
+	language = emerald_orc_dialect
+	
+	color = rgb { 80 220 100 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		orcish_group
+	}
+}
+
+karakhanbari_orc = {
+	language = karakhanbari_orc_dialect
+	
+	color = rgb { 90 25 25 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		orcish_group
+	}
+}
+
+ozgar_orc = {
+	language = ozgar_orc_dialect
+	
+	color = rgb { 78 180 20 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		orcish_group
+	}
+}
+
+grombar_orc = {
+	language = grombar_orc_dialect
+	
+	color = rgb { 101 125 134 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		orcish_group
+	}
+}
+
+rugan_orc = {
+	language = rugan_orc_dialect
+	
+	color = rgb { 100 180 100 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		orcish_group
+	}
+}
+
+ungulan_orc = {
+	language = ungulan_orc_dialect
+	
+	color = rgb { 20 160 60 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		orcish_group
+	}
+}
+
+barumand_orc = {
+	language = barumand_orc_dialect
+	
+	color = rgb { 220 210 50 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		orcish_group
+	}
+}
+
+brown_orc = {
+	language = brown_orc_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		orcish_group
+	}
+}
+
+karashari_orc = {
+	language = karashari_orc_dialect
+	
+	color = rgb { 28 20 20 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		orcish_group
+	}
+}
+
+redtusk_orc = {
+	language = redtusk_orc_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		orcish_group
+	}
+}
+

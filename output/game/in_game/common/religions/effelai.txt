@@ -1,0 +1,102 @@
+tswohvwohii = { 
+	color = rgb { 32 86 26 }
+	group = effelai
+	
+	definition_modifier = {
+	}
+	
+	opinions = {
+	}
+
+	unique_names = {
+	}
+
+	tags = {  }
+	custom_tags = {  }
+}
+
+chahinanito = { 
+	color = rgb { 90 127 20 }
+	group = effelai
+	
+	definition_modifier = {
+	}
+	
+	opinions = {
+	}
+
+	unique_names = {
+	}
+
+	tags = {  }
+	custom_tags = {  }
+}
+
+song_servants = { 
+	color = rgb { 2 51 0 }
+	group = effelai
+	
+	definition_modifier = {
+	}
+	
+	opinions = {
+	}
+
+	unique_names = {
+	}
+
+	tags = {  }
+	custom_tags = {  }
+}
+
+senanset = { 
+	color = rgb { 112 201 39 }
+	group = effelai
+	
+	definition_modifier = {
+	}
+	
+	opinions = {
+	}
+
+	unique_names = {
+	}
+
+	tags = {  }
+	custom_tags = {  }
+}
+
+orwaii = { 
+	color = rgb { 206 130 103 }
+	group = effelai
+	
+	definition_modifier = {
+	}
+	
+	opinions = {
+	}
+
+	unique_names = {
+	}
+
+	tags = {  }
+	custom_tags = {  }
+}
+
+leechfather = { 
+	color = rgb { 25 0 51 }
+	group = effelai
+	
+	definition_modifier = {
+	}
+	
+	opinions = {
+	}
+
+	unique_names = {
+	}
+
+	tags = {  }
+	custom_tags = {  }
+}
+

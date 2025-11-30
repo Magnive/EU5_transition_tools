@@ -1,0 +1,180 @@
+pyreclaw_gnoll = {
+	language = pyreclaw_gnoll_dialect
+	
+	color = rgb { 160 125 93 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		gnollish_group
+	}
+}
+
+sorrowmane_gnoll = {
+	language = sorrowmane_gnoll_dialect
+	
+	color = rgb { 120 10 10 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		gnollish_group
+	}
+}
+
+suncrown_gnoll = {
+	language = suncrown_gnoll_dialect
+	
+	color = rgb { 168 0 55 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		gnollish_group
+	}
+}
+
+sandfang_gnoll = {
+	language = sandfang_gnoll_dialect
+	
+	color = rgb { 171 165 150 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		gnollish_group
+	}
+}
+
+seascourge_gnoll = {
+	language = seascourge_gnoll_dialect
+	
+	color = rgb { 34 173 146 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		gnollish_group
+	}
+}
+
+hill_gnoll = {
+	language = hill_gnoll_dialect
+	
+	color = rgb { 185 122 87 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		gnollish_group
+	}
+}
+
+flamemarked_gnoll = {
+	language = flamemarked_gnoll_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		gnollish_group
+	}
+}
+
+fieldstalker_gnoll = {
+	language = fieldstalker_gnoll_dialect
+	
+	color = rgb { 160 110 110 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		gnollish_group
+	}
+}
+
+windhowler_gnoll = {
+	language = windhowler_gnoll_dialect
+	
+	color = rgb { 5 115 25 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		gnollish_group
+	}
+}
+
+khetfeaster_gnoll = {
+	language = khetfeaster_gnoll_dialect
+	
+	color = rgb { 150 149 122 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		gnollish_group
+	}
+}
+
+ruinscourge_gnoll = {
+	language = ruinscourge_gnoll_dialect
+	
+	color = rgb { 74 58 130 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		gnollish_group
+	}
+}
+
+dovesworn_gnoll = {
+	language = dovesworn_gnoll_dialect
+	
+	color = rgb { 189 171 212 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		gnollish_group
+	}
+}
+

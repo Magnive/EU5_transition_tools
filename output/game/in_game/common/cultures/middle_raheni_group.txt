@@ -1,0 +1,60 @@
+muthadhaya = {
+	language = muthadhaya_dialect
+	
+	color = rgb { 209 228 255 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		middle_raheni_group
+	}
+}
+
+rasarhid = {
+	language = rasarhid_dialect
+	
+	color = rgb { 153 206 236 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		middle_raheni_group
+	}
+}
+
+sarisungi = {
+	language = sarisungi_dialect
+	
+	color = rgb { 0 95 7 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		middle_raheni_group
+	}
+}
+
+chengrong = {
+	language = chengrong_dialect
+	
+	color = rgb { 205 87 137 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		middle_raheni_group
+	}
+}
+

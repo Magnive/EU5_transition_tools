@@ -1,0 +1,36 @@
+high_philosophy = { 
+	color = rgb { 73 9 96 }
+	group = raheni
+	
+	definition_modifier = {
+	}
+	
+	opinions = {
+	}
+
+	unique_names = {
+	}
+
+	tags = {  }
+	custom_tags = {  }
+}
+
+suhans_praxis = { 
+	color = rgb { 193 105 228 }
+	group = raheni
+	
+	enable = 1500.1.1
+
+	definition_modifier = {
+	}
+	
+	opinions = {
+	}
+
+	unique_names = {
+	}
+
+	tags = {  }
+	custom_tags = {  }
+}
+

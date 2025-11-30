@@ -1,0 +1,90 @@
+quchamar = {
+	language = quchamar_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		amadian_ruinborn_elf_group
+	}
+}
+
+chaqanel = {
+	language = chaqanel_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		amadian_ruinborn_elf_group
+	}
+}
+
+quruwei = {
+	language = quruwei_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		amadian_ruinborn_elf_group
+	}
+}
+
+chamullach = {
+	language = chamullach_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		amadian_ruinborn_elf_group
+	}
+}
+
+banche = {
+	language = banche_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		amadian_ruinborn_elf_group
+	}
+}
+
+faalte = {
+	language = faalte_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		amadian_ruinborn_elf_group
+	}
+}
+

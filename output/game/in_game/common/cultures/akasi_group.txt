@@ -1,0 +1,60 @@
+desha = {
+	language = desha_dialect
+	
+	color = rgb { 68 146 194 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		akasi_group
+	}
+}
+
+far_akasi = {
+	language = far_akasi_dialect
+	
+	color = rgb { 206 222 199 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		akasi_group
+	}
+}
+
+khasani = {
+	language = khasani_dialect
+	
+	color = rgb { 90 135 65 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		akasi_group
+	}
+}
+
+enigrax = {
+	language = enigrax_dialect
+	
+	color = rgb { 150 149 122 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		akasi_group
+	}
+}
+

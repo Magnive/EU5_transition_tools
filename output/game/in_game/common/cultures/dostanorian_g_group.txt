@@ -1,0 +1,120 @@
+corvurian = {
+	language = corvurian_dialect
+	
+	color = rgb { 120 120 120 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		dostanorian_g_group
+	}
+}
+
+neratican = {
+	language = neratican_dialect
+	
+	color = rgb { 16 138 144 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		dostanorian_g_group
+	}
+}
+
+ourdi = {
+	language = ourdi_dialect
+	
+	color = rgb { 90 120 60 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		dostanorian_g_group
+	}
+}
+
+cardesti = {
+	language = cardesti_dialect
+	
+	color = rgb { 182 131 46 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		dostanorian_g_group
+	}
+}
+
+dostanorian = {
+	language = dostanorian_dialect
+	
+	color = rgb { 162 0 2 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		dostanorian_g_group
+	}
+}
+
+ravenmarcher_d = {
+	language = ravenmarcher_d_dialect
+	
+	color = rgb { 59 52 72 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		dostanorian_g_group
+	}
+}
+
+nathalairey = {
+	language = nathalairey_dialect
+	
+	color = rgb { 66 66 66 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		dostanorian_g_group
+	}
+}
+
+dostanorian_half_elf = {
+	language = dostanorian_half_elf_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		dostanorian_g_group
+	}
+}
+

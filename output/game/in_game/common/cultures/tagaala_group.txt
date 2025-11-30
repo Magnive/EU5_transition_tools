@@ -1,0 +1,45 @@
+aliiula = {
+	language = aliiula_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		tagaala_group
+	}
+}
+
+togavaopaolo = {
+	language = togavaopaolo_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		tagaala_group
+	}
+}
+
+laautele = {
+	language = laautele_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		tagaala_group
+	}
+}
+

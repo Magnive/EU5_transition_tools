@@ -1,0 +1,51 @@
+mumambarra = { 
+	color = rgb { 189 103 17 }
+	group = danguranga_religion
+	
+	definition_modifier = {
+	}
+	
+	opinions = {
+	}
+
+	unique_names = {
+	}
+
+	tags = {  }
+	custom_tags = {  }
+}
+
+dunborgula = { 
+	color = rgb { 31 148 250 }
+	group = danguranga_religion
+	
+	definition_modifier = {
+	}
+	
+	opinions = {
+	}
+
+	unique_names = {
+	}
+
+	tags = {  }
+	custom_tags = {  }
+}
+
+aycha_alpa = { 
+	color = rgb { 129 126 101 }
+	group = danguranga_religion
+	
+	definition_modifier = {
+	}
+	
+	opinions = {
+	}
+
+	unique_names = {
+	}
+
+	tags = {  }
+	custom_tags = {  }
+}
+

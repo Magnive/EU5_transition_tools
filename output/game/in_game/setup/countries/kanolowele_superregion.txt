@@ -1,0 +1,588 @@
+N00 = {
+	color = rgb { 0 0 150 }
+
+	culture_definition = poplacoa
+	religion_definition = volcanic_truth
+}
+N01 = {
+	color = rgb { 224 0 62 }
+
+	culture_definition = poplacoa
+	religion_definition = volcanic_truth
+}
+N02 = {
+	color = rgb { 0 128 0 }
+
+	culture_definition = poplacoa
+	religion_definition = volcanic_truth
+}
+N03 = {
+	color = rgb { 179 179 0 }
+
+	culture_definition = poplacoa
+	religion_definition = volcanic_truth
+}
+N04 = {
+	color = rgb { 0 200 230 }
+
+	culture_definition = poplacoa
+	religion_definition = volcanic_truth
+}
+N05 = {
+	color = rgb { 128 255 255 }
+
+	culture_definition = haloalao
+	religion_definition = endless_ocean
+}
+N06 = {
+	color = rgb { 131 137 150 }
+
+	culture_definition = tluinuhi
+	religion_definition = speaking_memory
+}
+N07 = {
+	color = rgb { 227 224 205 }
+
+	culture_definition = tluinuhi
+	religion_definition = speaking_memory
+}
+N08 = {
+	color = rgb { 0 77 13 }
+
+	culture_definition = mautpokla
+	religion_definition = volcanic_truth
+}
+N09 = {
+	color = rgb { 255 128 0 }
+
+	culture_definition = mautpokla
+	religion_definition = volcanic_truth
+}
+N10 = {
+	color = rgb { 176 11 105 }
+
+	culture_definition = honolitzlo
+	religion_definition = endless_ocean
+}
+N11 = {
+	color = rgb { 60 60 60 }
+
+	culture_definition = xoitlonua
+	religion_definition = volcanic_truth
+}
+N12 = {
+	color = rgb { 15 127 212 }
+
+	culture_definition = honolitzlo
+	religion_definition = endless_ocean
+}
+N13 = {
+	color = rgb { 0 106 128 }
+
+	culture_definition = wailana
+	religion_definition = speaking_memory
+}
+N14 = {
+	color = rgb { 255 230 234 }
+
+	culture_definition = tluinuhi
+	religion_definition = speaking_memory
+}
+N15 = {
+	color = rgb { 217 25 255 }
+
+	culture_definition = tluinuhi
+	religion_definition = speaking_memory
+}
+N16 = {
+	color = rgb { 190 45 100 }
+
+	culture_definition = xoitlonua
+	religion_definition = volcanic_truth
+}
+N17 = {
+	color = rgb { 128 106 0 }
+
+	culture_definition = taupotzlo
+	religion_definition = speaking_memory
+}
+N18 = {
+	color = rgb { 164 252 86 }
+
+	culture_definition = seacrest_ogre
+	religion_definition = volcanic_truth
+}
+N19 = {
+	color = rgb { 60 230 200 }
+
+	culture_definition = xoitlonua
+	religion_definition = volcanic_truth
+}
+N20 = {
+	color = rgb { 149 0 0 }
+
+	culture_definition = xoitlonua
+	religion_definition = volcanic_truth
+}
+N21 = {
+	color = rgb { 92 186 210 }
+
+	culture_definition = taupotzlo
+	religion_definition = endless_ocean
+}
+N22 = {
+	color = rgb { 125 16 16 }
+
+	culture_definition = xoitlonua
+	religion_definition = volcanic_truth
+}
+N23 = {
+	color = rgb { 204 119 34 }
+
+	culture_definition = kaukai
+	religion_definition = volcanic_truth
+}
+N24 = {
+	color = rgb { 255 242 0 }
+
+	culture_definition = kaukai
+	religion_definition = speaking_memory
+}
+N25 = {
+	color = rgb { 180 124 51 }
+
+	culture_definition = taupotzlo
+	religion_definition = endless_ocean
+}
+N26 = {
+	color = rgb { 211 211 211 }
+
+	culture_definition = seacrest_ogre
+	religion_definition = endless_ocean
+}
+N27 = {
+	color = rgb { 212 42 42 }
+
+	culture_definition = tluinuhi
+	religion_definition = volcanic_truth
+}
+N28 = {
+	color = rgb { 106 128 0 }
+
+	culture_definition = kapelami
+	religion_definition = speaking_memory
+}
+N29 = {
+	color = rgb { 85 0 255 }
+
+	culture_definition = kapelami
+	religion_definition = speaking_memory
+}
+N30 = {
+	color = rgb { 230 102 94 }
+
+	culture_definition = taupotzlo
+	religion_definition = endless_ocean
+}
+N31 = {
+	color = rgb { 0 125 51 }
+
+	culture_definition = wailana
+	religion_definition = endless_ocean
+}
+N32 = {
+	color = rgb { 157 51 167 }
+
+	culture_definition = tluinuhi
+	religion_definition = volcanic_truth
+}
+N33 = {
+	color = rgb { 64 11 11 }
+
+	culture_definition = tluinuhi
+	religion_definition = volcanic_truth
+}
+N34 = {
+	color = rgb { 255 87 193 }
+
+	culture_definition = tluinuhi
+	religion_definition = volcanic_truth
+}
+N35 = {
+	color = rgb { 250 82 60 }
+
+	culture_definition = kaukai
+	religion_definition = endless_ocean
+}
+N36 = {
+	color = rgb { 4 27 201 }
+
+	culture_definition = holoino
+	religion_definition = endless_ocean
+}
+N37 = {
+	color = rgb { 230 115 0 }
+
+	culture_definition = wailana
+	religion_definition = volcanic_truth
+}
+N38 = {
+	color = rgb { 230 255 255 }
+
+	culture_definition = kahuipa
+	religion_definition = speaking_memory
+}
+N39 = {
+	color = rgb { 255 155 155 }
+
+	culture_definition = molopai
+	religion_definition = endless_ocean
+}
+N40 = {
+	color = rgb { 144 144 144 }
+
+	culture_definition = kahuipa
+	religion_definition = speaking_memory
+}
+N41 = {
+	color = rgb { 9 255 204 }
+
+	culture_definition = wailana
+	religion_definition = speaking_memory
+}
+N42 = {
+	color = rgb { 252 226 5 }
+
+	culture_definition = wailana
+	religion_definition = speaking_memory
+}
+N43 = {
+	color = rgb { 56 29 80 }
+
+	culture_definition = kapelami
+	religion_definition = speaking_memory
+}
+N44 = {
+	color = rgb { 224 196 13 }
+
+	culture_definition = holoino
+	religion_definition = endless_ocean
+}
+N45 = {
+	color = rgb { 160 0 0 }
+
+	culture_definition = kapelami
+	religion_definition = volcanic_truth
+}
+N46 = {
+	color = rgb { 0 255 114 }
+
+	culture_definition = molopai
+	religion_definition = endless_ocean
+}
+N47 = {
+	color = rgb { 0 89 179 }
+
+	culture_definition = molopai
+	religion_definition = endless_ocean
+}
+N48 = {
+	color = rgb { 239 232 169 }
+
+	culture_definition = holoino
+	religion_definition = endless_ocean
+}
+N49 = {
+	color = rgb { 121 252 156 }
+
+	culture_definition = holoino
+	religion_definition = endless_ocean
+}
+N50 = {
+	color = rgb { 181 166 66 }
+
+	culture_definition = molopai
+	religion_definition = speaking_memory
+}
+N51 = {
+	color = rgb { 235 161 105 }
+
+	culture_definition = molopai
+	religion_definition = speaking_memory
+}
+N52 = {
+	color = rgb { 18 176 194 }
+
+	culture_definition = holoino
+	religion_definition = endless_ocean
+}
+N53 = {
+	color = rgb { 154 185 115 }
+
+	culture_definition = holoino
+	religion_definition = endless_ocean
+}
+N54 = {
+	color = rgb { 204 204 255 }
+
+	culture_definition = holoino
+	religion_definition = speaking_memory
+}
+N55 = {
+	color = rgb { 193 167 136 }
+
+	culture_definition = holoino
+	religion_definition = endless_ocean
+}
+N56 = {
+	color = rgb { 0 0 70 }
+
+	culture_definition = holoino
+	religion_definition = endless_ocean
+}
+N58 = {
+	color = rgb { 140 100 200 }
+
+	culture_definition = seacrest_ogre
+	religion_definition = volcanic_truth
+}
+N59 = {
+	color = rgb { 85 0 128 }
+
+	culture_definition = seacrest_ogre
+	religion_definition = volcanic_truth
+}
+N60 = {
+	color = rgb { 238 118 42 }
+
+	culture_definition = seacrest_ogre
+	religion_definition = volcanic_truth
+}
+N61 = {
+	color = rgb { 188 99 79 }
+
+	culture_definition = kapelami
+	religion_definition = speaking_memory
+}
+N62 = {
+	color = rgb { 242 179 255 }
+
+	culture_definition = xoitlonua
+	religion_definition = endless_ocean
+}
+N63 = {
+	color = rgb { 42 34 35 }
+
+	culture_definition = seacrest_ogre
+	religion_definition = volcanic_truth
+}
+N64 = {
+	color = rgb { 160 0 88 }
+
+	culture_definition = seacrest_ogre
+	religion_definition = volcanic_truth
+}
+N65 = {
+	color = rgb { 136 8 8 }
+
+	culture_definition = mautpokla
+	religion_definition = volcanic_truth
+}
+N66 = {
+	color = rgb { 11 59 252 }
+
+	culture_definition = seacrest_ogre
+	religion_definition = speaking_memory
+}
+N67 = {
+	color = rgb { 24 206 4 }
+
+	culture_definition = seacrest_ogre
+	religion_definition = volcanic_truth
+}
+N68 = {
+	color = rgb { 255 0 200 }
+
+	culture_definition = seacrest_ogre
+	religion_definition = volcanic_truth
+}
+N69 = {
+	color = rgb { 253 254 202 }
+
+	culture_definition = taupotzlo
+	religion_definition = volcanic_truth
+}
+N70 = {
+	color = rgb { 228 111 181 }
+
+	culture_definition = mokaika
+	religion_definition = speaking_memory
+}
+N71 = {
+	color = rgb { 255 162 41 }
+
+	culture_definition = mokaika
+	religion_definition = speaking_memory
+}
+N72 = {
+	color = rgb { 0 149 179 }
+
+	culture_definition = xoitlonua
+	religion_definition = speaking_memory
+}
+N73 = {
+	color = rgb { 173 35 94 }
+
+	culture_definition = seacrest_ogre
+	religion_definition = volcanic_truth
+}
+N74 = {
+	color = rgb { 94 35 173 }
+
+	culture_definition = seacrest_ogre
+	religion_definition = volcanic_truth
+}
+N75 = {
+	color = rgb { 76 49 100 }
+
+	culture_definition = kapelami
+	religion_definition = speaking_memory
+}
+N78 = {
+	color = rgb { 255 204 153 }
+
+	culture_definition = kamgoro
+	religion_definition = infinite_self
+}
+N79 = {
+	color = rgb { 149 179 0 }
+
+	culture_definition = poplacoa
+	religion_definition = endless_ocean
+}
+N80 = {
+	color = rgb { 210 120 204 }
+
+	culture_definition = skyfall_ogre
+	religion_definition = infinite_self
+}
+N81 = {
+	color = rgb { 255 121 0 }
+
+	culture_definition = skyfall_ogre
+	religion_definition = infinite_self
+}
+N82 = {
+	color = rgb { 0 55 255 }
+
+	culture_definition = atuganum
+	religion_definition = infinite_self
+}
+N83 = {
+	color = rgb { 105 64 20 }
+
+	culture_definition = atuganum
+	religion_definition = infinite_self
+}
+N84 = {
+	color = rgb { 48 25 52 }
+
+	culture_definition = kamgoro
+	religion_definition = infinite_self
+}
+N85 = {
+	color = rgb { 140 249 255 }
+
+	culture_definition = momoki
+	religion_definition = infinite_self
+}
+N86 = {
+	color = rgb { 157 51 167 }
+
+	culture_definition = skyfall_ogre
+	religion_definition = infinite_self
+}
+N87 = {
+	color = rgb { 190 0 50 }
+
+	culture_definition = skyfall_ogre
+	religion_definition = infinite_self
+}
+N88 = {
+	color = rgb { 173 85 61 }
+
+	culture_definition = skyfall_ogre
+	religion_definition = infinite_self
+}
+N89 = {
+	color = rgb { 179 149 0 }
+
+	culture_definition = skyfall_ogre
+	religion_definition = infinite_self
+}
+N90 = {
+	color = rgb { 169 47 2 }
+
+	culture_definition = skyfall_ogre
+	religion_definition = infinite_self
+}
+N91 = {
+	color = rgb { 23 35 41 }
+
+	culture_definition = sirimadsik_kobold
+	religion_definition = infinite_self
+}
+N92 = {
+	color = rgb { 117 203 255 }
+
+	culture_definition = skyfall_ogre
+	religion_definition = infinite_self
+}
+N93 = {
+	color = rgb { 140 140 170 }
+
+	culture_definition = skyfall_ogre
+	religion_definition = infinite_self
+}
+N94 = {
+	color = rgb { 245 120 24 }
+
+	culture_definition = atuganum
+	religion_definition = infinite_self
+}
+N95 = {
+	color = rgb { 50 168 82 }
+
+	culture_definition = skyfall_ogre
+	religion_definition = infinite_self
+}
+N96 = {
+	color = rgb { 28 139 199 }
+
+	culture_definition = momoki
+	religion_definition = infinite_self
+}
+N97 = {
+	color = rgb { 200 204 207 }
+
+	culture_definition = skyfall_ogre
+	religion_definition = infinite_self
+}
+N98 = {
+	color = rgb { 188 83 83 }
+
+	culture_definition = badarari
+	religion_definition = infinite_self
+}
+N99 = {
+	color = rgb { 255 230 8 }
+
+	culture_definition = atuganum
+	religion_definition = infinite_self
+}
+P01 = {
+	color = rgb { 139 7 222 }
+
+	culture_definition = kaukai
+	religion_definition = endless_ocean
+}

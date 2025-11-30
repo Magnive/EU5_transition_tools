@@ -1,0 +1,75 @@
+ikaniwagain = {
+	language = ikaniwagain_dialect
+	
+	color = rgb { 153 76 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		wuhyun_group
+	}
+}
+
+kintonan = {
+	language = kintonan_dialect
+	
+	color = rgb { 153 76 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		wuhyun_group
+	}
+}
+
+azepyanunin = {
+	language = azepyanunin_dialect
+	
+	color = rgb { 153 76 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		wuhyun_group
+	}
+}
+
+wuhyun_half_orc = {
+	language = wuhyun_half_orc_dialect
+	
+	color = rgb { 153 76 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		wuhyun_group
+	}
+}
+
+rinonokegyun = {
+	language = rinonokegyun_dialect
+	
+	color = rgb { 153 76 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		wuhyun_group
+	}
+}
+

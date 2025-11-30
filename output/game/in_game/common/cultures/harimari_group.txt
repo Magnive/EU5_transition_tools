@@ -1,0 +1,105 @@
+royal_harimari = {
+	language = royal_harimari_dialect
+	
+	color = rgb { 45 27 72 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		harimari_group
+	}
+}
+
+primal_harimari = {
+	language = primal_harimari_dialect
+	
+	color = rgb { 51 31 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		harimari_group
+	}
+}
+
+serene_harimari = {
+	language = serene_harimari_dialect
+	
+	color = rgb { 209 57 129 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		harimari_group
+	}
+}
+
+roaming_harimari = {
+	language = roaming_harimari_dialect
+	
+	color = rgb { 10 50 50 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		harimari_group
+	}
+}
+
+worthy_harimari = {
+	language = worthy_harimari_dialect
+	
+	color = rgb { 153 76 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		harimari_group
+	}
+}
+
+silent_harimari = {
+	language = silent_harimari_dialect
+	
+	color = rgb { 191 157 111 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		harimari_group
+	}
+}
+
+ashwoven_harimari = {
+	language = ashwoven_harimari_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		harimari_group
+	}
+}
+

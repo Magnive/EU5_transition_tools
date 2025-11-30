@@ -1,0 +1,120 @@
+plain_centaur = {
+	language = plain_centaur_dialect
+	
+	color = rgb { 100 15 15 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		centaur_group
+	}
+}
+
+inaer_centaur = {
+	language = inaer_centaur_dialect
+	
+	color = rgb { 207 169 55 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		centaur_group
+	}
+}
+
+avil_centaur = {
+	language = avil_centaur_dialect
+	
+	color = rgb { 110 150 64 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		centaur_group
+	}
+}
+
+irdu_centaur = {
+	language = irdu_centaur_dialect
+	
+	color = rgb { 150 100 100 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		centaur_group
+	}
+}
+
+ghanzamh_centaur = {
+	language = ghanzamh_centaur_dialect
+	
+	color = rgb { 250 100 100 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		centaur_group
+	}
+}
+
+sochar_centaur = {
+	language = sochar_centaur_dialect
+	
+	color = rgb { 45 115 215 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		centaur_group
+	}
+}
+
+anuar_centaur = {
+	language = anuar_centaur_dialect
+	
+	color = rgb { 185 5 5 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		centaur_group
+	}
+}
+
+abalg_centaur = {
+	language = abalg_centaur_dialect
+	
+	color = rgb { 50 90 50 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		centaur_group
+	}
+}
+

@@ -1,0 +1,105 @@
+hapremiti = {
+	language = hapremiti_dialect
+	
+	color = rgb { 219 148 35 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		kheteratan_group
+	}
+}
+
+irsmahapan = {
+	language = irsmahapan_dialect
+	
+	color = rgb { 219 217 35 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		kheteratan_group
+	}
+}
+
+shasouran = {
+	language = shasouran_dialect
+	
+	color = rgb { 201 173 165 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		kheteratan_group
+	}
+}
+
+korosheshi = {
+	language = korosheshi_dialect
+	
+	color = rgb { 90 170 150 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		kheteratan_group
+	}
+}
+
+tijarikheti = {
+	language = tijarikheti_dialect
+	
+	color = rgb { 186 89 157 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		kheteratan_group
+	}
+}
+
+horakheti = {
+	language = horakheti_dialect
+	
+	color = rgb { 6 17 79 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		kheteratan_group
+	}
+}
+
+asbaiwix = {
+	language = asbaiwix_dialect
+	
+	color = rgb { 150 149 122 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		kheteratan_group
+	}
+}
+

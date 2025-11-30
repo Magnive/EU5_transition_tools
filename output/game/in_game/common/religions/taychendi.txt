@@ -1,0 +1,70 @@
+gods_of_the_taychend = { 
+	color = rgb { 188 181 73 }
+	group = taychendi
+	
+	definition_modifier = {
+	}
+	
+	opinions = {
+	}
+
+	unique_names = {
+	}
+
+	tags = {  }
+	custom_tags = {  }
+}
+
+oren_nayiru = { 
+	color = rgb { 227 117 54 }
+	group = taychendi
+	
+	enable = 1450.1.1
+
+	definition_modifier = {
+	}
+	
+	opinions = {
+	}
+
+	unique_names = {
+	}
+
+	tags = {  }
+	custom_tags = {  }
+}
+
+oren_nayiru_reformed = { 
+	color = rgb { 227 117 54 }
+	group = taychendi
+	
+	definition_modifier = {
+	}
+	
+	opinions = {
+	}
+
+	unique_names = {
+	}
+
+	tags = {  }
+	custom_tags = {  }
+}
+
+gods_of_the_taychend_reformed = { 
+	color = rgb { 188 181 73 }
+	group = taychendi
+	
+	definition_modifier = {
+	}
+	
+	opinions = {
+	}
+
+	unique_names = {
+	}
+
+	tags = {  }
+	custom_tags = {  }
+}
+

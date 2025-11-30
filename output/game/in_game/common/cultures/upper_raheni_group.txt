@@ -1,0 +1,120 @@
+kamtarhid = {
+	language = kamtarhid_dialect
+	
+	color = rgb { 70 76 47 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		upper_raheni_group
+	}
+}
+
+khedarid = {
+	language = khedarid_dialect
+	
+	color = rgb { 98 124 90 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		upper_raheni_group
+	}
+}
+
+shamadhan = {
+	language = shamadhan_dialect
+	
+	color = rgb { 140 62 91 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		upper_raheni_group
+	}
+}
+
+shandibad = {
+	language = shandibad_dialect
+	
+	color = rgb { 180 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		upper_raheni_group
+	}
+}
+
+rajnadhid = {
+	language = rajnadhid_dialect
+	
+	color = rgb { 110 74 153 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		upper_raheni_group
+	}
+}
+
+sobhagand = {
+	language = sobhagand_dialect
+	
+	color = rgb { 145 102 35 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		upper_raheni_group
+	}
+}
+
+ghavaanaj = {
+	language = ghavaanaj_dialect
+	
+	color = rgb { 60 25 40 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		upper_raheni_group
+	}
+}
+
+shamakhadi = {
+	language = shamakhadi_dialect
+	
+	color = rgb { 98 124 90 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		upper_raheni_group
+	}
+}
+

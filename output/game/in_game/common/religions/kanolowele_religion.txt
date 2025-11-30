@@ -1,0 +1,51 @@
+speaking_memory = { 
+	color = rgb { 56 29 80 }
+	group = kanolowele_religion
+	
+	definition_modifier = {
+	}
+	
+	opinions = {
+	}
+
+	unique_names = {
+	}
+
+	tags = {  }
+	custom_tags = {  }
+}
+
+volcanic_truth = { 
+	color = rgb { 125 16 16 }
+	group = kanolowele_religion
+	
+	definition_modifier = {
+	}
+	
+	opinions = {
+	}
+
+	unique_names = {
+	}
+
+	tags = {  }
+	custom_tags = {  }
+}
+
+endless_ocean = { 
+	color = rgb { 20 232 255 }
+	group = kanolowele_religion
+	
+	definition_modifier = {
+	}
+	
+	opinions = {
+	}
+
+	unique_names = {
+	}
+
+	tags = {  }
+	custom_tags = {  }
+}
+

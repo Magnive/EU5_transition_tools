@@ -1,0 +1,102 @@
+H74 = {
+	color = rgb { 0 105 62 }
+
+	culture_definition = undergrowth_goblin
+	religion_definition = goblinic_shamanism
+}
+H79 = {
+	color = rgb { 176 146 37 }
+
+	culture_definition = amber_dwarf
+	religion_definition = ancestor_worship
+}
+H88 = {
+	color = rgb { 237 148 65 }
+
+	culture_definition = undergrowth_goblin
+	religion_definition = goblinic_shamanism
+}
+H92 = {
+	color = rgb { 214 192 155 }
+
+	culture_definition = undergrowth_goblin
+	religion_definition = goblinic_shamanism
+}
+H93 = {
+	color = rgb { 68 78 62 }
+
+	culture_definition = undergrowth_goblin
+	religion_definition = goblinic_shamanism
+}
+H98 = {
+	color = rgb { 60 11 22 }
+
+	culture_definition = amethyst_dwarf
+	religion_definition = ancestor_worship
+}
+I18 = {
+	color = rgb { 135 225 135 }
+
+	culture_definition = peridot_dwarf
+	religion_definition = ancestor_worship
+}
+I19 = {
+	color = rgb { 114 202 227 }
+
+	culture_definition = granite_dwarf
+	religion_definition = dwarven_pantheon
+}
+I20 = {
+	color = rgb { 153 108 204 }
+
+	culture_definition = amethyst_dwarf
+	religion_definition = ancestor_worship
+}
+I21 = {
+	color = rgb { 27 253 102 }
+
+	culture_definition = emerald_dwarf
+	religion_definition = ancestor_worship
+}
+I22 = {
+	color = rgb { 0 168 107 }
+
+	culture_definition = jade_dwarf
+	religion_definition = ancestor_worship
+}
+I25 = {
+	color = rgb { 0 125 65 }
+
+	culture_definition = malachite_dwarf
+	religion_definition = ancestor_worship
+}
+M02 = {
+	color = rgb { 191 157 111 }
+
+	culture_definition = silent_harimari
+	religion_definition = high_philosophy
+}
+R65 = {
+	color = rgb { 20 50 30 }
+
+	culture_definition = undergrowth_goblin
+	religion_definition = goblinic_shamanism
+}
+R66 = {
+	color = rgb { 91 79 44 }
+
+	culture_definition = undergrowth_goblin
+	religion_definition = goblinic_shamanism
+}
+R81 = {
+	color = rgb { 67 111 78 }
+
+	culture_definition = march_goblin
+	religion_definition = godlost
+}
+R95 = {
+	color = rgb { 140 83 1 }
+
+	culture_definition = lion_command
+	religion_definition = godlost
+}

@@ -1,0 +1,60 @@
+giteuni = {
+	language = giteuni_dialect
+	
+	color = rgb { 192 192 192 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		gowon_group
+	}
+}
+
+wonju = {
+	language = wonju_dialect
+	
+	color = rgb { 60 160 120 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		gowon_group
+	}
+}
+
+dudimkkun = {
+	language = dudimkkun_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		gowon_group
+	}
+}
+
+guwaadun = {
+	language = guwaadun_dialect
+	
+	color = rgb { 15 90 125 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		gowon_group
+	}
+}
+

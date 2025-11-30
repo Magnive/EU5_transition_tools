@@ -1,0 +1,15 @@
+homunculi = {
+	language = homunculi_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		construct_group
+	}
+}
+

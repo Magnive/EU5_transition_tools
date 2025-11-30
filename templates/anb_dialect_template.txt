@@ -1,0 +1,10 @@
+		PH_DIALECT = {
+			male_names = {
+			}
+			female_names = {
+			}
+			dynasty_names = {
+			}
+			lowborn = {
+			}
+		}

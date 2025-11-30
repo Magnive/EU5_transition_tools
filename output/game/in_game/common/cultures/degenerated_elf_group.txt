@@ -1,0 +1,90 @@
+bloodfeeders = {
+	language = bloodfeeders_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		degenerated_elf_group
+	}
+}
+
+silent_watchers = {
+	language = silent_watchers_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		degenerated_elf_group
+	}
+}
+
+cursed_ones = {
+	language = cursed_ones_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		degenerated_elf_group
+	}
+}
+
+leechmen = {
+	language = leechmen_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		degenerated_elf_group
+	}
+}
+
+seedthrall = {
+	language = seedthrall_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		degenerated_elf_group
+	}
+}
+
+ice_sleepers = {
+	language = ice_sleepers_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		degenerated_elf_group
+	}
+}
+

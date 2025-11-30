@@ -1,0 +1,75 @@
+blue_reachman_r = {
+	language = blue_reachman_r_dialect
+	
+	color = rgb { 99 138 197 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		reachman_group
+	}
+}
+
+white_reachman_r = {
+	language = white_reachman_r_dialect
+	
+	color = rgb { 128 255 255 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		reachman_group
+	}
+}
+
+moorman_r = {
+	language = moorman_r_dialect
+	
+	color = rgb { 71 84 102 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		reachman_group
+	}
+}
+
+green_reachman = {
+	language = green_reachman_dialect
+	
+	color = rgb { 92 70 37 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		reachman_group
+	}
+}
+
+black_reachman = {
+	language = black_reachman_dialect
+	
+	color = rgb { 234 200 200 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		reachman_group
+	}
+}
+

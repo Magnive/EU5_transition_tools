@@ -1,0 +1,165 @@
+moon_elf = {
+	language = moon_elf_dialect
+	
+	color = rgb { 196 243 246 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		elven_group
+	}
+}
+
+star_elf = {
+	language = star_elf_dialect
+	
+	color = rgb { 28 31 150 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		elven_group
+	}
+}
+
+sun_elf = {
+	language = sun_elf_dialect
+	
+	color = rgb { 227 177 52 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		elven_group
+	}
+}
+
+sunrise_elf = {
+	language = sunrise_elf_dialect
+	
+	color = rgb { 150 65 20 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		elven_group
+	}
+}
+
+sunset_elf = {
+	language = sunset_elf_dialect
+	
+	color = rgb { 176 59 23 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		elven_group
+	}
+}
+
+desert_elf = {
+	language = desert_elf_dialect
+	
+	color = rgb { 241 135 50 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		elven_group
+	}
+}
+
+dawn_elf = {
+	language = dawn_elf_dialect
+	
+	color = rgb { 207 140 52 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		elven_group
+	}
+}
+
+horizon_elf = {
+	language = horizon_elf_dialect
+	
+	color = rgb { 129 217 235 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		elven_group
+	}
+}
+
+eclipse_elf = {
+	language = eclipse_elf_dialect
+	
+	color = rgb { 161 42 42 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		elven_group
+	}
+}
+
+wood_elf = {
+	language = wood_elf_dialect
+	
+	color = rgb { 10 95 13 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		elven_group
+	}
+}
+
+sea_elf = {
+	language = sea_elf_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		elven_group
+	}
+}
+

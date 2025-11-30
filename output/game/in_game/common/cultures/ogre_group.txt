@@ -1,0 +1,120 @@
+fathide_ogre = {
+	language = fathide_ogre_dialect
+	
+	color = rgb { 196 180 132 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		ogre_group
+	}
+}
+
+mossmouth_ogre = {
+	language = mossmouth_ogre_dialect
+	
+	color = rgb { 78 173 71 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		ogre_group
+	}
+}
+
+bloodtooth_ogre = {
+	language = bloodtooth_ogre_dialect
+	
+	color = rgb { 192 159 68 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		ogre_group
+	}
+}
+
+horned_ogre = {
+	language = horned_ogre_dialect
+	
+	color = rgb { 192 50 70 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		ogre_group
+	}
+}
+
+soulseeker_ogre = {
+	language = soulseeker_ogre_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		ogre_group
+	}
+}
+
+skyfall_ogre = {
+	language = skyfall_ogre_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		ogre_group
+	}
+}
+
+seacrest_ogre = {
+	language = seacrest_ogre_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		ogre_group
+	}
+}
+
+dunesole_ogre = {
+	language = dunesole_ogre_dialect
+	
+	color = rgb { 0 5 128 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		ogre_group
+	}
+}
+

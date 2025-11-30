@@ -1,0 +1,330 @@
+anbenncoster = {
+	language = anbenncoster_dialect
+	
+	color = rgb { 95 178 186 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		anbennarian_group
+	}
+}
+
+half_elf = {
+	language = half_elf_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		anbennarian_group
+	}
+}
+
+west_damerian = {
+	language = west_damerian_dialect
+	
+	color = rgb { 37 138 164 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		anbennarian_group
+	}
+}
+
+east_damerian = {
+	language = east_damerian_dialect
+	
+	color = rgb { 0 165 187 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		anbennarian_group
+	}
+}
+
+pearlsedger = {
+	language = pearlsedger_dialect
+	
+	color = rgb { 255 249 232 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		anbennarian_group
+	}
+}
+
+crownsman = {
+	language = crownsman_dialect
+	
+	color = rgb { 221 198 129 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		anbennarian_group
+	}
+}
+
+vernman = {
+	language = vernman_dialect
+	
+	color = rgb { 150 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		anbennarian_group
+	}
+}
+
+exwesser = {
+	language = exwesser_dialect
+	
+	color = rgb { 125 182 192 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		anbennarian_group
+	}
+}
+
+arbarani = {
+	language = arbarani_dialect
+	
+	color = rgb { 135 166 165 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		anbennarian_group
+	}
+}
+
+dhanaenno = {
+	language = dhanaenno_dialect
+	
+	color = rgb { 16 138 144 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		anbennarian_group
+	}
+}
+
+esmari = {
+	language = esmari_dialect
+	
+	color = rgb { 241 174 118 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		anbennarian_group
+	}
+}
+
+arannese = {
+	language = arannese_dialect
+	
+	color = rgb { 31 49 138 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		anbennarian_group
+	}
+}
+
+uelairey = {
+	language = uelairey_dialect
+	
+	color = rgb { 103 252 204 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		anbennarian_group
+	}
+}
+
+aldresian = {
+	language = aldresian_dialect
+	
+	color = rgb { 50 255 255 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		anbennarian_group
+	}
+}
+
+telgeiran = {
+	language = telgeiran_dialect
+	
+	color = rgb { 117 134 143 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		anbennarian_group
+	}
+}
+
+pashainey = {
+	language = pashainey_dialect
+	
+	color = rgb { 130 55 140 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		anbennarian_group
+	}
+}
+
+havoric = {
+	language = havoric_dialect
+	
+	color = rgb { 127 144 168 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		anbennarian_group
+	}
+}
+
+vanburian = {
+	language = vanburian_dialect
+	
+	color = rgb { 117 134 143 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		anbennarian_group
+	}
+}
+
+themarian = {
+	language = themarian_dialect
+	
+	color = rgb { 182 210 232 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		anbennarian_group
+	}
+}
+
+gliosine = {
+	language = gliosine_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		anbennarian_group
+	}
+}
+
+arthaman = {
+	language = arthaman_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		anbennarian_group
+	}
+}
+
+fiadionni = {
+	language = fiadionni_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		anbennarian_group
+	}
+}
+

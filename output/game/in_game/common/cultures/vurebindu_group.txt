@@ -1,0 +1,75 @@
+zuvunwa = {
+	language = zuvunwa_dialect
+	
+	color = rgb { 0 102 255 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		vurebindu_group
+	}
+}
+
+kuivanhi = {
+	language = kuivanhi_dialect
+	
+	color = rgb { 204 130 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		vurebindu_group
+	}
+}
+
+kudenta = {
+	language = kudenta_dialect
+	
+	color = rgb { 180 80 20 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		vurebindu_group
+	}
+}
+
+gomzumu = {
+	language = gomzumu_dialect
+	
+	color = rgb { 180 80 20 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		vurebindu_group
+	}
+}
+
+egilshibi = {
+	language = egilshibi_dialect
+	
+	color = rgb { 180 80 20 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		vurebindu_group
+	}
+}
+

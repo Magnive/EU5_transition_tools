@@ -1,0 +1,90 @@
+ranilau = {
+	language = ranilau_dialect
+	
+	color = rgb { 35 153 90 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		bom_group
+	}
+}
+
+biengdi = {
+	language = biengdi_dialect
+	
+	color = rgb { 136 165 164 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		bom_group
+	}
+}
+
+gon = {
+	language = gon_dialect
+	
+	color = rgb { 110 230 160 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		bom_group
+	}
+}
+
+risbeko = {
+	language = risbeko_dialect
+	
+	color = rgb { 243 120 28 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		bom_group
+	}
+}
+
+teplin = {
+	language = teplin_dialect
+	
+	color = rgb { 227 79 79 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		bom_group
+	}
+}
+
+bom_half_elf = {
+	language = bom_half_elf_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		bom_group
+	}
+}
+

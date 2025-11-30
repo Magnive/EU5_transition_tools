@@ -1,0 +1,90 @@
+metsamic = {
+	language = metsamic_dialect
+	
+	color = rgb { 20 50 210 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		triunic_group
+	}
+}
+
+zabatlari = {
+	language = zabatlari_dialect
+	
+	color = rgb { 20 50 210 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		triunic_group
+	}
+}
+
+khamgunai = {
+	language = khamgunai_dialect
+	
+	color = rgb { 20 50 210 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		triunic_group
+	}
+}
+
+kukatodic = {
+	language = kukatodic_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		triunic_group
+	}
+}
+
+orachav = {
+	language = orachav_dialect
+	
+	color = rgb { 70 41 12 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		triunic_group
+	}
+}
+
+urmanki = {
+	language = urmanki_dialect
+	
+	color = rgb { 7 74 74 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		triunic_group
+	}
+}
+

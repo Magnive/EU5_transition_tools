@@ -1,0 +1,106 @@
+kodave_followers = { 
+	color = rgb { 235 88 48 }
+	group = triunic_lake
+	
+	definition_modifier = {
+	}
+	
+	opinions = {
+	}
+
+	unique_names = {
+	}
+
+	tags = {  }
+	custom_tags = {  }
+}
+
+yukel_followers = { 
+	color = rgb { 160 160 160 }
+	group = triunic_lake
+	
+	definition_modifier = {
+	}
+	
+	opinions = {
+	}
+
+	unique_names = {
+	}
+
+	tags = {  }
+	custom_tags = {  }
+}
+
+enuuk_followers = { 
+	color = rgb { 225 181 55 }
+	group = triunic_lake
+	
+	definition_modifier = {
+	}
+	
+	opinions = {
+	}
+
+	unique_names = {
+	}
+
+	tags = {  }
+	custom_tags = {  }
+}
+
+kalyin_worshippers = { 
+	color = rgb { 100 127 200 }
+	group = triunic_lake
+	
+	enable = 1530.1.1
+
+	definition_modifier = {
+	}
+	
+	opinions = {
+	}
+
+	unique_names = {
+	}
+
+	tags = {  }
+	custom_tags = {  }
+}
+
+kukatodic_religion = { 
+	color = rgb { 196 255 222 }
+	group = triunic_lake
+	
+	definition_modifier = {
+	}
+	
+	opinions = {
+	}
+
+	unique_names = {
+	}
+
+	tags = {  }
+	custom_tags = {  }
+}
+
+yudunyovi = { 
+	color = rgb { 244 170 13 }
+	group = triunic_lake
+	
+	enable = 1610.1.1
+
+	definition_modifier = {
+	}
+	
+	opinions = {
+	}
+
+	unique_names = {
+	}
+
+	tags = {  }
+	custom_tags = {  }
+}
+

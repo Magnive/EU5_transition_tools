@@ -1,0 +1,75 @@
+ofehibi = {
+	language = ofehibi_dialect
+	
+	color = rgb { 158 132 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		mengi_group
+	}
+}
+
+sitewosi = {
+	language = sitewosi_dialect
+	
+	color = rgb { 26 40 73 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		mengi_group
+	}
+}
+
+metobesebi = {
+	language = metobesebi_dialect
+	
+	color = rgb { 48 124 69 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		mengi_group
+	}
+}
+
+yeteferen = {
+	language = yeteferen_dialect
+	
+	color = rgb { 100 72 196 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		mengi_group
+	}
+}
+
+talilibeti = {
+	language = talilibeti_dialect
+	
+	color = rgb { 15 122 115 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		mengi_group
+	}
+}
+

@@ -1,0 +1,555 @@
+ruby_dwarf = {
+	language = ruby_dwarf_dialect
+	
+	color = rgb { 239 52 52 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		dwarven_group
+	}
+}
+
+silver_dwarf = {
+	language = silver_dwarf_dialect
+	
+	color = rgb { 177 177 177 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		dwarven_group
+	}
+}
+
+stone_dwarf = {
+	language = stone_dwarf_dialect
+	
+	color = rgb { 217 231 232 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		dwarven_group
+	}
+}
+
+iron_dwarf = {
+	language = iron_dwarf_dialect
+	
+	color = rgb { 217 231 232 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		dwarven_group
+	}
+}
+
+obsidian_dwarf = {
+	language = obsidian_dwarf_dialect
+	
+	color = rgb { 56 43 70 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		dwarven_group
+	}
+}
+
+gold_dwarf = {
+	language = gold_dwarf_dialect
+	
+	color = rgb { 255 198 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		dwarven_group
+	}
+}
+
+copper_dwarf = {
+	language = copper_dwarf_dialect
+	
+	color = rgb { 204 117 21 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		dwarven_group
+	}
+}
+
+kronium_dwarf = {
+	language = kronium_dwarf_dialect
+	
+	color = rgb { 60 40 80 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		dwarven_group
+	}
+}
+
+quartz_dwarf = {
+	language = quartz_dwarf_dialect
+	
+	color = rgb { 148 201 230 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		dwarven_group
+	}
+}
+
+sapphire_dwarf = {
+	language = sapphire_dwarf_dialect
+	
+	color = rgb { 0 25 119 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		dwarven_group
+	}
+}
+
+ramsteel_dwarf = {
+	language = ramsteel_dwarf_dialect
+	
+	color = rgb { 74 111 121 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		dwarven_group
+	}
+}
+
+mithril_dwarf = {
+	language = mithril_dwarf_dialect
+	
+	color = rgb { 81 231 213 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		dwarven_group
+	}
+}
+
+dagrite_dwarf = {
+	language = dagrite_dwarf_dialect
+	
+	color = rgb { 147 191 155 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		dwarven_group
+	}
+}
+
+agate_dwarf = {
+	language = agate_dwarf_dialect
+	
+	color = rgb { 149 131 101 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		dwarven_group
+	}
+}
+
+platinum_dwarf = {
+	language = platinum_dwarf_dialect
+	
+	color = rgb { 74 80 97 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		dwarven_group
+	}
+}
+
+opal_dwarf = {
+	language = opal_dwarf_dialect
+	
+	color = rgb { 255 228 216 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		dwarven_group
+	}
+}
+
+lead_dwarf = {
+	language = lead_dwarf_dialect
+	
+	color = rgb { 160 114 158 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		dwarven_group
+	}
+}
+
+marble_dwarf = {
+	language = marble_dwarf_dialect
+	
+	color = rgb { 241 242 227 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		dwarven_group
+	}
+}
+
+cobalt_dwarf = {
+	language = cobalt_dwarf_dialect
+	
+	color = rgb { 0 71 171 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		dwarven_group
+	}
+}
+
+flint_dwarf = {
+	language = flint_dwarf_dialect
+	
+	color = rgb { 55 144 90 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		dwarven_group
+	}
+}
+
+titanium_dwarf = {
+	language = titanium_dwarf_dialect
+	
+	color = rgb { 223 187 144 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		dwarven_group
+	}
+}
+
+pyrite_dwarf = {
+	language = pyrite_dwarf_dialect
+	
+	color = rgb { 15 82 186 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		dwarven_group
+	}
+}
+
+basalt_dwarf = {
+	language = basalt_dwarf_dialect
+	
+	color = rgb { 240 72 72 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		dwarven_group
+	}
+}
+
+topaz_dwarf = {
+	language = topaz_dwarf_dialect
+	
+	color = rgb { 93 161 154 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		dwarven_group
+	}
+}
+
+peridot_dwarf = {
+	language = peridot_dwarf_dialect
+	
+	color = rgb { 135 225 135 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		dwarven_group
+	}
+}
+
+granite_dwarf = {
+	language = granite_dwarf_dialect
+	
+	color = rgb { 114 202 227 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		dwarven_group
+	}
+}
+
+amethyst_dwarf = {
+	language = amethyst_dwarf_dialect
+	
+	color = rgb { 153 108 204 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		dwarven_group
+	}
+}
+
+emerald_dwarf = {
+	language = emerald_dwarf_dialect
+	
+	color = rgb { 27 253 102 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		dwarven_group
+	}
+}
+
+jade_dwarf = {
+	language = jade_dwarf_dialect
+	
+	color = rgb { 0 168 107 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		dwarven_group
+	}
+}
+
+malachite_dwarf = {
+	language = malachite_dwarf_dialect
+	
+	color = rgb { 0 125 65 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		dwarven_group
+	}
+}
+
+amber_dwarf = {
+	language = amber_dwarf_dialect
+	
+	color = rgb { 176 146 37 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		dwarven_group
+	}
+}
+
+citrine_dwarf = {
+	language = citrine_dwarf_dialect
+	
+	color = rgb { 36 96 143 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		dwarven_group
+	}
+}
+
+garnet_dwarf = {
+	language = garnet_dwarf_dialect
+	
+	color = rgb { 247 179 215 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		dwarven_group
+	}
+}
+
+diamond_dwarf = {
+	language = diamond_dwarf_dialect
+	
+	color = rgb { 200 200 200 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		dwarven_group
+	}
+}
+
+nephrite_dwarf = {
+	language = nephrite_dwarf_dialect
+	
+	color = rgb { 159 224 208 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		dwarven_group
+	}
+}
+
+steel_dwarf = {
+	language = steel_dwarf_dialect
+	
+	color = rgb { 177 177 200 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		dwarven_group
+	}
+}
+
+alloy_dwarf = {
+	language = alloy_dwarf_dialect
+	
+	color = rgb { 243 120 28 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		dwarven_group
+	}
+}
+

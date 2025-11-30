@@ -1,0 +1,60 @@
+hujan = {
+	language = hujan_dialect
+	
+	color = rgb { 215 50 125 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		yanglam_group
+	}
+}
+
+banyak = {
+	language = banyak_dialect
+	
+	color = rgb { 215 50 125 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		yanglam_group
+	}
+}
+
+paru = {
+	language = paru_dialect
+	
+	color = rgb { 215 50 125 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		yanglam_group
+	}
+}
+
+sirtana = {
+	language = sirtana_dialect
+	
+	color = rgb { 185 97 97 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		yanglam_group
+	}
+}
+

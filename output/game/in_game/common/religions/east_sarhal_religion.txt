@@ -1,0 +1,85 @@
+sky_domain = { 
+	color = rgb { 150 180 250 }
+	group = east_sarhal_religion
+	
+	definition_modifier = {
+	}
+	
+	opinions = {
+	}
+
+	unique_names = {
+	}
+
+	tags = {  }
+	custom_tags = {  }
+}
+
+beast_memory = { 
+	color = rgb { 222 80 46 }
+	group = east_sarhal_religion
+	
+	definition_modifier = {
+	}
+	
+	opinions = {
+	}
+
+	unique_names = {
+	}
+
+	tags = {  }
+	custom_tags = {  }
+}
+
+rinta_seekers = { 
+	color = rgb { 0 99 99 }
+	group = east_sarhal_religion
+	
+	definition_modifier = {
+	}
+	
+	opinions = {
+	}
+
+	unique_names = {
+	}
+
+	tags = {  }
+	custom_tags = {  }
+}
+
+habab_zar = { 
+	color = rgb { 91 43 85 }
+	group = east_sarhal_religion
+	
+	definition_modifier = {
+	}
+	
+	opinions = {
+	}
+
+	unique_names = {
+	}
+
+	tags = {  }
+	custom_tags = {  }
+}
+
+genie_cult = { 
+	color = rgb { 50 50 200 }
+	group = east_sarhal_religion
+	
+	definition_modifier = {
+	}
+	
+	opinions = {
+	}
+
+	unique_names = {
+	}
+
+	tags = {  }
+	custom_tags = {  }
+}
+

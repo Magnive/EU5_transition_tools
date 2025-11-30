@@ -1,0 +1,68 @@
+umun_omi = { 
+	color = rgb { 0 63 63 }
+	group = supreme_spirit
+	
+	definition_modifier = {
+	}
+	
+	opinions = {
+	}
+
+	unique_names = {
+	}
+
+	tags = {  }
+	custom_tags = {  }
+}
+
+saanorgegh = { 
+	color = rgb { 95 100 120 }
+	group = supreme_spirit
+	
+	definition_modifier = {
+	}
+	
+	opinions = {
+	}
+
+	unique_names = {
+	}
+
+	tags = {  }
+	custom_tags = {  }
+}
+
+levaajan = { 
+	color = rgb { 116 166 179 }
+	group = supreme_spirit
+	
+	definition_modifier = {
+	}
+	
+	opinions = {
+	}
+
+	unique_names = {
+	}
+
+	tags = {  }
+	custom_tags = {  }
+}
+
+un_khudai = { 
+	color = rgb { 80 213 185 }
+	group = supreme_spirit
+	
+	definition_modifier = {
+	}
+	
+	opinions = {
+	}
+
+	unique_names = {
+	}
+
+	tags = {  }
+	custom_tags = {  }
+}
+

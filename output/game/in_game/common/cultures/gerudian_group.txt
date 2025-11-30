@@ -1,0 +1,150 @@
+reverian = {
+	language = reverian_dialect
+	
+	color = rgb { 135 129 189 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		gerudian_group
+	}
+}
+
+west_dalr = {
+	language = west_dalr_dialect
+	
+	color = rgb { 80 100 150 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		gerudian_group
+	}
+}
+
+east_dalr = {
+	language = east_dalr_dialect
+	
+	color = rgb { 185 122 87 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		gerudian_group
+	}
+}
+
+olavish = {
+	language = olavish_dialect
+	
+	color = rgb { 110 66 80 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		gerudian_group
+	}
+}
+
+talderannic = {
+	language = talderannic_dialect
+	
+	color = rgb { 170 37 246 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		gerudian_group
+	}
+}
+
+perlatter = {
+	language = perlatter_dialect
+	
+	color = rgb { 255 249 232 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		gerudian_group
+	}
+}
+
+elnarfolk = {
+	language = elnarfolk_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		gerudian_group
+	}
+}
+
+taric_gerudian = {
+	language = taric_gerudian_dialect
+	
+	color = rgb { 20 31 107 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		gerudian_group
+	}
+}
+
+skamvin = {
+	language = skamvin_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		gerudian_group
+	}
+}
+
+gerudian_reachman = {
+	language = gerudian_reachman_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		gerudian_group
+	}
+}
+

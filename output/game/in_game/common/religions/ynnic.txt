@@ -1,0 +1,68 @@
+ynn_river_worship = { 
+	color = rgb { 139 172 212 }
+	group = ynnic
+	
+	definition_modifier = {
+	}
+	
+	opinions = {
+	}
+
+	unique_names = {
+	}
+
+	tags = {  }
+	custom_tags = {  }
+}
+
+ynn_river_reformed = { 
+	color = rgb { 139 172 250 }
+	group = ynnic
+	
+	definition_modifier = {
+	}
+	
+	opinions = {
+	}
+
+	unique_names = {
+	}
+
+	tags = {  }
+	custom_tags = {  }
+}
+
+rune_scribes = { 
+	color = rgb { 70 66 144 }
+	group = ynnic
+	
+	definition_modifier = {
+	}
+	
+	opinions = {
+	}
+
+	unique_names = {
+	}
+
+	tags = {  }
+	custom_tags = {  }
+}
+
+drozma_tur = { 
+	color = rgb { 61 179 26 }
+	group = ynnic
+	
+	definition_modifier = {
+	}
+	
+	opinions = {
+	}
+
+	unique_names = {
+	}
+
+	tags = {  }
+	custom_tags = {  }
+}
+

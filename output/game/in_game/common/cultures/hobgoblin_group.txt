@@ -1,0 +1,135 @@
+boar_command = {
+	language = boar_command_dialect
+	
+	color = rgb { 101 32 13 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		hobgoblin_group
+	}
+}
+
+wolf_command = {
+	language = wolf_command_dialect
+	
+	color = rgb { 65 58 56 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		hobgoblin_group
+	}
+}
+
+lion_command = {
+	language = lion_command_dialect
+	
+	color = rgb { 140 83 1 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		hobgoblin_group
+	}
+}
+
+dragon_command = {
+	language = dragon_command_dialect
+	
+	color = rgb { 179 30 30 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		hobgoblin_group
+	}
+}
+
+tiger_command = {
+	language = tiger_command_dialect
+	
+	color = rgb { 176 59 23 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		hobgoblin_group
+	}
+}
+
+elephant_command = {
+	language = elephant_command_dialect
+	
+	color = rgb { 40 75 99 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		hobgoblin_group
+	}
+}
+
+swallow_command = {
+	language = swallow_command_dialect
+	
+	color = rgb { 153 76 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		hobgoblin_group
+	}
+}
+
+fenghuang_command = {
+	language = fenghuang_command_dialect
+	
+	color = rgb { 150 65 20 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		hobgoblin_group
+	}
+}
+
+eagle_command = {
+	language = eagle_command_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		hobgoblin_group
+	}
+}
+

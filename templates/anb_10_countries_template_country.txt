@@ -1,0 +1,30 @@
+PH_COUNTRY_TAG = {
+	own_control_core = {
+PH_OWNED_CORE_PROVINCES
+	}
+
+	own_conquered = {
+PH_OWNED_NON_CORE_PROVINCES
+	}
+
+	our_cores_conquered_by_others = {
+PH_UNOWNED_CORE_PROVINCES
+	}
+
+	capital = PH_CAPITAL
+	court_language = PH_COURT_LANGUAGE
+
+	country_rank = rank_county
+
+	government = {
+PH_RULER_TERMS
+
+		regnal_numbers = {
+		}
+
+		privilege = {
+		}
+	}
+	accepted_culures = { }
+	tolerated_cultures = { }
+}

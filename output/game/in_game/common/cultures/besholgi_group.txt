@@ -1,0 +1,60 @@
+second_graphical_culture = {
+	language = second_graphical_culture_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		besholgi_group
+	}
+}
+
+tuugalak = {
+	language = tuugalak_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		besholgi_group
+	}
+}
+
+ulukungu = {
+	language = ulukungu_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		besholgi_group
+	}
+}
+
+mogirga = {
+	language = mogirga_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		besholgi_group
+	}
+}
+

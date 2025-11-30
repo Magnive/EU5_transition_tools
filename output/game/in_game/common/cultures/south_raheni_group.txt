@@ -1,0 +1,90 @@
+sarniryabsad = {
+	language = sarniryabsad_dialect
+	
+	color = rgb { 87 151 238 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		south_raheni_group
+	}
+}
+
+dhukharuved = {
+	language = dhukharuved_dialect
+	
+	color = rgb { 212 107 246 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		south_raheni_group
+	}
+}
+
+rabhidarubsad = {
+	language = rabhidarubsad_dialect
+	
+	color = rgb { 1 47 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		south_raheni_group
+	}
+}
+
+ghankedhen = {
+	language = ghankedhen_dialect
+	
+	color = rgb { 234 77 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		south_raheni_group
+	}
+}
+
+pasindesh = {
+	language = pasindesh_dialect
+	
+	color = rgb { 200 200 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		south_raheni_group
+	}
+}
+
+raghamidesh = {
+	language = raghamidesh_dialect
+	
+	color = rgb { 113 176 50 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		south_raheni_group
+	}
+}
+

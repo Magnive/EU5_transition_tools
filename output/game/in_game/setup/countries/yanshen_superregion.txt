@@ -1,0 +1,252 @@
+R69 = {
+	color = rgb { 179 30 30 }
+
+	culture_definition = dragon_command
+	religion_definition = godlost
+}
+R86 = {
+	color = rgb { 138 36 118 }
+
+	culture_definition = gangim
+	religion_definition = mystic_accord
+}
+V19 = {
+	color = rgb { 52 105 159 }
+
+	culture_definition = jiangszun
+	religion_definition = high_philosophy
+}
+V21 = {
+	color = rgb { 233 166 0 }
+
+	culture_definition = beikling
+	religion_definition = devouring_path
+}
+V22 = {
+	color = rgb { 130 242 242 }
+
+	culture_definition = beikling
+	religion_definition = accretive_path
+}
+V23 = {
+	color = rgb { 40 20 20 }
+
+	culture_definition = beikling
+	religion_definition = devouring_path
+}
+Y00 = {
+	color = rgb { 150 65 20 }
+
+	culture_definition = sun_elf
+	religion_definition = high_philosophy
+}
+Y01 = {
+	color = rgb { 192 50 70 }
+
+	culture_definition = horned_ogre
+	religion_definition = devouring_path
+}
+Y02 = {
+	color = rgb { 48 43 50 }
+
+	culture_definition = jiangszun
+	religion_definition = devouring_path
+}
+Y03 = {
+	color = rgb { 175 143 68 }
+
+	culture_definition = serene_harimari
+	religion_definition = high_philosophy
+}
+Y04 = {
+	color = rgb { 106 148 196 }
+
+	culture_definition = jiangszun
+	religion_definition = high_philosophy
+}
+Y05 = {
+	color = rgb { 23 107 206 }
+
+	culture_definition = jiangszun
+	religion_definition = accretive_path
+}
+Y06 = {
+	color = rgb { 41 50 105 }
+
+	culture_definition = jiangszun
+	religion_definition = high_philosophy
+}
+Y07 = {
+	color = rgb { 31 106 145 }
+
+	culture_definition = jiangszun
+	religion_definition = high_philosophy
+}
+Y08 = {
+	color = rgb { 67 84 140 }
+
+	culture_definition = jiangszun
+	religion_definition = high_philosophy
+}
+Y09 = {
+	color = rgb { 232 232 232 }
+
+	culture_definition = jiangszun
+	religion_definition = high_philosophy
+}
+Y10 = {
+	color = rgb { 29 64 114 }
+
+	culture_definition = jiangszun
+	religion_definition = devouring_path
+}
+Y13 = {
+	color = rgb { 211 124 48 }
+
+	culture_definition = jiangszun
+	religion_definition = high_philosophy
+}
+Y14 = {
+	color = rgb { 11 17 69 }
+
+	culture_definition = jiangyang
+	religion_definition = accretive_path
+}
+Y15 = {
+	color = rgb { 119 99 188 }
+
+	culture_definition = jiangyang
+	religion_definition = accretive_path
+}
+Y16 = {
+	color = rgb { 63 42 107 }
+
+	culture_definition = serene_harimari
+	religion_definition = high_philosophy
+}
+Y17 = {
+	color = rgb { 250 180 4 }
+
+	culture_definition = jiangyang
+	religion_definition = accretive_path
+}
+Y18 = {
+	color = rgb { 184 146 255 }
+
+	culture_definition = jiangszun
+	religion_definition = high_philosophy
+}
+Y19 = {
+	color = rgb { 156 172 171 }
+
+	culture_definition = jiangszun
+	religion_definition = high_philosophy
+}
+Y20 = {
+	color = rgb { 26 158 201 }
+
+	culture_definition = gangim
+	religion_definition = high_philosophy
+}
+Y21 = {
+	color = rgb { 16 51 119 }
+
+	culture_definition = gangim
+	religion_definition = high_philosophy
+}
+Y22 = {
+	color = rgb { 200 170 175 }
+
+	culture_definition = jiangszun
+	religion_definition = devouring_path
+}
+Y23 = {
+	color = rgb { 195 42 30 }
+
+	culture_definition = naamjyut
+	religion_definition = transmutative_path
+}
+Y24 = {
+	color = rgb { 235 181 13 }
+
+	culture_definition = gangim
+	religion_definition = high_philosophy
+}
+Y25 = {
+	color = rgb { 240 167 64 }
+
+	culture_definition = serene_harimari
+	religion_definition = high_philosophy
+}
+Y26 = {
+	color = rgb { 138 36 118 }
+
+	culture_definition = gangim
+	religion_definition = accretive_path
+}
+Y27 = {
+	color = rgb { 230 216 166 }
+
+	culture_definition = gangim
+	religion_definition = accretive_path
+}
+Y85 = {
+	color = rgb { 208 170 45 }
+
+	culture_definition = goldscale_kobold
+	religion_definition = accretive_path
+}
+Y89 = {
+	color = rgb { 11 123 133 }
+
+	culture_definition = szitu
+	religion_definition = devouring_path
+}
+Y98 = {
+	color = rgb { 145 116 70 }
+
+	culture_definition = daxug
+	religion_definition = accretive_path
+}
+Z58 = {
+	color = rgb { 130 145 65 }
+
+	culture_definition = naamjyut
+	religion_definition = accretive_path
+}
+Z59 = {
+	color = rgb { 40 175 255 }
+
+	culture_definition = jiangszun
+	religion_definition = high_philosophy
+}
+Z60 = {
+	color = rgb { 180 155 149 }
+
+	culture_definition = beikling
+	religion_definition = devouring_path
+}
+Z61 = {
+	color = rgb { 117 85 85 }
+
+	culture_definition = beikling
+	religion_definition = devouring_path
+}
+Z65 = {
+	color = rgb { 190 190 190 }
+
+	culture_definition = jiangszun
+	religion_definition = accretive_path
+}
+Z66 = {
+	color = rgb { 150 200 200 }
+
+	culture_definition = jiangszun
+	religion_definition = high_philosophy
+}
+Z67 = {
+	color = rgb { 255 85 50 }
+
+	culture_definition = serene_harimari
+	religion_definition = high_philosophy
+}

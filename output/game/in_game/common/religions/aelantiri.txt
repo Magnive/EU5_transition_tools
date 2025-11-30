@@ -1,0 +1,85 @@
+weeping_mother = { 
+	color = rgb { 255 120 128 }
+	group = aelantiri
+	
+	definition_modifier = {
+	}
+	
+	opinions = {
+	}
+
+	unique_names = {
+	}
+
+	tags = {  }
+	custom_tags = {  }
+}
+
+dotimism = { 
+	color = rgb { 173 86 69 }
+	group = aelantiri
+	
+	definition_modifier = {
+	}
+	
+	opinions = {
+	}
+
+	unique_names = {
+	}
+
+	tags = {  }
+	custom_tags = {  }
+}
+
+etchings_of_the_deep = { 
+	color = rgb { 31 96 83 }
+	group = aelantiri
+	
+	definition_modifier = {
+	}
+	
+	opinions = {
+	}
+
+	unique_names = {
+	}
+
+	tags = {  }
+	custom_tags = {  }
+}
+
+skincarvers = { 
+	color = rgb { 82 59 135 }
+	group = aelantiri
+	
+	definition_modifier = {
+	}
+	
+	opinions = {
+	}
+
+	unique_names = {
+	}
+
+	tags = {  }
+	custom_tags = {  }
+}
+
+kinbond = { 
+	color = rgb { 61 5 63 }
+	group = aelantiri
+	
+	definition_modifier = {
+	}
+	
+	opinions = {
+	}
+
+	unique_names = {
+	}
+
+	tags = {  }
+	custom_tags = {  }
+}
+

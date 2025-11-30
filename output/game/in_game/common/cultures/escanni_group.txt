@@ -1,0 +1,420 @@
+half_orc = {
+	language = half_orc_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		escanni_group
+	}
+}
+
+ungulan_half_orc = {
+	language = ungulan_half_orc_dialect
+	
+	color = rgb { 20 160 60 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		escanni_group
+	}
+}
+
+grombar_half_orc = {
+	language = grombar_half_orc_dialect
+	
+	color = rgb { 101 125 134 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		escanni_group
+	}
+}
+
+black_castanorian = {
+	language = black_castanorian_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		escanni_group
+	}
+}
+
+castanorian = {
+	language = castanorian_dialect
+	
+	color = rgb { 255 255 255 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		escanni_group
+	}
+}
+
+castellyrian = {
+	language = castellyrian_dialect
+	
+	color = rgb { 144 144 200 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		escanni_group
+	}
+}
+
+marcher = {
+	language = marcher_dialect
+	
+	color = rgb { 230 216 166 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		escanni_group
+	}
+}
+
+adenner = {
+	language = adenner_dialect
+	
+	color = rgb { 15 117 187 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		escanni_group
+	}
+}
+
+white_reachman = {
+	language = white_reachman_dialect
+	
+	color = rgb { 128 255 255 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		escanni_group
+	}
+}
+
+farrani_half_elf = {
+	language = farrani_half_elf_dialect
+	
+	color = rgb { 160 185 85 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		escanni_group
+	}
+}
+
+merine = {
+	language = merine_dialect
+	
+	color = rgb { 192 192 192 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		escanni_group
+	}
+}
+
+luciander = {
+	language = luciander_dialect
+	
+	color = rgb { 136 36 9 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		escanni_group
+	}
+}
+
+ancardian = {
+	language = ancardian_dialect
+	
+	color = rgb { 226 186 165 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		escanni_group
+	}
+}
+
+rogieran = {
+	language = rogieran_dialect
+	
+	color = rgb { 82 158 181 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		escanni_group
+	}
+}
+
+elikhander = {
+	language = elikhander_dialect
+	
+	color = rgb { 232 118 121 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		escanni_group
+	}
+}
+
+heartman = {
+	language = heartman_dialect
+	
+	color = rgb { 246 54 3 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		escanni_group
+	}
+}
+
+alenori = {
+	language = alenori_dialect
+	
+	color = rgb { 0 71 171 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		escanni_group
+	}
+}
+
+stalboric = {
+	language = stalboric_dialect
+	
+	color = rgb { 164 145 223 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		escanni_group
+	}
+}
+
+ravenmarcher = {
+	language = ravenmarcher_dialect
+	
+	color = rgb { 59 52 72 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		escanni_group
+	}
+}
+
+ionnic = {
+	language = ionnic_dialect
+	
+	color = rgb { 226 200 107 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		escanni_group
+	}
+}
+
+estairey = {
+	language = estairey_dialect
+	
+	color = rgb { 182 196 235 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		escanni_group
+	}
+}
+
+nurcestiran = {
+	language = nurcestiran_dialect
+	
+	color = rgb { 209 160 107 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		escanni_group
+	}
+}
+
+esthili = {
+	language = esthili_dialect
+	
+	color = rgb { 35 38 40 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		escanni_group
+	}
+}
+
+rosanda = {
+	language = rosanda_dialect
+	
+	color = rgb { 131 52 54 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		escanni_group
+	}
+}
+
+covenbladic = {
+	language = covenbladic_dialect
+	
+	color = rgb { 168 211 244 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		escanni_group
+	}
+}
+
+corintari = {
+	language = corintari_dialect
+	
+	color = rgb { 233 82 86 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		escanni_group
+	}
+}
+
+black_demesner = {
+	language = black_demesner_dialect
+	
+	color = rgb { 6 6 6 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		escanni_group
+	}
+}
+
+moredhalic = {
+	language = moredhalic_dialect
+	
+	color = rgb { 218 165 32 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		escanni_group
+	}
+}
+

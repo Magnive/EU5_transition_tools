@@ -1,0 +1,60 @@
+shuvuush = {
+	language = shuvuush_dialect
+	
+	color = rgb { 125 120 120 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		khantaar_group
+	}
+}
+
+runsukhi = {
+	language = runsukhi_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		khantaar_group
+	}
+}
+
+plateau_runsukhi = {
+	language = plateau_runsukhi_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		khantaar_group
+	}
+}
+
+kuuldaar = {
+	language = kuuldaar_dialect
+	
+	color = rgb { 0 0 0 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		khantaar_group
+	}
+}
+

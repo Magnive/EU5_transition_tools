@@ -1,0 +1,30 @@
+oinukhudi = {
+	language = oinukhudi_dialect
+	
+	color = rgb { 223 247 44 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		khudi_group
+	}
+}
+
+anarkhudi = {
+	language = anarkhudi_dialect
+	
+	color = rgb { 140 183 193 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		khudi_group
+	}
+}
+

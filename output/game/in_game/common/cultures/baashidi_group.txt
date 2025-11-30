@@ -1,0 +1,60 @@
+suhratbi = {
+	language = suhratbi_dialect
+	
+	color = rgb { 100 72 7 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		baashidi_group
+	}
+}
+
+dhebiji = {
+	language = dhebiji_dialect
+	
+	color = rgb { 225 143 21 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		baashidi_group
+	}
+}
+
+guryadagga = {
+	language = guryadagga_dialect
+	
+	color = rgb { 100 72 7 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		baashidi_group
+	}
+}
+
+ashamadi = {
+	language = ashamadi_dialect
+	
+	color = rgb { 180 33 33 }
+	
+	tags = {  }
+
+	opinions = {
+
+	}	
+	culture_groups = {
+		baashidi_group
+	}
+}
+
