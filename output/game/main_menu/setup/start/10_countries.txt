@@ -14,7 +14,7 @@ current_age = age_3_traditions
 
 countries = {
 	countries = {
-		A01 = {
+		CWL01 = {
 			own_control_core = {
 				hollowview
 				roilsard
@@ -55,7 +55,7 @@ countries = {
 			country_rank = rank_county
 		
 			government = {
-				ruler_term = { character = A01_kylian_6 start_date = 1442.3.17 regnal_number = 6 }
+				ruler_term = { character = CWL01_kylian_6 start_date = 1442.3.17 regnal_number = 6 }
 		
 		
 				regnal_numbers = {

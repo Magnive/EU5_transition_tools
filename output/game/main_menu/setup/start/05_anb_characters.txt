@@ -7092,18 +7092,6 @@
 		tag = Z89
 	}
 
-	A01_kylian_6 = {
-		first_name = { name = kylian }
-		culture = high_lorentish
-		religion = regent_court
-		adm = 16 dip = 48 mil = 16
-		birth_date = 1410.11.4
-		ruler_term_start = 1442.3.17
-		birth = lorentaine
-		dynasty = siloriel
-		tag = A01
-	}
-
 	A02_adenn_3 = {
 		first_name = { name = adenn }
 		culture = derannic
@@ -8223,6 +8211,18 @@
 		birth = ionnidar
 		dynasty = sil_ionnidar
 		tag = B72
+	}
+
+	CWL01_kylian_6 = {
+		first_name = { name = kylian }
+		culture = high_lorentish
+		religion = regent_court
+		adm = 16 dip = 48 mil = 16
+		birth_date = 1410.11.4
+		ruler_term_start = 1442.3.17
+		birth = lorentaine
+		dynasty = siloriel
+		tag = CWL01
 	}
 
 	Z02_castina = {

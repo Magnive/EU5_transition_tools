@@ -1,4 +1,4 @@
-A01 = {
+CWL01 = {
 	color = rgb { 90 0 0 }
 
 	culture_definition = lencori_half_elf

@@ -65,7 +65,82 @@ def load_transition_data(csv_file, key_field, delimiter=','):
             transition_data[key] = row
     return transition_data
 
-data = load_transition_data(csv_file='anbennar_eu5_transition_data_locations.csv', key_field='location_name')
+
+# Applying tag relevant tag conversions.
+tag_conversion_data = load_transition_data(csv_file='anbennar_eu5_transition_data_tag_conversion.csv',
+                                           key_field='old_tag')
+
+tag_conversion_dict = {}
+
+for old_tag, values in tag_conversion_data.items():
+    new_tag = values.get('new_tag', old_tag)
+    tag_conversion_dict[old_tag] = new_tag
+
+# Open locations.csv and apply tag conversions to owner and core fields
+with open('anbennar_eu5_transition_data_locations.csv', 'r', encoding='utf-8-sig') as infile, \
+    open('anbennar_eu5_transition_data_locations_converted.csv', 'w', encoding='utf-8-sig', newline='') as outfile:
+    reader = csv.DictReader(infile)
+    fieldnames = reader.fieldnames
+    writer = csv.DictWriter(outfile, fieldnames=fieldnames)
+    writer.writeheader()
+    for row in reader:
+        # Convert owner tag
+        owner_tag = row.get('owner', '')
+        if owner_tag in tag_conversion_dict:
+            row['owner'] = tag_conversion_dict[owner_tag]
+        
+        # Convert core tags
+        core_tags = row.get('cores', '').split(',')
+        converted_core_tags = []
+        for core_tag in core_tags:
+            core_tag = core_tag.strip()
+            if core_tag in tag_conversion_dict:
+                converted_core_tags.append(tag_conversion_dict[core_tag])
+            else:
+                converted_core_tags.append(core_tag)
+        row['cores'] = ','.join(converted_core_tags)
+
+        writer.writerow(row)
+
+# Open countries.csv and apply tag conversions to tag field
+with open('anbennar_eu5_transition_data_countries.csv', 'r', encoding='utf-8-sig') as infile, \
+    open('anbennar_eu5_transition_data_countries_converted.csv', 'w', encoding='utf-8-sig', newline='') as outfile:
+    reader = csv.DictReader(infile)
+    fieldnames = reader.fieldnames
+    writer = csv.DictWriter(outfile, fieldnames=fieldnames)
+    writer.writeheader()
+    for row in reader:
+        # Convert country tag
+        country_tag = row.get('tag', '')
+        if country_tag in tag_conversion_dict:
+            row['tag'] = tag_conversion_dict[country_tag]
+
+        writer.writerow(row)
+
+# Open rulers.csv and apply tag conversions to tag field and the first 3 characters of character_tag field
+with open('anbennar_eu5_transition_data_rulers.csv', 'r', encoding='utf-8-sig') as infile, \
+    open('anbennar_eu5_transition_data_rulers_converted.csv', 'w', encoding='utf-8-sig', newline='') as outfile:
+    reader = csv.DictReader(infile)
+    fieldnames = reader.fieldnames
+    writer = csv.DictWriter(outfile, fieldnames=fieldnames)
+    writer.writeheader()
+    for row in reader:
+        # Convert country tag
+        country_tag = row.get('tag', '')
+        if country_tag in tag_conversion_dict:
+            row['tag'] = tag_conversion_dict[country_tag]
+        
+        # Convert first 3 characters of character_tag
+        character_tag = row.get('character_tag', '')
+        if len(character_tag) >= 3:
+            char_country_tag = character_tag[:3]
+            if char_country_tag in tag_conversion_dict:
+                new_char_country_tag = tag_conversion_dict[char_country_tag]
+                row['character_tag'] = new_char_country_tag + character_tag[3:]
+
+        writer.writerow(row)
+
+data = load_transition_data(csv_file='anbennar_eu5_transition_data_locations_converted.csv', key_field='location_name')
 
 # Replace - with _ in province and location_name fields
 # Need to rebuild the dictionary with updated keys
@@ -424,7 +499,7 @@ for language in Language.instances.values():
         lang_file.write(language_string)
 
 # Load countries
-countries_data = load_transition_data(csv_file='anbennar_eu5_transition_data_countries.csv',
+countries_data = load_transition_data(csv_file='anbennar_eu5_transition_data_countries_converted.csv',
                                       key_field='tag')
 
 # Generate country setup files
@@ -476,7 +551,7 @@ for superregion in Superregion.instances.values():
             superregion_file.write(new_string)
 
 # Load rulers
-rulers = load_transition_data(csv_file='anbennar_eu5_transition_data_rulers.csv',
+rulers = load_transition_data(csv_file='anbennar_eu5_transition_data_rulers_converted.csv',
                               key_field='character_tag')
 
 # Sort by tag_continent, tag_superregion, tag, character_tag
