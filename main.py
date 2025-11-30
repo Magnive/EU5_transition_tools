@@ -147,8 +147,8 @@ data = load_transition_data(csv_file='anbennar_eu5_transition_data_locations_con
 # Also replace blank entries in superregion, region, and area with placeholders.
 updated_data = {}
 for key, value in data.items():
-    value['province'] = value['province'].replace('-', '_')
-    value['location_name'] = value['location_name'].replace('-', '_')
+    value['province'] = value['province'].replace('-', '_').replace("'", "")
+    value['location_name'] = value['location_name'].replace('-', '_').replace("'", "")
     if not value['superregion']:
         value['superregion'] = f'unknown_{value["continent"]}_superregion'
 
@@ -722,3 +722,8 @@ with open('output\\game\\main_menu\\setup\\start\\10_countries.txt', 'w', encodi
 
     output_string = output_string.replace('PH_COUNTRIES', countries_string)
     country_setup_file.write(output_string)
+
+with open('sea_zones.txt', 'w', encoding='utf-8') as f:
+    for location in locations_data.values():
+        if location.get('location_type', '') == 'sea':
+            f.write('\t' + location.get('location_name', '') + '\n')

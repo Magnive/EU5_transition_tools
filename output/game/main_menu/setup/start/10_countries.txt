@@ -1399,7 +1399,6 @@ countries = {
 		
 		A38 = {
 			own_control_core = {
-				anbenncost
 			}
 		
 			own_conquered = {
@@ -42714,7 +42713,6 @@ countries = {
 		
 		Z10 = {
 			own_control_core = {
-				hlakkavatn
 				knarhatt
 				revrhavn
 				vestrund
@@ -43020,7 +43018,6 @@ countries = {
 		
 		Z19 = {
 			own_control_core = {
-				giants_tears
 				jawud
 				outer_dwaroval
 				foothills
@@ -44101,7 +44098,7 @@ countries = {
 		
 		Z55 = {
 			own_control_core = {
-				scavengers'_hovel
+				scavengers_hovel
 			}
 		
 			own_conquered = {

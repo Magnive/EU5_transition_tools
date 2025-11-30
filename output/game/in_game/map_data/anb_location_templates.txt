@@ -1,3 +1,3583 @@
+##### Continent: 
+#### Superregion: unknown__superregion
+### Region: broken_sea_region
+## Area: broken_sea_approach_area
+# Province: fjordwash
+fjordwash = { topography = ocean climate = arctic }
+# Province: freezing_strait
+freezing_strait = { topography = ocean climate = arctic }
+# Province: icebreaker_pass
+icebreaker_pass = { topography = ocean climate = arctic }
+# Province: new_fjords
+new_fjords = { topography = ocean climate = arctic }
+# Province: pale_waters
+pale_waters = { topography = ocean climate = arctic }
+# Province: sealpod_route
+sealpod_route = { topography = ocean climate = arctic }
+# Province: sleepy_approach
+sleepy_approach = { topography = ocean climate = arctic }
+## Area: broken_sea_area
+# Province: broken_bay
+broken_bay = { topography = ocean climate = arctic }
+# Province: broken_gate
+broken_gate = { topography = ocean climate = arctic }
+# Province: eastern_floeway
+eastern_floeway = { topography = ocean climate = arctic }
+# Province: icey_rift
+icey_rift = { topography = ocean climate = arctic }
+# Province: sea_of_midnight
+sea_of_midnight = { topography = ocean climate = arctic }
+# Province: sealdive
+sealdive = { topography = ocean climate = arctic }
+# Province: western_floeway
+western_floeway = { topography = ocean climate = arctic }
+# Province: bay_of_verencel
+bay_of_verencel = { topography = ocean climate = arctic }
+### Region: calamity_pass_region
+## Area: calamity_pass_area
+# Province: calamity_approach
+calamity_approach = { topography = ocean climate = arctic }
+# Province: calamity_pass
+calamity_pass = { topography = ocean climate = arctic }
+# Province: faliltverten_coast
+faliltverten_coast = { topography = ocean climate = arctic }
+# Province: lanaiandes_fall
+lanaiandes_fall = { topography = ocean climate = arctic }
+# Province: obaithail_bend
+obaithail_bend = { topography = ocean climate = arctic }
+# Province: ochchus_sea
+ochchus_sea = { topography = ocean climate = arctic }
+# Province: pirendral_strait
+pirendral_strait = { topography = ocean climate = arctic }
+# Province: verten_skip
+verten_skip = { topography = ocean climate = arctic }
+# Province: vine_current
+vine_current = { topography = ocean climate = arctic }
+### Region: cleaved_sea_coast_region
+## Area: cleaved_sea_area
+# Province: anisikheion_redoubt
+anisikheion_redoubt = { topography = ocean climate = arctic }
+# Province: axehead_gulf
+axehead_gulf = { topography = ocean climate = arctic }
+# Province: bay_of_ormam
+bay_of_ormam = { topography = ocean climate = arctic }
+# Province: beran_waters
+beran_waters = { topography = ocean climate = arctic }
+# Province: central_islands
+central_islands = { topography = ocean climate = arctic }
+# Province: cleaved_sea_approach
+cleaved_sea_approach = { topography = ocean climate = arctic }
+# Province: coast_of_eltikan
+coast_of_eltikan = { topography = ocean climate = arctic }
+# Province: iona_coast
+iona_coast = { topography = ocean climate = arctic }
+# Province: kimanis_bank
+kimanis_bank = { topography = ocean climate = arctic }
+# Province: lokemeion_coast
+lokemeion_coast = { topography = ocean climate = arctic }
+# Province: south_candish_sea
+south_candish_sea = { topography = ocean climate = arctic }
+# Province: thenon_current
+thenon_current = { topography = ocean climate = arctic }
+# Province: cleaved_sea
+cleaved_sea = { topography = ocean climate = arctic }
+## Area: kaydhano_coast_area
+# Province: bay_of_adenn
+bay_of_adenn = { topography = ocean climate = arctic }
+# Province: cleaved_sea_departure
+cleaved_sea_departure = { topography = ocean climate = arctic }
+# Province: deathwind_tip
+deathwind_tip = { topography = ocean climate = arctic }
+# Province: difer_coast
+difer_coast = { topography = ocean climate = arctic }
+# Province: eastern_scattered_islands
+eastern_scattered_islands = { topography = ocean climate = arctic }
+# Province: kaydhano_gulf
+kaydhano_gulf = { topography = ocean climate = arctic }
+# Province: west_kaydhano_sea
+west_kaydhano_sea = { topography = ocean climate = arctic }
+# Province: western_scattered_islands
+western_scattered_islands = { topography = ocean climate = arctic }
+# Province: bacoon_bight
+bacoon_bight = { topography = ocean climate = arctic }
+### Region: dameshead_sea_region
+## Area: dameshead_sea_area
+# Province: bay_of_crowns
+bay_of_crowns = { topography = ocean climate = arctic }
+# Province: bay_of_vertesk
+bay_of_vertesk = { topography = ocean climate = arctic }
+# Province: beepeck_bay
+beepeck_bay = { topography = ocean climate = arctic }
+# Province: coast_of_konwell
+coast_of_konwell = { topography = ocean climate = arctic }
+# Province: dameseye_coast
+dameseye_coast = { topography = ocean climate = arctic }
+# Province: floodmarsh_coast
+floodmarsh_coast = { topography = ocean climate = arctic }
+# Province: lovers_coast
+lovers_coast = { topography = ocean climate = arctic }
+# Province: south_dameshead
+south_dameshead = { topography = ocean climate = arctic }
+# Province: uelcoast
+uelcoast = { topography = ocean climate = arctic }
+# Province: north_dameshead
+north_dameshead = { topography = ocean climate = arctic }
+## Area: damesneck_sea_area
+# Province: anbenncost
+anbenncost = { topography = ocean climate = arctic }
+# Province: damesear_crossing
+damesear_crossing = { topography = ocean climate = arctic }
+# Province: dameshead_approach
+dameshead_approach = { topography = ocean climate = arctic }
+# Province: damesteeth_approach
+damesteeth_approach = { topography = ocean climate = arctic }
+# Province: damesteeth_channel
+damesteeth_channel = { topography = ocean climate = arctic }
+# Province: east_damesneck
+east_damesneck = { topography = ocean climate = arctic }
+# Province: south_damesneck
+south_damesneck = { topography = ocean climate = arctic }
+# Province: west_damesneck
+west_damesneck = { topography = ocean climate = arctic }
+### Region: divenhal_sea_region
+## Area: bay_of_wines_sea_area
+# Province: coast_of_ebenuel
+coast_of_ebenuel = { topography = ocean climate = arctic }
+# Province: imperial_winebay
+imperial_winebay = { topography = ocean climate = arctic }
+# Province: jewelpoint_bay
+jewelpoint_bay = { topography = ocean climate = arctic }
+# Province: lorentish_winebay
+lorentish_winebay = { topography = ocean climate = arctic }
+# Province: tretunic_coast
+tretunic_coast = { topography = ocean climate = arctic }
+# Province: bay_of_wines
+bay_of_wines = { topography = ocean climate = arctic }
+## Area: brasanni_sea_area
+# Province: sea_of_elizna
+sea_of_elizna = { topography = ocean climate = arctic }
+# Province: bay_of_brasan
+bay_of_brasan = { topography = ocean climate = arctic }
+## Area: coast_of_akasik_area
+# Province: bay_of_ekha
+bay_of_ekha = { topography = ocean climate = arctic }
+# Province: coast_of_deshak
+coast_of_deshak = { topography = ocean climate = arctic }
+# Province: ekhani_tip
+ekhani_tip = { topography = ocean climate = arctic }
+# Province: dog_coast
+dog_coast = { topography = ocean climate = arctic }
+## Area: east_diven_area
+# Province: bay_of_paws
+bay_of_paws = { topography = ocean climate = arctic }
+# Province: east_diven
+east_diven = { topography = ocean climate = arctic }
+# Province: eborians_demise
+eborians_demise = { topography = ocean climate = arctic }
+# Province: north_salahad_coast
+north_salahad_coast = { topography = ocean climate = arctic }
+# Province: wanamurs_waters
+wanamurs_waters = { topography = ocean climate = arctic }
+# Province: coast_of_kheterat
+coast_of_kheterat = { topography = ocean climate = arctic }
+## Area: gulf_of_glass_area
+# Province: drolas_strait
+drolas_strait = { topography = ocean climate = arctic }
+# Province: gulf_of_glass
+gulf_of_glass = { topography = ocean climate = arctic }
+# Province: purple_coast
+purple_coast = { topography = ocean climate = arctic }
+# Province: bay_of_mirrors
+bay_of_mirrors = { topography = ocean climate = arctic }
+# Province: sea_of_echoes
+sea_of_echoes = { topography = ocean climate = arctic }
+## Area: sea_of_follies_area
+# Province: coast_of_yametses
+coast_of_yametses = { topography = ocean climate = arctic }
+# Province: gulf_of_ouord
+gulf_of_ouord = { topography = ocean climate = arctic }
+# Province: sea_of_follies
+sea_of_follies = { topography = ocean climate = arctic }
+# Province: flooded_coast
+flooded_coast = { topography = ocean climate = arctic }
+## Area: sea_of_stone_area
+# Province: gulf_of_stone
+gulf_of_stone = { topography = ocean climate = arctic }
+# Province: tefkora_pass
+tefkora_pass = { topography = ocean climate = arctic }
+# Province: busilari_straits
+busilari_straits = { topography = ocean climate = arctic }
+## Area: west_diven_area
+# Province: divengate_sea
+divengate_sea = { topography = ocean climate = arctic }
+# Province: eborthil_approach
+eborthil_approach = { topography = ocean climate = arctic }
+# Province: far_diven
+far_diven = { topography = ocean climate = arctic }
+# Province: west_diven
+west_diven = { topography = ocean climate = arctic }
+# Province: wyverns_gulf
+wyverns_gulf = { topography = ocean climate = arctic }
+### Region: giants_grave_sea_region
+## Area: bay_of_chills_area
+# Province: chilly_approach
+chilly_approach = { topography = ocean climate = arctic }
+# Province: bay_of_chills
+bay_of_chills = { topography = ocean climate = arctic }
+## Area: giants_grave_sea_area
+# Province: giants_grave_sea
+giants_grave_sea = { topography = ocean climate = arctic }
+# Province: giants_manse_coast
+giants_manse_coast = { topography = ocean climate = arctic }
+# Province: serpentback_coast
+serpentback_coast = { topography = ocean climate = arctic }
+# Province: titans_walk_coast
+titans_walk_coast = { topography = ocean climate = arctic }
+# Province: frozen_pass
+frozen_pass = { topography = ocean climate = arctic }
+# Province: gerudian_bank
+gerudian_bank = { topography = ocean climate = arctic }
+# Province: vrorensbay
+vrorensbay = { topography = ocean climate = arctic }
+### Region: gulf_of_rahen_region
+## Area: gulf_of_rahen_area
+# Province: black_flag_sea
+black_flag_sea = { topography = ocean climate = arctic }
+# Province: coast_of_iyarhashar
+coast_of_iyarhashar = { topography = ocean climate = arctic }
+# Province: gulf_of_gon
+gulf_of_gon = { topography = ocean climate = arctic }
+# Province: horn_of_sarhal
+horn_of_sarhal = { topography = ocean climate = arctic }
+# Province: jadd_sea
+jadd_sea = { topography = ocean climate = arctic }
+# Province: maqeti_coast
+maqeti_coast = { topography = ocean climate = arctic }
+# Province: outer_gulf
+outer_gulf = { topography = ocean climate = arctic }
+# Province: salahad_bay
+salahad_bay = { topography = ocean climate = arctic }
+# Province: sardika_coast
+sardika_coast = { topography = ocean climate = arctic }
+# Province: tiger_coast
+tiger_coast = { topography = ocean climate = arctic }
+# Province: unused103
+unused103 = { topography = ocean climate = arctic }
+# Province: unused104
+unused104 = { topography = ocean climate = arctic }
+# Province: unused105
+unused105 = { topography = ocean climate = arctic }
+# Province: unused106
+unused106 = { topography = ocean climate = arctic }
+# Province: west_rahen_gulf
+west_rahen_gulf = { topography = ocean climate = arctic }
+# Province: whitewater_sea
+whitewater_sea = { topography = ocean climate = arctic }
+# Province: gulf_of_rahen
+gulf_of_rahen = { topography = ocean climate = arctic }
+# Province: raghamidesh_sea
+raghamidesh_sea = { topography = ocean climate = arctic }
+# Province: tamran_sea
+tamran_sea = { topography = ocean climate = arctic }
+### Region: insyaa_ocean_region
+## Area: barrier_islands_area
+# Province: anbennar1363
+anbennar1363 = { topography = lakes climate = arctic }
+# Province: anbennar1368
+anbennar1368 = { topography = lakes climate = arctic }
+# Province: anbennar1399
+anbennar1399 = { topography = lakes climate = arctic }
+# Province: anbennar1402
+anbennar1402 = { topography = lakes climate = arctic }
+# Province: anbennar1407
+anbennar1407 = { topography = lakes climate = arctic }
+# Province: anbennar1408
+anbennar1408 = { topography = lakes climate = arctic }
+# Province: anbennar1410
+anbennar1410 = { topography = lakes climate = arctic }
+# Province: anbennar1417
+anbennar1417 = { topography = lakes climate = arctic }
+# Province: anbennar1635
+anbennar1635 = { topography = lakes climate = arctic }
+# Province: anbennar3584
+anbennar3584 = { topography = lakes climate = arctic }
+# Province: anbennar3585
+anbennar3585 = { topography = lakes climate = arctic }
+# Province: anbennar3623
+anbennar3623 = { topography = lakes climate = arctic }
+# Province: anbennar3627
+anbennar3627 = { topography = lakes climate = arctic }
+# Province: anbennar3628
+anbennar3628 = { topography = lakes climate = arctic }
+# Province: anbennar3629
+anbennar3629 = { topography = lakes climate = arctic }
+# Province: anbennar3630
+anbennar3630 = { topography = lakes climate = arctic }
+# Province: anbennar3631
+anbennar3631 = { topography = lakes climate = arctic }
+# Province: anbennar3632
+anbennar3632 = { topography = lakes climate = arctic }
+# Province: anbennar3633
+anbennar3633 = { topography = lakes climate = arctic }
+# Province: anbennar3634
+anbennar3634 = { topography = lakes climate = arctic }
+# Province: anbennar3635
+anbennar3635 = { topography = lakes climate = arctic }
+# Province: anbennar3636
+anbennar3636 = { topography = lakes climate = arctic }
+# Province: anbennar3637
+anbennar3637 = { topography = lakes climate = arctic }
+# Province: anbennar3638
+anbennar3638 = { topography = lakes climate = arctic }
+# Province: anbennar3639
+anbennar3639 = { topography = lakes climate = arctic }
+# Province: anbennar3640
+anbennar3640 = { topography = lakes climate = arctic }
+# Province: anbennar3641
+anbennar3641 = { topography = lakes climate = arctic }
+# Province: anbennar3642
+anbennar3642 = { topography = lakes climate = arctic }
+# Province: anbennar3643
+anbennar3643 = { topography = lakes climate = arctic }
+# Province: anbennar3644
+anbennar3644 = { topography = lakes climate = arctic }
+# Province: anbennar3645
+anbennar3645 = { topography = lakes climate = arctic }
+# Province: anbennar3646
+anbennar3646 = { topography = lakes climate = arctic }
+# Province: anbennar3647
+anbennar3647 = { topography = lakes climate = arctic }
+# Province: anbennar3648
+anbennar3648 = { topography = lakes climate = arctic }
+# Province: anbennar3649
+anbennar3649 = { topography = lakes climate = arctic }
+# Province: anbennar3650
+anbennar3650 = { topography = lakes climate = arctic }
+# Province: anbennar3651
+anbennar3651 = { topography = lakes climate = arctic }
+# Province: anbennar3652
+anbennar3652 = { topography = lakes climate = arctic }
+# Province: anbennar3653
+anbennar3653 = { topography = lakes climate = arctic }
+# Province: anbennar3654
+anbennar3654 = { topography = lakes climate = arctic }
+# Province: anbennar3655
+anbennar3655 = { topography = lakes climate = arctic }
+# Province: anbennar3656
+anbennar3656 = { topography = lakes climate = arctic }
+# Province: anbennar3657
+anbennar3657 = { topography = lakes climate = arctic }
+# Province: anbennar3658
+anbennar3658 = { topography = lakes climate = arctic }
+# Province: anbennar3659
+anbennar3659 = { topography = lakes climate = arctic }
+# Province: anbennar3660
+anbennar3660 = { topography = lakes climate = arctic }
+# Province: anbennar6851
+anbennar6851 = { topography = lakes climate = arctic }
+# Province: anbennar6858
+anbennar6858 = { topography = lakes climate = arctic }
+# Province: anbennar6859
+anbennar6859 = { topography = lakes climate = arctic }
+# Province: anbennar6860
+anbennar6860 = { topography = lakes climate = arctic }
+# Province: anbennar6861
+anbennar6861 = { topography = lakes climate = arctic }
+## Area: bay_of_insyaa_area
+# Province: anbennar1357
+anbennar1357 = { topography = lakes climate = arctic }
+# Province: anbennar1359
+anbennar1359 = { topography = lakes climate = arctic }
+# Province: anbennar1398
+anbennar1398 = { topography = lakes climate = arctic }
+# Province: anbennar1409
+anbennar1409 = { topography = lakes climate = arctic }
+## Area: insyaa_western_ocean_area
+# Province: anbennar1433
+anbennar1433 = { topography = lakes climate = arctic }
+# Province: anbennar1634
+anbennar1634 = { topography = lakes climate = arctic }
+# Province: anbennar3560
+anbennar3560 = { topography = lakes climate = arctic }
+# Province: anbennar3563
+anbennar3563 = { topography = lakes climate = arctic }
+# Province: anbennar3564
+anbennar3564 = { topography = lakes climate = arctic }
+# Province: anbennar3565
+anbennar3565 = { topography = lakes climate = arctic }
+# Province: anbennar3566
+anbennar3566 = { topography = lakes climate = arctic }
+# Province: anbennar3567
+anbennar3567 = { topography = lakes climate = arctic }
+# Province: anbennar3568
+anbennar3568 = { topography = lakes climate = arctic }
+# Province: anbennar3569
+anbennar3569 = { topography = lakes climate = arctic }
+# Province: anbennar3570
+anbennar3570 = { topography = lakes climate = arctic }
+# Province: anbennar3572
+anbennar3572 = { topography = lakes climate = arctic }
+# Province: anbennar3573
+anbennar3573 = { topography = lakes climate = arctic }
+# Province: anbennar3574
+anbennar3574 = { topography = lakes climate = arctic }
+# Province: anbennar3575
+anbennar3575 = { topography = lakes climate = arctic }
+# Province: anbennar3581
+anbennar3581 = { topography = lakes climate = arctic }
+# Province: anbennar3582
+anbennar3582 = { topography = lakes climate = arctic }
+# Province: anbennar3583
+anbennar3583 = { topography = lakes climate = arctic }
+# Province: anbennar3586
+anbennar3586 = { topography = lakes climate = arctic }
+# Province: anbennar6853
+anbennar6853 = { topography = lakes climate = arctic }
+## Area: south_insyaan_sea_area
+# Province: anbennar1355
+anbennar1355 = { topography = lakes climate = arctic }
+# Province: anbennar1435
+anbennar1435 = { topography = lakes climate = arctic }
+# Province: anbennar1638
+anbennar1638 = { topography = lakes climate = arctic }
+# Province: anbennar1641
+anbennar1641 = { topography = lakes climate = arctic }
+# Province: anbennar3559
+anbennar3559 = { topography = lakes climate = arctic }
+# Province: anbennar3562
+anbennar3562 = { topography = lakes climate = arctic }
+# Province: anbennar3587
+anbennar3587 = { topography = lakes climate = arctic }
+# Province: anbennar3588
+anbennar3588 = { topography = lakes climate = arctic }
+# Province: anbennar3589
+anbennar3589 = { topography = lakes climate = arctic }
+# Province: anbennar3590
+anbennar3590 = { topography = lakes climate = arctic }
+# Province: anbennar3591
+anbennar3591 = { topography = lakes climate = arctic }
+# Province: anbennar3592
+anbennar3592 = { topography = lakes climate = arctic }
+# Province: anbennar3593
+anbennar3593 = { topography = lakes climate = arctic }
+# Province: anbennar3594
+anbennar3594 = { topography = lakes climate = arctic }
+# Province: anbennar3595
+anbennar3595 = { topography = lakes climate = arctic }
+# Province: anbennar3596
+anbennar3596 = { topography = lakes climate = arctic }
+# Province: anbennar3597
+anbennar3597 = { topography = lakes climate = arctic }
+# Province: anbennar3613
+anbennar3613 = { topography = lakes climate = arctic }
+# Province: anbennar3616
+anbennar3616 = { topography = lakes climate = arctic }
+# Province: anbennar3617
+anbennar3617 = { topography = lakes climate = arctic }
+# Province: anbennar3618
+anbennar3618 = { topography = lakes climate = arctic }
+# Province: anbennar6854
+anbennar6854 = { topography = lakes climate = arctic }
+# Province: anbennar6856
+anbennar6856 = { topography = lakes climate = arctic }
+# Province: anbennar6857
+anbennar6857 = { topography = lakes climate = arctic }
+### Region: kedwali_gulf_region
+## Area: kedwali_gulf_area
+# Province: anbennar1332
+anbennar1332 = { topography = ocean climate = arctic }
+# Province: anbennar1333
+anbennar1333 = { topography = ocean climate = arctic }
+# Province: anbennar1334
+anbennar1334 = { topography = ocean climate = arctic }
+# Province: anbennar1336
+anbennar1336 = { topography = ocean climate = arctic }
+# Province: anbennar1337
+anbennar1337 = { topography = ocean climate = arctic }
+# Province: anbennar1338
+anbennar1338 = { topography = ocean climate = arctic }
+# Province: anbennar1339
+anbennar1339 = { topography = ocean climate = arctic }
+# Province: anbennar1340
+anbennar1340 = { topography = ocean climate = arctic }
+# Province: anbennar1451
+anbennar1451 = { topography = ocean climate = arctic }
+# Province: anbennar1452
+anbennar1452 = { topography = ocean climate = arctic }
+# Province: unused123
+unused123 = { topography = ocean climate = arctic }
+# Province: unused124
+unused124 = { topography = ocean climate = arctic }
+# Province: unused125
+unused125 = { topography = ocean climate = arctic }
+# Province: unused126
+unused126 = { topography = ocean climate = arctic }
+## Area: yarbadda_sea_area
+# Province: anbennar1335
+anbennar1335 = { topography = ocean climate = arctic }
+# Province: unused121
+unused121 = { topography = ocean climate = arctic }
+# Province: unused122
+unused122 = { topography = ocean climate = arctic }
+### Region: north_aelantir_coast_region
+## Area: north_aelantir_coast_area
+# Province: coast_of_betrayal
+coast_of_betrayal = { topography = ocean climate = arctic }
+# Province: coast_of_sella
+coast_of_sella = { topography = ocean climate = arctic }
+# Province: coldswells
+coldswells = { topography = ocean climate = arctic }
+# Province: fiorgam_coast
+fiorgam_coast = { topography = ocean climate = arctic }
+# Province: hypothermica
+hypothermica = { topography = ocean climate = arctic }
+# Province: lower_dalairey_coast
+lower_dalairey_coast = { topography = ocean climate = arctic }
+# Province: silsensald_sea
+silsensald_sea = { topography = ocean climate = arctic }
+# Province: upper_dalairey_coast
+upper_dalairey_coast = { topography = ocean climate = arctic }
+# Province: whalesbay
+whalesbay = { topography = ocean climate = arctic }
+# Province: whitewater
+whitewater = { topography = ocean climate = arctic }
+# Province: iceberg_alley
+iceberg_alley = { topography = ocean climate = arctic }
+### Region: north_ocean_of_the_lost_region
+## Area: north_ocean_of_the_lost_area
+# Province: anbennar1406
+anbennar1406 = { topography = ocean climate = arctic }
+# Province: anbennar1416
+anbennar1416 = { topography = ocean climate = arctic }
+# Province: anbennar1422
+anbennar1422 = { topography = ocean climate = arctic }
+# Province: anbennar1423
+anbennar1423 = { topography = ocean climate = arctic }
+# Province: anbennar1424
+anbennar1424 = { topography = ocean climate = arctic }
+# Province: anbennar1425
+anbennar1425 = { topography = ocean climate = arctic }
+# Province: anbennar1426
+anbennar1426 = { topography = ocean climate = arctic }
+# Province: anbennar1427
+anbennar1427 = { topography = ocean climate = arctic }
+# Province: anbennar1428
+anbennar1428 = { topography = ocean climate = arctic }
+# Province: anbennar1429
+anbennar1429 = { topography = ocean climate = arctic }
+# Province: anbennar1430
+anbennar1430 = { topography = ocean climate = arctic }
+# Province: anbennar3624
+anbennar3624 = { topography = ocean climate = arctic }
+# Province: anbennar3625
+anbennar3625 = { topography = ocean climate = arctic }
+# Province: anbennar3626
+anbennar3626 = { topography = ocean climate = arctic }
+# Province: anbennar6849
+anbennar6849 = { topography = ocean climate = arctic }
+### Region: north_uelos_lament_ocean_region
+## Area: banished_sea_area
+# Province: banished_sea
+banished_sea = { topography = ocean climate = arctic }
+# Province: bay_of_hope
+bay_of_hope = { topography = ocean climate = arctic }
+# Province: crownsmans_current
+crownsmans_current = { topography = ocean climate = arctic }
+# Province: eastern_lastsight_islands
+eastern_lastsight_islands = { topography = ocean climate = arctic }
+# Province: western_lastsight_islands
+western_lastsight_islands = { topography = ocean climate = arctic }
+## Area: coast_of_endrallian_area
+# Province: bay_of_relief
+bay_of_relief = { topography = ocean climate = arctic }
+# Province: kingsbay
+kingsbay = { topography = ocean climate = arctic }
+# Province: coast_of_endrallian
+coast_of_endrallian = { topography = ocean climate = arctic }
+## Area: edillions_relief_area
+# Province: devils_trident_sea
+devils_trident_sea = { topography = ocean climate = arctic }
+# Province: divengate_approach
+divengate_approach = { topography = ocean climate = arctic }
+# Province: edillions_relief
+edillions_relief = { topography = ocean climate = arctic }
+## Area: far_sea_area
+# Province: dragons_breath_sea
+dragons_breath_sea = { topography = ocean climate = arctic }
+# Province: far_isle_coast
+far_isle_coast = { topography = ocean climate = arctic }
+# Province: far_sea
+far_sea = { topography = ocean climate = arctic }
+## Area: the_great_expanse_area
+# Province: eastern_expanse_sea
+eastern_expanse_sea = { topography = ocean climate = arctic }
+# Province: far_expanse
+far_expanse = { topography = ocean climate = arctic }
+# Province: remnant_sea
+remnant_sea = { topography = ocean climate = arctic }
+# Province: uelos_lament
+uelos_lament = { topography = ocean climate = arctic }
+# Province: western_expanse_sea
+western_expanse_sea = { topography = ocean climate = arctic }
+# Province: westward_approach
+westward_approach = { topography = ocean climate = arctic }
+### Region: northeast_haless_coast_region
+## Area: northeast_haless_coast_area
+# Province: anbennar1411
+anbennar1411 = { topography = ocean climate = arctic }
+# Province: anbennar1478
+anbennar1478 = { topography = ocean climate = arctic }
+# Province: anbennar6862
+anbennar6862 = { topography = ocean climate = arctic }
+# Province: anbennar6905
+anbennar6905 = { topography = ocean climate = arctic }
+# Province: badonghon_sea
+badonghon_sea = { topography = ocean climate = arctic }
+# Province: bay_of_onman
+bay_of_onman = { topography = ocean climate = arctic }
+# Province: biyengi_shore
+biyengi_shore = { topography = ocean climate = arctic }
+# Province: blue_ice_waters
+blue_ice_waters = { topography = ocean climate = arctic }
+# Province: clouded_bay
+clouded_bay = { topography = ocean climate = arctic }
+# Province: coast_of_moduk
+coast_of_moduk = { topography = ocean climate = arctic }
+# Province: haless_approach
+haless_approach = { topography = ocean climate = arctic }
+# Province: outer_gowon_sea
+outer_gowon_sea = { topography = ocean climate = arctic }
+# Province: sea_of_spears
+sea_of_spears = { topography = ocean climate = arctic }
+# Province: south_gowon_sea
+south_gowon_sea = { topography = ocean climate = arctic }
+# Province: widows_sea
+widows_sea = { topography = ocean climate = arctic }
+### Region: northern_sea_region
+## Area: kodarve_sea_area
+# Province: anbennar5319
+anbennar5319 = { topography = ocean climate = arctic }
+# Province: darvoyaryil
+darvoyaryil = { topography = ocean climate = arctic }
+# Province: kyhjudamic_gulf
+kyhjudamic_gulf = { topography = ocean climate = arctic }
+# Province: teipuuvokja_sea
+teipuuvokja_sea = { topography = ocean climate = arctic }
+# Province: tsaeshuurgs_doom
+tsaeshuurgs_doom = { topography = ocean climate = arctic }
+# Province: vurtijitten_sea
+vurtijitten_sea = { topography = ocean climate = arctic }
+## Area: northern_pass_area
+# Province: aitovalgaa_passage
+aitovalgaa_passage = { topography = ocean climate = arctic }
+# Province: akuuhokh_sea
+akuuhokh_sea = { topography = ocean climate = arctic }
+# Province: alkhogaadyn_expanse
+alkhogaadyn_expanse = { topography = ocean climate = arctic }
+# Province: hokhos_sea
+hokhos_sea = { topography = ocean climate = arctic }
+# Province: ikogsherek
+ikogsherek = { topography = ocean climate = arctic }
+# Province: jerkhich_islands
+jerkhich_islands = { topography = ocean climate = arctic }
+# Province: puulkaadis_coast
+puulkaadis_coast = { topography = ocean climate = arctic }
+# Province: ultnaar_basin
+ultnaar_basin = { topography = ocean climate = arctic }
+## Area: outer_sea_area
+# Province: gulf_of_marekiiv
+gulf_of_marekiiv = { topography = ocean climate = arctic }
+# Province: hilinolgh_sea
+hilinolgh_sea = { topography = ocean climate = arctic }
+# Province: kukatodic_bight
+kukatodic_bight = { topography = ocean climate = arctic }
+# Province: moitsada_approach
+moitsada_approach = { topography = ocean climate = arctic }
+# Province: osnemjaar_sea
+osnemjaar_sea = { topography = ocean climate = arctic }
+# Province: puulkatismeer
+puulkatismeer = { topography = ocean climate = arctic }
+# Province: raevaton_cove
+raevaton_cove = { topography = ocean climate = arctic }
+# Province: sagat_coast
+sagat_coast = { topography = ocean climate = arctic }
+# Province: voimlik_sea
+voimlik_sea = { topography = ocean climate = arctic }
+# Province: konetudamic_abyss
+konetudamic_abyss = { topography = ocean climate = arctic }
+## Area: yukelqur_sea_area
+# Province: keyahlkho_sea
+keyahlkho_sea = { topography = ocean climate = arctic }
+# Province: northern_utparshqar_gulf
+northern_utparshqar_gulf = { topography = ocean climate = arctic }
+# Province: oriolg_channel
+oriolg_channel = { topography = ocean climate = arctic }
+# Province: sayinkel_coast
+sayinkel_coast = { topography = ocean climate = arctic }
+# Province: southern_utparshqar_gulf
+southern_utparshqar_gulf = { topography = ocean climate = arctic }
+# Province: taynuya_coast
+taynuya_coast = { topography = ocean climate = arctic }
+# Province: zoximari_gulf
+zoximari_gulf = { topography = ocean climate = arctic }
+# Province: yukarkalzeb
+yukarkalzeb = { topography = ocean climate = arctic }
+## Area: zernuuk_sea_area
+# Province: haraighun_bay
+haraighun_bay = { topography = ocean climate = arctic }
+# Province: koverek
+koverek = { topography = ocean climate = arctic }
+# Province: oritsukh_sea
+oritsukh_sea = { topography = ocean climate = arctic }
+# Province: qarshtuluu_inlet
+qarshtuluu_inlet = { topography = ocean climate = arctic }
+# Province: avdilonkh_sea
+avdilonkh_sea = { topography = ocean climate = arctic }
+### Region: northern_thaw_region
+## Area: far_thaw_area
+# Province: deadly_floes
+deadly_floes = { topography = ocean climate = arctic }
+# Province: fjordsbay
+fjordsbay = { topography = ocean climate = arctic }
+# Province: glaciers_reach
+glaciers_reach = { topography = ocean climate = arctic }
+# Province: northern_thaw
+northern_thaw = { topography = ocean climate = arctic }
+# Province: sea_of_ice
+sea_of_ice = { topography = ocean climate = arctic }
+## Area: lonely_sea_area
+# Province: icecaps_edge
+icecaps_edge = { topography = ocean climate = arctic }
+# Province: loneliest_whales
+loneliest_whales = { topography = ocean climate = arctic }
+# Province: lonely_isle_sea
+lonely_isle_sea = { topography = ocean climate = arctic }
+# Province: western_sea
+western_sea = { topography = ocean climate = arctic }
+# Province: whaleroad
+whaleroad = { topography = ocean climate = arctic }
+## Area: reaversea_area
+# Province: east_reavers_sea
+east_reavers_sea = { topography = ocean climate = arctic }
+# Province: norcamb_coast
+norcamb_coast = { topography = ocean climate = arctic }
+# Province: reavers_coast
+reavers_coast = { topography = ocean climate = arctic }
+# Province: sea_of_broken_ice
+sea_of_broken_ice = { topography = ocean climate = arctic }
+# Province: sea_of_storms
+sea_of_storms = { topography = ocean climate = arctic }
+# Province: serpents_maw
+serpents_maw = { topography = ocean climate = arctic }
+# Province: west_reavers_sea
+west_reavers_sea = { topography = ocean climate = arctic }
+### Region: outer_torn_sea_region
+## Area: outer_torn_sea_area
+# Province: eltchamas_expanse
+eltchamas_expanse = { topography = ocean climate = arctic }
+# Province: entrance_of_the_lost
+entrance_of_the_lost = { topography = ocean climate = arctic }
+# Province: flying_sharks_domain
+flying_sharks_domain = { topography = ocean climate = arctic }
+# Province: jahers_ambition
+jahers_ambition = { topography = ocean climate = arctic }
+# Province: north_eltchamas
+north_eltchamas = { topography = ocean climate = arctic }
+# Province: outer_torn_sea
+outer_torn_sea = { topography = ocean climate = arctic }
+# Province: sea_of_silence
+sea_of_silence = { topography = ocean climate = arctic }
+# Province: sightless_horizon
+sightless_horizon = { topography = ocean climate = arctic }
+# Province: south_eltchamas
+south_eltchamas = { topography = ocean climate = arctic }
+# Province: the_addersid
+the_addersid = { topography = ocean climate = arctic }
+# Province: the_endless_abyss
+the_endless_abyss = { topography = ocean climate = arctic }
+# Province: the_lerdanas_demise
+the_lerdanas_demise = { topography = ocean climate = arctic }
+### Region: punctured_coast_region
+## Area: punctured_coast_area
+# Province: anbennar1328
+anbennar1328 = { topography = ocean climate = arctic }
+# Province: anbennar1329
+anbennar1329 = { topography = ocean climate = arctic }
+# Province: anbennar1330
+anbennar1330 = { topography = ocean climate = arctic }
+# Province: anbennar1331
+anbennar1331 = { topography = ocean climate = arctic }
+# Province: anbennar1412
+anbennar1412 = { topography = ocean climate = arctic }
+# Province: anbennar1446
+anbennar1446 = { topography = ocean climate = arctic }
+# Province: anbennar1447
+anbennar1447 = { topography = ocean climate = arctic }
+# Province: anbennar1616
+anbennar1616 = { topography = ocean climate = arctic }
+# Province: anbennar1619
+anbennar1619 = { topography = ocean climate = arctic }
+# Province: anbennar1621
+anbennar1621 = { topography = ocean climate = arctic }
+# Province: anbennar1631
+anbennar1631 = { topography = ocean climate = arctic }
+# Province: anbennar1633
+anbennar1633 = { topography = ocean climate = arctic }
+# Province: anbennar3561
+anbennar3561 = { topography = ocean climate = arctic }
+# Province: anbennar3576
+anbennar3576 = { topography = ocean climate = arctic }
+# Province: anbennar3614
+anbennar3614 = { topography = ocean climate = arctic }
+# Province: unused120
+unused120 = { topography = ocean climate = arctic }
+# Province: unused127
+unused127 = { topography = ocean climate = arctic }
+# Province: unused128
+unused128 = { topography = ocean climate = arctic }
+# Province: unused89
+unused89 = { topography = ocean climate = arctic }
+### Region: ringlet_sea_region
+## Area: ringlet_sea_area
+# Province: anbennar1341
+anbennar1341 = { topography = ocean climate = arctic }
+# Province: anbennar1342
+anbennar1342 = { topography = ocean climate = arctic }
+# Province: anbennar1343
+anbennar1343 = { topography = ocean climate = arctic }
+# Province: anbennar1352
+anbennar1352 = { topography = ocean climate = arctic }
+# Province: anbennar1353
+anbennar1353 = { topography = ocean climate = arctic }
+# Province: anbennar1431
+anbennar1431 = { topography = ocean climate = arctic }
+# Province: anbennar1614
+anbennar1614 = { topography = ocean climate = arctic }
+# Province: anbennar1623
+anbennar1623 = { topography = ocean climate = arctic }
+# Province: anbennar1639
+anbennar1639 = { topography = ocean climate = arctic }
+# Province: anbennar1640
+anbennar1640 = { topography = ocean climate = arctic }
+# Province: anbennar1643
+anbennar1643 = { topography = ocean climate = arctic }
+# Province: anbennar1645
+anbennar1645 = { topography = ocean climate = arctic }
+# Province: boufeng_islands
+boufeng_islands = { topography = ocean climate = arctic }
+# Province: fohei_sea
+fohei_sea = { topography = ocean climate = arctic }
+# Province: lungdou_coast
+lungdou_coast = { topography = ocean climate = arctic }
+# Province: merchants_gate
+merchants_gate = { topography = ocean climate = arctic }
+# Province: ringlet_basin
+ringlet_basin = { topography = ocean climate = arctic }
+# Province: sunshine_point
+sunshine_point = { topography = ocean climate = arctic }
+# Province: twilight_isles
+twilight_isles = { topography = ocean climate = arctic }
+# Province: wreckers_reach
+wreckers_reach = { topography = ocean climate = arctic }
+# Province: bay_of_lupulan
+bay_of_lupulan = { topography = ocean climate = arctic }
+## Area: the_bridge_area
+# Province: anbennar1418
+anbennar1418 = { topography = ocean climate = arctic }
+# Province: anbennar6906
+anbennar6906 = { topography = ocean climate = arctic }
+# Province: jellyfish_coast
+jellyfish_coast = { topography = ocean climate = arctic }
+# Province: phokhao_pass
+phokhao_pass = { topography = ocean climate = arctic }
+# Province: the_bridge
+the_bridge = { topography = ocean climate = arctic }
+# Province: tianlou_bay
+tianlou_bay = { topography = ocean climate = arctic }
+# Province: binhrung_coast
+binhrung_coast = { topography = ocean climate = arctic }
+### Region: ruined_sea_region
+## Area: east_ruin_sea_area
+# Province: endrals_way
+endrals_way = { topography = ocean climate = arctic }
+# Province: mouth_of_ruin
+mouth_of_ruin = { topography = ocean climate = arctic }
+# Province: north_gate_sea
+north_gate_sea = { topography = ocean climate = arctic }
+# Province: obscured_approach
+obscured_approach = { topography = ocean climate = arctic }
+# Province: sea_of_despondence
+sea_of_despondence = { topography = ocean climate = arctic }
+# Province: severed_bay
+severed_bay = { topography = ocean climate = arctic }
+# Province: silverten_pass
+silverten_pass = { topography = ocean climate = arctic }
+# Province: south_gate_sea
+south_gate_sea = { topography = ocean climate = arctic }
+# Province: wanderers_sea
+wanderers_sea = { topography = ocean climate = arctic }
+## Area: reapers_coast_area
+# Province: northern_reapers_coast
+northern_reapers_coast = { topography = ocean climate = arctic }
+# Province: southern_reapers_coast
+southern_reapers_coast = { topography = ocean climate = arctic }
+# Province: the_dread_sea
+the_dread_sea = { topography = ocean climate = arctic }
+# Province: trollcoast
+trollcoast = { topography = ocean climate = arctic }
+## Area: ruined_sea_area
+# Province: charmed_sea
+charmed_sea = { topography = ocean climate = arctic }
+# Province: craterdeep
+craterdeep = { topography = ocean climate = arctic }
+# Province: graxilzin_sea
+graxilzin_sea = { topography = ocean climate = arctic }
+# Province: isles_of_plenty
+isles_of_plenty = { topography = ocean climate = arctic }
+# Province: phantom_islands
+phantom_islands = { topography = ocean climate = arctic }
+# Province: ruined_depths
+ruined_depths = { topography = ocean climate = arctic }
+# Province: south_ruined_sea
+south_ruined_sea = { topography = ocean climate = arctic }
+# Province: the_bend
+the_bend = { topography = ocean climate = arctic }
+# Province: verten_coast
+verten_coast = { topography = ocean climate = arctic }
+# Province: ruinous_core
+ruinous_core = { topography = ocean climate = arctic }
+## Area: trollsbay_coast_area
+# Province: north_trollsbay
+north_trollsbay = { topography = ocean climate = arctic }
+# Province: west_bloodgroves_coast
+west_bloodgroves_coast = { topography = ocean climate = arctic }
+# Province: west_trollsbay
+west_trollsbay = { topography = ocean climate = arctic }
+# Province: east_bloodgroves_coast
+east_bloodgroves_coast = { topography = ocean climate = arctic }
+# Province: trollsbay
+trollsbay = { topography = ocean climate = arctic }
+## Area: western_respite_sea_area
+# Province: bay_of_respite
+bay_of_respite = { topography = ocean climate = arctic }
+# Province: cape_mordun
+cape_mordun = { topography = ocean climate = arctic }
+# Province: davies_coast
+davies_coast = { topography = ocean climate = arctic }
+### Region: south_ocean_of_the_lost_region
+## Area: south_ocean_of_the_lost_area
+# Province: anbennar1354
+anbennar1354 = { topography = ocean climate = arctic }
+# Province: anbennar1358
+anbennar1358 = { topography = ocean climate = arctic }
+# Province: anbennar1404
+anbennar1404 = { topography = ocean climate = arctic }
+# Province: anbennar1405
+anbennar1405 = { topography = ocean climate = arctic }
+# Province: anbennar1434
+anbennar1434 = { topography = ocean climate = arctic }
+# Province: anbennar1618
+anbennar1618 = { topography = ocean climate = arctic }
+# Province: anbennar1620
+anbennar1620 = { topography = ocean climate = arctic }
+# Province: anbennar1734
+anbennar1734 = { topography = ocean climate = arctic }
+# Province: anbennar3615
+anbennar3615 = { topography = ocean climate = arctic }
+# Province: anbennar3619
+anbennar3619 = { topography = ocean climate = arctic }
+# Province: anbennar3621
+anbennar3621 = { topography = ocean climate = arctic }
+# Province: reian_marlos
+reian_marlos = { topography = ocean climate = arctic }
+### Region: south_sarhal_coast_region
+## Area: fahvanosy_sea_area
+# Province: anbennar1460
+anbennar1460 = { topography = ocean climate = arctic }
+# Province: anbennar1461
+anbennar1461 = { topography = ocean climate = arctic }
+# Province: anbennar1462
+anbennar1462 = { topography = ocean climate = arctic }
+# Province: anbennar1463
+anbennar1463 = { topography = ocean climate = arctic }
+# Province: anbennar1464
+anbennar1464 = { topography = ocean climate = arctic }
+# Province: anbennar1465
+anbennar1465 = { topography = ocean climate = arctic }
+# Province: anbennar1602
+anbennar1602 = { topography = ocean climate = arctic }
+# Province: anbennar1603
+anbennar1603 = { topography = ocean climate = arctic }
+## Area: mabeedi_sea_area
+# Province: anbennar1448
+anbennar1448 = { topography = ocean climate = arctic }
+# Province: anbennar1456
+anbennar1456 = { topography = ocean climate = arctic }
+# Province: anbennar1457
+anbennar1457 = { topography = ocean climate = arctic }
+# Province: anbennar1458
+anbennar1458 = { topography = ocean climate = arctic }
+# Province: anbennar1459
+anbennar1459 = { topography = ocean climate = arctic }
+# Province: anbennar1615
+anbennar1615 = { topography = ocean climate = arctic }
+# Province: anbennar1625
+anbennar1625 = { topography = ocean climate = arctic }
+# Province: kedwali_pass
+kedwali_pass = { topography = ocean climate = arctic }
+### Region: south_uelos_lament_ocean_region
+## Area: far_uelos_lament_sea_area
+# Province: anbennar1450
+anbennar1450 = { topography = ocean climate = arctic }
+# Province: anbennar1453
+anbennar1453 = { topography = ocean climate = arctic }
+# Province: anbennar1454
+anbennar1454 = { topography = ocean climate = arctic }
+# Province: anbennar1455
+anbennar1455 = { topography = ocean climate = arctic }
+# Province: anbennar1601
+anbennar1601 = { topography = ocean climate = arctic }
+# Province: anbennar1627
+anbennar1627 = { topography = ocean climate = arctic }
+# Province: anbennar1628
+anbennar1628 = { topography = ocean climate = arctic }
+# Province: anbennar1632
+anbennar1632 = { topography = ocean climate = arctic }
+# Province: anbennar1636
+anbennar1636 = { topography = ocean climate = arctic }
+# Province: anbennar1637
+anbennar1637 = { topography = ocean climate = arctic }
+# Province: anbennar1647
+anbennar1647 = { topography = ocean climate = arctic }
+# Province: anbennar6635
+anbennar6635 = { topography = ocean climate = arctic }
+# Province: unused102
+unused102 = { topography = ocean climate = arctic }
+# Province: unused75
+unused75 = { topography = ocean climate = arctic }
+# Province: unused76
+unused76 = { topography = ocean climate = arctic }
+# Province: unused90
+unused90 = { topography = ocean climate = arctic }
+# Province: unused91
+unused91 = { topography = ocean climate = arctic }
+# Province: unused97
+unused97 = { topography = ocean climate = arctic }
+# Province: unused98
+unused98 = { topography = ocean climate = arctic }
+## Area: south_uelos_lament_sea_area
+# Province: anbennar1617
+anbennar1617 = { topography = ocean climate = arctic }
+# Province: fadhobaith
+fadhobaith = { topography = ocean climate = arctic }
+# Province: islanders_route
+islanders_route = { topography = ocean climate = arctic }
+# Province: sea_of_vines
+sea_of_vines = { topography = ocean climate = arctic }
+# Province: shell_bay
+shell_bay = { topography = ocean climate = arctic }
+# Province: south_uelos_lament
+south_uelos_lament = { topography = ocean climate = arctic }
+# Province: wrecks_sealane
+wrecks_sealane = { topography = ocean climate = arctic }
+### Region: southeast_aelantir_coast_region
+## Area: coast_of_the_effelai_area
+# Province: fishers_venture
+fishers_venture = { topography = ocean climate = arctic }
+# Province: lai_promontory_coast
+lai_promontory_coast = { topography = ocean climate = arctic }
+# Province: lais_approach
+lais_approach = { topography = ocean climate = arctic }
+# Province: tailsight
+tailsight = { topography = ocean climate = arctic }
+# Province: coast_of_singers
+coast_of_singers = { topography = ocean climate = arctic }
+## Area: gleaming_sea_area
+# Province: castaway_sea
+castaway_sea = { topography = ocean climate = arctic }
+# Province: gloomy_departure
+gloomy_departure = { topography = ocean climate = arctic }
+# Province: outer_rays
+outer_rays = { topography = ocean climate = arctic }
+# Province: sunset_approach
+sunset_approach = { topography = ocean climate = arctic }
+# Province: sunshade_bay
+sunshade_bay = { topography = ocean climate = arctic }
+## Area: leechdens_area
+# Province: leechdens_middanfen
+leechdens_middanfen = { topography = ocean climate = arctic }
+# Province: leechdens_norfen
+leechdens_norfen = { topography = ocean climate = arctic }
+# Province: leechdens_sorfen
+leechdens_sorfen = { topography = ocean climate = arctic }
+# Province: wouduel
+wouduel = { topography = ocean climate = arctic }
+# Province: leechdens
+leechdens = { topography = ocean climate = arctic }
+## Area: radiant_sea_area
+# Province: coast_of_timber
+coast_of_timber = { topography = ocean climate = arctic }
+# Province: gleaming_waters
+gleaming_waters = { topography = ocean climate = arctic }
+# Province: kila_toram
+kila_toram = { topography = ocean climate = arctic }
+# Province: radiant_straits
+radiant_straits = { topography = ocean climate = arctic }
+# Province: resplendent_rift
+resplendent_rift = { topography = ocean climate = arctic }
+# Province: suraels_respite
+suraels_respite = { topography = ocean climate = arctic }
+# Province: katal_koraim
+katal_koraim = { topography = ocean climate = arctic }
+# Province: rezankost
+rezankost = { topography = ocean climate = arctic }
+## Area: sea_of_ameion_area
+# Province: outer_vussam_sea
+outer_vussam_sea = { topography = ocean climate = arctic }
+# Province: the_passage
+the_passage = { topography = ocean climate = arctic }
+# Province: thekkalisk
+thekkalisk = { topography = ocean climate = arctic }
+# Province: thekvrys_edge
+thekvrys_edge = { topography = ocean climate = arctic }
+# Province: vyechei_vussam
+vyechei_vussam = { topography = ocean climate = arctic }
+# Province: chendhyan_dent
+chendhyan_dent = { topography = ocean climate = arctic }
+# Province: kheyeana_reaches
+kheyeana_reaches = { topography = ocean climate = arctic }
+### Region: torn_sea_region
+## Area: torn_sea_area
+# Province: artificers_coast
+artificers_coast = { topography = ocean climate = arctic }
+# Province: cape_bronrin
+cape_bronrin = { topography = ocean climate = arctic }
+# Province: east_gulf_of_haraf
+east_gulf_of_haraf = { topography = ocean climate = arctic }
+# Province: east_haraf_coast
+east_haraf_coast = { topography = ocean climate = arctic }
+# Province: matni_sea
+matni_sea = { topography = ocean climate = arctic }
+# Province: north_amadia_coast
+north_amadia_coast = { topography = ocean climate = arctic }
+# Province: north_lovers_pass
+north_lovers_pass = { topography = ocean climate = arctic }
+# Province: shattered_islands
+shattered_islands = { topography = ocean climate = arctic }
+# Province: south_lovers_pass
+south_lovers_pass = { topography = ocean climate = arctic }
+# Province: steel_bay
+steel_bay = { topography = ocean climate = arctic }
+# Province: stormy_bight
+stormy_bight = { topography = ocean climate = arctic }
+# Province: torn_sea
+torn_sea = { topography = ocean climate = arctic }
+# Province: vanburia_approach
+vanburia_approach = { topography = ocean climate = arctic }
+# Province: west_gulf_of_haraf
+west_gulf_of_haraf = { topography = ocean climate = arctic }
+# Province: silent_coast
+silent_coast = { topography = ocean climate = arctic }
+# Province: coast_of_vanburia
+coast_of_vanburia = { topography = ocean climate = arctic }
+### Region: unknown_unknown__superregion_region
+## Area: unknown_unknown_unknown__superregion_region_area
+# Province: acid_lake
+acid_lake = { topography = lakes climate = arctic }
+# Province: anbennar1283
+anbennar1283 = { topography = lakes climate = arctic }
+# Province: anbennar1356
+anbennar1356 = { topography = lakes climate = arctic }
+# Province: anbennar1397
+anbennar1397 = { topography = lakes climate = arctic }
+# Province: anbennar1400
+anbennar1400 = { topography = lakes climate = arctic }
+# Province: anbennar1401
+anbennar1401 = { topography = lakes climate = arctic }
+# Province: anbennar1403
+anbennar1403 = { topography = ocean climate = arctic }
+# Province: anbennar1629
+anbennar1629 = { topography = ocean climate = arctic }
+# Province: anbennar1895
+anbennar1895 = { topography = lakes climate = arctic }
+# Province: anbennar1905
+anbennar1905 = { topography = lakes climate = arctic }
+# Province: anbennar1906
+anbennar1906 = { topography = lakes climate = arctic }
+# Province: anbennar3571
+anbennar3571 = { topography = ocean climate = arctic }
+# Province: anbennar3579
+anbennar3579 = { topography = ocean climate = arctic }
+# Province: anbennar3580
+anbennar3580 = { topography = ocean climate = arctic }
+# Province: anbennar3598
+anbennar3598 = { topography = lakes climate = arctic }
+# Province: anbennar3599
+anbennar3599 = { topography = lakes climate = arctic }
+# Province: anbennar3600
+anbennar3600 = { topography = lakes climate = arctic }
+# Province: anbennar3601
+anbennar3601 = { topography = lakes climate = arctic }
+# Province: anbennar3602
+anbennar3602 = { topography = lakes climate = arctic }
+# Province: anbennar3603
+anbennar3603 = { topography = lakes climate = arctic }
+# Province: anbennar3604
+anbennar3604 = { topography = lakes climate = arctic }
+# Province: anbennar3605
+anbennar3605 = { topography = lakes climate = arctic }
+# Province: anbennar3606
+anbennar3606 = { topography = lakes climate = arctic }
+# Province: anbennar3607
+anbennar3607 = { topography = lakes climate = arctic }
+# Province: anbennar3608
+anbennar3608 = { topography = lakes climate = arctic }
+# Province: anbennar3609
+anbennar3609 = { topography = lakes climate = arctic }
+# Province: anbennar3612
+anbennar3612 = { topography = lakes climate = arctic }
+# Province: anbennar3620
+anbennar3620 = { topography = lakes climate = arctic }
+# Province: anbennar3622
+anbennar3622 = { topography = lakes climate = arctic }
+# Province: anbennar3661
+anbennar3661 = { topography = lakes climate = arctic }
+# Province: anbennar3662
+anbennar3662 = { topography = lakes climate = arctic }
+# Province: anbennar4137
+anbennar4137 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar4138
+anbennar4138 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar4139
+anbennar4139 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar4140
+anbennar4140 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar4235
+anbennar4235 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar6067
+anbennar6067 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar6165
+anbennar6165 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar6192
+anbennar6192 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar6236
+anbennar6236 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar6516
+anbennar6516 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar6517
+anbennar6517 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar6518
+anbennar6518 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar6519
+anbennar6519 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar6520
+anbennar6520 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar6521
+anbennar6521 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar6522
+anbennar6522 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar6523
+anbennar6523 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar6524
+anbennar6524 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar6526
+anbennar6526 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar6527
+anbennar6527 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar6528
+anbennar6528 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar6529
+anbennar6529 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar6530
+anbennar6530 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar6531
+anbennar6531 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar6533
+anbennar6533 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar6534
+anbennar6534 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar6535
+anbennar6535 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar6536
+anbennar6536 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar6537
+anbennar6537 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar6538
+anbennar6538 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar6539
+anbennar6539 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar6540
+anbennar6540 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar6541
+anbennar6541 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar6542
+anbennar6542 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar6543
+anbennar6543 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar6544
+anbennar6544 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar6715
+anbennar6715 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar6728
+anbennar6728 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar6748
+anbennar6748 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar6852
+anbennar6852 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar6855
+anbennar6855 = { topography = lakes climate = arctic }
+# Province: anbennar7039
+anbennar7039 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7040
+anbennar7040 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7041
+anbennar7041 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7042
+anbennar7042 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7043
+anbennar7043 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7044
+anbennar7044 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7045
+anbennar7045 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7046
+anbennar7046 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7047
+anbennar7047 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7048
+anbennar7048 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7049
+anbennar7049 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7050
+anbennar7050 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7051
+anbennar7051 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7052
+anbennar7052 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7053
+anbennar7053 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7054
+anbennar7054 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7055
+anbennar7055 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7056
+anbennar7056 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7057
+anbennar7057 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7058
+anbennar7058 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7059
+anbennar7059 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7060
+anbennar7060 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7061
+anbennar7061 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7062
+anbennar7062 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7063
+anbennar7063 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7064
+anbennar7064 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7065
+anbennar7065 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7066
+anbennar7066 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7067
+anbennar7067 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7068
+anbennar7068 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7069
+anbennar7069 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7070
+anbennar7070 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7071
+anbennar7071 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7072
+anbennar7072 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7073
+anbennar7073 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7074
+anbennar7074 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7075
+anbennar7075 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7076
+anbennar7076 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7077
+anbennar7077 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7078
+anbennar7078 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7079
+anbennar7079 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7080
+anbennar7080 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7081
+anbennar7081 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7082
+anbennar7082 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7083
+anbennar7083 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7084
+anbennar7084 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7085
+anbennar7085 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7086
+anbennar7086 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7087
+anbennar7087 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7088
+anbennar7088 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7089
+anbennar7089 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7090
+anbennar7090 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7091
+anbennar7091 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7092
+anbennar7092 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7093
+anbennar7093 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7094
+anbennar7094 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7095
+anbennar7095 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7096
+anbennar7096 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7097
+anbennar7097 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7098
+anbennar7098 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7099
+anbennar7099 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7100
+anbennar7100 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7101
+anbennar7101 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7102
+anbennar7102 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7103
+anbennar7103 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7104
+anbennar7104 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7105
+anbennar7105 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7106
+anbennar7106 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7107
+anbennar7107 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7108
+anbennar7108 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7109
+anbennar7109 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7110
+anbennar7110 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7111
+anbennar7111 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7112
+anbennar7112 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7113
+anbennar7113 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7114
+anbennar7114 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7115
+anbennar7115 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7116
+anbennar7116 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7117
+anbennar7117 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7118
+anbennar7118 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7119
+anbennar7119 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7120
+anbennar7120 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7121
+anbennar7121 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7122
+anbennar7122 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7123
+anbennar7123 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7124
+anbennar7124 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7125
+anbennar7125 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7126
+anbennar7126 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7127
+anbennar7127 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7128
+anbennar7128 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7129
+anbennar7129 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7130
+anbennar7130 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7131
+anbennar7131 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7132
+anbennar7132 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7133
+anbennar7133 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7134
+anbennar7134 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7135
+anbennar7135 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7136
+anbennar7136 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7137
+anbennar7137 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7138
+anbennar7138 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7139
+anbennar7139 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7140
+anbennar7140 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7141
+anbennar7141 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7142
+anbennar7142 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7143
+anbennar7143 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7144
+anbennar7144 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7145
+anbennar7145 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7146
+anbennar7146 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7147
+anbennar7147 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7148
+anbennar7148 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7149
+anbennar7149 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7150
+anbennar7150 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7151
+anbennar7151 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7152
+anbennar7152 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7153
+anbennar7153 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7154
+anbennar7154 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7155
+anbennar7155 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7156
+anbennar7156 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7157
+anbennar7157 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7158
+anbennar7158 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7159
+anbennar7159 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7160
+anbennar7160 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7161
+anbennar7161 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7162
+anbennar7162 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7163
+anbennar7163 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7164
+anbennar7164 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7165
+anbennar7165 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7166
+anbennar7166 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7167
+anbennar7167 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7168
+anbennar7168 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7169
+anbennar7169 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7170
+anbennar7170 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7171
+anbennar7171 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7172
+anbennar7172 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7173
+anbennar7173 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7174
+anbennar7174 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7175
+anbennar7175 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7176
+anbennar7176 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7177
+anbennar7177 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7178
+anbennar7178 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7179
+anbennar7179 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7180
+anbennar7180 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7181
+anbennar7181 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7182
+anbennar7182 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7183
+anbennar7183 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7184
+anbennar7184 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7185
+anbennar7185 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7186
+anbennar7186 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7187
+anbennar7187 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7188
+anbennar7188 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7189
+anbennar7189 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7190
+anbennar7190 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7191
+anbennar7191 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7192
+anbennar7192 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7193
+anbennar7193 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7194
+anbennar7194 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7195
+anbennar7195 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7196
+anbennar7196 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7197
+anbennar7197 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7198
+anbennar7198 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7199
+anbennar7199 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7200
+anbennar7200 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7201
+anbennar7201 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7202
+anbennar7202 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7203
+anbennar7203 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7204
+anbennar7204 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7205
+anbennar7205 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7206
+anbennar7206 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7207
+anbennar7207 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7208
+anbennar7208 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7209
+anbennar7209 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7210
+anbennar7210 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7211
+anbennar7211 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7212
+anbennar7212 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7213
+anbennar7213 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7214
+anbennar7214 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7215
+anbennar7215 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7216
+anbennar7216 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7217
+anbennar7217 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7218
+anbennar7218 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7219
+anbennar7219 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7220
+anbennar7220 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7221
+anbennar7221 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7222
+anbennar7222 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7223
+anbennar7223 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7224
+anbennar7224 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7225
+anbennar7225 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7226
+anbennar7226 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7227
+anbennar7227 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7228
+anbennar7228 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7229
+anbennar7229 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7230
+anbennar7230 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7231
+anbennar7231 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7232
+anbennar7232 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7233
+anbennar7233 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7234
+anbennar7234 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7235
+anbennar7235 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7236
+anbennar7236 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7237
+anbennar7237 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7238
+anbennar7238 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7239
+anbennar7239 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7240
+anbennar7240 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7241
+anbennar7241 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7242
+anbennar7242 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7243
+anbennar7243 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7244
+anbennar7244 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7245
+anbennar7245 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7246
+anbennar7246 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7247
+anbennar7247 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7248
+anbennar7248 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7249
+anbennar7249 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7250
+anbennar7250 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7251
+anbennar7251 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7252
+anbennar7252 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7253
+anbennar7253 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7254
+anbennar7254 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7255
+anbennar7255 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7256
+anbennar7256 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7257
+anbennar7257 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7258
+anbennar7258 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7259
+anbennar7259 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7260
+anbennar7260 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7261
+anbennar7261 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7262
+anbennar7262 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7263
+anbennar7263 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7264
+anbennar7264 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7265
+anbennar7265 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7266
+anbennar7266 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7267
+anbennar7267 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7268
+anbennar7268 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7269
+anbennar7269 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7270
+anbennar7270 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7271
+anbennar7271 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7272
+anbennar7272 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7273
+anbennar7273 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7274
+anbennar7274 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7275
+anbennar7275 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7276
+anbennar7276 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7277
+anbennar7277 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7278
+anbennar7278 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7279
+anbennar7279 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7280
+anbennar7280 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7281
+anbennar7281 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7282
+anbennar7282 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7283
+anbennar7283 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7284
+anbennar7284 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7285
+anbennar7285 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7286
+anbennar7286 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7287
+anbennar7287 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7288
+anbennar7288 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7289
+anbennar7289 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7290
+anbennar7290 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7291
+anbennar7291 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7292
+anbennar7292 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7293
+anbennar7293 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7294
+anbennar7294 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7295
+anbennar7295 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7296
+anbennar7296 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7297
+anbennar7297 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7298
+anbennar7298 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7299
+anbennar7299 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7300
+anbennar7300 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7301
+anbennar7301 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7302
+anbennar7302 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7303
+anbennar7303 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7304
+anbennar7304 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7305
+anbennar7305 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7306
+anbennar7306 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7307
+anbennar7307 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7308
+anbennar7308 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7309
+anbennar7309 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7310
+anbennar7310 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7311
+anbennar7311 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7312
+anbennar7312 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7313
+anbennar7313 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7314
+anbennar7314 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7315
+anbennar7315 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7316
+anbennar7316 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7317
+anbennar7317 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7318
+anbennar7318 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7319
+anbennar7319 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7320
+anbennar7320 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7321
+anbennar7321 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7322
+anbennar7322 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7323
+anbennar7323 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7324
+anbennar7324 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7325
+anbennar7325 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7326
+anbennar7326 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7327
+anbennar7327 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7328
+anbennar7328 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7329
+anbennar7329 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7330
+anbennar7330 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7331
+anbennar7331 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7332
+anbennar7332 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7333
+anbennar7333 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7334
+anbennar7334 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7335
+anbennar7335 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7336
+anbennar7336 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7337
+anbennar7337 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7338
+anbennar7338 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7339
+anbennar7339 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7340
+anbennar7340 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7341
+anbennar7341 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7342
+anbennar7342 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7343
+anbennar7343 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7344
+anbennar7344 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7345
+anbennar7345 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7346
+anbennar7346 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7347
+anbennar7347 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7348
+anbennar7348 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7349
+anbennar7349 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7350
+anbennar7350 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7351
+anbennar7351 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7352
+anbennar7352 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7353
+anbennar7353 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7354
+anbennar7354 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7355
+anbennar7355 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7356
+anbennar7356 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7357
+anbennar7357 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7358
+anbennar7358 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7359
+anbennar7359 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7360
+anbennar7360 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7361
+anbennar7361 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7362
+anbennar7362 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7363
+anbennar7363 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7364
+anbennar7364 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7365
+anbennar7365 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7366
+anbennar7366 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7367
+anbennar7367 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7368
+anbennar7368 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7369
+anbennar7369 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7370
+anbennar7370 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7371
+anbennar7371 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7372
+anbennar7372 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7373
+anbennar7373 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7374
+anbennar7374 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7375
+anbennar7375 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7376
+anbennar7376 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7377
+anbennar7377 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7378
+anbennar7378 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7379
+anbennar7379 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7380
+anbennar7380 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7381
+anbennar7381 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7382
+anbennar7382 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7383
+anbennar7383 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7384
+anbennar7384 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7385
+anbennar7385 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7386
+anbennar7386 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7387
+anbennar7387 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7388
+anbennar7388 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7389
+anbennar7389 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7390
+anbennar7390 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7391
+anbennar7391 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7392
+anbennar7392 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7393
+anbennar7393 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7394
+anbennar7394 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7395
+anbennar7395 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7396
+anbennar7396 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7397
+anbennar7397 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7398
+anbennar7398 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7399
+anbennar7399 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7400
+anbennar7400 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7401
+anbennar7401 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7402
+anbennar7402 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7403
+anbennar7403 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7404
+anbennar7404 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7405
+anbennar7405 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7406
+anbennar7406 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7407
+anbennar7407 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7408
+anbennar7408 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7409
+anbennar7409 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7410
+anbennar7410 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7411
+anbennar7411 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7412
+anbennar7412 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7413
+anbennar7413 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7414
+anbennar7414 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7415
+anbennar7415 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7416
+anbennar7416 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7417
+anbennar7417 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7418
+anbennar7418 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7419
+anbennar7419 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7420
+anbennar7420 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7421
+anbennar7421 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7422
+anbennar7422 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7423
+anbennar7423 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7424
+anbennar7424 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7425
+anbennar7425 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7426
+anbennar7426 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7427
+anbennar7427 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7428
+anbennar7428 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7429
+anbennar7429 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7430
+anbennar7430 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7431
+anbennar7431 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7432
+anbennar7432 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7433
+anbennar7433 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7434
+anbennar7434 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7435
+anbennar7435 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7436
+anbennar7436 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7437
+anbennar7437 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7438
+anbennar7438 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7439
+anbennar7439 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7440
+anbennar7440 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7441
+anbennar7441 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7442
+anbennar7442 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7443
+anbennar7443 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7444
+anbennar7444 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7445
+anbennar7445 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7446
+anbennar7446 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7447
+anbennar7447 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7448
+anbennar7448 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7449
+anbennar7449 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7450
+anbennar7450 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7451
+anbennar7451 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7452
+anbennar7452 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7453
+anbennar7453 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7454
+anbennar7454 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7455
+anbennar7455 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7456
+anbennar7456 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7457
+anbennar7457 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7458
+anbennar7458 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7459
+anbennar7459 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7460
+anbennar7460 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7461
+anbennar7461 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7462
+anbennar7462 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7463
+anbennar7463 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7464
+anbennar7464 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7465
+anbennar7465 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7466
+anbennar7466 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7467
+anbennar7467 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7468
+anbennar7468 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7469
+anbennar7469 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7470
+anbennar7470 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7471
+anbennar7471 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7472
+anbennar7472 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7473
+anbennar7473 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7474
+anbennar7474 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7475
+anbennar7475 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7476
+anbennar7476 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7477
+anbennar7477 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7478
+anbennar7478 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7479
+anbennar7479 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7480
+anbennar7480 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7481
+anbennar7481 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7482
+anbennar7482 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7483
+anbennar7483 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7484
+anbennar7484 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7485
+anbennar7485 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7486
+anbennar7486 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7487
+anbennar7487 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7488
+anbennar7488 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7489
+anbennar7489 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7490
+anbennar7490 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7491
+anbennar7491 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7492
+anbennar7492 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7493
+anbennar7493 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7494
+anbennar7494 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7495
+anbennar7495 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7496
+anbennar7496 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7497
+anbennar7497 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7498
+anbennar7498 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7499
+anbennar7499 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7500
+anbennar7500 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7501
+anbennar7501 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7502
+anbennar7502 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7503
+anbennar7503 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7504
+anbennar7504 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7505
+anbennar7505 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7506
+anbennar7506 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7507
+anbennar7507 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7508
+anbennar7508 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7509
+anbennar7509 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7510
+anbennar7510 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7511
+anbennar7511 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7512
+anbennar7512 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7513
+anbennar7513 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7514
+anbennar7514 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7515
+anbennar7515 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7516
+anbennar7516 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7517
+anbennar7517 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7518
+anbennar7518 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7519
+anbennar7519 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7520
+anbennar7520 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7521
+anbennar7521 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7522
+anbennar7522 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7523
+anbennar7523 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7524
+anbennar7524 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7525
+anbennar7525 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7526
+anbennar7526 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7527
+anbennar7527 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7528
+anbennar7528 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7529
+anbennar7529 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7530
+anbennar7530 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7531
+anbennar7531 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7532
+anbennar7532 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7533
+anbennar7533 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7534
+anbennar7534 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7535
+anbennar7535 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7536
+anbennar7536 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7537
+anbennar7537 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7538
+anbennar7538 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7539
+anbennar7539 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7540
+anbennar7540 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7541
+anbennar7541 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7542
+anbennar7542 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7543
+anbennar7543 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7544
+anbennar7544 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7545
+anbennar7545 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7546
+anbennar7546 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7547
+anbennar7547 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7548
+anbennar7548 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7549
+anbennar7549 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7550
+anbennar7550 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7551
+anbennar7551 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7552
+anbennar7552 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7553
+anbennar7553 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7554
+anbennar7554 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7555
+anbennar7555 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7556
+anbennar7556 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7557
+anbennar7557 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7558
+anbennar7558 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7559
+anbennar7559 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7560
+anbennar7560 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7561
+anbennar7561 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7562
+anbennar7562 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7563
+anbennar7563 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7564
+anbennar7564 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7565
+anbennar7565 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7566
+anbennar7566 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7567
+anbennar7567 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7568
+anbennar7568 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7569
+anbennar7569 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7570
+anbennar7570 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7571
+anbennar7571 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7572
+anbennar7572 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7573
+anbennar7573 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7574
+anbennar7574 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7575
+anbennar7575 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7576
+anbennar7576 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7577
+anbennar7577 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7578
+anbennar7578 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7579
+anbennar7579 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7580
+anbennar7580 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7581
+anbennar7581 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7582
+anbennar7582 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7583
+anbennar7583 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7584
+anbennar7584 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7585
+anbennar7585 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7586
+anbennar7586 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7587
+anbennar7587 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7588
+anbennar7588 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7589
+anbennar7589 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7590
+anbennar7590 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7591
+anbennar7591 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7592
+anbennar7592 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7593
+anbennar7593 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7594
+anbennar7594 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7595
+anbennar7595 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7596
+anbennar7596 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7597
+anbennar7597 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7598
+anbennar7598 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7599
+anbennar7599 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7600
+anbennar7600 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7601
+anbennar7601 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7602
+anbennar7602 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7603
+anbennar7603 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7604
+anbennar7604 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7605
+anbennar7605 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7606
+anbennar7606 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7607
+anbennar7607 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7608
+anbennar7608 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7609
+anbennar7609 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7610
+anbennar7610 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7611
+anbennar7611 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7612
+anbennar7612 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7613
+anbennar7613 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7614
+anbennar7614 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7615
+anbennar7615 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7616
+anbennar7616 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7617
+anbennar7617 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7618
+anbennar7618 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7619
+anbennar7619 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7620
+anbennar7620 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7621
+anbennar7621 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7622
+anbennar7622 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7623
+anbennar7623 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7624
+anbennar7624 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7625
+anbennar7625 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7626
+anbennar7626 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7627
+anbennar7627 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7628
+anbennar7628 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7629
+anbennar7629 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7630
+anbennar7630 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7631
+anbennar7631 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7632
+anbennar7632 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7633
+anbennar7633 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7634
+anbennar7634 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7635
+anbennar7635 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7636
+anbennar7636 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7637
+anbennar7637 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7638
+anbennar7638 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7639
+anbennar7639 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7640
+anbennar7640 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7641
+anbennar7641 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7642
+anbennar7642 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7643
+anbennar7643 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7644
+anbennar7644 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7645
+anbennar7645 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7646
+anbennar7646 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7647
+anbennar7647 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7648
+anbennar7648 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7649
+anbennar7649 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7650
+anbennar7650 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7651
+anbennar7651 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7652
+anbennar7652 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7653
+anbennar7653 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7654
+anbennar7654 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7655
+anbennar7655 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7656
+anbennar7656 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7657
+anbennar7657 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7658
+anbennar7658 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7659
+anbennar7659 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7660
+anbennar7660 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7661
+anbennar7661 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7662
+anbennar7662 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7663
+anbennar7663 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7664
+anbennar7664 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7665
+anbennar7665 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7666
+anbennar7666 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7667
+anbennar7667 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7668
+anbennar7668 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7669
+anbennar7669 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7670
+anbennar7670 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7671
+anbennar7671 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7672
+anbennar7672 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7673
+anbennar7673 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7674
+anbennar7674 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7675
+anbennar7675 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7676
+anbennar7676 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7677
+anbennar7677 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7678
+anbennar7678 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7679
+anbennar7679 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7680
+anbennar7680 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7681
+anbennar7681 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7682
+anbennar7682 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7683
+anbennar7683 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7684
+anbennar7684 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7685
+anbennar7685 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7686
+anbennar7686 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7687
+anbennar7687 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7688
+anbennar7688 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7689
+anbennar7689 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7690
+anbennar7690 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7691
+anbennar7691 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7692
+anbennar7692 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7693
+anbennar7693 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7694
+anbennar7694 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7695
+anbennar7695 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7696
+anbennar7696 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7697
+anbennar7697 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7698
+anbennar7698 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7699
+anbennar7699 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7700
+anbennar7700 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7701
+anbennar7701 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7702
+anbennar7702 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7703
+anbennar7703 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7704
+anbennar7704 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7705
+anbennar7705 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7706
+anbennar7706 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7707
+anbennar7707 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7708
+anbennar7708 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7709
+anbennar7709 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7710
+anbennar7710 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7711
+anbennar7711 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7712
+anbennar7712 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7713
+anbennar7713 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7714
+anbennar7714 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7715
+anbennar7715 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7716
+anbennar7716 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7717
+anbennar7717 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7718
+anbennar7718 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7719
+anbennar7719 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7720
+anbennar7720 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7721
+anbennar7721 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7722
+anbennar7722 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7723
+anbennar7723 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7724
+anbennar7724 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7725
+anbennar7725 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7726
+anbennar7726 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7727
+anbennar7727 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7728
+anbennar7728 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7729
+anbennar7729 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7730
+anbennar7730 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7731
+anbennar7731 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7732
+anbennar7732 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7733
+anbennar7733 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7734
+anbennar7734 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7735
+anbennar7735 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7736
+anbennar7736 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7737
+anbennar7737 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7738
+anbennar7738 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7739
+anbennar7739 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7740
+anbennar7740 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7741
+anbennar7741 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7742
+anbennar7742 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7743
+anbennar7743 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7744
+anbennar7744 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7745
+anbennar7745 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7746
+anbennar7746 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7747
+anbennar7747 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7748
+anbennar7748 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7749
+anbennar7749 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7750
+anbennar7750 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7751
+anbennar7751 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7752
+anbennar7752 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7753
+anbennar7753 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7754
+anbennar7754 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7755
+anbennar7755 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7756
+anbennar7756 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7757
+anbennar7757 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7758
+anbennar7758 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7759
+anbennar7759 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7760
+anbennar7760 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7761
+anbennar7761 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7762
+anbennar7762 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7763
+anbennar7763 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7764
+anbennar7764 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7765
+anbennar7765 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7766
+anbennar7766 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7767
+anbennar7767 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7768
+anbennar7768 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7769
+anbennar7769 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7770
+anbennar7770 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7771
+anbennar7771 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7772
+anbennar7772 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7773
+anbennar7773 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7774
+anbennar7774 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7775
+anbennar7775 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7776
+anbennar7776 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7777
+anbennar7777 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7778
+anbennar7778 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7779
+anbennar7779 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7780
+anbennar7780 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7781
+anbennar7781 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7782
+anbennar7782 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7783
+anbennar7783 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7784
+anbennar7784 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7785
+anbennar7785 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7786
+anbennar7786 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7787
+anbennar7787 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7788
+anbennar7788 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7789
+anbennar7789 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7790
+anbennar7790 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7791
+anbennar7791 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7792
+anbennar7792 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7793
+anbennar7793 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7794
+anbennar7794 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7795
+anbennar7795 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7796
+anbennar7796 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7797
+anbennar7797 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7798
+anbennar7798 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7799
+anbennar7799 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7800
+anbennar7800 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7801
+anbennar7801 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7802
+anbennar7802 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7803
+anbennar7803 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7804
+anbennar7804 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7805
+anbennar7805 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7806
+anbennar7806 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7807
+anbennar7807 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7808
+anbennar7808 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7809
+anbennar7809 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7810
+anbennar7810 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7811
+anbennar7811 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7812
+anbennar7812 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7813
+anbennar7813 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7814
+anbennar7814 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7815
+anbennar7815 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7816
+anbennar7816 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7817
+anbennar7817 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7818
+anbennar7818 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7819
+anbennar7819 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7820
+anbennar7820 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7821
+anbennar7821 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7822
+anbennar7822 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7823
+anbennar7823 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7824
+anbennar7824 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7825
+anbennar7825 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7826
+anbennar7826 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7827
+anbennar7827 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7828
+anbennar7828 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7829
+anbennar7829 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7830
+anbennar7830 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7831
+anbennar7831 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7832
+anbennar7832 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7833
+anbennar7833 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7834
+anbennar7834 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7835
+anbennar7835 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7836
+anbennar7836 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7837
+anbennar7837 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7838
+anbennar7838 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7839
+anbennar7839 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7840
+anbennar7840 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7841
+anbennar7841 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7842
+anbennar7842 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7843
+anbennar7843 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7844
+anbennar7844 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7845
+anbennar7845 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7846
+anbennar7846 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7847
+anbennar7847 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7848
+anbennar7848 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7849
+anbennar7849 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7850
+anbennar7850 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7851
+anbennar7851 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7852
+anbennar7852 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7853
+anbennar7853 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7854
+anbennar7854 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7855
+anbennar7855 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7856
+anbennar7856 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7857
+anbennar7857 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7858
+anbennar7858 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7859
+anbennar7859 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7860
+anbennar7860 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7861
+anbennar7861 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7862
+anbennar7862 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7863
+anbennar7863 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7864
+anbennar7864 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7865
+anbennar7865 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7866
+anbennar7866 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7867
+anbennar7867 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7868
+anbennar7868 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7869
+anbennar7869 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7870
+anbennar7870 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7871
+anbennar7871 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7872
+anbennar7872 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7873
+anbennar7873 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7874
+anbennar7874 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7875
+anbennar7875 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7876
+anbennar7876 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7877
+anbennar7877 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7878
+anbennar7878 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7879
+anbennar7879 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7880
+anbennar7880 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7881
+anbennar7881 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7882
+anbennar7882 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7883
+anbennar7883 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7884
+anbennar7884 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7885
+anbennar7885 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7886
+anbennar7886 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7887
+anbennar7887 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7888
+anbennar7888 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7889
+anbennar7889 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7890
+anbennar7890 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7891
+anbennar7891 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7892
+anbennar7892 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7893
+anbennar7893 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7894
+anbennar7894 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7895
+anbennar7895 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7896
+anbennar7896 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7897
+anbennar7897 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7898
+anbennar7898 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7899
+anbennar7899 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7900
+anbennar7900 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7901
+anbennar7901 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7902
+anbennar7902 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7903
+anbennar7903 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7904
+anbennar7904 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7905
+anbennar7905 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7906
+anbennar7906 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7907
+anbennar7907 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7908
+anbennar7908 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7909
+anbennar7909 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7910
+anbennar7910 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7911
+anbennar7911 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7912
+anbennar7912 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7913
+anbennar7913 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7914
+anbennar7914 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7915
+anbennar7915 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7916
+anbennar7916 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7917
+anbennar7917 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7918
+anbennar7918 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7919
+anbennar7919 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7920
+anbennar7920 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7921
+anbennar7921 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7922
+anbennar7922 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7923
+anbennar7923 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7924
+anbennar7924 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7925
+anbennar7925 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7926
+anbennar7926 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7927
+anbennar7927 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7928
+anbennar7928 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7929
+anbennar7929 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7930
+anbennar7930 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7931
+anbennar7931 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7932
+anbennar7932 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7933
+anbennar7933 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7934
+anbennar7934 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7935
+anbennar7935 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7936
+anbennar7936 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7937
+anbennar7937 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7938
+anbennar7938 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7939
+anbennar7939 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7940
+anbennar7940 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7941
+anbennar7941 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7942
+anbennar7942 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7943
+anbennar7943 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7944
+anbennar7944 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7945
+anbennar7945 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7946
+anbennar7946 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7947
+anbennar7947 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7948
+anbennar7948 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7949
+anbennar7949 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7950
+anbennar7950 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7951
+anbennar7951 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7952
+anbennar7952 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7953
+anbennar7953 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7954
+anbennar7954 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7955
+anbennar7955 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7956
+anbennar7956 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7957
+anbennar7957 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7958
+anbennar7958 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7959
+anbennar7959 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7960
+anbennar7960 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7961
+anbennar7961 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7962
+anbennar7962 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7963
+anbennar7963 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7964
+anbennar7964 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7965
+anbennar7965 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7966
+anbennar7966 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7967
+anbennar7967 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7968
+anbennar7968 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7969
+anbennar7969 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7970
+anbennar7970 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7971
+anbennar7971 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7972
+anbennar7972 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7973
+anbennar7973 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7974
+anbennar7974 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7975
+anbennar7975 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7976
+anbennar7976 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7977
+anbennar7977 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7978
+anbennar7978 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7979
+anbennar7979 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7980
+anbennar7980 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7981
+anbennar7981 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7982
+anbennar7982 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7983
+anbennar7983 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7984
+anbennar7984 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7985
+anbennar7985 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7986
+anbennar7986 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7987
+anbennar7987 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7988
+anbennar7988 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7989
+anbennar7989 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7990
+anbennar7990 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7991
+anbennar7991 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7992
+anbennar7992 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7993
+anbennar7993 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7994
+anbennar7994 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7995
+anbennar7995 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7996
+anbennar7996 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7997
+anbennar7997 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7998
+anbennar7998 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar7999
+anbennar7999 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennar8000
+anbennar8000 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: anbennr6532
+anbennr6532 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: ancovynn
+ancovynn = { topography = lakes climate = arctic }
+# Province: arganynn
+arganynn = { topography = lakes climate = arctic }
+# Province: bale_wander
+bale_wander = { topography = ocean climate = arctic }
+# Province: blathfar_sea
+blathfar_sea = { topography = ocean climate = arctic }
+# Province: bojevynn
+bojevynn = { topography = lakes climate = arctic }
+# Province: cape_loranakodro
+cape_loranakodro = { topography = ocean climate = arctic }
+# Province: clatharloch
+clatharloch = { topography = lakes climate = arctic }
+# Province: copachdomann_expanse
+copachdomann_expanse = { topography = ocean climate = arctic }
+# Province: dakilbege_nuk
+dakilbege_nuk = { topography = lakes climate = arctic }
+# Province: darrloc
+darrloc = { topography = lakes climate = arctic }
+# Province: drahr
+drahr = { topography = lakes climate = arctic }
+# Province: dubpar_kelpforest
+dubpar_kelpforest = { topography = ocean climate = arctic }
+# Province: dva_yemar
+dva_yemar = { topography = lakes climate = arctic }
+# Province: eye
+eye = { topography = lakes climate = arctic }
+# Province: falthemar
+falthemar = { topography = lakes climate = arctic }
+# Province: floodfens
+floodfens = { topography = lakes climate = arctic }
+# Province: gathmarkorsk
+gathmarkorsk = { topography = ocean climate = arctic }
+# Province: gerudian_lakes
+gerudian_lakes = { topography = lakes climate = arctic }
+# Province: giants_tears
+giants_tears = { topography = lakes climate = arctic }
+# Province: gliosthemar
+gliosthemar = { topography = lakes climate = arctic }
+# Province: glorelthir
+glorelthir = { topography = ocean climate = arctic }
+# Province: gracosthemar
+gracosthemar = { topography = lakes climate = arctic }
+# Province: green_lake
+green_lake = { topography = lakes climate = arctic }
+# Province: hibiscus_lagoon
+hibiscus_lagoon = { topography = lakes climate = arctic }
+# Province: hlakkavatn
+hlakkavatn = { topography = lakes climate = arctic }
+# Province: hor_velsynn
+hor_velsynn = { topography = lakes climate = arctic }
+# Province: howling_lake
+howling_lake = { topography = lakes climate = arctic }
+# Province: hungry_shallows
+hungry_shallows = { topography = lakes climate = arctic }
+# Province: ibidintely_coast
+ibidintely_coast = { topography = ocean climate = arctic }
+# Province: jorkad_lake
+jorkad_lake = { topography = lakes climate = arctic }
+# Province: keygas
+keygas = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: kunolo_bay
+kunolo_bay = { topography = ocean climate = arctic }
+# Province: kuresgiju_spring
+kuresgiju_spring = { topography = lakes climate = arctic }
+# Province: lake_chakantu
+lake_chakantu = { topography = lakes climate = arctic }
+# Province: lake_cocaire
+lake_cocaire = { topography = lakes climate = arctic }
+# Province: lake_eget
+lake_eget = { topography = lakes climate = arctic }
+# Province: lake_jorath
+lake_jorath = { topography = lakes climate = arctic }
+# Province: lake_kokesal
+lake_kokesal = { topography = lakes climate = arctic }
+# Province: lake_of_tears
+lake_of_tears = { topography = lakes climate = arctic }
+# Province: lake_silvermere
+lake_silvermere = { topography = lakes climate = arctic }
+# Province: lake_taeganyuul
+lake_taeganyuul = { topography = lakes climate = arctic }
+# Province: lake_tamakhan
+lake_tamakhan = { topography = lakes climate = arctic }
+# Province: latran_coast
+latran_coast = { topography = ocean climate = arctic }
+# Province: leech_basin
+leech_basin = { topography = lakes climate = arctic }
+# Province: mteidhan_lake
+mteidhan_lake = { topography = lakes climate = arctic }
+# Province: murdfaibh_the_great_sea
+murdfaibh_the_great_sea = { topography = ocean climate = arctic }
+# Province: nashair_rocht
+nashair_rocht = { topography = lakes climate = arctic }
+# Province: niz_velsynn
+niz_velsynn = { topography = lakes climate = arctic }
+# Province: osvoyrynn
+osvoyrynn = { topography = lakes climate = arctic }
+# Province: outer_turtleback_coast
+outer_turtleback_coast = { topography = ocean climate = arctic }
+# Province: ovekafa_coast
+ovekafa_coast = { topography = ocean climate = arctic }
+# Province: phulakala_lake
+phulakala_lake = { topography = lakes climate = arctic }
+# Province: pools_of_bliss
+pools_of_bliss = { topography = lakes climate = arctic }
+# Province: predpadhynn
+predpadhynn = { topography = lakes climate = arctic }
+# Province: randrunnse
+randrunnse = { topography = ocean climate = arctic }
+# Province: rnw
+rnw = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: saikinoma_pass
+saikinoma_pass = { topography = ocean climate = arctic }
+# Province: salt_grass_lake
+salt_grass_lake = { topography = lakes climate = arctic }
+# Province: sea_of_steam
+sea_of_steam = { topography = ocean climate = arctic }
+# Province: sea_of_wreckages
+sea_of_wreckages = { topography = ocean climate = arctic }
+# Province: serpentfall
+serpentfall = { topography = lakes climate = arctic }
+# Province: serpentsoil_lake
+serpentsoil_lake = { topography = lakes climate = arctic }
+# Province: silent_lake
+silent_lake = { topography = lakes climate = arctic }
+# Province: siu_wu
+siu_wu = { topography = lakes climate = arctic }
+# Province: southflipper_coast
+southflipper_coast = { topography = ocean climate = arctic }
+# Province: southsea_expanse
+southsea_expanse = { topography = ocean climate = arctic }
+# Province: sovalelnosy_sea
+sovalelnosy_sea = { topography = ocean climate = arctic }
+# Province: spiders_lake
+spiders_lake = { topography = lakes climate = arctic }
+# Province: spray_lake
+spray_lake = { topography = lakes climate = arctic }
+# Province: stillwaters_of_fisusg
+stillwaters_of_fisusg = { topography = ocean climate = arctic }
+# Province: taspasu
+taspasu = { topography = lakes climate = arctic }
+# Province: thamus
+thamus = { topography = lakes climate = arctic }
+# Province: themarenn_lake
+themarenn_lake = { topography = lakes climate = arctic }
+# Province: tianhu
+tianhu = { topography = lakes climate = arctic }
+# Province: tibokyuye_point
+tibokyuye_point = { topography = ocean climate = arctic }
+# Province: tora_delta
+tora_delta = { topography = ocean climate = arctic }
+# Province: torrieanach
+torrieanach = { topography = ocean climate = arctic }
+# Province: torrifadhfadhai
+torrifadhfadhai = { topography = ocean climate = arctic }
+# Province: unused100
+unused100 = { topography = ocean climate = arctic }
+# Province: unused101
+unused101 = { topography = ocean climate = arctic }
+# Province: unused107
+unused107 = { topography = ocean climate = arctic }
+# Province: unused108
+unused108 = { topography = ocean climate = arctic }
+# Province: unused109
+unused109 = { topography = ocean climate = arctic }
+# Province: unused110
+unused110 = { topography = ocean climate = arctic }
+# Province: unused111
+unused111 = { topography = ocean climate = arctic }
+# Province: unused112
+unused112 = { topography = ocean climate = arctic }
+# Province: unused113
+unused113 = { topography = ocean climate = arctic }
+# Province: unused114
+unused114 = { topography = ocean climate = arctic }
+# Province: unused115
+unused115 = { topography = ocean climate = arctic }
+# Province: unused116
+unused116 = { topography = ocean climate = arctic }
+# Province: unused117
+unused117 = { topography = ocean climate = arctic }
+# Province: unused118
+unused118 = { topography = ocean climate = arctic }
+# Province: unused119
+unused119 = { topography = ocean climate = arctic }
+# Province: unused70
+unused70 = { topography = ocean climate = arctic }
+# Province: unused71
+unused71 = { topography = ocean climate = arctic }
+# Province: unused72
+unused72 = { topography = ocean climate = arctic }
+# Province: unused73
+unused73 = { topography = ocean climate = arctic }
+# Province: unused74
+unused74 = { topography = ocean climate = arctic }
+# Province: unused77
+unused77 = { topography = ocean climate = arctic }
+# Province: unused78
+unused78 = { topography = ocean climate = arctic }
+# Province: unused79
+unused79 = { topography = ocean climate = arctic }
+# Province: unused80
+unused80 = { topography = ocean climate = arctic }
+# Province: unused81
+unused81 = { topography = ocean climate = arctic }
+# Province: unused82
+unused82 = { topography = ocean climate = arctic }
+# Province: unused83
+unused83 = { topography = ocean climate = arctic }
+# Province: unused84
+unused84 = { topography = ocean climate = arctic }
+# Province: unused85
+unused85 = { topography = ocean climate = arctic }
+# Province: unused86
+unused86 = { topography = ocean climate = arctic }
+# Province: unused87
+unused87 = { topography = ocean climate = arctic }
+# Province: unused88
+unused88 = { topography = ocean climate = arctic }
+# Province: unused92
+unused92 = { topography = ocean climate = arctic }
+# Province: unused93
+unused93 = { topography = ocean climate = arctic }
+# Province: unused94
+unused94 = { topography = ocean climate = arctic }
+# Province: unused95
+unused95 = { topography = ocean climate = arctic }
+# Province: unused96
+unused96 = { topography = ocean climate = arctic }
+# Province: unused99
+unused99 = { topography = ocean climate = arctic }
+# Province: uthojans_eye
+uthojans_eye = { topography = lakes climate = arctic }
+# Province: wretched_abyss
+wretched_abyss = { topography = lakes climate = arctic }
+# Province: ynnicresev1
+ynnicresev1 = { topography = lakes climate = arctic }
+# Province: ynnicresev2
+ynnicresev2 = { topography = lakes climate = arctic }
+# Province: ynnicresev3
+ynnicresev3 = { topography = lakes climate = arctic }
+# Province: ynnicresev4
+ynnicresev4 = { topography = lakes climate = arctic }
+### Region: west_aelantir_coast_region
+## Area: west_aelantir_coast_area
+# Province: eastern_eor_islands
+eastern_eor_islands = { topography = ocean climate = arctic }
+# Province: elarbarc
+elarbarc = { topography = ocean climate = arctic }
+# Province: fograc_gulf
+fograc_gulf = { topography = ocean climate = arctic }
+# Province: gulf_of_neanaanii
+gulf_of_neanaanii = { topography = ocean climate = arctic }
+# Province: harafroy_inlet
+harafroy_inlet = { topography = ocean climate = arctic }
+# Province: milsgelp_shelf
+milsgelp_shelf = { topography = ocean climate = arctic }
+# Province: western_eor_islands
+western_eor_islands = { topography = ocean climate = arctic }
+# Province: sarmadfar
+sarmadfar = { topography = ocean climate = arctic }
+### Region: west_salahad_coast_region
+## Area: west_salahad_sea_area
+# Province: anbennar1466
+anbennar1466 = { topography = ocean climate = arctic }
+# Province: anbennar1467
+anbennar1467 = { topography = ocean climate = arctic }
+# Province: bumpy_waves
+bumpy_waves = { topography = ocean climate = arctic }
+# Province: corsair_reaches
+corsair_reaches = { topography = ocean climate = arctic }
+# Province: pointsight
+pointsight = { topography = ocean climate = arctic }
+# Province: sandspite_approach
+sandspite_approach = { topography = ocean climate = arctic }
+# Province: sandspite_gulf
+sandspite_gulf = { topography = ocean climate = arctic }
+# Province: sandspite_sea
+sandspite_sea = { topography = ocean climate = arctic }
+# Province: zombasa_approach
+zombasa_approach = { topography = ocean climate = arctic }
+### Region: westcoast_region
+## Area: bay_of_dragons_area
+# Province: bay_of_oddan
+bay_of_oddan = { topography = ocean climate = arctic }
+# Province: reavers_approach
+reavers_approach = { topography = ocean climate = arctic }
+# Province: shattered_bay
+shattered_bay = { topography = ocean climate = arctic }
+# Province: west_of_nimscodd
+west_of_nimscodd = { topography = ocean climate = arctic }
+# Province: dragon_coast
+dragon_coast = { topography = ocean climate = arctic }
+## Area: southcoast_area
+# Province: bay_of_crovan
+bay_of_crovan = { topography = ocean climate = arctic }
+# Province: hillsight_approach
+hillsight_approach = { topography = ocean climate = arctic }
+# Province: southcoast
+southcoast = { topography = ocean climate = arctic }
+## Area: westcoast_area
+# Province: coast_of_venail
+coast_of_venail = { topography = ocean climate = arctic }
+# Province: portnamm_bay
+portnamm_bay = { topography = ocean climate = arctic }
+# Province: westcoast
+westcoast = { topography = ocean climate = arctic }
+# Province: fogged_sea
+fogged_sea = { topography = ocean climate = arctic }
+### Region: western_broken_sea_region
+## Area: western_broken_sea_area
+# Province: anesgara_current
+anesgara_current = { topography = ocean climate = arctic }
+# Province: torriaran
+torriaran = { topography = ocean climate = arctic }
+# Province: torrifadhai
+torrifadhai = { topography = ocean climate = arctic }
+# Province: western_broken_sea
+western_broken_sea = { topography = ocean climate = arctic }
+# Province: western_thaw
+western_thaw = { topography = ocean climate = arctic }
+# Province: eigras_gate
+eigras_gate = { topography = ocean climate = arctic }
+# Province: fogharabh
+fogharabh = { topography = ocean climate = arctic }
 ##### Continent: africa
 #### Superregion: bulwar_superregion
 ### Region: bahar_region
@@ -1423,8 +5003,8 @@ selcost = { topography = flatland vegetation = grasslands climate = continental 
 ## Area: dogo_babolo_area
 # Province: anbennar6309
 anbennar6309 = { topography = flatland vegetation = grasslands climate = continental raw_material = unknown }
-# Province: marid's_bay
-marid's_bay = { topography = flatland vegetation = grasslands climate = continental raw_material = unknown natural_harbor_suitability = 0.25 }
+# Province: marids_bay
+marids_bay = { topography = flatland vegetation = grasslands climate = continental raw_material = unknown natural_harbor_suitability = 0.25 }
 # Province: new_hookfield
 new_hookfield = { topography = flatland vegetation = grasslands climate = continental raw_material = unknown natural_harbor_suitability = 0.25 }
 # Province: port_narawen
@@ -2761,30 +6341,6 @@ trantem = { topography = flatland vegetation = grasslands climate = continental 
 # Province: zerkis
 zerkis = { topography = flatland vegetation = grasslands climate = continental religion = nirakhetist culture = nzeri_harpy raw_material = copper }
 #### Superregion: unknown_africa_superregion
-### Region: divenhal_sea_region
-## Area: brasanni_sea_area
-# Province: bay_of_brasan
-bay_of_brasan = { topography = ocean climate = arctic }
-## Area: coast_of_akasik_area
-# Province: dog_coast
-dog_coast = { topography = ocean climate = arctic }
-## Area: east_diven_area
-# Province: coast_of_kheterat
-coast_of_kheterat = { topography = ocean climate = arctic }
-## Area: gulf_of_glass_area
-# Province: bay_of_mirrors
-bay_of_mirrors = { topography = ocean climate = arctic }
-# Province: sea_of_echoes
-sea_of_echoes = { topography = ocean climate = arctic }
-## Area: bay_of_wines_sea_area
-# Province: bay_of_wines
-bay_of_wines = { topography = ocean climate = arctic }
-## Area: sea_of_follies_area
-# Province: flooded_coast
-flooded_coast = { topography = ocean climate = arctic }
-## Area: sea_of_stone_area
-# Province: busilari_straits
-busilari_straits = { topography = ocean climate = arctic }
 ### Region: unknown_unknown_africa_superregion_region
 ## Area: unknown_unknown_unknown_africa_superregion_region_area
 # Province: amussus_grave
@@ -4579,34 +8135,6 @@ dherekara = { topography = flatland vegetation = grasslands climate = continenta
 # Province: udapana
 udapana = { topography = flatland vegetation = grasslands climate = continental religion = old_dookan culture = brown_orc raw_material = wheat }
 #### Superregion: unknown_asia_superregion
-### Region: gulf_of_rahen_region
-## Area: gulf_of_rahen_area
-# Province: gulf_of_rahen
-gulf_of_rahen = { topography = ocean climate = arctic }
-# Province: raghamidesh_sea
-raghamidesh_sea = { topography = ocean climate = arctic }
-# Province: tamran_sea
-tamran_sea = { topography = ocean climate = arctic }
-### Region: northern_sea_region
-## Area: kodarve_sea_area
-# Province: vurtijitten_sea
-vurtijitten_sea = { topography = ocean climate = arctic }
-## Area: outer_sea_area
-# Province: konetudamic_abyss
-konetudamic_abyss = { topography = ocean climate = arctic }
-## Area: yukelqur_sea_area
-# Province: yukarkalzeb
-yukarkalzeb = { topography = ocean climate = arctic }
-## Area: zernuuk_sea_area
-# Province: avdilonkh_sea
-avdilonkh_sea = { topography = ocean climate = arctic }
-### Region: ringlet_sea_region
-## Area: ringlet_sea_area
-# Province: bay_of_lupulan
-bay_of_lupulan = { topography = ocean climate = arctic }
-## Area: the_bridge_area
-# Province: binhrung_coast
-binhrung_coast = { topography = ocean climate = arctic }
 ### Region: unknown_unknown_asia_superregion_region
 ## Area: unknown_unknown_unknown_asia_superregion_region_area
 # Province: anbennar5394
@@ -5507,10 +9035,6 @@ yangcheng = { topography = flatland vegetation = grasslands climate = continenta
 yanzhong = { topography = flatland vegetation = grasslands climate = continental religion = high_philosophy culture = jiangszun raw_material = silk }
 ##### Continent: debug_continent
 #### Superregion: unknown_debug_continent_superregion
-### Region: north_ocean_of_the_lost_region
-## Area: north_ocean_of_the_lost_area
-# Province: anbennar6849
-anbennar6849 = { topography = ocean climate = arctic }
 ### Region: unknown_unknown_debug_continent_superregion_region
 ## Area: unknown_unknown_unknown_debug_continent_superregion_region_area
 # Province: anbennar4346
@@ -6493,8 +10017,6 @@ grymskali = { topography = flatland vegetation = grasslands climate = continenta
 # Province: ljotrturv
 ljotrturv = { topography = flatland vegetation = grasslands climate = continental religion = skaldhyrric_faith culture = east_dalr raw_material = fur }
 ## Area: revrland_area
-# Province: hlakkavatn
-hlakkavatn = { topography = flatland vegetation = grasslands climate = continental religion = skaldhyrric_faith culture = west_dalr raw_material = fish natural_harbor_suitability = 0.25 }
 # Province: knarhatt
 knarhatt = { topography = flatland vegetation = grasslands climate = continental religion = skaldhyrric_faith culture = west_dalr raw_material = fish natural_harbor_suitability = 0.25 }
 # Province: revrhavn
@@ -6610,8 +10132,6 @@ naugsvol = { topography = flatland vegetation = grasslands climate = continental
 # Province: silvrborg
 silvrborg = { topography = flatland vegetation = grasslands climate = continental religion = skaldhyrric_faith culture = olavish raw_material = unknown }
 ## Area: northern_giants_tears_area
-# Province: giants_tears
-giants_tears = { topography = flatland vegetation = grasslands climate = continental religion = old_dookan culture = gray_orc raw_material = fur }
 # Province: giantsmarch
 giantsmarch = { topography = flatland vegetation = grasslands climate = continental religion = old_dookan culture = gray_orc raw_material = fish natural_harbor_suitability = 0.25 }
 # Province: myrk
@@ -6642,21 +10162,6 @@ jotunsob = { topography = flatland vegetation = grasslands climate = continental
 # Province: outer_dwaroval
 outer_dwaroval = { topography = flatland vegetation = grasslands climate = continental religion = old_dookan culture = gray_orc raw_material = iron }
 #### Superregion: unknown_europe_superregion
-### Region: dameshead_sea_region
-## Area: dameshead_sea_area
-# Province: north_dameshead
-north_dameshead = { topography = ocean climate = arctic }
-### Region: giants_grave_sea_region
-## Area: bay_of_chills_area
-# Province: bay_of_chills
-bay_of_chills = { topography = ocean climate = arctic }
-## Area: giants_grave_sea_area
-# Province: frozen_pass
-frozen_pass = { topography = ocean climate = arctic }
-# Province: gerudian_bank
-gerudian_bank = { topography = ocean climate = arctic }
-# Province: vrorensbay
-vrorensbay = { topography = ocean climate = arctic }
 ### Region: unknown_unknown_europe_superregion_region
 ## Area: unknown_unknown_unknown_europe_superregion_region_area
 # Province: anbennar1789
@@ -6713,19 +10218,10 @@ ruby_mountains = { topography = mountain_wasteland vegetation = woods climate = 
 the_frozen_north = { topography = mountain_wasteland vegetation = woods climate = arctic }
 # Province: the_godshield
 the_godshield = { topography = mountain_wasteland vegetation = woods climate = arctic }
-# Province: titan's_rest_mountains
-titan's_rest_mountains = { topography = mountain_wasteland vegetation = woods climate = arctic }
 # Province: titans_rest_mountains
 titans_rest_mountains = { topography = mountain_wasteland vegetation = woods climate = arctic }
 # Province: trollwastes
 trollwastes = { topography = mountain_wasteland vegetation = woods climate = arctic }
-### Region: westcoast_region
-## Area: bay_of_dragons_area
-# Province: dragon_coast
-dragon_coast = { topography = ocean climate = arctic }
-## Area: westcoast_area
-# Province: fogged_sea
-fogged_sea = { topography = ocean climate = arctic }
 #### Superregion: western_cannor_superregion
 ### Region: alenic_frontier_region
 ## Area: alenic_expanse_area
@@ -7175,8 +10671,6 @@ huntersfield = { topography = flatland vegetation = grasslands climate = contine
 # Province: verne
 verne = { topography = flatland vegetation = grasslands climate = continental religion = regent_court culture = vernman raw_material = copper }
 ## Area: west_damesear_area
-# Province: anbenncost
-anbenncost = { topography = flatland vegetation = grasslands climate = continental religion = regent_court culture = anbenncoster raw_material = unknown natural_harbor_suitability = 0.25 }
 # Province: auraire
 auraire = { topography = flatland vegetation = grasslands climate = continental religion = regent_court culture = west_damerian raw_material = unknown natural_harbor_suitability = 0.25 }
 # Province: damesear
@@ -9312,36 +12806,6 @@ erelqum = { topography = flatland vegetation = grasslands climate = continental 
 # Province: ranneranna
 ranneranna = { topography = flatland vegetation = grasslands climate = continental raw_material = wheat }
 #### Superregion: unknown_north_america_superregion
-### Region: broken_sea_region
-## Area: broken_sea_area
-# Province: bay_of_verencel
-bay_of_verencel = { topography = ocean climate = arctic }
-### Region: north_aelantir_coast_region
-## Area: north_aelantir_coast_area
-# Province: iceberg_alley
-iceberg_alley = { topography = ocean climate = arctic }
-### Region: north_uelos_lament_ocean_region
-## Area: coast_of_endrallian_area
-# Province: coast_of_endrallian
-coast_of_endrallian = { topography = ocean climate = arctic }
-### Region: ruined_sea_region
-## Area: trollsbay_coast_area
-# Province: east_bloodgroves_coast
-east_bloodgroves_coast = { topography = ocean climate = arctic }
-# Province: trollsbay
-trollsbay = { topography = ocean climate = arctic }
-## Area: ruined_sea_area
-# Province: ruinous_core
-ruinous_core = { topography = ocean climate = arctic }
-## Area: western_respite_sea_area
-# Province: davies_coast
-davies_coast = { topography = ocean climate = arctic }
-### Region: torn_sea_region
-## Area: torn_sea_area
-# Province: silent_coast
-silent_coast = { topography = ocean climate = arctic }
-# Province: coast_of_vanburia
-coast_of_vanburia = { topography = ocean climate = arctic }
 ### Region: unknown_unknown_north_america_superregion_region
 ## Area: unknown_unknown_unknown_north_america_superregion_region_area
 # Province: arberith_wastes
@@ -9380,16 +12844,6 @@ unusedland86 = { topography = mountain_wasteland vegetation = woods climate = ar
 unusedland91 = { topography = mountain_wasteland vegetation = woods climate = arctic }
 # Province: unusedland98
 unusedland98 = { topography = mountain_wasteland vegetation = woods climate = arctic }
-### Region: west_aelantir_coast_region
-## Area: west_aelantir_coast_area
-# Province: sarmadfar
-sarmadfar = { topography = ocean climate = arctic }
-### Region: western_broken_sea_region
-## Area: western_broken_sea_area
-# Province: eigras_gate
-eigras_gate = { topography = ocean climate = arctic }
-# Province: fogharabh
-fogharabh = { topography = ocean climate = arctic }
 #### Superregion: ynn_superregion
 ### Region: dolindha_region
 ## Area: amacimst_area
@@ -11019,8 +14473,6 @@ anbennar6477 = { topography = mountain_wasteland vegetation = woods climate = ar
 anbennar6887 = { topography = mountain_wasteland vegetation = woods climate = arctic }
 # Province: anbennar6892
 anbennar6892 = { topography = mountain_wasteland vegetation = woods climate = arctic }
-# Province: rnw
-rnw = { topography = lakes climate = arctic }
 # Province: unused129
 unused129 = { topography = mountain_wasteland vegetation = woods climate = arctic }
 # Province: unused130
@@ -11463,8 +14915,6 @@ shvartrdigok = { topography = flatland vegetation = grasslands climate = contine
 darkwood = { topography = flatland vegetation = grasslands climate = continental raw_material = unknown }
 # Province: falstads_last_stand
 falstads_last_stand = { topography = flatland vegetation = grasslands climate = continental raw_material = unknown }
-# Province: salt_grass_lake
-salt_grass_lake = { topography = flatland vegetation = grasslands climate = continental raw_material = unknown }
 ## Area: hjyrtsikki_area
 # Province: anbennar6286
 anbennar6286 = { topography = flatland vegetation = grasslands climate = continental raw_material = unknown }
@@ -11778,8 +15228,8 @@ oldhole = { topography = flatland vegetation = grasslands climate = continental 
 longneck_cave = { topography = flatland vegetation = grasslands climate = continental raw_material = unknown }
 # Province: red_hoard
 red_hoard = { topography = flatland vegetation = grasslands climate = continental raw_material = unknown }
-# Province: scavengers'_hovel
-scavengers'_hovel = { topography = flatland vegetation = grasslands climate = continental religion = nimrithan culture = darkscale_kobold raw_material = unknown }
+# Province: scavengers_hovel
+scavengers_hovel = { topography = flatland vegetation = grasslands climate = continental religion = nimrithan culture = darkscale_kobold raw_material = unknown }
 ## Area: dead_end_tunnel_area
 # Province: abrupt_end
 abrupt_end = { topography = flatland vegetation = grasslands climate = continental raw_material = unknown }
@@ -13196,30 +16646,6 @@ nymbhava = { topography = flatland vegetation = grasslands climate = continental
 # Province: tirsin
 tirsin = { topography = flatland vegetation = grasslands climate = continental religion = gods_of_the_taychend culture = yodhanpir raw_material = wheat }
 #### Superregion: unknown_south_america_superregion
-### Region: cleaved_sea_coast_region
-## Area: cleaved_sea_area
-# Province: cleaved_sea
-cleaved_sea = { topography = ocean climate = arctic }
-## Area: kaydhano_coast_area
-# Province: bacoon_bight
-bacoon_bight = { topography = ocean climate = arctic }
-### Region: southeast_aelantir_coast_region
-## Area: coast_of_the_effelai_area
-# Province: coast_of_singers
-coast_of_singers = { topography = ocean climate = arctic }
-## Area: leechdens_area
-# Province: leechdens
-leechdens = { topography = ocean climate = arctic }
-## Area: radiant_sea_area
-# Province: katal_koraim
-katal_koraim = { topography = ocean climate = arctic }
-# Province: rezankost
-rezankost = { topography = ocean climate = arctic }
-## Area: sea_of_ameion_area
-# Province: chendhyan_dent
-chendhyan_dent = { topography = ocean climate = arctic }
-# Province: kheyeana_reaches
-kheyeana_reaches = { topography = ocean climate = arctic }
 ### Region: unknown_unknown_south_america_superregion_region
 ## Area: unknown_unknown_unknown_south_america_superregion_region_area
 # Province: anbennar1420
