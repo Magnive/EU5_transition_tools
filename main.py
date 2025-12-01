@@ -727,3 +727,8 @@ with open('sea_zones.txt', 'w', encoding='utf-8') as f:
     for location in locations_data.values():
         if location.get('location_type', '') == 'sea':
             f.write('\t' + location.get('location_name', '') + '\n')
+
+with open('wasteland.txt', 'w', encoding='utf-8') as f:
+    for location in locations_data.values():
+        if location.get('topography', '').endswith('_wasteland'):
+            f.write('\t' + location.get('location_name', '') + '\n')
