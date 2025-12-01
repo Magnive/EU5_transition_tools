@@ -181,7 +181,6 @@
 	sea_of_spears
 	south_gowon_sea
 	widows_sea
-	anbennar5319
 	darvoyaryil
 	kyhjudamic_gulf
 	teipuuvokja_sea
@@ -282,7 +281,6 @@
 	sunshine_point
 	twilight_isles
 	wreckers_reach
-	anbennar1418
 	anbennar6906
 	jellyfish_coast
 	phokhao_pass
@@ -315,8 +313,6 @@
 	west_trollsbay
 	bay_of_respite
 	cape_mordun
-	anbennar1354
-	anbennar1358
 	anbennar1404
 	anbennar1405
 	anbennar1434
