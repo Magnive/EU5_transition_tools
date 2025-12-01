@@ -3658,7 +3658,7 @@ ovdal_tungr = { topography = flatland vegetation = grasslands climate = continen
 # Province: agshelum
 agshelum = { topography = flatland vegetation = grasslands climate = continental religion = bulwari_sun_cult culture = sun_elf raw_material = wine natural_harbor_suitability = 0.25 }
 # Province: anbennar6760
-anbennar6760 = { topography = flatland vegetation = grasslands climate = continental religion = bulwari_sun_cult culture = bahari raw_material = dues natural_harbor_suitability = 0.25 }
+anbennar6760 = { topography = flatland vegetation = grasslands climate = continental religion = bulwari_sun_cult culture = bahari raw_material = dyes natural_harbor_suitability = 0.25 }
 # Province: bazibar
 bazibar = { topography = flatland vegetation = grasslands climate = continental religion = goblinic_shamanism culture = exodus_goblin raw_material = wool }
 # Province: eduz_wez
@@ -4245,11 +4245,11 @@ unusedland43 = { topography = flatland vegetation = grasslands climate = contine
 ### Region: jasiir_jadid_region
 ## Area: ashamad_bariga_area
 # Province: dhul_yingidar
-dhul_yingidar = { topography = flatland vegetation = grasslands climate = continental religion = rinta_seekers culture = ashamadi raw_material = dues natural_harbor_suitability = 0.25 }
+dhul_yingidar = { topography = flatland vegetation = grasslands climate = continental religion = rinta_seekers culture = ashamadi raw_material = dyes natural_harbor_suitability = 0.25 }
 # Province: qarit_thamaal
 qarit_thamaal = { topography = flatland vegetation = grasslands climate = continental religion = rinta_seekers culture = ashamadi raw_material = wheat }
 # Province: qasri_ubakhiyo
-qasri_ubakhiyo = { topography = flatland vegetation = grasslands climate = continental religion = rinta_seekers culture = ashamadi raw_material = dues natural_harbor_suitability = 0.25 }
+qasri_ubakhiyo = { topography = flatland vegetation = grasslands climate = continental religion = rinta_seekers culture = ashamadi raw_material = dyes natural_harbor_suitability = 0.25 }
 # Province: sharwegga
 sharwegga = { topography = flatland vegetation = grasslands climate = continental religion = rinta_seekers culture = ashamadi raw_material = livestock }
 # Province: tadadaqali
@@ -4631,7 +4631,7 @@ anbennar5618 = { topography = flatland vegetation = grasslands climate = contine
 # Province: anbennar5626
 anbennar5626 = { topography = flatland vegetation = grasslands climate = continental religion = beast_memory culture = cyazizeta_lizardfolk raw_material = wheat }
 # Province: anbennar5641
-anbennar5641 = { topography = flatland vegetation = grasslands climate = continental religion = beast_memory culture = tanizu raw_material = dues }
+anbennar5641 = { topography = flatland vegetation = grasslands climate = continental religion = beast_memory culture = tanizu raw_material = dyes }
 # Province: anbennar5670
 anbennar5670 = { topography = flatland vegetation = grasslands climate = continental religion = beast_memory culture = tanizu raw_material = livestock }
 ## Area: guinyaswa_area
@@ -4689,7 +4689,7 @@ kuraru = { topography = flatland vegetation = grasslands climate = continental r
 # Province: aakeiritki
 aakeiritki = { topography = flatland vegetation = grasslands climate = continental religion = night_coven culture = swamp_troll raw_material = fungi }
 # Province: komupe_seggda
-komupe_seggda = { topography = flatland vegetation = grasslands climate = continental religion = night_coven culture = swamp_troll raw_material = dues }
+komupe_seggda = { topography = flatland vegetation = grasslands climate = continental religion = night_coven culture = swamp_troll raw_material = dyes }
 # Province: muknomura
 muknomura = { topography = flatland vegetation = grasslands climate = continental religion = night_coven culture = swamp_troll raw_material = ivory }
 # Province: sprigi_twani
@@ -4791,7 +4791,7 @@ kumkr_heni = { topography = flatland vegetation = grasslands climate = continent
 # Province: pidru_daud
 pidru_daud = { topography = flatland vegetation = grasslands climate = continental religion = night_coven culture = swamp_troll raw_material = lumber }
 # Province: tovchiheshu
-tovchiheshu = { topography = flatland vegetation = grasslands climate = continental religion = night_coven culture = swamp_troll raw_material = dues }
+tovchiheshu = { topography = flatland vegetation = grasslands climate = continental religion = night_coven culture = swamp_troll raw_material = dyes }
 ### Region: telekenid_region
 ## Area: bedaphire_area
 # Province: jezarpizu
@@ -5047,7 +5047,7 @@ tamasada = { topography = flatland vegetation = grasslands climate = continental
 # Province: gbujeru
 gbujeru = { topography = flatland vegetation = grasslands climate = continental religion = fangaulan_pantheon culture = jiromji raw_material = lumber natural_harbor_suitability = 0.25 }
 # Province: kunolo
-kunolo = { topography = flatland vegetation = grasslands climate = continental religion = fangaulan_pantheon culture = jiromji raw_material = dues natural_harbor_suitability = 0.25 }
+kunolo = { topography = flatland vegetation = grasslands climate = continental religion = fangaulan_pantheon culture = jiromji raw_material = dyes natural_harbor_suitability = 0.25 }
 # Province: tiboktsamo
 tiboktsamo = { topography = flatland vegetation = grasslands climate = continental religion = nakavy_avo culture = amezatany raw_material = incense natural_harbor_suitability = 0.25 }
 # Province: wiw_reku
@@ -5486,7 +5486,7 @@ anbennar5452 = { topography = flatland vegetation = grasslands climate = contine
 # Province: anbennar5453
 anbennar5453 = { topography = flatland vegetation = grasslands climate = continental religion = kvangahga culture = fieldstalker_gnoll raw_material = ivory }
 # Province: gazalga
-gazalga = { topography = flatland vegetation = grasslands climate = continental religion = kvangahga culture = fieldstalker_gnoll raw_material = dues }
+gazalga = { topography = flatland vegetation = grasslands climate = continental religion = kvangahga culture = fieldstalker_gnoll raw_material = dyes }
 # Province: zikott_zeenak
 zikott_zeenak = { topography = flatland vegetation = grasslands climate = continental religion = kvangahga culture = fieldstalker_gnoll raw_material = wheat }
 ## Area: pyazada_area
@@ -5681,7 +5681,7 @@ kagyan = { topography = flatland vegetation = grasslands climate = continental r
 # Province: karashan
 karashan = { topography = flatland vegetation = grasslands climate = continental religion = zaradyrra culture = ashhana_lizardfolk raw_material = livestock }
 # Province: khazyn
-khazyn = { topography = flatland vegetation = grasslands climate = continental religion = zaradyrra culture = ashhana_lizardfolk raw_material = dues }
+khazyn = { topography = flatland vegetation = grasslands climate = continental religion = zaradyrra culture = ashhana_lizardfolk raw_material = dyes }
 # Province: ra_terrissk
 ra_terrissk = { topography = flatland vegetation = grasslands climate = continental religion = zaradyrra culture = ashhana_lizardfolk raw_material = livestock }
 ## Area: katalatslamatakh_area
@@ -5695,7 +5695,7 @@ tsurin = { topography = flatland vegetation = grasslands climate = continental r
 # Province: arazinik
 arazinik = { topography = flatland vegetation = grasslands climate = continental religion = anzalkatsa culture = arraskay_lizardfolk raw_material = sugar }
 # Province: rayazas
-rayazas = { topography = flatland vegetation = grasslands climate = continental religion = anzalkatsa culture = arraskay_lizardfolk raw_material = dues }
+rayazas = { topography = flatland vegetation = grasslands climate = continental religion = anzalkatsa culture = arraskay_lizardfolk raw_material = dyes }
 # Province: thusk_nith
 thusk_nith = { topography = flatland vegetation = grasslands climate = continental religion = anzalkatsa culture = arraskay_lizardfolk raw_material = copper }
 # Province: tsaratokh
@@ -5727,7 +5727,7 @@ sharitsara = { topography = flatland vegetation = grasslands climate = continent
 taskasha = { topography = flatland vegetation = grasslands climate = continental religion = anzalkatsa culture = ichiadza_lizardfolk raw_material = wool }
 ## Area: rakirap_srap_area
 # Province: noor_tressik
-noor_tressik = { topography = flatland vegetation = grasslands climate = continental religion = anzalkatsa culture = ichiadza_lizardfolk raw_material = dues }
+noor_tressik = { topography = flatland vegetation = grasslands climate = continental religion = anzalkatsa culture = ichiadza_lizardfolk raw_material = dyes }
 # Province: rakhanek
 rakhanek = { topography = flatland vegetation = grasslands climate = continental religion = anzalkatsa culture = ichiadza_lizardfolk raw_material = salt }
 # Province: rakirakh
@@ -5758,7 +5758,7 @@ dodakush = { topography = flatland vegetation = grasslands climate = continental
 # Province: gol_tara
 gol_tara = { topography = flatland vegetation = grasslands climate = continental religion = anzalkatsa culture = arraskay_lizardfolk raw_material = pepper }
 # Province: yassa
-yassa = { topography = flatland vegetation = grasslands climate = continental religion = anzalkatsa culture = mashkay_lizardfolk raw_material = dues }
+yassa = { topography = flatland vegetation = grasslands climate = continental religion = anzalkatsa culture = mashkay_lizardfolk raw_material = dyes }
 ### Region: odu_kherass_region
 ## Area: kannepa_area
 # Province: akashara
@@ -5784,7 +5784,7 @@ adora_shwara = { topography = flatland vegetation = grasslands climate = contine
 # Province: gylgyra
 gylgyra = { topography = flatland vegetation = grasslands climate = continental religion = beast_memory culture = tanizu raw_material = gems }
 # Province: gylizir
-gylizir = { topography = flatland vegetation = grasslands climate = continental religion = beast_memory culture = tanizu raw_material = dues }
+gylizir = { topography = flatland vegetation = grasslands climate = continental religion = beast_memory culture = tanizu raw_material = dyes }
 # Province: tochtek
 tochtek = { topography = flatland vegetation = grasslands climate = continental religion = beast_memory culture = tanizu raw_material = livestock }
 ## Area: tiki_ra_shaga_area
@@ -5793,7 +5793,7 @@ akayarakh = { topography = flatland vegetation = grasslands climate = continenta
 # Province: godu
 godu = { topography = flatland vegetation = grasslands climate = continental religion = anzalkatsa culture = rhada_lizardfolk raw_material = unknown }
 # Province: khusadza
-khusadza = { topography = flatland vegetation = grasslands climate = continental religion = anzalkatsa culture = rhada_lizardfolk raw_material = dues }
+khusadza = { topography = flatland vegetation = grasslands climate = continental religion = anzalkatsa culture = rhada_lizardfolk raw_material = dyes }
 # Province: yusazas
 yusazas = { topography = flatland vegetation = grasslands climate = continental religion = beast_memory culture = cyazizeta_lizardfolk raw_material = pepper }
 ## Area: tiki_shalazar_area
@@ -5809,7 +5809,7 @@ ashakani = { topography = flatland vegetation = grasslands climate = continental
 # Province: ashusakhz
 ashusakhz = { topography = flatland vegetation = grasslands climate = continental religion = anzalkatsa culture = rhada_lizardfolk raw_material = pepper }
 # Province: shangra
-shangra = { topography = flatland vegetation = grasslands climate = continental religion = anzalkatsa culture = rhada_lizardfolk raw_material = dues }
+shangra = { topography = flatland vegetation = grasslands climate = continental religion = anzalkatsa culture = rhada_lizardfolk raw_material = dyes }
 ## Area: yosrath_area
 # Province: khagatzir
 khagatzir = { topography = flatland vegetation = grasslands climate = continental religion = zaradyrra culture = ashhana_lizardfolk raw_material = iron }
@@ -5831,7 +5831,7 @@ zulbur = { topography = flatland vegetation = grasslands climate = continental r
 # Province: agaya
 agaya = { topography = flatland vegetation = grasslands climate = continental religion = anzalkatsa culture = karshyray_lizardfolk raw_material = fish natural_harbor_suitability = 0.25 }
 # Province: karshyr
-karshyr = { topography = flatland vegetation = grasslands climate = continental religion = anzalkatsa culture = karshyray_lizardfolk raw_material = dues natural_harbor_suitability = 0.25 }
+karshyr = { topography = flatland vegetation = grasslands climate = continental religion = anzalkatsa culture = karshyray_lizardfolk raw_material = dyes natural_harbor_suitability = 0.25 }
 # Province: unusedland68
 unusedland68 = { topography = flatland vegetation = grasslands climate = continental raw_material = unknown natural_harbor_suitability = 0.25 }
 # Province: unusedland69
@@ -5901,7 +5901,7 @@ sekas_atsla = { topography = flatland vegetation = grasslands climate = continen
 tartashmirik = { topography = flatland vegetation = grasslands climate = continental religion = anzalkatsa culture = shagatyn_lizardfolk raw_material = unknown natural_harbor_suitability = 0.25 }
 ## Area: ninu_ra_kyik_area
 # Province: gokadas_kiyk
-gokadas_kiyk = { topography = flatland vegetation = grasslands climate = continental religion = anzalkatsa culture = shagashay_lizardfolk raw_material = dues natural_harbor_suitability = 0.25 }
+gokadas_kiyk = { topography = flatland vegetation = grasslands climate = continental religion = anzalkatsa culture = shagashay_lizardfolk raw_material = dyes natural_harbor_suitability = 0.25 }
 # Province: rathas_kiyk
 rathas_kiyk = { topography = flatland vegetation = grasslands climate = continental religion = anzalkatsa culture = shagashay_lizardfolk raw_material = livestock natural_harbor_suitability = 0.25 }
 # Province: sekas_kiyk
@@ -7053,7 +7053,7 @@ kanlaameevbahti = { topography = flatland vegetation = grasslands climate = cont
 # Province: muadele
 muadele = { topography = flatland vegetation = grasslands climate = continental religion = kodave_followers culture = metsamic raw_material = wheat natural_harbor_suitability = 0.25 }
 # Province: sinesadma
-sinesadma = { topography = flatland vegetation = grasslands climate = continental religion = kodave_followers culture = metsamic raw_material = dues natural_harbor_suitability = 0.25 }
+sinesadma = { topography = flatland vegetation = grasslands climate = continental religion = kodave_followers culture = metsamic raw_material = dyes natural_harbor_suitability = 0.25 }
 # Province: valrohepung
 valrohepung = { topography = flatland vegetation = grasslands climate = continental religion = kodave_followers culture = metsamic raw_material = wheat }
 ### Region: west_forbidden_plains_region
@@ -7475,7 +7475,7 @@ anbennar5388 = { topography = flatland vegetation = grasslands climate = contine
 # Province: anbennar5389
 anbennar5389 = { topography = flatland vegetation = grasslands climate = continental religion = eagle_worship culture = eagle_command raw_material = lumber }
 # Province: anbennar5390
-anbennar5390 = { topography = flatland vegetation = grasslands climate = continental religion = eagle_worship culture = eagle_command raw_material = dues }
+anbennar5390 = { topography = flatland vegetation = grasslands climate = continental religion = eagle_worship culture = eagle_command raw_material = dyes }
 ## Area: lock_tormscith_area
 # Province: noms10
 noms10 = { topography = flatland vegetation = grasslands climate = continental religion = sudomegi culture = soulseeker_ogre raw_material = livestock }
@@ -7492,7 +7492,7 @@ noms18 = { topography = flatland vegetation = grasslands climate = continental r
 # Province: anbennar5384
 anbennar5384 = { topography = flatland vegetation = grasslands climate = continental religion = eagle_worship culture = eagle_command raw_material = pepper }
 # Province: anbennar5385
-anbennar5385 = { topography = flatland vegetation = grasslands climate = continental religion = eagle_worship culture = eagle_command raw_material = dues }
+anbennar5385 = { topography = flatland vegetation = grasslands climate = continental religion = eagle_worship culture = eagle_command raw_material = dyes }
 # Province: anbennar5386
 anbennar5386 = { topography = flatland vegetation = grasslands climate = continental religion = eagle_worship culture = eagle_command raw_material = wheat }
 ## Area: portal_east_area
@@ -7610,7 +7610,7 @@ gorgonzul = { topography = flatland vegetation = grasslands climate = continenta
 ### Region: dhujat_region
 ## Area: banjiraal_area
 # Province: banjibang
-banjibang = { topography = flatland vegetation = grasslands climate = continental religion = high_philosophy culture = ghavaanaj raw_material = dues }
+banjibang = { topography = flatland vegetation = grasslands climate = continental religion = high_philosophy culture = ghavaanaj raw_material = dyes }
 # Province: dheelasul
 dheelasul = { topography = flatland vegetation = grasslands climate = continental religion = high_philosophy culture = ghavaanaj raw_material = ivory }
 # Province: vhigajiraal
@@ -7626,9 +7626,9 @@ sighajisbid = { topography = flatland vegetation = grasslands climate = continen
 # Province: dhukaara
 dhukaara = { topography = flatland vegetation = grasslands climate = continental religion = high_philosophy culture = ghavaanaj raw_material = livestock }
 # Province: sharaajaghal
-sharaajaghal = { topography = flatland vegetation = grasslands climate = continental religion = high_philosophy culture = ghavaanaj raw_material = dues }
+sharaajaghal = { topography = flatland vegetation = grasslands climate = continental religion = high_philosophy culture = ghavaanaj raw_material = dyes }
 # Province: svijirghaal
-svijirghaal = { topography = flatland vegetation = grasslands climate = continental religion = high_philosophy culture = ghavaanaj raw_material = dues }
+svijirghaal = { topography = flatland vegetation = grasslands climate = continental religion = high_philosophy culture = ghavaanaj raw_material = dyes }
 # Province: tavhisa
 tavhisa = { topography = flatland vegetation = grasslands climate = continental religion = high_philosophy culture = ghavaanaj raw_material = ivory }
 ## Area: dhurajaghan_area
@@ -7640,7 +7640,7 @@ dhurajaghan = { topography = flatland vegetation = grasslands climate = continen
 palsadar = { topography = flatland vegetation = grasslands climate = continental religion = high_philosophy culture = rasarhid raw_material = cotton }
 ## Area: ghavaghuundakhan_area
 # Province: dheelindighi
-dheelindighi = { topography = flatland vegetation = grasslands climate = continental religion = high_philosophy culture = ghavaanaj raw_material = dues }
+dheelindighi = { topography = flatland vegetation = grasslands climate = continental religion = high_philosophy culture = ghavaanaj raw_material = dyes }
 # Province: ghavaghuundakhan
 ghavaghuundakhan = { topography = flatland vegetation = grasslands climate = continental religion = high_philosophy culture = ghavaanaj raw_material = ivory }
 # Province: shvamakhaan
@@ -7687,7 +7687,7 @@ maldeelakhan = { topography = flatland vegetation = grasslands climate = contine
 # Province: righaan
 righaan = { topography = flatland vegetation = grasslands climate = continental religion = high_philosophy culture = ghavaanaj raw_material = livestock }
 # Province: thimakhaan
-thimakhaan = { topography = flatland vegetation = grasslands climate = continental religion = high_philosophy culture = ghavaanaj raw_material = dues }
+thimakhaan = { topography = flatland vegetation = grasslands climate = continental religion = high_philosophy culture = ghavaanaj raw_material = dyes }
 ## Area: phangban_area
 # Province: phangban
 phangban = { topography = flatland vegetation = grasslands climate = continental religion = high_philosophy culture = chengrong raw_material = unknown }
@@ -7703,14 +7703,14 @@ gundhagidhur = { topography = flatland vegetation = grasslands climate = contine
 # Province: nartakadee
 nartakadee = { topography = flatland vegetation = grasslands climate = continental religion = accretive_path culture = ghavaanaj raw_material = lumber }
 # Province: rangeenaar
-rangeenaar = { topography = flatland vegetation = grasslands climate = continental religion = accretive_path culture = ghavaanaj raw_material = dues }
+rangeenaar = { topography = flatland vegetation = grasslands climate = continental religion = accretive_path culture = ghavaanaj raw_material = dyes }
 # Province: yoddhauke
 yoddhauke = { topography = flatland vegetation = grasslands climate = continental religion = accretive_path culture = ghavaanaj raw_material = wheat }
 ## Area: sarisung_area
 # Province: kethur
 kethur = { topography = flatland vegetation = grasslands climate = continental religion = high_philosophy culture = royal_harimari raw_material = unknown }
 # Province: khappur
-khappur = { topography = flatland vegetation = grasslands climate = continental religion = devouring_path culture = szitu raw_material = dues }
+khappur = { topography = flatland vegetation = grasslands climate = continental religion = devouring_path culture = szitu raw_material = dyes }
 # Province: nundujisbid
 nundujisbid = { topography = flatland vegetation = grasslands climate = continental religion = high_philosophy culture = rasarhid raw_material = unknown }
 # Province: sarisung
@@ -7801,7 +7801,7 @@ ghamakrit = { topography = flatland vegetation = grasslands climate = continenta
 # Province: nabukh
 nabukh = { topography = flatland vegetation = grasslands climate = continental religion = high_philosophy culture = rabhidarubsad raw_material = wheat }
 # Province: parusapa
-parusapa = { topography = flatland vegetation = grasslands climate = continental religion = high_philosophy culture = royal_harimari raw_material = dues }
+parusapa = { topography = flatland vegetation = grasslands climate = continental religion = high_philosophy culture = royal_harimari raw_material = dyes }
 ## Area: kharunyana_estuary_area
 # Province: djunatani
 djunatani = { topography = flatland vegetation = grasslands climate = continental religion = high_philosophy culture = sarniryabsad raw_material = pepper }
@@ -7827,7 +7827,7 @@ li_btei = { topography = flatland vegetation = grasslands climate = continental 
 sekhuang = { topography = flatland vegetation = grasslands climate = continental religion = high_philosophy culture = chengrong raw_material = cotton }
 ## Area: lower_dhenbasana_area
 # Province: amtarim
-amtarim = { topography = flatland vegetation = grasslands climate = continental religion = high_philosophy culture = sarniryabsad raw_material = dues }
+amtarim = { topography = flatland vegetation = grasslands climate = continental religion = high_philosophy culture = sarniryabsad raw_material = dyes }
 # Province: ghundagar
 ghundagar = { topography = flatland vegetation = grasslands climate = continental religion = high_philosophy culture = royal_harimari raw_material = silk }
 # Province: parus_panasur
@@ -7990,7 +7990,7 @@ ghatatar = { topography = flatland vegetation = grasslands climate = continental
 ghatavaka = { topography = flatland vegetation = grasslands climate = continental religion = devouring_path culture = kamtarhid raw_material = wheat }
 ## Area: khadirnadi_area
 # Province: ghatindigol
-ghatindigol = { topography = flatland vegetation = grasslands climate = continental religion = high_philosophy culture = shandibad raw_material = dues }
+ghatindigol = { topography = flatland vegetation = grasslands climate = continental religion = high_philosophy culture = shandibad raw_material = dyes }
 # Province: kepakkazol
 kepakkazol = { topography = flatland vegetation = grasslands climate = continental religion = high_philosophy culture = shandibad raw_material = cotton }
 # Province: khadirnadi
@@ -8036,7 +8036,7 @@ hankrava = { topography = flatland vegetation = grasslands climate = continental
 marudhoj = { topography = flatland vegetation = grasslands climate = continental religion = high_philosophy culture = kamtarhid raw_material = wool }
 ## Area: middle_nadimraj_area
 # Province: kamapar
-kamapar = { topography = flatland vegetation = grasslands climate = continental religion = high_philosophy culture = rajnadhid raw_material = dues }
+kamapar = { topography = flatland vegetation = grasslands climate = continental religion = high_philosophy culture = rajnadhid raw_material = dyes }
 # Province: madhunla
 madhunla = { topography = flatland vegetation = grasslands climate = continental religion = high_philosophy culture = rajnadhid raw_material = salt }
 # Province: parraj
@@ -8421,7 +8421,7 @@ kasepubeng = { topography = flatland vegetation = grasslands climate = continent
 # Province: petasuyaw
 petasuyaw = { topography = flatland vegetation = grasslands climate = continental religion = mystic_accord culture = hujan raw_material = lumber }
 # Province: tlagapatung
-tlagapatung = { topography = flatland vegetation = grasslands climate = continental religion = mystic_accord culture = hujan raw_material = dues }
+tlagapatung = { topography = flatland vegetation = grasslands climate = continental religion = mystic_accord culture = hujan raw_material = dyes }
 ### Region: ringlet_isles_region
 ## Area: ginhyut_area
 # Province: angamang
@@ -9255,7 +9255,7 @@ vyr_colyon = { topography = flatland vegetation = grasslands climate = continent
 vyr_tronna = { topography = flatland vegetation = grasslands climate = continental religion = great_dookan culture = green_orc raw_material = lumber }
 ## Area: scothaear_area
 # Province: anbennar7016
-anbennar7016 = { topography = flatland vegetation = grasslands climate = continental religion = pactseeker culture = forest_goblin raw_material = dues }
+anbennar7016 = { topography = flatland vegetation = grasslands climate = continental religion = pactseeker culture = forest_goblin raw_material = dyes }
 # Province: anbennar7030
 anbennar7030 = { topography = flatland vegetation = grasslands climate = continental religion = pactseeker culture = forest_goblin raw_material = lumber }
 # Province: athian
@@ -9268,7 +9268,7 @@ scothalon = { topography = flatland vegetation = grasslands climate = continenta
 # Province: anbennar7017
 anbennar7017 = { topography = flatland vegetation = grasslands climate = continental religion = great_dookan culture = green_orc raw_material = livestock }
 # Province: emmylscotha
-emmylscotha = { topography = flatland vegetation = grasslands climate = continental religion = great_dookan culture = green_orc raw_material = dues }
+emmylscotha = { topography = flatland vegetation = grasslands climate = continental religion = great_dookan culture = green_orc raw_material = dyes }
 # Province: petegis
 petegis = { topography = flatland vegetation = grasslands climate = continental religion = great_dookan culture = green_orc raw_material = lumber }
 # Province: vyr_drava
@@ -11057,9 +11057,9 @@ thomsbridge = { topography = flatland vegetation = grasslands climate = continen
 tipney = { topography = flatland vegetation = grasslands climate = continental religion = regent_court culture = redfoot_halfling raw_material = tobacco }
 ## Area: viswall_area
 # Province: north_viswall
-north_viswall = { topography = flatland vegetation = grasslands climate = continental religion = regent_court culture = visfoot_halfling raw_material = dues }
+north_viswall = { topography = flatland vegetation = grasslands climate = continental religion = regent_court culture = visfoot_halfling raw_material = dyes }
 # Province: south_viswall
-south_viswall = { topography = flatland vegetation = grasslands climate = continental religion = regent_court culture = visfoot_halfling raw_material = dues }
+south_viswall = { topography = flatland vegetation = grasslands climate = continental religion = regent_court culture = visfoot_halfling raw_material = dyes }
 ### Region: the_borders_region
 ## Area: antir_drop_area
 # Province: antirhalan
@@ -11586,7 +11586,7 @@ malpadh = { topography = flatland vegetation = grasslands climate = continental 
 # Province: cardumh
 cardumh = { topography = flatland vegetation = grasslands climate = continental religion = autumn_court culture = tuathak raw_material = copper natural_harbor_suitability = 0.25 }
 # Province: clafaidh
-clafaidh = { topography = flatland vegetation = grasslands climate = continental religion = autumn_court culture = tuathak raw_material = dues natural_harbor_suitability = 0.25 }
+clafaidh = { topography = flatland vegetation = grasslands climate = continental religion = autumn_court culture = tuathak raw_material = dyes natural_harbor_suitability = 0.25 }
 # Province: farrug
 farrug = { topography = flatland vegetation = grasslands climate = continental religion = autumn_court culture = tuathak raw_material = fish natural_harbor_suitability = 0.25 }
 # Province: malcadh
@@ -11644,7 +11644,7 @@ marathmas = { topography = flatland vegetation = grasslands climate = continenta
 sarpont = { topography = flatland vegetation = grasslands climate = continental religion = winter_court culture = snecboth raw_material = unknown natural_harbor_suitability = 0.25 }
 ## Area: fogharbac_area
 # Province: darblath
-darblath = { topography = flatland vegetation = grasslands climate = continental religion = autumn_court culture = tuathak raw_material = dues natural_harbor_suitability = 0.25 }
+darblath = { topography = flatland vegetation = grasslands climate = continental religion = autumn_court culture = tuathak raw_material = dyes natural_harbor_suitability = 0.25 }
 # Province: fadbal
 fadbal = { topography = flatland vegetation = grasslands climate = continental religion = winter_court culture = snecboth raw_material = unknown }
 # Province: ferusg
@@ -11730,7 +11730,7 @@ dearktir = { topography = flatland vegetation = grasslands climate = continental
 # Province: gannag
 gannag = { topography = flatland vegetation = grasslands climate = continental religion = summer_court culture = caamas raw_material = fish natural_harbor_suitability = 0.25 }
 # Province: omarfirm
-omarfirm = { topography = flatland vegetation = grasslands climate = continental religion = eordellon culture = peitar raw_material = dues }
+omarfirm = { topography = flatland vegetation = grasslands climate = continental religion = eordellon culture = peitar raw_material = dyes }
 ## Area: eorwestislands_area
 # Province: farsenn
 farsenn = { topography = flatland vegetation = grasslands climate = continental raw_material = unknown natural_harbor_suitability = 0.25 }
@@ -12023,7 +12023,7 @@ silsensald = { topography = flatland vegetation = grasslands climate = continent
 ### Region: reapers_coast_region
 ## Area: cheshosh_area
 # Province: altarcliff
-altarcliff = { topography = flatland vegetation = grasslands climate = continental religion = death_cult_of_cheshosh culture = cheshoshi raw_material = dues natural_harbor_suitability = 0.25 }
+altarcliff = { topography = flatland vegetation = grasslands climate = continental religion = death_cult_of_cheshosh culture = cheshoshi raw_material = dyes natural_harbor_suitability = 0.25 }
 # Province: cheshoshtchuka
 cheshoshtchuka = { topography = flatland vegetation = grasslands climate = continental religion = death_cult_of_cheshosh culture = cheshoshi raw_material = precursor_relics natural_harbor_suitability = 0.25 }
 # Province: finaltoll
@@ -12784,7 +12784,7 @@ codoosun = { topography = flatland vegetation = grasslands climate = continental
 sarpuaun = { topography = flatland vegetation = grasslands climate = continental raw_material = unknown }
 ## Area: trichas_area
 # Province: baafchas
-baafchas = { topography = flatland vegetation = grasslands climate = continental raw_material = dues }
+baafchas = { topography = flatland vegetation = grasslands climate = continental raw_material = dyes }
 # Province: giun
 giun = { topography = flatland vegetation = grasslands climate = continental raw_material = unknown }
 # Province: irbuze
@@ -16360,7 +16360,7 @@ srthan_zhutash = { topography = flatland vegetation = grasslands climate = conti
 ### Region: gauraddhi_region
 ## Area: caergaraen_area
 # Province: attegar
-attegar = { topography = flatland vegetation = grasslands climate = continental religion = askaeorg culture = chendhyan raw_material = dues }
+attegar = { topography = flatland vegetation = grasslands climate = continental religion = askaeorg culture = chendhyan raw_material = dyes }
 # Province: gaenbul
 gaenbul = { topography = flatland vegetation = grasslands climate = continental religion = gods_of_the_taychend culture = chendhyan raw_material = fish }
 # Province: pedhrim
@@ -16447,7 +16447,7 @@ royakottar = { topography = flatland vegetation = grasslands climate = continent
 troppaimkq = { topography = flatland vegetation = grasslands climate = continental religion = gods_of_the_taychend culture = kalavendhi raw_material = wheat }
 ## Area: uesrennu_area
 # Province: cayaimkq
-cayaimkq = { topography = flatland vegetation = grasslands climate = continental religion = gods_of_the_taychend culture = kalavendhi raw_material = dues }
+cayaimkq = { topography = flatland vegetation = grasslands climate = continental religion = gods_of_the_taychend culture = kalavendhi raw_material = dyes }
 # Province: entislula
 entislula = { topography = flatland vegetation = grasslands climate = continental religion = gods_of_the_taychend culture = kalavendhi raw_material = copper }
 # Province: larmaikq
@@ -16473,7 +16473,7 @@ ethra = { topography = flatland vegetation = grasslands climate = continental re
 # Province: larmaipalna
 larmaipalna = { topography = flatland vegetation = grasslands climate = continental religion = gods_of_the_taychend culture = advakhalla raw_material = tea }
 # Province: uesrlarmai
-uesrlarmai = { topography = flatland vegetation = grasslands climate = continental religion = gods_of_the_taychend culture = advakhalla raw_material = dues }
+uesrlarmai = { topography = flatland vegetation = grasslands climate = continental religion = gods_of_the_taychend culture = advakhalla raw_material = dyes }
 # Province: ungarhad
 ungarhad = { topography = flatland vegetation = grasslands climate = continental religion = gods_of_the_taychend culture = advakhalla raw_material = tea }
 ## Area: airoa_naditari_area

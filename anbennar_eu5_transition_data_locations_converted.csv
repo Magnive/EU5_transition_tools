@@ -35,7 +35,7 @@ africa,bulwar_superregion,bahar_region,birsartenslib_area,birsartansbar,land,bir
 africa,bulwar_superregion,bahar_region,bahar_szel_uak_area,akal-uak,land,akal-uak,4e6c00,flatland,grasslands,continental,bulwari_sun_cult,bahari,unknown,,F22,"F22,F21",550
 africa,bulwar_superregion,bahar_region,reuyel_area,yametses,land,yametses,d32a40,flatland,grasslands,continental,bulwari_sun_cult,bahari,fish,0.25,U18,U18,581
 africa,bulwar_superregion,bahar_region,zagnabad_area,unusedland33,land,unusedland33,665970,flatland,grasslands,continental,bulwari_sun_cult,bahari,iron,,U15,"U15,U19",3223
-africa,bulwar_superregion,bahar_region,zagnabad_area,anbennar6760,land,anbennar6760,920892,flatland,grasslands,continental,bulwari_sun_cult,bahari,dues,0.25,U19,U19,6760
+africa,bulwar_superregion,bahar_region,zagnabad_area,anbennar6760,land,anbennar6760,920892,flatland,grasslands,continental,bulwari_sun_cult,bahari,dyes,0.25,U19,U19,6760
 africa,bulwar_superregion,bulwar_proper_region,anzabad_area,zanakes,land,zanakes,cf7eff,flatland,grasslands,continental,bulwari_sun_cult,brasanni,wool,0.25,F40,F40,559
 africa,bulwar_superregion,bulwar_proper_region,anzabad_area,anzabad,land,anzabad,508000,flatland,grasslands,continental,bulwari_sun_cult,brasanni,unknown,0.25,F40,F40,560
 africa,bulwar_superregion,bulwar_proper_region,medurubar_area,medurubar,land,medurubar,d08240,flatland,grasslands,continental,bulwari_sun_cult,brasanni,unknown,,F37,"F37,F76",561
@@ -300,9 +300,9 @@ africa,djinnakah_superregion,jasiir_jadid_region,ashamad_bariga_area,sharwegga,l
 africa,djinnakah_superregion,jasiir_jadid_region,juritaqa_area,saare_yamalat,land,saare_yamalat,32e2d3,flatland,grasslands,continental,beast_memory,ashamadi,pepper,,S21,S21,6016
 africa,djinnakah_superregion,jasiir_jadid_region,dhal_tanizuud_area,mabeedkedwa,land,mabeedkedwa,7b5a09,flatland,grasslands,continental,rinta_seekers,ashamadi,ivory,0.25,S21,S21,6017
 africa,djinnakah_superregion,jasiir_jadid_region,juritaqa_area,almajutaqa,land,almajutaqa,7a8026,flatland,grasslands,continental,rinta_seekers,ashamadi,unknown,0.25,S21,S21,6018
-africa,djinnakah_superregion,jasiir_jadid_region,ashamad_bariga_area,dhul_yingidar,land,dhul_yingidar,0c7167,flatland,grasslands,continental,rinta_seekers,ashamadi,dues,0.25,S20,S20,6019
+africa,djinnakah_superregion,jasiir_jadid_region,ashamad_bariga_area,dhul_yingidar,land,dhul_yingidar,0c7167,flatland,grasslands,continental,rinta_seekers,ashamadi,dyes,0.25,S20,S20,6019
 africa,djinnakah_superregion,jasiir_jadid_region,ashamad_bariga_area,tadadaqali,land,tadadaqali,888df8,flatland,grasslands,continental,rinta_seekers,ashamadi,sugar,,S20,S20,6020
-africa,djinnakah_superregion,jasiir_jadid_region,ashamad_bariga_area,qasri_ubakhiyo,land,qasri_ubakhiyo,d98049,flatland,grasslands,continental,rinta_seekers,ashamadi,dues,0.25,S20,S20,6021
+africa,djinnakah_superregion,jasiir_jadid_region,ashamad_bariga_area,qasri_ubakhiyo,land,qasri_ubakhiyo,d98049,flatland,grasslands,continental,rinta_seekers,ashamadi,dyes,0.25,S20,S20,6021
 africa,djinnakah_superregion,jasiir_jadid_region,dhebij_shar_area,eawuba,land,eawuba,0cbc46,flatland,grasslands,continental,rinta_seekers,dhebiji,iron,0.25,S18,S18,6034
 africa,djinnakah_superregion,jasiir_jadid_region,dhebij_shar_area,janab_swaba,land,janab_swaba,61c75e,flatland,grasslands,continental,rinta_seekers,dhebiji,pepper,0.25,S19,"S19,S18",6035
 africa,djinnakah_superregion,jasiir_jadid_region,dhebij_shar_area,miridhinfay,land,miridhinfay,35042c,flatland,grasslands,continental,rinta_seekers,dhebiji,iron,0.25,S18,S18,6036
@@ -472,7 +472,7 @@ africa,east_sarhal_superregion,ishyamtumu_region,mpaka_area,komerumun,land,komer
 africa,east_sarhal_superregion,ishyamtumu_region,datakh_area,datakh,land,datakh,49ee6d,flatland,grasslands,continental,beast_memory,tanizu,lumber,,S33,S33,5636
 africa,east_sarhal_superregion,ishyamtumu_region,datakh_area,rom_ra_god,land,rom_ra_god,6bd65c,flatland,grasslands,continental,beast_memory,tanizu,iron,,S37,S37,5637
 africa,east_sarhal_superregion,ishyamtumu_region,datakh_area,duksnash,land,duksnash,9cc172,flatland,grasslands,continental,beast_memory,tanizu,livestock,,S37,S37,5638
-africa,east_sarhal_superregion,ishyamtumu_region,gakeigiti_area,anbennar5641,land,anbennar5641,e4210f,flatland,grasslands,continental,beast_memory,tanizu,dues,,S38,"S38,S12",5641
+africa,east_sarhal_superregion,ishyamtumu_region,gakeigiti_area,anbennar5641,land,anbennar5641,e4210f,flatland,grasslands,continental,beast_memory,tanizu,dyes,,S38,"S38,S12",5641
 africa,east_sarhal_superregion,ishyamtumu_region,muukombi_area,anbennar5644,land,anbennar5644,b6f0a0,flatland,grasslands,continental,beast_memory,cyazizeta_lizardfolk,unknown,,S40,S40,5644
 africa,east_sarhal_superregion,ishyamtumu_region,mpaka_area,ilbaakhnim_dhamakeed,land,ilbaakhnim_dhamakeed,f2efea,flatland,grasslands,continental,beast_memory,ashamadi,fish,0.25,S21,S21,5653
 africa,east_sarhal_superregion,ishyamtumu_region,muukombi_area,igitikombe,land,igitikombe,df1f4f,flatland,grasslands,continental,beast_memory,tanizu,livestock,,S36,S36,5659
@@ -482,10 +482,10 @@ africa,east_sarhal_superregion,ishyamtumu_region,rindukubunza_area,igicucu,land,
 africa,east_sarhal_superregion,ishyamtumu_region,muukombi_area,yundotuba,land,yundotuba,3f8ae1,flatland,grasslands,continental,beast_memory,tanizu,iron,,S43,S43,5663
 africa,east_sarhal_superregion,ishyamtumu_region,gakeigiti_area,anbennar5670,land,anbennar5670,667116,flatland,grasslands,continental,beast_memory,tanizu,livestock,,S41,S41,5670
 africa,east_sarhal_superregion,shadow_swamp_region,tazoine_area,unusedland16,land,unusedland16,5281d3,flatland,grasslands,continental,,,unknown,,,,3206
-africa,east_sarhal_superregion,shadow_swamp_region,tovchiheshu_area,tovchiheshu,land,tovchiheshu,f5b47d,flatland,grasslands,continental,night_coven,swamp_troll,dues,,S70,S70,6685
+africa,east_sarhal_superregion,shadow_swamp_region,tovchiheshu_area,tovchiheshu,land,tovchiheshu,f5b47d,flatland,grasslands,continental,night_coven,swamp_troll,dyes,,S70,S70,6685
 africa,east_sarhal_superregion,shadow_swamp_region,tovchiheshu_area,pidru_daud,land,pidru_daud,813426,flatland,grasslands,continental,night_coven,swamp_troll,lumber,,S70,S70,6686
 africa,east_sarhal_superregion,shadow_swamp_region,aakeiritki_area,muknomura,land,muknomura,39f374,flatland,grasslands,continental,night_coven,swamp_troll,ivory,,S70,S70,6687
-africa,east_sarhal_superregion,shadow_swamp_region,aakeiritki_area,komupe_seggda,land,komupe_seggda,d20581,flatland,grasslands,continental,night_coven,swamp_troll,dues,,S70,S70,6688
+africa,east_sarhal_superregion,shadow_swamp_region,aakeiritki_area,komupe_seggda,land,komupe_seggda,d20581,flatland,grasslands,continental,night_coven,swamp_troll,dyes,,S70,S70,6688
 africa,east_sarhal_superregion,shadow_swamp_region,aakeiritki_area,sprigi_twani,land,sprigi_twani,12d63f,flatland,grasslands,continental,night_coven,swamp_troll,gems,,S70,S70,6690
 africa,east_sarhal_superregion,shadow_swamp_region,aakeiritki_area,aakeiritki,land,aakeiritki,fdb661,flatland,grasslands,continental,night_coven,swamp_troll,fungi,,S70,S70,6692
 africa,east_sarhal_superregion,shadow_swamp_region,elbe_nama_area,sprigi_hogmi,land,sprigi_hogmi,b8f070,flatland,grasslands,continental,night_coven,swamp_troll,lumber,,S70,S70,6693
@@ -605,7 +605,7 @@ africa,east_sarhal_superregion,yetefesefi_region,fetengaben_area,noriasemayi,lan
 africa,east_sarhal_superregion,yetefesefi_region,yakrae_area,fetengoni,land,fetengoni,f1d14d,flatland,grasslands,continental,sky_domain,yeteferen,wheat,,S25,S25,6717
 africa,east_sarhal_superregion,yetefesefi_region,fetengaben_area,wezinmesig,land,wezinmesig,a22d1a,flatland,grasslands,continental,sky_domain,yeteferen,unknown,,S59,"S59,S60",6729
 africa,east_sarhal_superregion,yetefesefi_region,berfan_area,vetetigula,land,vetetigula,37b05d,flatland,grasslands,continental,sky_domain,yeteferen,wheat,,S57,S57,6740
-africa,fangaula_superregion,dao_nako_region,kunolo_area,kunolo,land,kunolo,326f0c,flatland,grasslands,continental,fangaulan_pantheon,jiromji,dues,0.25,L10,L10,5710
+africa,fangaula_superregion,dao_nako_region,kunolo_area,kunolo,land,kunolo,326f0c,flatland,grasslands,continental,fangaulan_pantheon,jiromji,dyes,0.25,L10,L10,5710
 africa,fangaula_superregion,dao_nako_region,narawan_jigin_area,durpupa,land,durpupa,d12002,flatland,grasslands,continental,fangaulan_pantheon,ndurubu,pepper,,L10,"L10,L16",5711
 africa,fangaula_superregion,dao_nako_region,narawan_jigin_area,zokek,land,zokek,ece967,flatland,grasslands,continental,nakavy_avo,amezatany,unknown,0.25,S98,"S98,L10",5712
 africa,fangaula_superregion,dao_nako_region,kunolo_area,gbujeru,land,gbujeru,0bf31c,flatland,grasslands,continental,fangaulan_pantheon,jiromji,lumber,0.25,L10,L10,5713
@@ -830,7 +830,7 @@ africa,south_salahad_superregion,gazraak_region,tzilkazin_grum_area,anbennar5441
 africa,south_salahad_superregion,gazraak_region,kvangraak_area,anbennar5442,land,anbennar5442,a87cd2,flatland,grasslands,continental,kvangahga,fieldstalker_gnoll,iron,,F72,F72,5442
 africa,south_salahad_superregion,gazraak_region,kvangraak_area,anbennar5452,land,anbennar5452,9a1713,flatland,grasslands,continental,kvangahga,fieldstalker_gnoll,wool,,F72,F72,5452
 africa,south_salahad_superregion,gazraak_region,kvangraak_area,anbennar5453,land,anbennar5453,bb46e7,flatland,grasslands,continental,kvangahga,fieldstalker_gnoll,ivory,,F72,F72,5453
-africa,south_salahad_superregion,gazraak_region,kvangraak_area,gazalga,land,gazalga,a55f32,flatland,grasslands,continental,kvangahga,fieldstalker_gnoll,dues,,F72,F72,5454
+africa,south_salahad_superregion,gazraak_region,kvangraak_area,gazalga,land,gazalga,a55f32,flatland,grasslands,continental,kvangahga,fieldstalker_gnoll,dyes,,F72,F72,5454
 africa,south_salahad_superregion,gazraak_region,kvangraak_area,zikott_zeenak,land,zikott_zeenak,5255c7,flatland,grasslands,continental,kvangahga,fieldstalker_gnoll,wheat,,F72,F72,5457
 africa,south_salahad_superregion,gazraak_region,pyazada_area,anbennar5458,land,anbennar5458,6a0a8c,flatland,grasslands,continental,kvangahga,fieldstalker_gnoll,gems,,F72,F72,5458
 africa,south_salahad_superregion,gazraak_region,tzilkazin_grum_area,anbennar5459,land,anbennar5459,875830,flatland,grasslands,continental,kvangahga,fieldstalker_gnoll,livestock,,F72,F72,5459
@@ -887,7 +887,7 @@ africa,south_salahad_superregion,gol_region,jagab_faru_area,mizzughu,land,mizzug
 africa,south_salahad_superregion,gol_region,jagab_faru_area,sunumanti,land,sunumanti,a7f81f,flatland,grasslands,continental,fangaulan_pantheon,mantimatu,livestock,,L02,L02,5683
 africa,south_salahad_superregion,gol_region,hapmot_area,hapmosdet,land,hapmosdet,6cfe68,flatland,grasslands,continental,aakhetist,irsmahapan,livestock,,U09,"U09,L26,U01",6090
 africa,taneyas_superregion,katala_raz_region,kakhaz_pton_bnal_area,kakhazal,land,kakhazal,c25c95,flatland,grasslands,continental,anzalkatsa,arraskay_lizardfolk,livestock,,L95,L95,5907
-africa,taneyas_superregion,katala_raz_region,khulgulkin_area,rayazas,land,rayazas,48b296,flatland,grasslands,continental,anzalkatsa,arraskay_lizardfolk,dues,,L95,L95,5908
+africa,taneyas_superregion,katala_raz_region,khulgulkin_area,rayazas,land,rayazas,48b296,flatland,grasslands,continental,anzalkatsa,arraskay_lizardfolk,dyes,,L95,L95,5908
 africa,taneyas_superregion,katala_raz_region,kakhaz_pton_bnal_area,rakrazal,land,rakrazal,1e6c9f,flatland,grasslands,continental,anzalkatsa,arraskay_lizardfolk,livestock,,L95,L95,5909
 africa,taneyas_superregion,katala_raz_region,khulgulkin_area,thusk_nith,land,thusk_nith,13e98d,flatland,grasslands,continental,anzalkatsa,arraskay_lizardfolk,copper,,L97,L97,5911
 africa,taneyas_superregion,katala_raz_region,khulgulkin_area,arazinik,land,arazinik,466c49,flatland,grasslands,continental,anzalkatsa,arraskay_lizardfolk,sugar,,L97,L97,5912
@@ -896,7 +896,7 @@ africa,taneyas_superregion,katala_raz_region,peta_ra_thusk_area,verthica,land,ve
 africa,taneyas_superregion,katala_raz_region,noor_zerat_area,etaskasut,land,etaskasut,e5b3b5,flatland,grasslands,continental,anzalkatsa,ichiadza_lizardfolk,pepper,,L95,"L95,L69",5918
 africa,taneyas_superregion,katala_raz_region,noor_zerat_area,shelaksukh,land,shelaksukh,2dcd84,flatland,grasslands,continental,anzalkatsa,ichiadza_lizardfolk,unknown,,L95,"L95,L69",5920
 africa,taneyas_superregion,katala_raz_region,noor_zerat_area,zerat,land,zerat,e09953,flatland,grasslands,continental,anzalkatsa,ichiadza_lizardfolk,unknown,,L95,"L95,L69",5921
-africa,taneyas_superregion,katala_raz_region,rakirap_srap_area,noor_tressik,land,noor_tressik,6cfc28,flatland,grasslands,continental,anzalkatsa,ichiadza_lizardfolk,dues,,L69,"L69,L99",5922
+africa,taneyas_superregion,katala_raz_region,rakirap_srap_area,noor_tressik,land,noor_tressik,6cfc28,flatland,grasslands,continental,anzalkatsa,ichiadza_lizardfolk,dyes,,L69,"L69,L99",5922
 africa,taneyas_superregion,katala_raz_region,peta_ra_thusk_area,tsya_ra_thusk,land,tsya_ra_thusk,4f5410,flatland,grasslands,continental,anzalkatsa,ichiadza_lizardfolk,lumber,,L95,"L95,L98",5923
 africa,taneyas_superregion,katala_raz_region,rakirap_srap_area,sutnasaak,land,sutnasaak,5de532,flatland,grasslands,continental,anzalkatsa,ichiadza_lizardfolk,pepper,,L95,"L95,L99",5924
 africa,taneyas_superregion,katala_raz_region,rakirap_srap_area,rakirakh,land,rakirakh,20566b,flatland,grasslands,continental,anzalkatsa,ichiadza_lizardfolk,livestock,,L99,L99,5925
@@ -905,7 +905,7 @@ africa,taneyas_superregion,katala_raz_region,kakhaz_pton_bnal_area,latasik,land,
 africa,taneyas_superregion,katala_raz_region,kakhaz_pton_bnal_area,tata_klissek,land,tata_klissek,e720f5,flatland,grasslands,continental,anzalkatsa,arraskay_lizardfolk,lumber,,L95,"L95,L93",5931
 africa,taneyas_superregion,katala_raz_region,noor_zerat_area,lasadzanazh,land,lasadzanazh,f97261,flatland,grasslands,continental,anzalkatsa,ichiadza_lizardfolk,fish,,L95,"L95,L69",5932
 africa,taneyas_superregion,katala_raz_region,katalatslamatakh_area,tsurin,land,tsurin,27bbe1,flatland,grasslands,continental,anzalkatsa,arraskay_lizardfolk,pepper,,L92,L92,5933
-africa,taneyas_superregion,katala_raz_region,yassa_tara_area,yassa,land,yassa,8a756a,flatland,grasslands,continental,anzalkatsa,mashkay_lizardfolk,dues,,L81,L81,5951
+africa,taneyas_superregion,katala_raz_region,yassa_tara_area,yassa,land,yassa,8a756a,flatland,grasslands,continental,anzalkatsa,mashkay_lizardfolk,dyes,,L81,L81,5951
 africa,taneyas_superregion,katala_raz_region,yassa_tara_area,gol_tara,land,gol_tara,3c5388,flatland,grasslands,continental,anzalkatsa,arraskay_lizardfolk,pepper,,L72,L72,5952
 africa,taneyas_superregion,katala_raz_region,yassa_tara_area,dodakush,land,dodakush,104785,flatland,grasslands,continental,anzalkatsa,arraskay_lizardfolk,lumber,,L72,L72,5953
 africa,taneyas_superregion,katala_raz_region,teranak_area,adza_tara,land,adza_tara,c5e6c0,flatland,grasslands,continental,anzalkatsa,arraskay_lizardfolk,livestock,,L86,"L86,L72",5954
@@ -934,7 +934,7 @@ africa,taneyas_superregion,katala_raz_region,karashan_area,karashan,land,karasha
 africa,taneyas_superregion,katala_raz_region,karashan_area,kagyan,land,kagyan,9f42e8,flatland,grasslands,continental,zaradyrra,ashhana_lizardfolk,lumber,,L95,"L95,L73",5977
 africa,taneyas_superregion,katala_raz_region,karashan_area,ra_terrissk,land,ra_terrissk,31455a,flatland,grasslands,continental,zaradyrra,ashhana_lizardfolk,livestock,,L95,"L95,L73",5978
 africa,taneyas_superregion,katala_raz_region,kakhaz_raktata_area,ninunith,land,ninunith,1737c4,flatland,grasslands,continental,zaradyrra,ashhana_lizardfolk,copper,,L89,L89,5979
-africa,taneyas_superregion,katala_raz_region,karashan_area,khazyn,land,khazyn,e218e1,flatland,grasslands,continental,zaradyrra,ashhana_lizardfolk,dues,,L95,"L95,L73",5980
+africa,taneyas_superregion,katala_raz_region,karashan_area,khazyn,land,khazyn,e218e1,flatland,grasslands,continental,zaradyrra,ashhana_lizardfolk,dyes,,L95,"L95,L73",5980
 africa,taneyas_superregion,katala_raz_region,batal_area,trellisk,land,trellisk,c485dd,flatland,grasslands,continental,zaradyrra,ashhana_lizardfolk,lumber,,L74,"L74,L78",5981
 africa,taneyas_superregion,katala_raz_region,batal_area,aktilessis,land,aktilessis,854479,flatland,grasslands,continental,zaradyrra,ashhana_lizardfolk,lumber,,L74,L74,5982
 africa,taneyas_superregion,katala_raz_region,batal_area,zatal,land,zatal,222075,flatland,grasslands,continental,zaradyrra,ashhana_lizardfolk,copper,,L74,L74,5983
@@ -950,13 +950,13 @@ africa,taneyas_superregion,katala_raz_region,ishyaga_area,adou_tsarat,land,adou_
 africa,taneyas_superregion,katala_raz_region,rakirap_srap_area,rakhanek,land,rakhanek,cb6403,flatland,grasslands,continental,anzalkatsa,ichiadza_lizardfolk,salt,,L99,L99,6023
 africa,taneyas_superregion,katala_raz_region,rakshas_area,akhanekas,land,akhanekas,0acbf0,flatland,grasslands,continental,anzalkatsa,ichiadza_lizardfolk,unknown,,L90,L90,6062
 africa,taneyas_superregion,odu_kherass_region,sut_ra_thon_area,adora_shwara,land,adora_shwara,d25350,flatland,grasslands,continental,beast_memory,tanizu,lumber,,S37,S37,5639
-africa,taneyas_superregion,odu_kherass_region,sut_ra_thon_area,gylizir,land,gylizir,d32fdb,flatland,grasslands,continental,beast_memory,tanizu,dues,,S37,S37,5640
+africa,taneyas_superregion,odu_kherass_region,sut_ra_thon_area,gylizir,land,gylizir,d32fdb,flatland,grasslands,continental,beast_memory,tanizu,dyes,,S37,S37,5640
 africa,taneyas_superregion,odu_kherass_region,tiki_ra_shaga_area,akayarakh,land,akayarakh,41b615,flatland,grasslands,continental,beast_memory,cyazizeta_lizardfolk,livestock,,S34,S34,5642
 africa,taneyas_superregion,odu_kherass_region,sut_ra_thon_area,gylgyra,land,gylgyra,48ba21,flatland,grasslands,continental,beast_memory,tanizu,gems,,S38,S38,5643
 africa,taneyas_superregion,odu_kherass_region,tiki_ra_shaga_area,yusazas,land,yusazas,7b8fe4,flatland,grasslands,continental,beast_memory,cyazizeta_lizardfolk,pepper,,S34,S34,5645
-africa,taneyas_superregion,odu_kherass_region,yok_ra_shaga_area,shangra,land,shangra,a5e523,flatland,grasslands,continental,anzalkatsa,rhada_lizardfolk,dues,,L83,L83,5646
+africa,taneyas_superregion,odu_kherass_region,yok_ra_shaga_area,shangra,land,shangra,a5e523,flatland,grasslands,continental,anzalkatsa,rhada_lizardfolk,dyes,,L83,L83,5646
 africa,taneyas_superregion,odu_kherass_region,sut_ra_thon_area,tochtek,land,tochtek,3e3049,flatland,grasslands,continental,beast_memory,tanizu,livestock,,S36,S36,5647
-africa,taneyas_superregion,odu_kherass_region,tiki_ra_shaga_area,khusadza,land,khusadza,d8dffb,flatland,grasslands,continental,anzalkatsa,rhada_lizardfolk,dues,,L84,L84,5648
+africa,taneyas_superregion,odu_kherass_region,tiki_ra_shaga_area,khusadza,land,khusadza,d8dffb,flatland,grasslands,continental,anzalkatsa,rhada_lizardfolk,dyes,,L84,L84,5648
 africa,taneyas_superregion,odu_kherass_region,tiki_ra_shaga_area,godu,land,godu,9e77bf,flatland,grasslands,continental,anzalkatsa,rhada_lizardfolk,unknown,,L84,L84,5649
 africa,taneyas_superregion,odu_kherass_region,tiki_shalazar_area,shalazar,land,shalazar,3f10f6,flatland,grasslands,continental,anzalkatsa,rhada_lizardfolk,unknown,,L84,L84,5650
 africa,taneyas_superregion,odu_kherass_region,tiki_shalazar_area,throden_ra_ksati,land,throden_ra_ksati,3809db,flatland,grasslands,continental,anzalkatsa,rhada_lizardfolk,incense,,L84,L84,5651
@@ -985,11 +985,11 @@ africa,taneyas_superregion,throden_gokad_region,inner_rankaty_islands_area,unuse
 africa,taneyas_superregion,throden_gokad_region,inner_rankaty_islands_area,unusedland69,land,unusedland69,561b89,flatland,grasslands,continental,,,unknown,0.25,,,3259
 africa,taneyas_superregion,throden_gokad_region,outer_rankaty_islands_area,unusedland70,land,unusedland70,d9744e,flatland,grasslands,continental,anzalkatsa,karshyray_lizardfolk,unknown,0.25,S15,S15,3260
 africa,taneyas_superregion,throden_gokad_region,inner_rankaty_islands_area,agaya,land,agaya,e6eaf3,flatland,grasslands,continental,anzalkatsa,karshyray_lizardfolk,fish,0.25,S15,S15,5833
-africa,taneyas_superregion,throden_gokad_region,inner_rankaty_islands_area,karshyr,land,karshyr,115c75,flatland,grasslands,continental,anzalkatsa,karshyray_lizardfolk,dues,0.25,S15,S15,5834
+africa,taneyas_superregion,throden_gokad_region,inner_rankaty_islands_area,karshyr,land,karshyr,115c75,flatland,grasslands,continental,anzalkatsa,karshyray_lizardfolk,dyes,0.25,S15,S15,5834
 africa,taneyas_superregion,throden_gokad_region,ninu_ra_kyik_area,sekas_kiyk,land,sekas_kiyk,465c56,flatland,grasslands,continental,anzalkatsa,shagashay_lizardfolk,livestock,0.25,L68,L68,5893
 africa,taneyas_superregion,throden_gokad_region,karassk_tara_area,ashuzal,land,ashuzal,937036,flatland,grasslands,continental,anzalkatsa,shagashay_lizardfolk,incense,,L68,L68,5894
 africa,taneyas_superregion,throden_gokad_region,ninu_ra_kyik_area,rathas_kiyk,land,rathas_kiyk,8c2593,flatland,grasslands,continental,anzalkatsa,shagashay_lizardfolk,livestock,0.25,L68,L68,5895
-africa,taneyas_superregion,throden_gokad_region,ninu_ra_kyik_area,gokadas_kiyk,land,gokadas_kiyk,28089b,flatland,grasslands,continental,anzalkatsa,shagashay_lizardfolk,dues,0.25,L68,L68,5896
+africa,taneyas_superregion,throden_gokad_region,ninu_ra_kyik_area,gokadas_kiyk,land,gokadas_kiyk,28089b,flatland,grasslands,continental,anzalkatsa,shagashay_lizardfolk,dyes,0.25,L68,L68,5896
 africa,taneyas_superregion,throden_gokad_region,karassk_tara_area,akara_rgara,land,akara_rgara,a681d7,flatland,grasslands,continental,anzalkatsa,shagashay_lizardfolk,pepper,,L68,L68,5897
 africa,taneyas_superregion,throden_gokad_region,karassk_tara_area,karassk,land,karassk,77e5e0,flatland,grasslands,continental,anzalkatsa,shagashay_lizardfolk,unknown,0.25,L68,L68,5898
 africa,taneyas_superregion,throden_gokad_region,karassk_tara_area,natsedash,land,natsedash,bbd7ec,flatland,grasslands,continental,anzalkatsa,shagashay_lizardfolk,lumber,,L68,L68,5899
@@ -1523,7 +1523,7 @@ asia,forbidden_lands_superregion,south_yarikhoi_region,peenadhi_area,pavorshogto
 asia,forbidden_lands_superregion,south_yarikhoi_region,kuskemua_area,raattakod,land,raattakod,025279,flatland,grasslands,continental,kodave_followers,metsamic,iron,,J26,J26,5290
 asia,forbidden_lands_superregion,south_yarikhoi_region,yuurarila_area,valrohepung,land,valrohepung,8b4ac3,flatland,grasslands,continental,kodave_followers,metsamic,wheat,,J27,J27,5291
 asia,forbidden_lands_superregion,south_yarikhoi_region,yuurarila_area,kanlaameevbahti,land,kanlaameevbahti,0eb0ae,flatland,grasslands,continental,kodave_followers,metsamic,fish,0.25,J27,J27,5292
-asia,forbidden_lands_superregion,south_yarikhoi_region,yuurarila_area,sinesadma,land,sinesadma,6a26bd,flatland,grasslands,continental,kodave_followers,metsamic,dues,0.25,J27,J27,5293
+asia,forbidden_lands_superregion,south_yarikhoi_region,yuurarila_area,sinesadma,land,sinesadma,6a26bd,flatland,grasslands,continental,kodave_followers,metsamic,dyes,0.25,J27,J27,5293
 asia,forbidden_lands_superregion,south_yarikhoi_region,yuurarila_area,muadele,land,muadele,abd505,flatland,grasslands,continental,kodave_followers,metsamic,wheat,0.25,J27,J27,5294
 asia,forbidden_lands_superregion,south_yarikhoi_region,peenadhi_area,valralahdi,land,valralahdi,377f84,flatland,grasslands,continental,kodave_followers,metsamic,unknown,0.25,J28,J28,5295
 asia,forbidden_lands_superregion,south_yarikhoi_region,peenadhi_area,vantnhasadma,land,vantnhasadma,925ca5,flatland,grasslands,continental,kodave_followers,metsamic,unknown,0.25,J29,J29,5296
@@ -1710,12 +1710,12 @@ asia,gozengun_superregion,moduk_region,kokevdan_area,nuktungh,land,nuktungh,a004
 asia,gozengun_superregion,moduk_region,tuusbulak_area,bunisokta,land,bunisokta,5cea19,flatland,grasslands,continental,,,unknown,,,,5427
 asia,gozengun_superregion,moduk_region,red_vale_area,anbennar6820,land,anbennar6820,97c94e,flatland,grasslands,continental,un_khudai,oinukhudi,fur,,V01,V01,6820
 asia,gozengun_superregion,nomsyulhan_region,overgrowth_area,anbennar5384,land,anbennar5384,fb5d99,flatland,grasslands,continental,eagle_worship,eagle_command,pepper,,V14,V14,5384
-asia,gozengun_superregion,nomsyulhan_region,overgrowth_area,anbennar5385,land,anbennar5385,a80cd1,flatland,grasslands,continental,eagle_worship,eagle_command,dues,,V14,V14,5385
+asia,gozengun_superregion,nomsyulhan_region,overgrowth_area,anbennar5385,land,anbennar5385,a80cd1,flatland,grasslands,continental,eagle_worship,eagle_command,dyes,,V14,V14,5385
 asia,gozengun_superregion,nomsyulhan_region,overgrowth_area,anbennar5386,land,anbennar5386,07d648,flatland,grasslands,continental,eagle_worship,eagle_command,wheat,,V14,V14,5386
 asia,gozengun_superregion,nomsyulhan_region,iona_saothar_area,anbennar5387,land,anbennar5387,85f794,flatland,grasslands,continental,eagle_worship,eagle_command,precursor_relics,,V14,V14,5387
 asia,gozengun_superregion,nomsyulhan_region,iona_saothar_area,anbennar5388,land,anbennar5388,13d0a7,flatland,grasslands,continental,eagle_worship,eagle_command,pepper,,V14,V14,5388
 asia,gozengun_superregion,nomsyulhan_region,iona_saothar_area,anbennar5389,land,anbennar5389,eec6dc,flatland,grasslands,continental,eagle_worship,eagle_command,lumber,,V14,V14,5389
-asia,gozengun_superregion,nomsyulhan_region,iona_saothar_area,anbennar5390,land,anbennar5390,7b5697,flatland,grasslands,continental,eagle_worship,eagle_command,dues,,V14,V14,5390
+asia,gozengun_superregion,nomsyulhan_region,iona_saothar_area,anbennar5390,land,anbennar5390,7b5697,flatland,grasslands,continental,eagle_worship,eagle_command,dyes,,V14,V14,5390
 asia,gozengun_superregion,nomsyulhan_region,sanctuary_area,anbennar5391,land,anbennar5391,40668f,flatland,grasslands,continental,eagle_worship,eagle_command,lumber,,V14,V14,5391
 asia,gozengun_superregion,nomsyulhan_region,sanctuary_area,anbennar5392,land,anbennar5392,49ee9b,flatland,grasslands,continental,eagle_worship,eagle_command,precursor_relics,,V13,V13,5392
 asia,gozengun_superregion,nomsyulhan_region,sanctuary_area,anbennar5393,land,anbennar5393,f588c1,flatland,grasslands,continental,eagle_worship,eagle_command,wheat,,V13,V13,5393
@@ -1789,7 +1789,7 @@ asia,rahen_superregion,dhujat_region,kramitra_area,setarudhar,land,setarudhar,29
 asia,rahen_superregion,dhujat_region,banjisbid_area,dhaarighapur,land,dhaarighapur,6e9d67,flatland,grasslands,continental,high_philosophy,ghavaanaj,salt,,R16,R16,4461
 asia,rahen_superregion,dhujat_region,banjisbid_area,sighajisbid,land,sighajisbid,a0d04c,flatland,grasslands,continental,high_philosophy,ghavaanaj,livestock,,R16,R16,4469
 asia,rahen_superregion,dhujat_region,sarisung_area,nundujisbid,land,nundujisbid,9a3028,flatland,grasslands,continental,high_philosophy,rasarhid,unknown,,R15,R15,4470
-asia,rahen_superregion,dhujat_region,ghavaghuundakhan_area,dheelindighi,land,dheelindighi,a7a32e,flatland,grasslands,continental,high_philosophy,ghavaanaj,dues,,R13,R13,4471
+asia,rahen_superregion,dhujat_region,ghavaghuundakhan_area,dheelindighi,land,dheelindighi,a7a32e,flatland,grasslands,continental,high_philosophy,ghavaanaj,dyes,,R13,R13,4471
 asia,rahen_superregion,dhujat_region,ghavaghuundakhan_area,shvamakhaan,land,shvamakhaan,b33e2b,flatland,grasslands,continental,high_philosophy,ghavaanaj,salt,,R13,R13,4472
 asia,rahen_superregion,dhujat_region,banjisbid_area,araghuunkhan,land,araghuunkhan,718520,flatland,grasslands,continental,high_philosophy,ghavaanaj,ivory,,R16,R16,4473
 asia,rahen_superregion,dhujat_region,ghavaghuundakhan_area,ghavaghuundakhan,land,ghavaghuundakhan,803a67,flatland,grasslands,continental,high_philosophy,ghavaanaj,ivory,,R13,R13,4477
@@ -1798,9 +1798,9 @@ asia,rahen_superregion,dhujat_region,banjiraal_area,dheelasul,land,dheelasul,cd6
 asia,rahen_superregion,dhujat_region,maldeelakhan_area,righaan,land,righaan,88682a,flatland,grasslands,continental,high_philosophy,ghavaanaj,livestock,,R14,R14,4481
 asia,rahen_superregion,dhujat_region,maharaaja_area,tavharaan,land,tavharaan,8c2231,flatland,grasslands,continental,high_philosophy,dhukharuved,incense,,R14,R14,4482
 asia,rahen_superregion,dhujat_region,maldeelakhan_area,maldeelakhan,land,maldeelakhan,9b405e,flatland,grasslands,continental,high_philosophy,ghavaanaj,wheat,,R14,R14,4483
-asia,rahen_superregion,dhujat_region,maldeelakhan_area,thimakhaan,land,thimakhaan,766e15,flatland,grasslands,continental,high_philosophy,ghavaanaj,dues,,R14,R14,4484
-asia,rahen_superregion,dhujat_region,buhaanjirgal_area,sharaajaghal,land,sharaajaghal,c13476,flatland,grasslands,continental,high_philosophy,ghavaanaj,dues,,R19,R19,4485
-asia,rahen_superregion,dhujat_region,buhaanjirgal_area,svijirghaal,land,svijirghaal,abb113,flatland,grasslands,continental,high_philosophy,ghavaanaj,dues,,R18,R18,4486
+asia,rahen_superregion,dhujat_region,maldeelakhan_area,thimakhaan,land,thimakhaan,766e15,flatland,grasslands,continental,high_philosophy,ghavaanaj,dyes,,R14,R14,4484
+asia,rahen_superregion,dhujat_region,buhaanjirgal_area,sharaajaghal,land,sharaajaghal,c13476,flatland,grasslands,continental,high_philosophy,ghavaanaj,dyes,,R19,R19,4485
+asia,rahen_superregion,dhujat_region,buhaanjirgal_area,svijirghaal,land,svijirghaal,abb113,flatland,grasslands,continental,high_philosophy,ghavaanaj,dyes,,R18,R18,4486
 asia,rahen_superregion,dhujat_region,buhaanjirgal_area,dhukaara,land,dhukaara,945115,flatland,grasslands,continental,high_philosophy,ghavaanaj,livestock,,R18,R18,4487
 asia,rahen_superregion,dhujat_region,maharaaja_area,maharaaja,land,maharaaja,7b502a,flatland,grasslands,continental,high_philosophy,dhukharuved,wheat,,R51,R51,4488
 asia,rahen_superregion,dhujat_region,sarisung_area,kethur,land,kethur,ab8461,flatland,grasslands,continental,high_philosophy,royal_harimari,unknown,,R37,R37,4489
@@ -1821,9 +1821,9 @@ asia,rahen_superregion,dhujat_region,thadarsaghol_area,khirapor,land,khirapor,1a
 asia,rahen_superregion,dhujat_region,tughayasa_area,rayavhatimana,land,rayavhatimana,b1c8c9,flatland,grasslands,continental,high_philosophy,muthadhaya,cotton,,R25,R25,4504
 asia,rahen_superregion,dhujat_region,tughayasa_area,vabaji,land,vabaji,247d83,flatland,grasslands,continental,high_philosophy,royal_harimari,cotton,,R20,R20,4505
 asia,rahen_superregion,dhujat_region,tughayasa_area,pordhatti,land,pordhatti,b81b6c,flatland,grasslands,continental,high_philosophy,muthadhaya,silk,,R20,R20,4506
-asia,rahen_superregion,dhujat_region,banjiraal_area,banjibang,land,banjibang,421e74,flatland,grasslands,continental,high_philosophy,ghavaanaj,dues,,R35,R35,4508
+asia,rahen_superregion,dhujat_region,banjiraal_area,banjibang,land,banjibang,421e74,flatland,grasslands,continental,high_philosophy,ghavaanaj,dyes,,R35,R35,4508
 asia,rahen_superregion,dhujat_region,rangadevi_area,yoddhauke,land,yoddhauke,664d59,flatland,grasslands,continental,accretive_path,ghavaanaj,wheat,,Y31,Y31,4511
-asia,rahen_superregion,dhujat_region,rangadevi_area,rangeenaar,land,rangeenaar,31d0e0,flatland,grasslands,continental,accretive_path,ghavaanaj,dues,,Y31,Y31,4512
+asia,rahen_superregion,dhujat_region,rangadevi_area,rangeenaar,land,rangeenaar,31d0e0,flatland,grasslands,continental,accretive_path,ghavaanaj,dyes,,Y31,Y31,4512
 asia,rahen_superregion,dhujat_region,tughayasa_area,tughayasa,land,tughayasa,546ef7,flatland,grasslands,continental,high_philosophy,muthadhaya,gems,,R05,R05,4527
 asia,rahen_superregion,dhujat_region,phangban_area,takhnan,land,takhnan,a34596,flatland,grasslands,continental,high_philosophy,royal_harimari,wheat,,Y51,"Y51,Y50",4596
 asia,rahen_superregion,dhujat_region,phangban_area,theikedtan,land,theikedtan,cb89af,flatland,grasslands,continental,high_philosophy,chengrong,wheat,,Y51,"Y51,Y50",4597
@@ -1834,7 +1834,7 @@ asia,rahen_superregion,dhujat_region,semphrerong_area,kbaver,land,kbaver,7cb0af,
 asia,rahen_superregion,dhujat_region,semphrerong_area,tevi,land,tevi,f245c8,flatland,grasslands,continental,transmutative_path,chengrong,lumber,,Y52,Y52,4606
 asia,rahen_superregion,dhujat_region,rangadevi_area,cahaghara,land,cahaghara,370eaf,flatland,grasslands,continental,transmutative_path,rasarhid,tea,,Y33,Y33,4608
 asia,rahen_superregion,dhujat_region,rangadevi_area,gundhagidhur,land,gundhagidhur,5545c8,flatland,grasslands,continental,transmutative_path,rasarhid,tobacco,,Y33,Y33,4609
-asia,rahen_superregion,dhujat_region,sarisung_area,khappur,land,khappur,f60ee1,flatland,grasslands,continental,devouring_path,szitu,dues,,R59,R59,4620
+asia,rahen_superregion,dhujat_region,sarisung_area,khappur,land,khappur,f60ee1,flatland,grasslands,continental,devouring_path,szitu,dyes,,R59,R59,4620
 asia,rahen_superregion,dhujat_region,rangadevi_area,nartakadee,land,nartakadee,30c77c,flatland,grasslands,continental,accretive_path,ghavaanaj,lumber,,Y31,Y31,4939
 asia,rahen_superregion,rahen_coast_region,avhavubhiya_area,khinana,land,khinana,cb7c7c,flatland,grasslands,continental,high_philosophy,raghamidesh,wheat,0.25,R01,R01,4361
 asia,rahen_superregion,rahen_coast_region,avhavubhiya_area,avhavubhiya,land,avhavubhiya,dc1616,flatland,grasslands,continental,high_philosophy,raghamidesh,wheat,0.25,R01,R01,4362
@@ -1875,12 +1875,12 @@ asia,rahen_superregion,rahen_coast_region,middle_dhenbasana_area,amtujsaat,land,
 asia,rahen_superregion,rahen_coast_region,kharunyana_estuary_area,kranasad,land,kranasad,837bf6,flatland,grasslands,continental,high_philosophy,rasarhid,cotton,,R38,"R38,R39",4406
 asia,rahen_superregion,rahen_coast_region,middle_dhenbasana_area,durdhinana,land,durdhinana,a6ba6a,flatland,grasslands,continental,high_philosophy,sarniryabsad,cotton,,R53,R53,4410
 asia,rahen_superregion,rahen_coast_region,inner_rahen_area,dhenijansar,land,dhenijansar,d4b22a,flatland,grasslands,continental,high_philosophy,rabhidarubsad,unknown,,R51,"R51,R53",4411
-asia,rahen_superregion,rahen_coast_region,inner_rahen_area,parusapa,land,parusapa,854117,flatland,grasslands,continental,high_philosophy,royal_harimari,dues,,R52,R52,4412
+asia,rahen_superregion,rahen_coast_region,inner_rahen_area,parusapa,land,parusapa,854117,flatland,grasslands,continental,high_philosophy,royal_harimari,dyes,,R52,R52,4412
 asia,rahen_superregion,rahen_coast_region,satarsaya_area,satarsaya,land,satarsaya,c65786,flatland,grasslands,continental,high_philosophy,rabhidarubsad,wheat,,R54,R54,4413
 asia,rahen_superregion,rahen_coast_region,satarsaya_area,parusahan_saya,land,parusahan_saya,b2bd6b,flatland,grasslands,continental,high_philosophy,rabhidarubsad,wheat,,R54,R54,4415
 asia,rahen_superregion,rahen_coast_region,satarsaya_area,setsigand,land,setsigand,9d4888,flatland,grasslands,continental,high_philosophy,rabhidarubsad,cotton,,R47,R47,4416
 asia,rahen_superregion,rahen_coast_region,lower_dhenbasana_area,ghundagar,land,ghundagar,8da76d,flatland,grasslands,continental,high_philosophy,royal_harimari,silk,,R40,R40,4417
-asia,rahen_superregion,rahen_coast_region,lower_dhenbasana_area,amtarim,land,amtarim,75efa6,flatland,grasslands,continental,high_philosophy,sarniryabsad,dues,,R39,R39,4418
+asia,rahen_superregion,rahen_coast_region,lower_dhenbasana_area,amtarim,land,amtarim,75efa6,flatland,grasslands,continental,high_philosophy,sarniryabsad,dyes,,R39,R39,4418
 asia,rahen_superregion,rahen_coast_region,lower_dhenbasana_area,parusad_bhola,land,parusad_bhola,267b48,flatland,grasslands,continental,high_philosophy,royal_harimari,cotton,,R49,R49,4419
 asia,rahen_superregion,rahen_coast_region,kharunyana_estuary_area,sramaya,land,sramaya,ba8887,flatland,grasslands,continental,high_philosophy,sarniryabsad,silk,0.25,R38,"R38,R39",4420
 asia,rahen_superregion,rahen_coast_region,dhenbasana_estuary_area,ishudhen,land,ishudhen,4992e3,flatland,grasslands,continental,high_philosophy,sarniryabsad,unknown,0.25,R38,"R38,R39,R91",4551
@@ -1948,7 +1948,7 @@ asia,rahen_superregion,shamakhad_region,khadisrapur_area,khadisrapur,land,khadis
 asia,rahen_superregion,shamakhad_region,tiltaghar_area,tiltaghar,land,tiltaghar,a92bcd,flatland,grasslands,continental,high_philosophy,royal_harimari,unknown,,R08,R08,4466
 asia,rahen_superregion,shamakhad_region,middle_nadimraj_area,parraj,land,parraj,7b63d5,flatland,grasslands,continental,high_philosophy,rajnadhid,wheat,,R09,R09,4467
 asia,rahen_superregion,shamakhad_region,bidhilar_area,sabathi,land,sabathi,8bc46f,flatland,grasslands,continental,high_philosophy,rajnadhid,livestock,,R10,R10,4468
-asia,rahen_superregion,shamakhad_region,middle_nadimraj_area,kamapar,land,kamapar,183a9a,flatland,grasslands,continental,high_philosophy,rajnadhid,dues,,R34,R34,4474
+asia,rahen_superregion,shamakhad_region,middle_nadimraj_area,kamapar,land,kamapar,183a9a,flatland,grasslands,continental,high_philosophy,rajnadhid,dyes,,R34,R34,4474
 asia,rahen_superregion,shamakhad_region,middle_nadimraj_area,madhunla,land,madhunla,8f1ca4,flatland,grasslands,continental,high_philosophy,rajnadhid,salt,,R09,R09,4475
 asia,rahen_superregion,shamakhad_region,khadisrapur_area,pirhakhad,land,pirhakhad,cb1e8c,flatland,grasslands,continental,high_philosophy,khedarid,wheat,,R11,R11,4476
 asia,rahen_superregion,shamakhad_region,bidhilar_area,bidhilar,land,bidhilar,3d6614,flatland,grasslands,continental,high_philosophy,royal_harimari,unknown,,R10,R10,4478
@@ -1962,7 +1962,7 @@ asia,rahen_superregion,shamakhad_region,munlanan_area,prisunla,land,prisunla,a74
 asia,rahen_superregion,shamakhad_region,munlanan_area,munlanan,land,munlanan,34a95a,flatland,grasslands,continental,high_philosophy,khedarid,salt,,R63,"R63,R11",4517
 asia,rahen_superregion,shamakhad_region,munlanan_area,shalava,land,shalava,3d917b,flatland,grasslands,continental,high_philosophy,khedarid,unknown,,R62,"R62,R11",4518
 asia,rahen_superregion,shamakhad_region,kradhungur_area,phabar,land,phabar,446c64,flatland,grasslands,continental,high_philosophy,khedarid,iron,,R62,"R62,R11,R84",4519
-asia,rahen_superregion,shamakhad_region,khadirnadi_area,ghatindigol,land,ghatindigol,767e48,flatland,grasslands,continental,high_philosophy,shandibad,dues,,R07,R07,4520
+asia,rahen_superregion,shamakhad_region,khadirnadi_area,ghatindigol,land,ghatindigol,767e48,flatland,grasslands,continental,high_philosophy,shandibad,dyes,,R07,R07,4520
 asia,rahen_superregion,shamakhad_region,munlanan_area,ghilakhad,land,ghilakhad,3f5d83,flatland,grasslands,continental,old_dookan,brown_orc,wheat,,R63,"R63,R11",4521
 asia,rahen_superregion,shamakhad_region,munlanan_area,marukhad,land,marukhad,6c3d34,flatland,grasslands,continental,high_philosophy,khedarid,livestock,,R63,"R63,R11",4522
 asia,rahen_superregion,shamakhad_region,nakara_area,nabhet,land,nabhet,c00645,flatland,grasslands,continental,old_dookan,brown_orc,unknown,,R62,"R62,R12",4523
@@ -2084,7 +2084,7 @@ asia,vimdatrong_superregion,lupulan_rainforest_region,non_chien_area,culangukit,
 asia,vimdatrong_superregion,lupulan_rainforest_region,tlagukit_area,kasepubeng,land,kasepubeng,3918af,flatland,grasslands,continental,mystic_accord,hujan,incense,,Y78,Y78,4737
 asia,vimdatrong_superregion,lupulan_rainforest_region,gehamteg_area,linkamtas,land,linkamtas,924b72,flatland,grasslands,continental,mystic_accord,banyak,lumber,,Y80,Y80,4741
 asia,vimdatrong_superregion,lupulan_rainforest_region,thuongidut_area,kangcau,land,kangcau,0ed218,flatland,grasslands,continental,transmutative_path,binhrung,wheat,0.25,Y72,Y72,4742
-asia,vimdatrong_superregion,lupulan_rainforest_region,tlagukit_area,tlagapatung,land,tlagapatung,b95ea5,flatland,grasslands,continental,mystic_accord,hujan,dues,,Y75,Y75,4765
+asia,vimdatrong_superregion,lupulan_rainforest_region,tlagukit_area,tlagapatung,land,tlagapatung,b95ea5,flatland,grasslands,continental,mystic_accord,hujan,dyes,,Y75,Y75,4765
 asia,vimdatrong_superregion,lupulan_rainforest_region,gobusoa_area,lasubisita,land,lasubisita,22e4ba,flatland,grasslands,continental,high_philosophy,hujan,salt,,Y65,"Y65,R87",4766
 asia,vimdatrong_superregion,lupulan_rainforest_region,rewirang_area,besailakah,land,besailakah,4bfd9e,flatland,grasslands,continental,mystic_accord,paru,incense,,Y74,Y74,4767
 asia,vimdatrong_superregion,lupulan_rainforest_region,harumbasai_area,burjurug,land,burjurug,a842ac,flatland,grasslands,continental,mystic_accord,paru,fish,,Y76,Y76,4768
@@ -2743,7 +2743,7 @@ europe,deepwoods_superregion,east_deepwoods_region,coryllann_area,sawelfeal,land
 europe,deepwoods_superregion,east_deepwoods_region,scothaear_area,scothalon,land,scothalon,cf6ee2,flatland,grasslands,continental,great_dookan,green_orc,livestock,,I40,"I40,I31",3027
 europe,deepwoods_superregion,east_deepwoods_region,scothaear_area,athian,land,athian,cf6ee3,flatland,grasslands,continental,pactseeker,forest_goblin,fur,,B82,"B82,I31",3028
 europe,deepwoods_superregion,east_deepwoods_region,scothaear_area,ciranear,land,ciranear,cf6ee4,flatland,grasslands,continental,great_dookan,green_orc,lumber,,I40,"I40,I31",3029
-europe,deepwoods_superregion,east_deepwoods_region,scothalar_area,emmylscotha,land,emmylscotha,cf6ee5,flatland,grasslands,continental,great_dookan,green_orc,dues,,I40,"I40,I31",3030
+europe,deepwoods_superregion,east_deepwoods_region,scothalar_area,emmylscotha,land,emmylscotha,cf6ee5,flatland,grasslands,continental,great_dookan,green_orc,dyes,,I40,"I40,I31",3030
 europe,deepwoods_superregion,east_deepwoods_region,scothalar_area,petegis,land,petegis,cf6ee6,flatland,grasslands,continental,great_dookan,green_orc,lumber,,I40,"I40,I31",3031
 europe,deepwoods_superregion,east_deepwoods_region,gozyest_area,llannlar,land,llannlar,cf6ee7,flatland,grasslands,continental,goblinic_shamanism,forest_goblin,livestock,,I36,I36,3032
 europe,deepwoods_superregion,east_deepwoods_region,ayeth_area,ayethstir,land,ayethstir,cf6ee8,flatland,grasslands,continental,fey_court,wood_elf,unknown,,I33,I33,3033
@@ -2775,7 +2775,7 @@ europe,deepwoods_superregion,east_deepwoods_region,fealmyraeth_area,anbennar7012
 europe,deepwoods_superregion,east_deepwoods_region,fealmyraeth_area,anbennar7013,land,anbennar7013,57f528,flatland,grasslands,continental,great_dookan,green_orc,fur,,I39,I39,7013
 europe,deepwoods_superregion,east_deepwoods_region,gozyest_area,anbennar7014,land,anbennar7014,6f3a1c,flatland,grasslands,continental,goblinic_shamanism,forest_goblin,lumber,,I36,I36,7014
 europe,deepwoods_superregion,east_deepwoods_region,gozyest_area,anbennar7015,land,anbennar7015,4b8de4,flatland,grasslands,continental,goblinic_shamanism,forest_goblin,livestock,,I36,"I36,I33",7015
-europe,deepwoods_superregion,east_deepwoods_region,scothaear_area,anbennar7016,land,anbennar7016,64828a,flatland,grasslands,continental,pactseeker,forest_goblin,dues,,B82,B82,7016
+europe,deepwoods_superregion,east_deepwoods_region,scothaear_area,anbennar7016,land,anbennar7016,64828a,flatland,grasslands,continental,pactseeker,forest_goblin,dyes,,B82,B82,7016
 europe,deepwoods_superregion,east_deepwoods_region,scothalar_area,anbennar7017,land,anbennar7017,60447a,flatland,grasslands,continental,great_dookan,green_orc,livestock,,I40,"I40,I31",7017
 europe,deepwoods_superregion,east_deepwoods_region,krazho_area,anbennar7018,land,anbennar7018,813662,flatland,grasslands,continental,great_dookan,green_orc,wine,,I44,"I44,I32",7018
 europe,deepwoods_superregion,east_deepwoods_region,criodharka_area,anbennar7019,land,anbennar7019,d91a3e,flatland,grasslands,continental,pactseeker,forest_goblin,wheat,,I37,I37,7019
@@ -3518,8 +3518,8 @@ europe,western_cannor_superregion,lencenor_region,east_ruby_mountains_area,rose_
 europe,western_cannor_superregion,lencenor_region,west_ruby_mountains_area,ruby_depths,land,ruby_depths,d01a49,flatland,grasslands,continental,dwarven_pantheon,ruby_dwarf,gems,,A20,A20,4343
 europe,western_cannor_superregion,small_country_region,lorentish_approach_area,hardoaks,land,hardoaks,812e80,flatland,grasslands,continental,regent_court,bluefoot_halfling,unknown,,A13,"A13,A70",7
 europe,western_cannor_superregion,small_country_region,norley_area,greymill,land,greymill,013880,flatland,grasslands,continental,regent_court,bluefoot_halfling,wheat,,A13,"A13,A71",12
-europe,western_cannor_superregion,small_country_region,viswall_area,south_viswall,land,south_viswall,899ec0,flatland,grasslands,continental,regent_court,visfoot_halfling,dues,,A08,"A08,A07",63
-europe,western_cannor_superregion,small_country_region,viswall_area,north_viswall,land,north_viswall,092440,flatland,grasslands,continental,regent_court,visfoot_halfling,dues,,A07,"A07,A08",66
+europe,western_cannor_superregion,small_country_region,viswall_area,south_viswall,land,south_viswall,899ec0,flatland,grasslands,continental,regent_court,visfoot_halfling,dyes,,A08,"A08,A07",63
+europe,western_cannor_superregion,small_country_region,viswall_area,north_viswall,land,north_viswall,092440,flatland,grasslands,continental,regent_court,visfoot_halfling,dyes,,A07,"A07,A08",66
 europe,western_cannor_superregion,small_country_region,norley_area,old_course,land,old_course,0a3840,flatland,grasslands,continental,regent_court,bluefoot_halfling,wheat,,A13,"A13,A71",76
 europe,western_cannor_superregion,small_country_region,pearpoint_area,butterburn,land,butterburn,555020,flatland,grasslands,continental,regent_court,bluefoot_halfling,livestock,,A13,"A13,A66",103
 europe,western_cannor_superregion,small_country_region,roysfort_area,smallmarches,land,smallmarches,122400,flatland,grasslands,continental,regent_court,redfoot_halfling,wheat,,CWL01,"CWL01,A67",130
@@ -3794,7 +3794,7 @@ north_america,eordand_superregion,domandrod_region,domandrod_central_glade_area,
 north_america,eordand_superregion,domandrod_region,domandrod_central_glade_area,gemradpar,land,gemradpar,dc43c8,flatland,grasslands,continental,,,unknown,,,,6557
 north_america,eordand_superregion,glorelthir_region,sglolad_area,cardumh,land,cardumh,285820,flatland,grasslands,continental,autumn_court,tuathak,copper,0.25,H11,H11,1118
 north_america,eordand_superregion,glorelthir_region,ruigfar_area,malpadh,land,malpadh,a966ad,flatland,grasslands,continental,autumn_court,tuathak,fish,0.25,H10,H10,1125
-north_america,eordand_superregion,glorelthir_region,sglolad_area,clafaidh,land,clafaidh,8e6ec0,flatland,grasslands,continental,autumn_court,tuathak,dues,0.25,H11,H11,1875
+north_america,eordand_superregion,glorelthir_region,sglolad_area,clafaidh,land,clafaidh,8e6ec0,flatland,grasslands,continental,autumn_court,tuathak,dyes,0.25,H11,H11,1875
 north_america,eordand_superregion,glorelthir_region,raithlos_area,raithtall,land,raithtall,6b00f0,flatland,grasslands,continental,autumn_court,tuathak,salt,0.25,H12,H12,1990
 north_america,eordand_superregion,glorelthir_region,sglolad_area,farrug,land,farrug,6e00e8,flatland,grasslands,continental,autumn_court,tuathak,fish,0.25,H11,H11,1993
 north_america,eordand_superregion,glorelthir_region,ruigfar_area,arrflor,land,arrflor,7200f8,flatland,grasslands,continental,spring_court,selphereg,unknown,0.25,H10,H10,1997
@@ -3841,7 +3841,7 @@ north_america,eordand_superregion,randrunnse_region,jhorgashirr_area,jhorgashirr
 north_america,eordand_superregion,randrunnse_region,jhorgashirr_area,snecholle,land,snecholle,d876ad,flatland,grasslands,continental,autumn_court,snecboth,fish,0.25,H13,"H13,U44",1966
 north_america,eordand_superregion,randrunnse_region,trimgarb_area,dubcadh,land,dubcadh,d97ead,flatland,grasslands,continental,eordellon,peitar,precursor_relics,,H20,H20,1967
 north_america,eordand_superregion,randrunnse_region,gemradcurt_area,murdbogg,land,murdbogg,598020,flatland,grasslands,continental,winter_court,snecboth,fish,0.25,H16,H16,1968
-north_america,eordand_superregion,randrunnse_region,fogharbac_area,darblath,land,darblath,d87a4f,flatland,grasslands,continental,autumn_court,tuathak,dues,0.25,H14,H14,1969
+north_america,eordand_superregion,randrunnse_region,fogharbac_area,darblath,land,darblath,d87a4f,flatland,grasslands,continental,autumn_court,tuathak,dyes,0.25,H14,H14,1969
 north_america,eordand_superregion,randrunnse_region,gemradcurt_area,gemradbogg,land,gemradbogg,587820,flatland,grasslands,continental,winter_court,snecboth,unknown,0.25,H16,H16,1970
 north_america,eordand_superregion,randrunnse_region,jhorgashirr_area,garmcrabh,land,garmcrabh,587020,flatland,grasslands,continental,winter_court,snecboth,unknown,,H13,"H13,U44",1971
 north_america,eordand_superregion,randrunnse_region,dartir_area,buthir,land,buthir,d8724f,flatland,grasslands,continental,winter_court,snecboth,fish,0.25,H17,H17,1972
@@ -3883,7 +3883,7 @@ north_america,eordand_superregion,sarmadfar_region,pelodard_area,ansgorr,land,an
 north_america,eordand_superregion,sarmadfar_region,paskala_area,samglach,land,samglach,519467,flatland,grasslands,continental,summer_court,caamas,wheat,,H03,H03,2035
 north_america,eordand_superregion,sarmadfar_region,murdkather_area,murdkather,land,murdkather,cd7775,flatland,grasslands,continental,summer_court,caamas,silk,0.25,H02,H02,2037
 north_america,eordand_superregion,sarmadfar_region,serakriok_area,siksath,land,siksath,d59da5,flatland,grasslands,continental,summer_court,caamas,incense,0.25,H02,H02,2038
-north_america,eordand_superregion,sarmadfar_region,dearktir_area,omarfirm,land,omarfirm,54ed57,flatland,grasslands,continental,eordellon,peitar,dues,,H03,H03,2040
+north_america,eordand_superregion,sarmadfar_region,dearktir_area,omarfirm,land,omarfirm,54ed57,flatland,grasslands,continental,eordellon,peitar,dyes,,H03,H03,2040
 north_america,eordand_superregion,sarmadfar_region,sidmargbal_area,sidmargbal,land,sidmargbal,40bd03,flatland,grasslands,continental,summer_court,caamas,fur,,H06,"H06,U46",2041
 north_america,eordand_superregion,sarmadfar_region,sidmargbal_area,sidpar,land,sidpar,f65c3e,flatland,grasslands,continental,eordellon,peitar,fur,,H06,H06,2042
 north_america,eordand_superregion,sarmadfar_region,sidmargbal_area,snodglac,land,snodglac,00e145,flatland,grasslands,continental,eordellon,peitar,unknown,,H02,H02,2043
@@ -4030,7 +4030,7 @@ north_america,ruin_proper_superregion,reapers_coast_region,dihen_jungle_area,dih
 north_america,ruin_proper_superregion,reapers_coast_region,the_graveroads_area,shofashok,land,shofashok,5500e1,flatland,grasslands,continental,death_cult_of_cheshosh,cheshoshi,pepper,0.25,G07,G07,1939
 north_america,ruin_proper_superregion,reapers_coast_region,the_graveroads_area,achukkoa,land,achukkoa,5f0032,flatland,grasslands,continental,,,unknown,0.25,,,1940
 north_america,ruin_proper_superregion,reapers_coast_region,dihen_jungle_area,flayedmark,land,flayedmark,6900c8,flatland,grasslands,continental,,,unknown,,,,1941
-north_america,ruin_proper_superregion,reapers_coast_region,cheshosh_area,altarcliff,land,altarcliff,6e004b,flatland,grasslands,continental,death_cult_of_cheshosh,cheshoshi,dues,0.25,G06,G06,1942
+north_america,ruin_proper_superregion,reapers_coast_region,cheshosh_area,altarcliff,land,altarcliff,6e004b,flatland,grasslands,continental,death_cult_of_cheshosh,cheshoshi,dyes,0.25,G06,G06,1942
 north_america,ruin_proper_superregion,reapers_coast_region,cheshosh_area,pale_coast,land,pale_coast,780064,flatland,grasslands,continental,death_cult_of_cheshosh,cheshoshi,lumber,0.25,G06,G06,1944
 north_america,ruin_proper_superregion,reapers_coast_region,maskport_area,maskport,land,maskport,7d0096,flatland,grasslands,continental,,,unknown,0.25,,,1945
 north_america,ruin_proper_superregion,reapers_coast_region,maskport_area,silvergard,land,silvergard,3f00f4,flatland,grasslands,continental,,,unknown,0.25,,,1946
@@ -6047,7 +6047,7 @@ south_america,taychend_superregion,gauraddhi_region,zaernmaera_area,dongyccyl,la
 south_america,taychend_superregion,gauraddhi_region,zaernmaera_area,tsupiskaej,land,tsupiskaej,568d5f,flatland,grasslands,continental,askaeorg,chendhyan,pepper,,J73,J73,2566
 south_america,taychend_superregion,gauraddhi_region,rakkabuttai_area,xardonni,land,xardonni,2c83f6,flatland,grasslands,continental,gods_of_the_taychend,yodhanpir,unknown,,J75,J75,2568
 south_america,taychend_superregion,gauraddhi_region,sarihaddu_area,venara,land,venara,6b1f91,flatland,grasslands,continental,gods_of_the_taychend,sarihaddi,wheat,,J75,"J75,J71",2570
-south_america,taychend_superregion,gauraddhi_region,caergaraen_area,attegar,land,attegar,e96f5f,flatland,grasslands,continental,askaeorg,chendhyan,dues,,J75,"J75,J74",2571
+south_america,taychend_superregion,gauraddhi_region,caergaraen_area,attegar,land,attegar,e96f5f,flatland,grasslands,continental,askaeorg,chendhyan,dyes,,J75,"J75,J74",2571
 south_america,taychend_superregion,gauraddhi_region,caergaraen_area,pedhrim,land,pedhrim,05ca2e,flatland,grasslands,continental,askaeorg,chendhyan,livestock,,J74,J74,2572
 south_america,taychend_superregion,gauraddhi_region,caergaraen_area,gaenbul,land,gaenbul,8365f6,flatland,grasslands,continental,gods_of_the_taychend,chendhyan,fish,,J73,"J73,J74",2573
 south_america,taychend_superregion,gauraddhi_region,rakkabuttai_area,difengraednae,land,difengraednae,4401c4,flatland,grasslands,continental,askaeorg,chendhyan,livestock,,J75,"J75,J74",2574
@@ -6078,7 +6078,7 @@ south_america,taychend_superregion,kalavend_region,royakottar_area,macrialovao,l
 south_america,taychend_superregion,kalavend_region,uesrennu_area,larmaikq,land,larmaikq,46a12e,flatland,grasslands,continental,gods_of_the_taychend,kalavendhi,ivory,,J78,J78,2502
 south_america,taychend_superregion,kalavend_region,vettakaramai_area,vampalnachend,land,vampalnachend,1cabc4,flatland,grasslands,continental,gods_of_the_taychend,kalavendhi,tea,,J80,J80,2504
 south_america,taychend_superregion,kalavend_region,varamraya_area,kegurchend,land,kegurchend,9af391,flatland,grasslands,continental,gods_of_the_taychend,kalavendhi,wheat,,G70,"G70,J82",2505
-south_america,taychend_superregion,kalavend_region,uesrennu_area,cayaimkq,land,cayaimkq,5b025f,flatland,grasslands,continental,gods_of_the_taychend,kalavendhi,dues,,J78,J78,2506
+south_america,taychend_superregion,kalavend_region,uesrennu_area,cayaimkq,land,cayaimkq,5b025f,flatland,grasslands,continental,gods_of_the_taychend,kalavendhi,dyes,,J78,J78,2506
 south_america,taychend_superregion,kalavend_region,orenkoraim_area,cankamam,land,cankamam,318df6,flatland,grasslands,continental,gods_of_the_taychend,kalavendhi,unknown,,G71,G71,2508
 south_america,taychend_superregion,kalavend_region,orenkoraim_area,palaya_orenkoraim,land,palaya_orenkoraim,af2bc4,flatland,grasslands,continental,gods_of_the_taychend,kalavendhi,unknown,0.25,G71,G71,2509
 south_america,taychend_superregion,kalavend_region,katelperai_area,ursibamkq,land,ursibamkq,70a491,flatland,grasslands,continental,gods_of_the_taychend,kalavendhi,wheat,0.25,G71,"G71,J79",2510
@@ -6117,7 +6117,7 @@ south_america,taychend_superregion,larankarha_highlands_region,urvand_area,ganag
 south_america,taychend_superregion,larankarha_highlands_region,urvand_area,urvand,land,urvand,e8c92e,flatland,grasslands,continental,gods_of_the_taychend,larankarha,gold,,G64,G64,2487
 south_america,taychend_superregion,larankarha_highlands_region,urvand_area,imarti_sadvya,land,imarti_sadvya,8282c4,flatland,grasslands,continental,gods_of_the_taychend,larankarha,wheat,,G64,G64,2489
 south_america,taychend_superregion,larankarha_highlands_region,enlarmai_area,sithra_calindash,land,sithra_calindash,43c991,flatland,grasslands,continental,gods_of_the_taychend,larankarha,wheat,,G64,"G72,G64",2490
-south_america,taychend_superregion,larankarha_highlands_region,ahartadyam_area,uesrlarmai,land,uesrlarmai,c18b5f,flatland,grasslands,continental,gods_of_the_taychend,advakhalla,dues,,G73,G73,2491
+south_america,taychend_superregion,larankarha_highlands_region,ahartadyam_area,uesrlarmai,land,uesrlarmai,c18b5f,flatland,grasslands,continental,gods_of_the_taychend,advakhalla,dyes,,G73,G73,2491
 south_america,taychend_superregion,larankarha_highlands_region,enlarmai_area,uesrenti,land,uesrenti,283d2e,flatland,grasslands,continental,gods_of_the_taychend,larankarha,tea,,G64,"G64,G72",2552
 south_america,taychend_superregion,southern_coast_region,ameionavil_area,matsyamvil,land,matsyamvil,657d36,flatland,grasslands,continental,kheionism,ambhen,fish,0.25,G52,G52,2329
 south_america,taychend_superregion,southern_coast_region,vuls_tenvach_area,korrimadhala,land,korrimadhala,c7e891,flatland,grasslands,continental,gods_of_the_taychend,thekvrystana,pepper,0.25,G79,G79,2515
@@ -6200,7 +6200,7 @@ south_america,torn_gates_superregion,amadia_region,chamguin_area,chamguin,land,c
 south_america,torn_gates_superregion,amadia_region,borawid_area,puailchas,land,puailchas,ca2b8b,flatland,grasslands,continental,,,unknown,,,,2409
 south_america,torn_gates_superregion,amadia_region,chamguin_area,nahuarbora,land,nahuarbora,b3cc99,flatland,grasslands,continental,,,unknown,,,,2411
 south_america,torn_gates_superregion,amadia_region,trichas_area,toozewaf,land,toozewaf,7a8faa,flatland,grasslands,continental,,,unknown,,,,2412
-south_america,torn_gates_superregion,amadia_region,trichas_area,baafchas,land,baafchas,46467a,flatland,grasslands,continental,,,dues,,,,2413
+south_america,torn_gates_superregion,amadia_region,trichas_area,baafchas,land,baafchas,46467a,flatland,grasslands,continental,,,dyes,,,,2413
 south_america,torn_gates_superregion,amadia_region,chamguin_area,soolchas,land,soolchas,744a7a,flatland,grasslands,continental,,,unknown,,,,2414
 south_america,torn_gates_superregion,amadia_region,chuesnel_area,bairboos,land,bairboos,3c2c72,flatland,grasslands,continental,,,unknown,,,,2415
 south_america,torn_gates_superregion,amadia_region,siquoomul_area,codoosun,land,codoosun,424b78,flatland,grasslands,continental,rioqay_diu,faalte,livestock,,J87,J87,2416
