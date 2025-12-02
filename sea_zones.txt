@@ -50,7 +50,7 @@
 	lovers_coast
 	south_dameshead
 	uelcoast
-	anbenncost
+	anbenncost_2
 	damesear_crossing
 	dameshead_approach
 	damesteeth_approach

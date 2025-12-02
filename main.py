@@ -77,12 +77,15 @@ for old_tag, values in tag_conversion_data.items():
     tag_conversion_dict[old_tag] = new_tag
 
 # Open locations.csv and apply tag conversions to owner and core fields
+# Furthermore, append suffix to province and location_name fields if there are duplicates.
 with open('anbennar_eu5_transition_data_locations.csv', 'r', encoding='utf-8-sig') as infile, \
     open('anbennar_eu5_transition_data_locations_converted.csv', 'w', encoding='utf-8-sig', newline='') as outfile:
     reader = csv.DictReader(infile)
     fieldnames = reader.fieldnames
     writer = csv.DictWriter(outfile, fieldnames=fieldnames)
     writer.writeheader()
+    seen_provinces = {}
+    seen_locations = {}
     for row in reader:
         # Convert owner tag
         owner_tag = row.get('owner', '')
@@ -99,6 +102,22 @@ with open('anbennar_eu5_transition_data_locations.csv', 'r', encoding='utf-8-sig
             else:
                 converted_core_tags.append(core_tag)
         row['cores'] = ','.join(converted_core_tags)
+
+        # Append suffix to province if duplicate
+        province_name = row.get('province', '')
+        if province_name in seen_provinces:
+            seen_provinces[province_name] += 1
+            row['province'] = f"{province_name}_{seen_provinces[province_name]}"
+        else:
+            seen_provinces[province_name] = 1
+
+        # Append suffix to location_name if duplicate
+        location_name = row.get('location_name', '')
+        if location_name in seen_locations:
+            seen_locations[location_name] += 1
+            row['location_name'] = f"{location_name}_{seen_locations[location_name]}"
+        else:
+            seen_locations[location_name] = 1
 
         writer.writerow(row)
 
@@ -172,29 +191,6 @@ data = dict(sorted(data.items(), key=lambda item: (
     item[1].get('province', '')
 )))
 
-last_continent = None
-last_superregion = None
-last_region = None
-with open('output\\game\\in_game\\map_data\\named_locations\\anb_default.txt', 'w', encoding='utf-8-sig') as outfile:
-    for key, value in data.items():
-        continent = value.get('continent')
-        superregion = value.get('superregion')
-        region = value.get('region')
-
-        if continent != last_continent:
-            outfile.write(f'### {continent}\n')
-            last_continent = continent
-        
-        if superregion != last_superregion:
-            outfile.write(f'## {superregion}\n')
-            last_superregion = superregion
-
-        if region != last_region:
-            outfile.write(f'# {region}\n')
-            last_region = region
-
-        outfile.write(f"{key} = {value.get('hexcode', 'unknown_hexcode')}\n")
-
 # Populate classses.
 for key, value in data.items():
     continent_name = value.get('continent')
@@ -231,13 +227,34 @@ for key, value in data.items():
     
     # Create or get Province
     if province_name in Province.instances:
-        province = Province.instances[province_name]
+        # If province name is already in instances, append a suffix to make it unique.
+        province_name += f'_{len(Province.instances)}'
+        province = Province(area, province_name)
     else:
         province = Province(area, province_name)
     
     # Create Location
-    location = Location(province, location_name, hexcode)
+    if location_name in Location.instances:
+        # If location name is already in instances, append a suffix to make it unique.
+        location_name += f'_{len(Location.instances)}'
+        location = Location(province, location_name, hexcode)
+    else:
+        location = Location(province, location_name, hexcode)
 
+
+with open('output\\game\\in_game\\map_data\\named_locations\\anb_default.txt', 'w', encoding='utf-8-sig') as outfile:
+    for continent in Continent.instances.values():
+        outfile.write('##### ' + continent.name + '\n')
+        for superregion in continent.superregions:
+            outfile.write('#### ' + superregion.name + '\n')
+            for region in superregion.regions:
+                outfile.write('### ' + region.name + '\n')
+                for area in region.areas:
+                    outfile.write('## ' + area.name + '\n')
+                    for province in area.provinces:
+                        outfile.write('# ' + province.name + '\n')
+                        for location in province.locations:
+                            outfile.write(f"{location.name} = {location.hexcode}\n")
 
 with open('output\\game\\in_game\\map_data\\anb_definitions.txt', 'w', encoding='utf-8-sig') as def_file:
     for continent in Continent.instances.values():

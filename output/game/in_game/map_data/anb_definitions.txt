@@ -76,7 +76,7 @@
 				north_dameshead_province = { north_dameshead }
 			}
 			damesneck_sea_area = {
-				anbenncost_province = { anbenncost }
+				anbenncost_2_province = { anbenncost_2 }
 				damesear_crossing_province = { damesear_crossing }
 				dameshead_approach_province = { dameshead_approach }
 				damesteeth_approach_province = { damesteeth_approach }
@@ -764,19 +764,20 @@
 				floodfens_province = { floodfens }
 				gathmarkorsk_province = { gathmarkorsk }
 				gerudian_lakes_province = { gerudian_lakes }
-				giants_tears_province = { giants_tears }
+				giants_tears_2_province = { giants_tears_2 }
 				gliosthemar_province = { gliosthemar }
 				glorelthir_province = { glorelthir }
 				gracosthemar_province = { gracosthemar }
 				green_lake_province = { green_lake }
 				hibiscus_lagoon_province = { hibiscus_lagoon }
-				hlakkavatn_province = { hlakkavatn }
+				hlakkavatn_2_province = { hlakkavatn_2 }
 				hor_velsynn_province = { hor_velsynn }
 				howling_lake_province = { howling_lake }
 				hungry_shallows_province = { hungry_shallows }
 				ibidintely_coast_province = { ibidintely_coast }
 				jorkad_lake_province = { jorkad_lake }
 				keygas_province = { keygas }
+				keygas_2_province = { keygas_2 }
 				kunolo_bay_province = { kunolo_bay }
 				kuresgiju_spring_province = { kuresgiju_spring }
 				lake_chakantu_province = { lake_chakantu }
@@ -802,7 +803,7 @@
 				predpadhynn_province = { predpadhynn }
 				randrunnse_province = { randrunnse }
 				saikinoma_pass_province = { saikinoma_pass }
-				salt_grass_lake_province = { salt_grass_lake }
+				salt_grass_lake_2_province = { salt_grass_lake_2 }
 				sea_of_steam_province = { sea_of_steam }
 				sea_of_wreckages_province = { sea_of_wreckages }
 				serpentfall_province = { serpentfall }
@@ -1608,6 +1609,7 @@ africa = {
 			yezelshaff_area = {
 				kadmuduuk_province = { kadmuduuk }
 				kibmuduuk_province = { kibmuduuk }
+				mukis_province = { mukis }
 			}
 		}
 		dreksaret_region = {
@@ -2829,7 +2831,7 @@ africa = {
 			}
 			shena_muhaqaar_area = {
 				lanupan_province = { lanupan }
-				mukis_province = { mukis }
+				mukis_2_province = { mukis_2 }
 				niramit_province = { niramit }
 				sabat_province = { sabat }
 				sawalari_province = { sawalari }
@@ -2915,13 +2917,17 @@ africa = {
 				anbennar6747_province = { anbennar6747 }
 				atvatnstisðl_province = { atvatnstisðl }
 				central_salahad_province = { central_salahad }
+				central_salahad_2_province = { central_salahad_2 }
 				dezpa_sedara_province = { dezpa_sedara }
 				east_salahad_province = { east_salahad }
+				east_salahad_2_province = { east_salahad_2 }
 				harra_oasis_province = { harra_oasis }
 				lake_garlas_province = { lake_garlas }
 				lake_naza_province = { lake_naza }
 				northern_sandspite_province = { northern_sandspite }
 				pool_of_tears_province = { pool_of_tears }
+				rnw_province = { rnw }
+				rnw_2_province = { rnw_2 }
 				southern_sandspite_province = { southern_sandspite }
 				the_demons_sands_province = { the_demons_sands }
 				unusedland10_province = { unusedland10 }
@@ -2929,7 +2935,9 @@ africa = {
 				unusedland8_province = { unusedland8 }
 				unusedland9_province = { unusedland9 }
 				west_salahad_province = { west_salahad }
+				west_salahad_2_province = { west_salahad_2 }
 				yezel_mora_province = { yezel_mora }
+				yezel_mora_2_province = { yezel_mora_2 }
 			}
 		}
 	}
@@ -3445,6 +3453,7 @@ asia = {
 				jerkhazuura_province = { jerkhazuura }
 				jerkhizuuri_province = { jerkhizuuri }
 				nakseseom_province = { nakseseom }
+				rnw_3_province = { rnw_3 }
 			}
 			neobunteo_area = {
 				bosan_province = { bosan }
@@ -4068,6 +4077,10 @@ asia = {
 				black_mist_hills_province = { black_mist_hills }
 				chiigeibokh_ridge_province = { chiigeibokh_ridge }
 				demon_hills_province = { demon_hills }
+				demon_hills_2_province = { demon_hills_2 }
+				demon_hills_3_province = { demon_hills_3 }
+				demon_hills_4_province = { demon_hills_4 }
+				demon_hills_5_province = { demon_hills_5 }
 				dragon_peak_province = { dragon_peak }
 				jyatyn_taseng_province = { jyatyn_taseng }
 				khoritol_highlands_province = { khoritol_highlands }
@@ -4077,6 +4090,7 @@ asia = {
 				phokhao_range_province = { phokhao_range }
 				ralheguuth_province = { ralheguuth }
 				rekhoslodar_mountains_province = { rekhoslodar_mountains }
+				rnw_4_province = { rnw_4 }
 				unarkhurigh_mountains_province = { unarkhurigh_mountains }
 				unusedland71_province = { unusedland71 }
 				unusedland72_province = { unusedland72 }
@@ -4667,6 +4681,8 @@ debug_continent = {
 			unknown_unknown_unknown_debug_continent_superregion_region_area = {
 				anbennar4346_province = { anbennar4346 }
 				kharunyana_province = { kharunyana }
+				kharunyana_2_province = { kharunyana_2 }
+				kharunyana_3_province = { kharunyana_3 }
 			}
 		}
 	}
@@ -4838,6 +4854,10 @@ europe = {
 		daravans_folly_region = {
 			central_dreadmire_area = {
 				dreadmire_province = { dreadmire }
+				rnw_10_province = { rnw_10 }
+				rnw_11_province = { rnw_11 }
+				rnw_12_province = { rnw_12 }
+				rnw_9_province = { rnw_9 }
 			}
 			flooded_coast_area = {
 				dostanesck_province = { dostanesck }
@@ -4847,15 +4867,22 @@ europe = {
 			}
 			lower_dostanesck_area = {
 				lorests_watch_province = { lorests_watch }
+				rnw_14_province = { rnw_14 }
+				rnw_15_province = { rnw_15 }
 				ueleben_province = { ueleben }
 			}
 			north_dreadmire_area = {
 				glademarch_province = { glademarch }
+				rnw_13_province = { rnw_13 }
+				rnw_7_province = { rnw_7 }
 				xhazobains_end_province = { xhazobains_end }
 			}
 			west_dreadmire_area = {
 				fennfort_province = { fennfort }
 				nathfort_province = { nathfort }
+				rnw_5_province = { rnw_5 }
+				rnw_6_province = { rnw_6 }
+				rnw_8_province = { rnw_8 }
 			}
 		}
 		dostanor_region = {
@@ -5284,6 +5311,7 @@ europe = {
 				ljotrturv_province = { ljotrturv }
 			}
 			revrland_area = {
+				hlakkavatn_province = { hlakkavatn }
 				knarhatt_province = { knarhatt }
 				revrhavn_province = { revrhavn }
 				vestrund_province = { vestrund }
@@ -5364,6 +5392,7 @@ europe = {
 				silvrborg_province = { silvrborg }
 			}
 			northern_giants_tears_area = {
+				giants_tears_province = { giants_tears }
 				giantsmarch_province = { giantsmarch }
 				myrk_province = { myrk }
 			}
@@ -5413,10 +5442,14 @@ europe = {
 				havoral_divide_province = { havoral_divide }
 				havoral_heights_province = { havoral_heights }
 				khenak_range_province = { khenak_range }
+				khenak_range_2_province = { khenak_range_2 }
+				khenak_range_3_province = { khenak_range_3 }
+				rnw_19_province = { rnw_19 }
 				ruby_mountains_province = { ruby_mountains }
 				the_frozen_north_province = { the_frozen_north }
 				the_godshield_province = { the_godshield }
 				titans_rest_mountains_province = { titans_rest_mountains }
+				titans_rest_mountains_2_province = { titans_rest_mountains_2 }
 				trollwastes_province = { trollwastes }
 			}
 		}
@@ -5493,6 +5526,7 @@ europe = {
 				brontay_point_province = { brontay_point }
 				cottersea_province = { cottersea }
 				leapdon_province = { leapdon }
+				rnw_16_province = { rnw_16 }
 			}
 			westmounts_area = {
 				talonmount_province = { talonmount }
@@ -5586,6 +5620,7 @@ europe = {
 			dragondepth_area = {
 				deep_kobilderd_province = { deep_kobilderd }
 				dragondepths_province = { dragondepths }
+				rnw_18_province = { rnw_18 }
 				wyrmlair_province = { wyrmlair }
 			}
 			dragondowns_area = {
@@ -5616,6 +5651,7 @@ europe = {
 			dragonmaw_area = {
 				anbennar3577_province = { anbennar3577 }
 				kobilderd_province = { kobilderd }
+				rnw_17_province = { rnw_17 }
 				royoddan_province = { royoddan }
 			}
 			dragonpoint_area = {
@@ -5731,6 +5767,7 @@ europe = {
 				verne_province = { verne }
 			}
 			west_damesear_area = {
+				anbenncost_province = { anbenncost }
 				auraire_province = { auraire }
 				damesear_province = { damesear }
 				damesteeth_province = { damesteeth }
@@ -6464,20 +6501,39 @@ north_america = {
 				unusedland90_province = { unusedland90 }
 				unusedland99_province = { unusedland99 }
 			}
+			cialliande_area = {
+				rnw_28_province = { rnw_28 }
+				rnw_29_province = { rnw_29 }
+				rnw_30_province = { rnw_30 }
+				rnw_31_province = { rnw_31 }
+				rnw_32_province = { rnw_32 }
+			}
 			dearktir_area = {
 				dearktir_province = { dearktir }
 				gannag_province = { gannag }
 				omarfirm_province = { omarfirm }
 			}
+			dubpar_area = {
+				rnw_24_province = { rnw_24 }
+				rnw_25_province = { rnw_25 }
+				rnw_26_province = { rnw_26 }
+			}
 			eorwestislands_area = {
 				farsenn_province = { farsenn }
 				lismel_province = { lismel }
+				rnw_27_province = { rnw_27 }
+				rnw_33_province = { rnw_33 }
 				sardach_province = { sardach }
 			}
 			fogracleak_area = {
 				budhorac_province = { budhorac }
 				fospont_province = { fospont }
 				gosgaclann_province = { gosgaclann }
+			}
+			gaenosca_area = {
+				rnw_20_province = { rnw_20 }
+				rnw_21_province = { rnw_21 }
+				rnw_22_province = { rnw_22 }
 			}
 			gathgob_area = {
 				alfrik_province = { alfrik }
@@ -6520,6 +6576,7 @@ north_america = {
 			}
 			toreiel_area = {
 				north_toreiel_province = { north_toreiel }
+				rnw_23_province = { rnw_23 }
 				south_toreiel_province = { south_toreiel }
 			}
 			trimthir_area = {
@@ -7157,7 +7214,7 @@ north_america = {
 			harenaine_area = {
 				highwaters_province = { highwaters }
 				sunglare_province = { sunglare }
-				the_narrows_province = { the_narrows }
+				the_narrows_2_province = { the_narrows_2 }
 			}
 			lower_munasin_area = {
 				bacodoos_province = { bacodoos }
@@ -7225,6 +7282,11 @@ north_america = {
 				stadglac_province = { stadglac }
 				teira_range_province = { teira_range }
 				the_rim_province = { the_rim }
+				the_rim_2_province = { the_rim_2 }
+				the_rim_3_province = { the_rim_3 }
+				the_rim_4_province = { the_rim_4 }
+				the_rim_5_province = { the_rim_5 }
+				the_rim_6_province = { the_rim_6 }
 				unusedland101_province = { unusedland101 }
 				unusedland107_province = { unusedland107 }
 				unusedland111_province = { unusedland111 }
@@ -7555,10 +7617,13 @@ oceania = {
 				unusedland83_province = { unusedland83 }
 			}
 			arihan_area = {
+				rnw_34_province = { rnw_34 }
+				rnw_35_province = { rnw_35 }
 				unusedland128_province = { unusedland128 }
 				vyr_pas_province = { vyr_pas }
 			}
 			hahakata_area = {
+				rnw_37_province = { rnw_37 }
 				unusedland126_province = { unusedland126 }
 				unusedland129_province = { unusedland129 }
 				unusedland131_province = { unusedland131 }
@@ -7585,6 +7650,7 @@ oceania = {
 				unused143_province = { unused143 }
 			}
 			matehunu_area = {
+				rnw_36_province = { rnw_36 }
 				unused156_province = { unused156 }
 				unused162_province = { unused162 }
 				unused163_province = { unused163 }
@@ -7619,20 +7685,28 @@ oceania = {
 				unused166_province = { unused166 }
 			}
 			woromanuwa_area = {
+				rnw_38_province = { rnw_38 }
+				rnw_39_province = { rnw_39 }
 				unusedland134_province = { unusedland134 }
 			}
 		}
 		titanoflora_lakelands_region = {
 			titanoflora_lakelands_10_area = {
+				rnw_40_province = { rnw_40 }
+				rnw_45_province = { rnw_45 }
 				unusedland228_province = { unusedland228 }
 				unusedland229_province = { unusedland229 }
 			}
 			titanoflora_lakelands_11_area = {
+				rnw_44_province = { rnw_44 }
+				rnw_48_province = { rnw_48 }
 				unusedland210_province = { unusedland210 }
 				unusedland222_province = { unusedland222 }
 				unusedland223_province = { unusedland223 }
 			}
 			titanoflora_lakelands_12_area = {
+				rnw_46_province = { rnw_46 }
+				rnw_47_province = { rnw_47 }
 				unusedland226_province = { unusedland226 }
 				unusedland227_province = { unusedland227 }
 			}
@@ -7679,6 +7753,12 @@ oceania = {
 				unusedland218_province = { unusedland218 }
 				unusedland219_province = { unusedland219 }
 			}
+			titanoflora_lakelands_4_area = {
+				rnw_49_province = { rnw_49 }
+				rnw_50_province = { rnw_50 }
+				rnw_51_province = { rnw_51 }
+				rnw_52_province = { rnw_52 }
+			}
 			titanoflora_lakelands_5_area = {
 				unusedland184_province = { unusedland184 }
 				unusedland185_province = { unusedland185 }
@@ -7694,6 +7774,8 @@ oceania = {
 				vyr_cirentyn_province = { vyr_cirentyn }
 			}
 			titanoflora_lakelands_7_area = {
+				rnw_41_province = { rnw_41 }
+				rnw_42_province = { rnw_42 }
 				unusedland189_province = { unusedland189 }
 				unusedland190_province = { unusedland190 }
 				unusedland191_province = { unusedland191 }
@@ -7705,6 +7787,7 @@ oceania = {
 				unusedland205_province = { unusedland205 }
 			}
 			titanoflora_lakelands_9_area = {
+				rnw_43_province = { rnw_43 }
 				unusedland211_province = { unusedland211 }
 				unusedland212_province = { unusedland212 }
 				unusedland220_province = { unusedland220 }
@@ -7712,14 +7795,37 @@ oceania = {
 			}
 		}
 		titanoflora_riverlands_region = {
+			titanoflora_riverlands_10_area = {
+				rnw_71_province = { rnw_71 }
+				rnw_72_province = { rnw_72 }
+				rnw_73_province = { rnw_73 }
+				rnw_74_province = { rnw_74 }
+				rnw_75_province = { rnw_75 }
+			}
 			titanoflora_riverlands_11_area = {
+				rnw_64_province = { rnw_64 }
 				unusedland139_province = { unusedland139 }
 				unusedland140_province = { unusedland140 }
 			}
+			titanoflora_riverlands_12_area = {
+				rnw_65_province = { rnw_65 }
+				rnw_66_province = { rnw_66 }
+				rnw_70_province = { rnw_70 }
+			}
+			titanoflora_riverlands_13_area = {
+				rnw_58_province = { rnw_58 }
+				rnw_59_province = { rnw_59 }
+				rnw_60_province = { rnw_60 }
+				rnw_76_province = { rnw_76 }
+			}
 			titanoflora_riverlands_14_area = {
+				rnw_54_province = { rnw_54 }
+				rnw_55_province = { rnw_55 }
+				rnw_56_province = { rnw_56 }
 				unusedland137_province = { unusedland137 }
 			}
 			titanoflora_riverlands_15_area = {
+				rnw_57_province = { rnw_57 }
 				unusedland135_province = { unusedland135 }
 				unusedland138_province = { unusedland138 }
 				unusedland141_province = { unusedland141 }
@@ -7730,6 +7836,7 @@ oceania = {
 				unused169_province = { unused169 }
 			}
 			titanoflora_riverlands_17_area = {
+				rnw_53_province = { rnw_53 }
 				unused158_province = { unused158 }
 				unused159_province = { unused159 }
 			}
@@ -7763,6 +7870,11 @@ oceania = {
 				unusedland148_province = { unusedland148 }
 				unusedland149_province = { unusedland149 }
 			}
+			titanoflora_riverlands_6_area = {
+				rnw_61_province = { rnw_61 }
+				rnw_62_province = { rnw_62 }
+				rnw_63_province = { rnw_63 }
+			}
 			titanoflora_riverlands_7_area = {
 				unusedland160_province = { unusedland160 }
 				unusedland161_province = { unusedland161 }
@@ -7776,6 +7888,9 @@ oceania = {
 				unusedland162_province = { unusedland162 }
 			}
 			titanoflora_riverlands_9_area = {
+				rnw_67_province = { rnw_67 }
+				rnw_68_province = { rnw_68 }
+				rnw_69_province = { rnw_69 }
 				unusedland155_province = { unusedland155 }
 				unusedland156_province = { unusedland156 }
 			}
@@ -7941,6 +8056,97 @@ oceania = {
 				anbennar6919_province = { anbennar6919 }
 				anbennar6920_province = { anbennar6920 }
 				anbennar6921_province = { anbennar6921 }
+			}
+		}
+		great_plateau_region = {
+			beragata_area = {
+				rnw_117_province = { rnw_117 }
+				rnw_94_province = { rnw_94 }
+				rnw_95_province = { rnw_95 }
+				rnw_96_province = { rnw_96 }
+			}
+			betrarite_area = {
+				rnw_79_province = { rnw_79 }
+				rnw_80_province = { rnw_80 }
+				rnw_81_province = { rnw_81 }
+				rnw_99_province = { rnw_99 }
+			}
+			darawatdimi_area = {
+				rnw_106_province = { rnw_106 }
+				rnw_113_province = { rnw_113 }
+				rnw_114_province = { rnw_114 }
+				rnw_120_province = { rnw_120 }
+			}
+			dirumain_area = {
+				rnw_84_province = { rnw_84 }
+				rnw_90_province = { rnw_90 }
+				rnw_91_province = { rnw_91 }
+				rnw_92_province = { rnw_92 }
+				rnw_93_province = { rnw_93 }
+			}
+			gegebou_area = {
+				rnw_100_province = { rnw_100 }
+				rnw_101_province = { rnw_101 }
+				rnw_85_province = { rnw_85 }
+				rnw_86_province = { rnw_86 }
+				rnw_87_province = { rnw_87 }
+			}
+			kaepedi_area = {
+				rnw_115_province = { rnw_115 }
+				rnw_116_province = { rnw_116 }
+				rnw_118_province = { rnw_118 }
+				rnw_119_province = { rnw_119 }
+			}
+			otubar_area = {
+				rnw_77_province = { rnw_77 }
+				rnw_78_province = { rnw_78 }
+				rnw_82_province = { rnw_82 }
+				rnw_83_province = { rnw_83 }
+			}
+			ragadurari_area = {
+				rnw_102_province = { rnw_102 }
+				rnw_88_province = { rnw_88 }
+				rnw_89_province = { rnw_89 }
+				rnw_97_province = { rnw_97 }
+			}
+			tekaberi_area = {
+				rnw_111_province = { rnw_111 }
+				rnw_112_province = { rnw_112 }
+				rnw_121_province = { rnw_121 }
+				rnw_122_province = { rnw_122 }
+			}
+			tekarari_area = {
+				rnw_107_province = { rnw_107 }
+				rnw_108_province = { rnw_108 }
+				rnw_109_province = { rnw_109 }
+				rnw_110_province = { rnw_110 }
+			}
+			watibetrar_area = {
+				rnw_103_province = { rnw_103 }
+				rnw_104_province = { rnw_104 }
+				rnw_105_province = { rnw_105 }
+				rnw_98_province = { rnw_98 }
+			}
+		}
+		insyaan_mushroom_forest_region = {
+			golodhuinga_area = {
+				rnw_124_province = { rnw_124 }
+				rnw_125_province = { rnw_125 }
+				rnw_127_province = { rnw_127 }
+				rnw_130_province = { rnw_130 }
+			}
+			puhutua_area = {
+				rnw_126_province = { rnw_126 }
+				rnw_131_province = { rnw_131 }
+				rnw_132_province = { rnw_132 }
+				rnw_133_province = { rnw_133 }
+				rnw_135_province = { rnw_135 }
+			}
+			taoropari_area = {
+				rnw_123_province = { rnw_123 }
+				rnw_128_province = { rnw_128 }
+				rnw_129_province = { rnw_129 }
+				rnw_134_province = { rnw_134 }
 			}
 		}
 		yanacotlele_region = {
@@ -8123,6 +8329,7 @@ oceania = {
 				anbennar6939_province = { anbennar6939 }
 				anbennar6940_province = { anbennar6940 }
 				anbennar6942_province = { anbennar6942 }
+				rnw_136_province = { rnw_136 }
 			}
 			horn_of_insyaa_2_area = {
 				anbennar6944_province = { anbennar6944 }
@@ -8146,6 +8353,21 @@ oceania = {
 		malogadin_coast_region = {
 			malogadin_coast_1_area = {
 				anbennar6482_province = { anbennar6482 }
+				rnw_137_province = { rnw_137 }
+				rnw_138_province = { rnw_138 }
+			}
+			malogadin_coast_2_area = {
+				rnw_139_province = { rnw_139 }
+				rnw_140_province = { rnw_140 }
+				rnw_141_province = { rnw_141 }
+				rnw_142_province = { rnw_142 }
+				rnw_147_province = { rnw_147 }
+			}
+			malogadin_coast_3_area = {
+				rnw_143_province = { rnw_143 }
+				rnw_144_province = { rnw_144 }
+				rnw_145_province = { rnw_145 }
+				rnw_146_province = { rnw_146 }
 			}
 		}
 		south_charkuchar_region = {
@@ -8215,9 +8437,90 @@ oceania = {
 			}
 		}
 		titanoflora_savanna_region = {
+			titanoflora_savanna_10_area = {
+				rnw_182_province = { rnw_182 }
+				rnw_185_province = { rnw_185 }
+				rnw_186_province = { rnw_186 }
+			}
 			titanoflora_savanna_11_area = {
 				anbennar7028_province = { anbennar7028 }
 				anbennar7034_province = { anbennar7034 }
+				rnw_187_province = { rnw_187 }
+				rnw_188_province = { rnw_188 }
+			}
+			titanoflora_savanna_12_area = {
+				rnw_189_province = { rnw_189 }
+				rnw_190_province = { rnw_190 }
+				rnw_191_province = { rnw_191 }
+			}
+			titanoflora_savanna_1_area = {
+				rnw_148_province = { rnw_148 }
+				rnw_149_province = { rnw_149 }
+				rnw_150_province = { rnw_150 }
+				rnw_151_province = { rnw_151 }
+			}
+			titanoflora_savanna_2_area = {
+				rnw_157_province = { rnw_157 }
+				rnw_158_province = { rnw_158 }
+				rnw_159_province = { rnw_159 }
+			}
+			titanoflora_savanna_3_area = {
+				rnw_152_province = { rnw_152 }
+				rnw_153_province = { rnw_153 }
+				rnw_154_province = { rnw_154 }
+			}
+			titanoflora_savanna_4_area = {
+				rnw_155_province = { rnw_155 }
+				rnw_156_province = { rnw_156 }
+				rnw_160_province = { rnw_160 }
+				rnw_161_province = { rnw_161 }
+				rnw_168_province = { rnw_168 }
+			}
+			titanoflora_savanna_5_area = {
+				rnw_162_province = { rnw_162 }
+				rnw_163_province = { rnw_163 }
+				rnw_167_province = { rnw_167 }
+				rnw_169_province = { rnw_169 }
+				rnw_170_province = { rnw_170 }
+			}
+			titanoflora_savanna_6_area = {
+				rnw_165_province = { rnw_165 }
+				rnw_166_province = { rnw_166 }
+				rnw_171_province = { rnw_171 }
+				rnw_172_province = { rnw_172 }
+			}
+			titanoflora_savanna_7_area = {
+				rnw_164_province = { rnw_164 }
+				rnw_173_province = { rnw_173 }
+				rnw_174_province = { rnw_174 }
+				rnw_176_province = { rnw_176 }
+				rnw_177_province = { rnw_177 }
+			}
+			titanoflora_savanna_8_area = {
+				rnw_175_province = { rnw_175 }
+				rnw_181_province = { rnw_181 }
+				rnw_183_province = { rnw_183 }
+			}
+			titanoflora_savanna_9_area = {
+				rnw_178_province = { rnw_178 }
+				rnw_179_province = { rnw_179 }
+				rnw_180_province = { rnw_180 }
+				rnw_184_province = { rnw_184 }
+			}
+		}
+		titanoflora_valley_region = {
+			titanoflora_valley_1_area = {
+				rnw_193_province = { rnw_193 }
+				rnw_194_province = { rnw_194 }
+				rnw_195_province = { rnw_195 }
+				rnw_196_province = { rnw_196 }
+			}
+			titanoflora_valley_2_area = {
+				rnw_192_province = { rnw_192 }
+				rnw_197_province = { rnw_197 }
+				rnw_198_province = { rnw_198 }
+				rnw_199_province = { rnw_199 }
+				rnw_200_province = { rnw_200 }
 			}
 		}
 		west_charkuchar_region = {
@@ -8231,6 +8534,7 @@ oceania = {
 				anbennar6327_province = { anbennar6327 }
 				anbennar6330_province = { anbennar6330 }
 				anbennar6331_province = { anbennar6331 }
+				rnw_201_province = { rnw_201 }
 			}
 			west_charkuchar_3_area = {
 				anbennar6329_province = { anbennar6329 }
@@ -8275,6 +8579,12 @@ oceania = {
 			}
 		}
 		west_insyaan_lowlands_region = {
+			west_insyaan_lowlands_10_area = {
+				rnw_203_province = { rnw_203 }
+				rnw_206_province = { rnw_206 }
+				rnw_207_province = { rnw_207 }
+				rnw_208_province = { rnw_208 }
+			}
 			west_insyaan_lowlands_1_area = {
 				anbennar6967_province = { anbennar6967 }
 				anbennar6968_province = { anbennar6968 }
@@ -8318,6 +8628,9 @@ oceania = {
 			west_insyaan_lowlands_8_area = {
 				anbennar6996_province = { anbennar6996 }
 				anbennar6999_province = { anbennar6999 }
+				rnw_202_province = { rnw_202 }
+				rnw_204_province = { rnw_204 }
+				rnw_205_province = { rnw_205 }
 			}
 			west_insyaan_lowlands_9_area = {
 				anbennar6989_province = { anbennar6989 }
@@ -8364,7 +8677,35 @@ oceania = {
 				anbennar6477_province = { anbennar6477 }
 				anbennar6887_province = { anbennar6887 }
 				anbennar6892_province = { anbennar6892 }
-				rnw_province = { rnw }
+				rnw_209_province = { rnw_209 }
+				rnw_210_province = { rnw_210 }
+				rnw_211_province = { rnw_211 }
+				rnw_212_province = { rnw_212 }
+				rnw_213_province = { rnw_213 }
+				rnw_214_province = { rnw_214 }
+				rnw_215_province = { rnw_215 }
+				rnw_216_province = { rnw_216 }
+				rnw_217_province = { rnw_217 }
+				rnw_218_province = { rnw_218 }
+				rnw_219_province = { rnw_219 }
+				rnw_220_province = { rnw_220 }
+				rnw_221_province = { rnw_221 }
+				rnw_222_province = { rnw_222 }
+				rnw_223_province = { rnw_223 }
+				rnw_224_province = { rnw_224 }
+				rnw_225_province = { rnw_225 }
+				rnw_226_province = { rnw_226 }
+				rnw_227_province = { rnw_227 }
+				rnw_228_province = { rnw_228 }
+				rnw_229_province = { rnw_229 }
+				rnw_230_province = { rnw_230 }
+				rnw_231_province = { rnw_231 }
+				rnw_232_province = { rnw_232 }
+				rnw_233_province = { rnw_233 }
+				rnw_234_province = { rnw_234 }
+				rnw_235_province = { rnw_235 }
+				rnw_236_province = { rnw_236 }
+				rnw_237_province = { rnw_237 }
 				unused129_province = { unused129 }
 				unused130_province = { unused130 }
 				unused131_province = { unused131 }
@@ -8562,7 +8903,16 @@ serpentspine = {
 				lonely_mountains_province = { lonely_mountains }
 				serpentreach_province = { serpentreach }
 				serpentspine_province = { serpentspine }
+				serpentspine_2_province = { serpentspine_2 }
 				serpentspine_mountains_province = { serpentspine_mountains }
+				serpentspine_mountains_2_province = { serpentspine_mountains_2 }
+				serpentspine_mountains_3_province = { serpentspine_mountains_3 }
+				serpentspine_mountains_4_province = { serpentspine_mountains_4 }
+				serpentspine_mountains_5_province = { serpentspine_mountains_5 }
+				serpentspine_mountains_6_province = { serpentspine_mountains_6 }
+				serpentspine_mountains_7_province = { serpentspine_mountains_7 }
+				serpentspine_mountains_8_province = { serpentspine_mountains_8 }
+				serpentspine_mountains_9_province = { serpentspine_mountains_9 }
 				the_serpentreach_province = { the_serpentreach }
 				tree_of_stone_province = { tree_of_stone }
 			}
@@ -8679,6 +9029,7 @@ serpentspine = {
 			hidden_respite_area = {
 				darkwood_province = { darkwood }
 				falstads_last_stand_province = { falstads_last_stand }
+				salt_grass_lake_province = { salt_grass_lake }
 			}
 			hjyrtsikki_area = {
 				anbennar6286_province = { anbennar6286 }
@@ -8699,6 +9050,7 @@ serpentspine = {
 			middle_logr_area = {
 				cold_fork_province = { cold_fork }
 				forgotten_forest_province = { forgotten_forest }
+				the_narrows_province = { the_narrows }
 			}
 			tanning_valley_area = {
 				brokenwheel_province = { brokenwheel }

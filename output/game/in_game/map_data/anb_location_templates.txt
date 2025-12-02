@@ -123,8 +123,8 @@ uelcoast = { topography = ocean climate = arctic }
 # Province: north_dameshead
 north_dameshead = { topography = ocean climate = arctic }
 ## Area: damesneck_sea_area
-# Province: anbenncost
-anbenncost = { topography = ocean climate = arctic }
+# Province: anbenncost_2
+anbenncost_2 = { topography = ocean climate = arctic }
 # Province: damesear_crossing
 damesear_crossing = { topography = ocean climate = arctic }
 # Province: dameshead_approach
@@ -1274,8 +1274,8 @@ floodfens = { topography = lakes climate = arctic }
 gathmarkorsk = { topography = ocean climate = arctic }
 # Province: gerudian_lakes
 gerudian_lakes = { topography = lakes climate = arctic }
-# Province: giants_tears
-giants_tears = { topography = lakes climate = arctic }
+# Province: giants_tears_2
+giants_tears_2 = { topography = lakes climate = arctic }
 # Province: gliosthemar
 gliosthemar = { topography = lakes climate = arctic }
 # Province: glorelthir
@@ -1286,8 +1286,8 @@ gracosthemar = { topography = lakes climate = arctic }
 green_lake = { topography = lakes climate = arctic }
 # Province: hibiscus_lagoon
 hibiscus_lagoon = { topography = lakes climate = arctic }
-# Province: hlakkavatn
-hlakkavatn = { topography = lakes climate = arctic }
+# Province: hlakkavatn_2
+hlakkavatn_2 = { topography = lakes climate = arctic }
 # Province: hor_velsynn
 hor_velsynn = { topography = lakes climate = arctic }
 # Province: howling_lake
@@ -1300,6 +1300,8 @@ ibidintely_coast = { topography = ocean climate = arctic }
 jorkad_lake = { topography = lakes climate = arctic }
 # Province: keygas
 keygas = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: keygas_2
+keygas_2 = { topography = mountain_wasteland vegetation = woods climate = arctic }
 # Province: kunolo_bay
 kunolo_bay = { topography = ocean climate = arctic }
 # Province: kuresgiju_spring
@@ -1350,8 +1352,8 @@ predpadhynn = { topography = lakes climate = arctic }
 randrunnse = { topography = ocean climate = arctic }
 # Province: saikinoma_pass
 saikinoma_pass = { topography = ocean climate = arctic }
-# Province: salt_grass_lake
-salt_grass_lake = { topography = lakes climate = arctic }
+# Province: salt_grass_lake_2
+salt_grass_lake_2 = { topography = lakes climate = arctic }
 # Province: sea_of_steam
 sea_of_steam = { topography = ocean climate = arctic }
 # Province: sea_of_wreckages
@@ -2548,6 +2550,8 @@ mujerat = { topography = flatland vegetation = grasslands climate = continental 
 kadmuduuk = { topography = flatland vegetation = grasslands climate = continental religion = sky_domain culture = talilibeti raw_material = lumber }
 # Province: kibmuduuk
 kibmuduuk = { topography = flatland vegetation = grasslands climate = continental religion = sky_domain culture = talilibeti raw_material = lumber }
+# Province: mukis
+mukis = { topography = flatland vegetation = grasslands climate = continental religion = sky_domain culture = talilibeti raw_material = incense }
 ### Region: dreksaret_region
 ## Area: beri_gnidi_area
 # Province: bakrast_khaj
@@ -4309,8 +4313,8 @@ ordanus = { topography = flatland vegetation = grasslands climate = continental 
 ## Area: shena_muhaqaar_area
 # Province: lanupan
 lanupan = { topography = flatland vegetation = grasslands climate = continental religion = elikhetist culture = tijarikheti raw_material = copper }
-# Province: mukis
-mukis = { topography = flatland vegetation = grasslands climate = continental religion = nirakhetist culture = tijarikheti raw_material = gems }
+# Province: mukis_2
+mukis_2 = { topography = flatland vegetation = grasslands climate = continental religion = nirakhetist culture = tijarikheti raw_material = gems }
 # Province: niramit
 niramit = { topography = flatland vegetation = grasslands climate = continental religion = nirakhetist culture = tijarikheti raw_material = placeholder_unknown }
 # Province: sabat
@@ -4469,10 +4473,14 @@ anbennar6747 = { topography = mountain_wasteland vegetation = woods climate = ar
 atvatnstisðl = { topography = mountain_wasteland vegetation = woods climate = arctic }
 # Province: central_salahad
 central_salahad = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: central_salahad_2
+central_salahad_2 = { topography = mountain_wasteland vegetation = woods climate = arctic }
 # Province: dezpa_sedara
 dezpa_sedara = { topography = mountain_wasteland vegetation = woods climate = arctic }
 # Province: east_salahad
 east_salahad = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: east_salahad_2
+east_salahad_2 = { topography = mountain_wasteland vegetation = woods climate = arctic }
 # Province: harra_oasis
 harra_oasis = { topography = lakes climate = arctic }
 # Province: lake_garlas
@@ -4483,6 +4491,10 @@ lake_naza = { topography = lakes climate = arctic }
 northern_sandspite = { topography = mountain_wasteland vegetation = woods climate = arctic }
 # Province: pool_of_tears
 pool_of_tears = { topography = lakes climate = arctic }
+# Province: rnw
+rnw = { topography = lakes climate = arctic }
+# Province: rnw_2
+rnw_2 = { topography = lakes climate = arctic }
 # Province: southern_sandspite
 southern_sandspite = { topography = mountain_wasteland vegetation = woods climate = arctic }
 # Province: the_demons_sands
@@ -4497,8 +4509,12 @@ unusedland8 = { topography = mountain_wasteland vegetation = woods climate = arc
 unusedland9 = { topography = mountain_wasteland vegetation = woods climate = arctic }
 # Province: west_salahad
 west_salahad = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: west_salahad_2
+west_salahad_2 = { topography = mountain_wasteland vegetation = woods climate = arctic }
 # Province: yezel_mora
 yezel_mora = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: yezel_mora_2
+yezel_mora_2 = { topography = mountain_wasteland vegetation = woods climate = arctic }
 ##### Continent: asia
 #### Superregion: forbidden_lands_superregion
 ### Region: east_forbidden_plains_region
@@ -5241,6 +5257,8 @@ jerkhazuura = { topography = flatland vegetation = grasslands climate = continen
 jerkhizuuri = { topography = flatland vegetation = grasslands climate = continental raw_material = placeholder_unknown natural_harbor_suitability = 0.25 }
 # Province: nakseseom
 nakseseom = { topography = flatland vegetation = grasslands climate = continental religion = neokttareum culture = giteuni raw_material = precursor_relics natural_harbor_suitability = 0.25 }
+# Province: rnw_3
+rnw_3 = { topography = flatland vegetation = grasslands climate = continental raw_material = placeholder_unknown }
 ## Area: neobunteo_area
 # Province: bosan
 bosan = { topography = flatland vegetation = grasslands climate = continental religion = neokttareum culture = wonju raw_material = gems }
@@ -6133,6 +6151,14 @@ black_mist_hills = { topography = mountain_wasteland vegetation = woods climate 
 chiigeibokh_ridge = { topography = mountain_wasteland vegetation = woods climate = arctic }
 # Province: demon_hills
 demon_hills = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: demon_hills_2
+demon_hills_2 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: demon_hills_3
+demon_hills_3 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: demon_hills_4
+demon_hills_4 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: demon_hills_5
+demon_hills_5 = { topography = mountain_wasteland vegetation = woods climate = arctic }
 # Province: dragon_peak
 dragon_peak = { topography = mountain_wasteland vegetation = woods climate = arctic }
 # Province: jyatyn_taseng
@@ -6151,6 +6177,8 @@ phokhao_range = { topography = mountain_wasteland vegetation = woods climate = a
 ralheguuth = { topography = lakes climate = arctic }
 # Province: rekhoslodar_mountains
 rekhoslodar_mountains = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_4
+rnw_4 = { topography = mountain_wasteland vegetation = woods climate = arctic }
 # Province: unarkhurigh_mountains
 unarkhurigh_mountains = { topography = mountain_wasteland vegetation = woods climate = arctic }
 # Province: unusedland71
@@ -7001,6 +7029,10 @@ yanzhong = { topography = flatland vegetation = grasslands climate = continental
 anbennar4346 = { topography = ocean climate = arctic }
 # Province: kharunyana
 kharunyana = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: kharunyana_2
+kharunyana_2 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: kharunyana_3
+kharunyana_3 = { topography = mountain_wasteland vegetation = woods climate = arctic }
 ##### Continent: europe
 #### Superregion: deepwoods_portal_superregion
 ### Region: deepwoods_portal_region
@@ -7238,6 +7270,14 @@ vyr_sawel = { topography = flatland vegetation = grasslands climate = continenta
 ## Area: central_dreadmire_area
 # Province: dreadmire
 dreadmire = { topography = flatland vegetation = grasslands climate = continental raw_material = placeholder_unknown }
+# Province: rnw_10
+rnw_10 = { topography = flatland vegetation = grasslands climate = continental raw_material = placeholder_unknown }
+# Province: rnw_11
+rnw_11 = { topography = flatland vegetation = grasslands climate = continental raw_material = placeholder_unknown }
+# Province: rnw_12
+rnw_12 = { topography = flatland vegetation = grasslands climate = continental raw_material = placeholder_unknown }
+# Province: rnw_9
+rnw_9 = { topography = flatland vegetation = grasslands climate = continental raw_material = placeholder_unknown }
 ## Area: flooded_coast_area
 # Province: dostanesck
 dostanesck = { topography = flatland vegetation = grasslands climate = continental raw_material = placeholder_unknown natural_harbor_suitability = 0.25 }
@@ -7250,11 +7290,19 @@ new_corveld = { topography = flatland vegetation = grasslands climate = continen
 ## Area: lower_dostanesck_area
 # Province: lorests_watch
 lorests_watch = { topography = flatland vegetation = grasslands climate = continental raw_material = placeholder_unknown }
+# Province: rnw_14
+rnw_14 = { topography = flatland vegetation = grasslands climate = continental raw_material = placeholder_unknown }
+# Province: rnw_15
+rnw_15 = { topography = flatland vegetation = grasslands climate = continental raw_material = placeholder_unknown }
 # Province: ueleben
 ueleben = { topography = flatland vegetation = grasslands climate = continental raw_material = placeholder_unknown }
 ## Area: north_dreadmire_area
 # Province: glademarch
 glademarch = { topography = flatland vegetation = grasslands climate = continental raw_material = placeholder_unknown }
+# Province: rnw_13
+rnw_13 = { topography = flatland vegetation = grasslands climate = continental raw_material = placeholder_unknown }
+# Province: rnw_7
+rnw_7 = { topography = flatland vegetation = grasslands climate = continental raw_material = placeholder_unknown }
 # Province: xhazobains_end
 xhazobains_end = { topography = flatland vegetation = grasslands climate = continental raw_material = placeholder_unknown }
 ## Area: west_dreadmire_area
@@ -7262,6 +7310,12 @@ xhazobains_end = { topography = flatland vegetation = grasslands climate = conti
 fennfort = { topography = flatland vegetation = grasslands climate = continental raw_material = placeholder_unknown }
 # Province: nathfort
 nathfort = { topography = flatland vegetation = grasslands climate = continental raw_material = placeholder_unknown }
+# Province: rnw_5
+rnw_5 = { topography = flatland vegetation = grasslands climate = continental raw_material = placeholder_unknown }
+# Province: rnw_6
+rnw_6 = { topography = flatland vegetation = grasslands climate = continental raw_material = placeholder_unknown }
+# Province: rnw_8
+rnw_8 = { topography = flatland vegetation = grasslands climate = continental raw_material = placeholder_unknown }
 ### Region: dostanor_region
 ## Area: baldostan_area
 # Province: arca_corvur
@@ -7857,6 +7911,8 @@ grymskali = { topography = flatland vegetation = grasslands climate = continenta
 # Province: ljotrturv
 ljotrturv = { topography = flatland vegetation = grasslands climate = continental religion = skaldhyrric_faith culture = east_dalr raw_material = fur }
 ## Area: revrland_area
+# Province: hlakkavatn
+hlakkavatn = { topography = flatland vegetation = grasslands climate = continental religion = skaldhyrric_faith culture = west_dalr raw_material = fish natural_harbor_suitability = 0.25 }
 # Province: knarhatt
 knarhatt = { topography = flatland vegetation = grasslands climate = continental religion = skaldhyrric_faith culture = west_dalr raw_material = fish natural_harbor_suitability = 0.25 }
 # Province: revrhavn
@@ -7972,6 +8028,8 @@ naugsvol = { topography = flatland vegetation = grasslands climate = continental
 # Province: silvrborg
 silvrborg = { topography = flatland vegetation = grasslands climate = continental religion = skaldhyrric_faith culture = olavish raw_material = placeholder_unknown }
 ## Area: northern_giants_tears_area
+# Province: giants_tears
+giants_tears = { topography = flatland vegetation = grasslands climate = continental religion = old_dookan culture = gray_orc raw_material = fur }
 # Province: giantsmarch
 giantsmarch = { topography = flatland vegetation = grasslands climate = continental religion = old_dookan culture = gray_orc raw_material = fish natural_harbor_suitability = 0.25 }
 # Province: myrk
@@ -8052,6 +8110,12 @@ havoral_divide = { topography = mountain_wasteland vegetation = woods climate = 
 havoral_heights = { topography = mountain_wasteland vegetation = woods climate = arctic }
 # Province: khenak_range
 khenak_range = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: khenak_range_2
+khenak_range_2 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: khenak_range_3
+khenak_range_3 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_19
+rnw_19 = { topography = mountain_wasteland vegetation = woods climate = arctic }
 # Province: ruby_mountains
 ruby_mountains = { topography = mountain_wasteland vegetation = woods climate = arctic }
 # Province: the_frozen_north
@@ -8060,6 +8124,8 @@ the_frozen_north = { topography = mountain_wasteland vegetation = woods climate 
 the_godshield = { topography = mountain_wasteland vegetation = woods climate = arctic }
 # Province: titans_rest_mountains
 titans_rest_mountains = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: titans_rest_mountains_2
+titans_rest_mountains_2 = { topography = mountain_wasteland vegetation = woods climate = arctic }
 # Province: trollwastes
 trollwastes = { topography = mountain_wasteland vegetation = woods climate = arctic }
 #### Superregion: western_cannor_superregion
@@ -8167,6 +8233,8 @@ brontay_point = { topography = flatland vegetation = grasslands climate = contin
 cottersea = { topography = flatland vegetation = grasslands climate = continental religion = regent_court culture = moorman raw_material = fish natural_harbor_suitability = 0.25 }
 # Province: leapdon
 leapdon = { topography = flatland vegetation = grasslands climate = continental religion = regent_court culture = moorman raw_material = fish natural_harbor_suitability = 0.25 }
+# Province: rnw_16
+rnw_16 = { topography = flatland vegetation = grasslands climate = continental religion = regent_court culture = moorman raw_material = wool }
 ## Area: westmounts_area
 # Province: talonmount
 talonmount = { topography = flatland vegetation = grasslands climate = continental religion = regent_court culture = gawedi raw_material = wool }
@@ -8296,6 +8364,8 @@ vertesk = { topography = flatland vegetation = grasslands climate = continental 
 deep_kobilderd = { topography = flatland vegetation = grasslands climate = continental religion = kobold_dragon_cult culture = bluescale_kobold raw_material = copper }
 # Province: dragondepths
 dragondepths = { topography = flatland vegetation = grasslands climate = continental religion = kobold_dragon_cult culture = greenscale_kobold raw_material = fungi }
+# Province: rnw_18
+rnw_18 = { topography = flatland vegetation = grasslands climate = continental religion = kobold_dragon_cult culture = bluescale_kobold raw_material = iron }
 # Province: wyrmlair
 wyrmlair = { topography = flatland vegetation = grasslands climate = continental religion = kobold_dragon_cult culture = bluescale_kobold raw_material = wool }
 ## Area: dragondowns_area
@@ -8341,6 +8411,8 @@ lonevalley = { topography = flatland vegetation = grasslands climate = continent
 anbennar3577 = { topography = flatland vegetation = grasslands climate = continental religion = kobold_dragon_cult culture = greenscale_kobold raw_material = gems }
 # Province: kobilderd
 kobilderd = { topography = flatland vegetation = grasslands climate = continental religion = kobold_dragon_cult culture = greenscale_kobold raw_material = gems }
+# Province: rnw_17
+rnw_17 = { topography = flatland vegetation = grasslands climate = continental religion = kobold_dragon_cult culture = bluescale_kobold raw_material = copper }
 # Province: royoddan
 royoddan = { topography = flatland vegetation = grasslands climate = continental religion = kobold_dragon_cult culture = bluescale_kobold raw_material = copper }
 ## Area: dragonpoint_area
@@ -8511,6 +8583,8 @@ huntersfield = { topography = flatland vegetation = grasslands climate = contine
 # Province: verne
 verne = { topography = flatland vegetation = grasslands climate = continental religion = regent_court culture = vernman raw_material = copper }
 ## Area: west_damesear_area
+# Province: anbenncost
+anbenncost = { topography = flatland vegetation = grasslands climate = continental religion = regent_court culture = anbenncoster raw_material = placeholder_unknown natural_harbor_suitability = 0.25 }
 # Province: auraire
 auraire = { topography = flatland vegetation = grasslands climate = continental religion = regent_court culture = west_damerian raw_material = placeholder_unknown natural_harbor_suitability = 0.25 }
 # Province: damesear
@@ -9564,6 +9638,17 @@ unusedland89 = { topography = flatland vegetation = grasslands climate = contine
 unusedland90 = { topography = flatland vegetation = grasslands climate = continental raw_material = placeholder_unknown }
 # Province: unusedland99
 unusedland99 = { topography = flatland vegetation = grasslands climate = continental raw_material = placeholder_unknown }
+## Area: cialliande_area
+# Province: rnw_28
+rnw_28 = { topography = flatland vegetation = grasslands climate = continental raw_material = placeholder_unknown }
+# Province: rnw_29
+rnw_29 = { topography = flatland vegetation = grasslands climate = continental raw_material = placeholder_unknown }
+# Province: rnw_30
+rnw_30 = { topography = flatland vegetation = grasslands climate = continental raw_material = placeholder_unknown }
+# Province: rnw_31
+rnw_31 = { topography = flatland vegetation = grasslands climate = continental raw_material = placeholder_unknown }
+# Province: rnw_32
+rnw_32 = { topography = flatland vegetation = grasslands climate = continental raw_material = placeholder_unknown }
 ## Area: dearktir_area
 # Province: dearktir
 dearktir = { topography = flatland vegetation = grasslands climate = continental religion = summer_court culture = caamas raw_material = placeholder_unknown natural_harbor_suitability = 0.25 }
@@ -9571,11 +9656,22 @@ dearktir = { topography = flatland vegetation = grasslands climate = continental
 gannag = { topography = flatland vegetation = grasslands climate = continental religion = summer_court culture = caamas raw_material = fish natural_harbor_suitability = 0.25 }
 # Province: omarfirm
 omarfirm = { topography = flatland vegetation = grasslands climate = continental religion = eordellon culture = peitar raw_material = dyes }
+## Area: dubpar_area
+# Province: rnw_24
+rnw_24 = { topography = flatland vegetation = grasslands climate = continental raw_material = placeholder_unknown }
+# Province: rnw_25
+rnw_25 = { topography = flatland vegetation = grasslands climate = continental raw_material = placeholder_unknown }
+# Province: rnw_26
+rnw_26 = { topography = flatland vegetation = grasslands climate = continental raw_material = placeholder_unknown }
 ## Area: eorwestislands_area
 # Province: farsenn
 farsenn = { topography = flatland vegetation = grasslands climate = continental raw_material = placeholder_unknown natural_harbor_suitability = 0.25 }
 # Province: lismel
 lismel = { topography = flatland vegetation = grasslands climate = continental raw_material = placeholder_unknown natural_harbor_suitability = 0.25 }
+# Province: rnw_27
+rnw_27 = { topography = flatland vegetation = grasslands climate = continental raw_material = placeholder_unknown }
+# Province: rnw_33
+rnw_33 = { topography = flatland vegetation = grasslands climate = continental raw_material = placeholder_unknown }
 # Province: sardach
 sardach = { topography = flatland vegetation = grasslands climate = continental raw_material = placeholder_unknown natural_harbor_suitability = 0.25 }
 ## Area: fogracleak_area
@@ -9585,6 +9681,13 @@ budhorac = { topography = flatland vegetation = grasslands climate = continental
 fospont = { topography = flatland vegetation = grasslands climate = continental raw_material = placeholder_unknown natural_harbor_suitability = 0.25 }
 # Province: gosgaclann
 gosgaclann = { topography = flatland vegetation = grasslands climate = continental raw_material = placeholder_unknown natural_harbor_suitability = 0.25 }
+## Area: gaenosca_area
+# Province: rnw_20
+rnw_20 = { topography = flatland vegetation = grasslands climate = continental raw_material = placeholder_unknown }
+# Province: rnw_21
+rnw_21 = { topography = flatland vegetation = grasslands climate = continental raw_material = placeholder_unknown }
+# Province: rnw_22
+rnw_22 = { topography = flatland vegetation = grasslands climate = continental raw_material = placeholder_unknown }
 ## Area: gathgob_area
 # Province: alfrik
 alfrik = { topography = flatland vegetation = grasslands climate = continental religion = summer_court culture = caamas raw_material = fish natural_harbor_suitability = 0.25 }
@@ -9645,6 +9748,8 @@ snodglac = { topography = flatland vegetation = grasslands climate = continental
 ## Area: toreiel_area
 # Province: north_toreiel
 north_toreiel = { topography = flatland vegetation = grasslands climate = continental raw_material = placeholder_unknown natural_harbor_suitability = 0.25 }
+# Province: rnw_23
+rnw_23 = { topography = flatland vegetation = grasslands climate = continental raw_material = placeholder_unknown }
 # Province: south_toreiel
 south_toreiel = { topography = flatland vegetation = grasslands climate = continental raw_material = placeholder_unknown natural_harbor_suitability = 0.25 }
 ## Area: trimthir_area
@@ -10568,8 +10673,8 @@ puwambatu = { topography = flatland vegetation = grasslands climate = continenta
 highwaters = { topography = flatland vegetation = grasslands climate = continental raw_material = placeholder_unknown }
 # Province: sunglare
 sunglare = { topography = flatland vegetation = grasslands climate = continental raw_material = placeholder_unknown }
-# Province: the_narrows
-the_narrows = { topography = flatland vegetation = grasslands climate = continental raw_material = placeholder_unknown }
+# Province: the_narrows_2
+the_narrows_2 = { topography = flatland vegetation = grasslands climate = continental raw_material = placeholder_unknown }
 ## Area: lower_munasin_area
 # Province: bacodoos
 bacodoos = { topography = flatland vegetation = grasslands climate = continental raw_material = livestock }
@@ -10668,6 +10773,16 @@ stadglac = { topography = mountain_wasteland vegetation = woods climate = arctic
 teira_range = { topography = mountain_wasteland vegetation = woods climate = arctic }
 # Province: the_rim
 the_rim = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: the_rim_2
+the_rim_2 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: the_rim_3
+the_rim_3 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: the_rim_4
+the_rim_4 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: the_rim_5
+the_rim_5 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: the_rim_6
+the_rim_6 = { topography = mountain_wasteland vegetation = woods climate = arctic }
 # Province: unusedland101
 unusedland101 = { topography = mountain_wasteland vegetation = woods climate = arctic }
 # Province: unusedland107
@@ -11142,11 +11257,17 @@ anbennar6525 = { topography = mountain_wasteland vegetation = woods climate = ar
 # Province: unusedland83
 unusedland83 = { topography = mountain_wasteland vegetation = woods climate = arctic }
 ## Area: arihan_area
+# Province: rnw_34
+rnw_34 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_35
+rnw_35 = { topography = mountain_wasteland vegetation = woods climate = arctic }
 # Province: unusedland128
 unusedland128 = { topography = mountain_wasteland vegetation = woods climate = arctic }
 # Province: vyr_pas
 vyr_pas = { topography = mountain_wasteland vegetation = woods climate = arctic }
 ## Area: hahakata_area
+# Province: rnw_37
+rnw_37 = { topography = mountain_wasteland vegetation = woods climate = arctic }
 # Province: unusedland126
 unusedland126 = { topography = mountain_wasteland vegetation = woods climate = arctic }
 # Province: unusedland129
@@ -11187,6 +11308,8 @@ unused142 = { topography = mountain_wasteland vegetation = woods climate = arcti
 # Province: unused143
 unused143 = { topography = mountain_wasteland vegetation = woods climate = arctic }
 ## Area: matehunu_area
+# Province: rnw_36
+rnw_36 = { topography = lakes climate = arctic }
 # Province: unused156
 unused156 = { topography = mountain_wasteland vegetation = woods climate = arctic }
 # Province: unused162
@@ -11237,15 +11360,27 @@ unused165 = { topography = mountain_wasteland vegetation = woods climate = arcti
 # Province: unused166
 unused166 = { topography = mountain_wasteland vegetation = woods climate = arctic }
 ## Area: woromanuwa_area
+# Province: rnw_38
+rnw_38 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_39
+rnw_39 = { topography = mountain_wasteland vegetation = woods climate = arctic }
 # Province: unusedland134
 unusedland134 = { topography = mountain_wasteland vegetation = woods climate = arctic }
 ### Region: titanoflora_lakelands_region
 ## Area: titanoflora_lakelands_10_area
+# Province: rnw_40
+rnw_40 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_45
+rnw_45 = { topography = mountain_wasteland vegetation = woods climate = arctic }
 # Province: unusedland228
 unusedland228 = { topography = mountain_wasteland vegetation = woods climate = arctic }
 # Province: unusedland229
 unusedland229 = { topography = mountain_wasteland vegetation = woods climate = arctic }
 ## Area: titanoflora_lakelands_11_area
+# Province: rnw_44
+rnw_44 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_48
+rnw_48 = { topography = mountain_wasteland vegetation = woods climate = arctic }
 # Province: unusedland210
 unusedland210 = { topography = mountain_wasteland vegetation = woods climate = arctic }
 # Province: unusedland222
@@ -11253,6 +11388,10 @@ unusedland222 = { topography = mountain_wasteland vegetation = woods climate = a
 # Province: unusedland223
 unusedland223 = { topography = mountain_wasteland vegetation = woods climate = arctic }
 ## Area: titanoflora_lakelands_12_area
+# Province: rnw_46
+rnw_46 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_47
+rnw_47 = { topography = mountain_wasteland vegetation = woods climate = arctic }
 # Province: unusedland226
 unusedland226 = { topography = mountain_wasteland vegetation = woods climate = arctic }
 # Province: unusedland227
@@ -11322,6 +11461,15 @@ unusedland214 = { topography = mountain_wasteland vegetation = woods climate = a
 unusedland218 = { topography = lakes climate = arctic }
 # Province: unusedland219
 unusedland219 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+## Area: titanoflora_lakelands_4_area
+# Province: rnw_49
+rnw_49 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_50
+rnw_50 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_51
+rnw_51 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_52
+rnw_52 = { topography = mountain_wasteland vegetation = woods climate = arctic }
 ## Area: titanoflora_lakelands_5_area
 # Province: unusedland184
 unusedland184 = { topography = lakes climate = arctic }
@@ -11345,6 +11493,10 @@ unusedland183 = { topography = lakes climate = arctic }
 # Province: vyr_cirentyn
 vyr_cirentyn = { topography = lakes climate = arctic }
 ## Area: titanoflora_lakelands_7_area
+# Province: rnw_41
+rnw_41 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_42
+rnw_42 = { topography = mountain_wasteland vegetation = woods climate = arctic }
 # Province: unusedland189
 unusedland189 = { topography = mountain_wasteland vegetation = woods climate = arctic }
 # Province: unusedland190
@@ -11361,6 +11513,8 @@ unusedland199 = { topography = mountain_wasteland vegetation = woods climate = a
 # Province: unusedland205
 unusedland205 = { topography = mountain_wasteland vegetation = woods climate = arctic }
 ## Area: titanoflora_lakelands_9_area
+# Province: rnw_43
+rnw_43 = { topography = mountain_wasteland vegetation = woods climate = arctic }
 # Province: unusedland211
 unusedland211 = { topography = mountain_wasteland vegetation = woods climate = arctic }
 # Province: unusedland212
@@ -11370,15 +11524,52 @@ unusedland220 = { topography = mountain_wasteland vegetation = woods climate = a
 # Province: unusedland221
 unusedland221 = { topography = mountain_wasteland vegetation = woods climate = arctic }
 ### Region: titanoflora_riverlands_region
+## Area: titanoflora_riverlands_10_area
+# Province: rnw_71
+rnw_71 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_72
+rnw_72 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_73
+rnw_73 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_74
+rnw_74 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_75
+rnw_75 = { topography = mountain_wasteland vegetation = woods climate = arctic }
 ## Area: titanoflora_riverlands_11_area
+# Province: rnw_64
+rnw_64 = { topography = mountain_wasteland vegetation = woods climate = arctic }
 # Province: unusedland139
 unusedland139 = { topography = mountain_wasteland vegetation = woods climate = arctic }
 # Province: unusedland140
 unusedland140 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+## Area: titanoflora_riverlands_12_area
+# Province: rnw_65
+rnw_65 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_66
+rnw_66 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_70
+rnw_70 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+## Area: titanoflora_riverlands_13_area
+# Province: rnw_58
+rnw_58 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_59
+rnw_59 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_60
+rnw_60 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_76
+rnw_76 = { topography = mountain_wasteland vegetation = woods climate = arctic }
 ## Area: titanoflora_riverlands_14_area
+# Province: rnw_54
+rnw_54 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_55
+rnw_55 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_56
+rnw_56 = { topography = mountain_wasteland vegetation = woods climate = arctic }
 # Province: unusedland137
 unusedland137 = { topography = mountain_wasteland vegetation = woods climate = arctic }
 ## Area: titanoflora_riverlands_15_area
+# Province: rnw_57
+rnw_57 = { topography = mountain_wasteland vegetation = woods climate = arctic }
 # Province: unusedland135
 unusedland135 = { topography = lakes climate = arctic }
 # Province: unusedland138
@@ -11393,6 +11584,8 @@ unused161 = { topography = mountain_wasteland vegetation = woods climate = arcti
 # Province: unused169
 unused169 = { topography = lakes climate = arctic }
 ## Area: titanoflora_riverlands_17_area
+# Province: rnw_53
+rnw_53 = { topography = lakes climate = arctic }
 # Province: unused158
 unused158 = { topography = lakes climate = arctic }
 # Province: unused159
@@ -11442,6 +11635,13 @@ unusedland147 = { topography = lakes climate = arctic }
 unusedland148 = { topography = mountain_wasteland vegetation = woods climate = arctic }
 # Province: unusedland149
 unusedland149 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+## Area: titanoflora_riverlands_6_area
+# Province: rnw_61
+rnw_61 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_62
+rnw_62 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_63
+rnw_63 = { topography = mountain_wasteland vegetation = woods climate = arctic }
 ## Area: titanoflora_riverlands_7_area
 # Province: unusedland160
 unusedland160 = { topography = mountain_wasteland vegetation = woods climate = arctic }
@@ -11461,6 +11661,12 @@ unusedland159 = { topography = mountain_wasteland vegetation = woods climate = a
 # Province: unusedland162
 unusedland162 = { topography = mountain_wasteland vegetation = woods climate = arctic }
 ## Area: titanoflora_riverlands_9_area
+# Province: rnw_67
+rnw_67 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_68
+rnw_68 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_69
+rnw_69 = { topography = mountain_wasteland vegetation = woods climate = arctic }
 # Province: unusedland155
 unusedland155 = { topography = mountain_wasteland vegetation = woods climate = arctic }
 # Province: unusedland156
@@ -11701,6 +11907,140 @@ anbennar6919 = { topography = mountain_wasteland vegetation = woods climate = ar
 anbennar6920 = { topography = mountain_wasteland vegetation = woods climate = arctic }
 # Province: anbennar6921
 anbennar6921 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+### Region: great_plateau_region
+## Area: beragata_area
+# Province: rnw_117
+rnw_117 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_94
+rnw_94 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_95
+rnw_95 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_96
+rnw_96 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+## Area: betrarite_area
+# Province: rnw_79
+rnw_79 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_80
+rnw_80 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_81
+rnw_81 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_99
+rnw_99 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+## Area: darawatdimi_area
+# Province: rnw_106
+rnw_106 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_113
+rnw_113 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_114
+rnw_114 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_120
+rnw_120 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+## Area: dirumain_area
+# Province: rnw_84
+rnw_84 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_90
+rnw_90 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_91
+rnw_91 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_92
+rnw_92 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_93
+rnw_93 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+## Area: gegebou_area
+# Province: rnw_100
+rnw_100 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_101
+rnw_101 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_85
+rnw_85 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_86
+rnw_86 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_87
+rnw_87 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+## Area: kaepedi_area
+# Province: rnw_115
+rnw_115 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_116
+rnw_116 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_118
+rnw_118 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_119
+rnw_119 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+## Area: otubar_area
+# Province: rnw_77
+rnw_77 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_78
+rnw_78 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_82
+rnw_82 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_83
+rnw_83 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+## Area: ragadurari_area
+# Province: rnw_102
+rnw_102 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_88
+rnw_88 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_89
+rnw_89 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_97
+rnw_97 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+## Area: tekaberi_area
+# Province: rnw_111
+rnw_111 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_112
+rnw_112 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_121
+rnw_121 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_122
+rnw_122 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+## Area: tekarari_area
+# Province: rnw_107
+rnw_107 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_108
+rnw_108 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_109
+rnw_109 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_110
+rnw_110 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+## Area: watibetrar_area
+# Province: rnw_103
+rnw_103 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_104
+rnw_104 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_105
+rnw_105 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_98
+rnw_98 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+### Region: insyaan_mushroom_forest_region
+## Area: golodhuinga_area
+# Province: rnw_124
+rnw_124 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_125
+rnw_125 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_127
+rnw_127 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_130
+rnw_130 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+## Area: puhutua_area
+# Province: rnw_126
+rnw_126 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_131
+rnw_131 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_132
+rnw_132 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_133
+rnw_133 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_135
+rnw_135 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+## Area: taoropari_area
+# Province: rnw_123
+rnw_123 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_128
+rnw_128 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_129
+rnw_129 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_134
+rnw_134 = { topography = mountain_wasteland vegetation = woods climate = arctic }
 ### Region: yanacotlele_region
 ## Area: hapalinaina_area
 # Province: anbennar6154
@@ -11960,6 +12300,8 @@ anbennar6939 = { topography = mountain_wasteland vegetation = woods climate = ar
 anbennar6940 = { topography = lakes climate = arctic }
 # Province: anbennar6942
 anbennar6942 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_136
+rnw_136 = { topography = lakes climate = arctic }
 ## Area: horn_of_insyaa_2_area
 # Province: anbennar6944
 anbennar6944 = { topography = mountain_wasteland vegetation = woods climate = arctic }
@@ -11991,6 +12333,30 @@ anbennar6949 = { topography = lakes climate = arctic }
 ## Area: malogadin_coast_1_area
 # Province: anbennar6482
 anbennar6482 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_137
+rnw_137 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_138
+rnw_138 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+## Area: malogadin_coast_2_area
+# Province: rnw_139
+rnw_139 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_140
+rnw_140 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_141
+rnw_141 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_142
+rnw_142 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_147
+rnw_147 = { topography = lakes climate = arctic }
+## Area: malogadin_coast_3_area
+# Province: rnw_143
+rnw_143 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_144
+rnw_144 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_145
+rnw_145 = { topography = lakes climate = arctic }
+# Province: rnw_146
+rnw_146 = { topography = lakes climate = arctic }
 ### Region: south_charkuchar_region
 ## Area: south_charkuchar_1_area
 # Province: anbennar6478
@@ -12085,11 +12451,131 @@ anbennar6959 = { topography = lakes climate = arctic }
 # Province: anbennar6962
 anbennar6962 = { topography = lakes climate = arctic }
 ### Region: titanoflora_savanna_region
+## Area: titanoflora_savanna_10_area
+# Province: rnw_182
+rnw_182 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_185
+rnw_185 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_186
+rnw_186 = { topography = mountain_wasteland vegetation = woods climate = arctic }
 ## Area: titanoflora_savanna_11_area
 # Province: anbennar7028
 anbennar7028 = { topography = lakes climate = arctic }
 # Province: anbennar7034
 anbennar7034 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_187
+rnw_187 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_188
+rnw_188 = { topography = lakes climate = arctic }
+## Area: titanoflora_savanna_12_area
+# Province: rnw_189
+rnw_189 = { topography = lakes climate = arctic }
+# Province: rnw_190
+rnw_190 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_191
+rnw_191 = { topography = lakes climate = arctic }
+## Area: titanoflora_savanna_1_area
+# Province: rnw_148
+rnw_148 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_149
+rnw_149 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_150
+rnw_150 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_151
+rnw_151 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+## Area: titanoflora_savanna_2_area
+# Province: rnw_157
+rnw_157 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_158
+rnw_158 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_159
+rnw_159 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+## Area: titanoflora_savanna_3_area
+# Province: rnw_152
+rnw_152 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_153
+rnw_153 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_154
+rnw_154 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+## Area: titanoflora_savanna_4_area
+# Province: rnw_155
+rnw_155 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_156
+rnw_156 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_160
+rnw_160 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_161
+rnw_161 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_168
+rnw_168 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+## Area: titanoflora_savanna_5_area
+# Province: rnw_162
+rnw_162 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_163
+rnw_163 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_167
+rnw_167 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_169
+rnw_169 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_170
+rnw_170 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+## Area: titanoflora_savanna_6_area
+# Province: rnw_165
+rnw_165 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_166
+rnw_166 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_171
+rnw_171 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_172
+rnw_172 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+## Area: titanoflora_savanna_7_area
+# Province: rnw_164
+rnw_164 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_173
+rnw_173 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_174
+rnw_174 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_176
+rnw_176 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_177
+rnw_177 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+## Area: titanoflora_savanna_8_area
+# Province: rnw_175
+rnw_175 = { topography = lakes climate = arctic }
+# Province: rnw_181
+rnw_181 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_183
+rnw_183 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+## Area: titanoflora_savanna_9_area
+# Province: rnw_178
+rnw_178 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_179
+rnw_179 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_180
+rnw_180 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_184
+rnw_184 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+### Region: titanoflora_valley_region
+## Area: titanoflora_valley_1_area
+# Province: rnw_193
+rnw_193 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_194
+rnw_194 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_195
+rnw_195 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_196
+rnw_196 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+## Area: titanoflora_valley_2_area
+# Province: rnw_192
+rnw_192 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_197
+rnw_197 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_198
+rnw_198 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_199
+rnw_199 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_200
+rnw_200 = { topography = mountain_wasteland vegetation = woods climate = arctic }
 ### Region: west_charkuchar_region
 ## Area: west_charkuchar_1_area
 # Province: anbennar6322
@@ -12107,6 +12593,8 @@ anbennar6327 = { topography = mountain_wasteland vegetation = woods climate = ar
 anbennar6330 = { topography = mountain_wasteland vegetation = woods climate = arctic }
 # Province: anbennar6331
 anbennar6331 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_201
+rnw_201 = { topography = mountain_wasteland vegetation = woods climate = arctic }
 ## Area: west_charkuchar_3_area
 # Province: anbennar6329
 anbennar6329 = { topography = mountain_wasteland vegetation = woods climate = arctic }
@@ -12169,6 +12657,15 @@ anbennar6365 = { topography = mountain_wasteland vegetation = woods climate = ar
 # Province: anbennar6366
 anbennar6366 = { topography = mountain_wasteland vegetation = woods climate = arctic }
 ### Region: west_insyaan_lowlands_region
+## Area: west_insyaan_lowlands_10_area
+# Province: rnw_203
+rnw_203 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_206
+rnw_206 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_207
+rnw_207 = { topography = lakes climate = arctic }
+# Province: rnw_208
+rnw_208 = { topography = mountain_wasteland vegetation = woods climate = arctic }
 ## Area: west_insyaan_lowlands_1_area
 # Province: anbennar6967
 anbennar6967 = { topography = lakes climate = arctic }
@@ -12233,6 +12730,12 @@ anbennar6987 = { topography = mountain_wasteland vegetation = woods climate = ar
 anbennar6996 = { topography = mountain_wasteland vegetation = woods climate = arctic }
 # Province: anbennar6999
 anbennar6999 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_202
+rnw_202 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_204
+rnw_204 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_205
+rnw_205 = { topography = mountain_wasteland vegetation = woods climate = arctic }
 ## Area: west_insyaan_lowlands_9_area
 # Province: anbennar6989
 anbennar6989 = { topography = mountain_wasteland vegetation = woods climate = arctic }
@@ -12313,8 +12816,64 @@ anbennar6477 = { topography = mountain_wasteland vegetation = woods climate = ar
 anbennar6887 = { topography = mountain_wasteland vegetation = woods climate = arctic }
 # Province: anbennar6892
 anbennar6892 = { topography = mountain_wasteland vegetation = woods climate = arctic }
-# Province: rnw
-rnw = { topography = lakes climate = arctic }
+# Province: rnw_209
+rnw_209 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_210
+rnw_210 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_211
+rnw_211 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_212
+rnw_212 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_213
+rnw_213 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_214
+rnw_214 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_215
+rnw_215 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_216
+rnw_216 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_217
+rnw_217 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_218
+rnw_218 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_219
+rnw_219 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_220
+rnw_220 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: rnw_221
+rnw_221 = { topography = lakes climate = arctic }
+# Province: rnw_222
+rnw_222 = { topography = lakes climate = arctic }
+# Province: rnw_223
+rnw_223 = { topography = lakes climate = arctic }
+# Province: rnw_224
+rnw_224 = { topography = lakes climate = arctic }
+# Province: rnw_225
+rnw_225 = { topography = lakes climate = arctic }
+# Province: rnw_226
+rnw_226 = { topography = lakes climate = arctic }
+# Province: rnw_227
+rnw_227 = { topography = lakes climate = arctic }
+# Province: rnw_228
+rnw_228 = { topography = lakes climate = arctic }
+# Province: rnw_229
+rnw_229 = { topography = lakes climate = arctic }
+# Province: rnw_230
+rnw_230 = { topography = lakes climate = arctic }
+# Province: rnw_231
+rnw_231 = { topography = lakes climate = arctic }
+# Province: rnw_232
+rnw_232 = { topography = lakes climate = arctic }
+# Province: rnw_233
+rnw_233 = { topography = lakes climate = arctic }
+# Province: rnw_234
+rnw_234 = { topography = lakes climate = arctic }
+# Province: rnw_235
+rnw_235 = { topography = lakes climate = arctic }
+# Province: rnw_236
+rnw_236 = { topography = lakes climate = arctic }
+# Province: rnw_237
+rnw_237 = { topography = lakes climate = arctic }
 # Province: unused129
 unused129 = { topography = mountain_wasteland vegetation = woods climate = arctic }
 # Province: unused130
@@ -12595,8 +13154,26 @@ lonely_mountains = { topography = mountain_wasteland vegetation = woods climate 
 serpentreach = { topography = mountain_wasteland vegetation = woods climate = arctic }
 # Province: serpentspine
 serpentspine = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: serpentspine_2
+serpentspine_2 = { topography = mountain_wasteland vegetation = woods climate = arctic }
 # Province: serpentspine_mountains
 serpentspine_mountains = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: serpentspine_mountains_2
+serpentspine_mountains_2 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: serpentspine_mountains_3
+serpentspine_mountains_3 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: serpentspine_mountains_4
+serpentspine_mountains_4 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: serpentspine_mountains_5
+serpentspine_mountains_5 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: serpentspine_mountains_6
+serpentspine_mountains_6 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: serpentspine_mountains_7
+serpentspine_mountains_7 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: serpentspine_mountains_8
+serpentspine_mountains_8 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: serpentspine_mountains_9
+serpentspine_mountains_9 = { topography = mountain_wasteland vegetation = woods climate = arctic }
 # Province: the_serpentreach
 the_serpentreach = { topography = mountain_wasteland vegetation = woods climate = arctic }
 # Province: tree_of_stone
@@ -12757,6 +13334,8 @@ shvartrdigok = { topography = flatland vegetation = grasslands climate = contine
 darkwood = { topography = flatland vegetation = grasslands climate = continental raw_material = placeholder_unknown }
 # Province: falstads_last_stand
 falstads_last_stand = { topography = flatland vegetation = grasslands climate = continental raw_material = placeholder_unknown }
+# Province: salt_grass_lake
+salt_grass_lake = { topography = flatland vegetation = grasslands climate = continental raw_material = placeholder_unknown }
 ## Area: hjyrtsikki_area
 # Province: anbennar6286
 anbennar6286 = { topography = flatland vegetation = grasslands climate = continental raw_material = placeholder_unknown }
@@ -12785,6 +13364,8 @@ stonefarm = { topography = flatland vegetation = grasslands climate = continenta
 cold_fork = { topography = flatland vegetation = grasslands climate = continental raw_material = placeholder_unknown }
 # Province: forgotten_forest
 forgotten_forest = { topography = flatland vegetation = grasslands climate = continental raw_material = placeholder_unknown }
+# Province: the_narrows
+the_narrows = { topography = flatland vegetation = grasslands climate = continental raw_material = placeholder_unknown }
 ## Area: tanning_valley_area
 # Province: brokenwheel
 brokenwheel = { topography = flatland vegetation = grasslands climate = continental raw_material = placeholder_unknown }
