@@ -707,9 +707,13 @@ for superregion in Superregion.instances.values():
             new_string = new_string.replace('PH_COLOR', f'rgb {{ {color} }}')
             
             culture = country_data.get('culture_definition', 'unknown_culture')
+            if culture == '':
+                culture = 'unknown_culture'
             new_string = new_string.replace('PH_CULTURE', culture)
             
             religion = country_data.get('religion_definition', 'unknown_religion')
+            if religion == '':
+                religion = 'unknown_religion'
             new_string = new_string.replace('PH_RELIGION', religion)
 
             superregion_file.write(new_string)
