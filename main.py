@@ -36,18 +36,22 @@ class Area:
 
 class Province:
     instances = {}
-    def __init__(self, area: Area, name):
+    prov_num_dict = {}
+    def __init__(self, area: Area, name, prov_num):
         self.instances[name] = self
         area.provinces.append(self)
         self.name = name
+        self.prov_num_dict[prov_num] = self
         self.locations = []
 
 class Location:
     instances = {}
-    def __init__(self, province: Province, name, hexcode):
+    prov_num_dict = {}
+    def __init__(self, province: Province, name, prov_num, hexcode):
         self.instances[name] = self
         province.locations.append(self)
         self.name = name
+        self.prov_num_dict[prov_num] = self
         self.hexcode = hexcode
         self.owner = None
         self.cores = []
@@ -200,6 +204,7 @@ for key, value in data.items():
     province_name = value.get('province')
     location_name = key
     hexcode = value.get('hexcode', 'unknown_hexcode')
+    prov_num = int(value.get('old_province_number'))
 
     # Create or get Continent
     if continent_name in Continent.instances:
@@ -229,17 +234,17 @@ for key, value in data.items():
     if province_name in Province.instances:
         # If province name is already in instances, append a suffix to make it unique.
         province_name += f'_{len(Province.instances)}'
-        province = Province(area, province_name)
+        province = Province(area, province_name, prov_num)
     else:
-        province = Province(area, province_name)
+        province = Province(area, province_name, prov_num)
     
     # Create Location
     if location_name in Location.instances:
         # If location name is already in instances, append a suffix to make it unique.
         location_name += f'_{len(Location.instances)}'
-        location = Location(province, location_name, hexcode)
+        location = Location(province, location_name, prov_num, hexcode)
     else:
-        location = Location(province, location_name, hexcode)
+        location = Location(province, location_name, prov_num, hexcode)
 
 
 with open('output\\game\\in_game\\map_data\\named_locations\\anb_default.txt', 'w', encoding='utf-8-sig') as outfile:
@@ -524,6 +529,148 @@ with open('templates/anb_country_setup_template.txt', 'r', encoding='utf-8') as 
     country_placeholder_template = f.read()
 
 unknown_superregion = Superregion(Continent('unknown_continent'), 'unknown_superregion')
+
+# Generating loc for continents, superregions, regions, areas, provinces, locations
+with open ('input\\loc\\continents.yml', 'r', encoding='utf-8-sig') as infile:
+    lines = infile.readlines()
+    for line in lines:
+        line = line.split('#')[0]  # Remove comments
+        if len(line.strip()) == 0:
+            continue
+
+        if line.startswith('l_english:'):
+            continue
+        else:
+            parts = line.split(':')
+            continent_name = parts[0].strip()
+            continent_loc = parts[1][1:] # We don't care about the 0 (or in one instance, 2) following the colon
+            continent_loc = continent_loc.removesuffix('\n') # Remove newline character, as some lines lose it when comments are removed.
+
+            Continent.instances[continent_name].loc = f'{continent_name}:{continent_loc}'
+
+with open('input\\loc\\anb_regions_l_english.yml', 'r', encoding='utf-8-sig') as infile:
+    lines = infile.readlines()
+    for line in lines:
+        line = line.split('#')[0]  # Remove comments
+        if len(line.strip()) == 0:
+            continue
+
+        if line.startswith('l_english:'):
+            continue
+        else:
+            parts = line.split(':')
+            name = parts[0].strip()
+            loc = parts[1][1:] # We don't care about the 0 (or in one instance, 2) following the colon
+            loc = loc.removesuffix('\n') # Remove newline character, as some lines lose it when comments are removed.
+
+            if name in Region.instances:
+                Region.instances[name].loc = f'{name}_region:{loc}'
+            elif name in Superregion.instances:
+                Superregion.instances[name].loc = f'{name}_superregion:{loc}'
+
+with open('input\\loc\\anb_areas_l_english.yml', 'r', encoding='utf-8-sig') as infile:
+    lines = infile.readlines()
+    for line in lines:
+        line = line.split('#')[0]  # Remove comments
+        if len(line.strip()) == 0:
+            continue
+
+        if line.startswith('l_english:'):
+            continue
+        else:
+            parts = line.split(':')
+            name = parts[0].strip()
+
+            if name.endswith('_name') or name.endswith('_adj'):
+                continue
+
+            loc = parts[1][1:] # We don't care about the 0 (or in one instance, 2) following the colon
+            loc = loc.removesuffix('\n') # Remove newline character, as some lines lose it when comments are removed.
+
+            if name in Area.instances:
+                Area.instances[name].loc = f'{name}_area:{loc}'
+
+with open('input\\loc\\prov_names_l_english.yml', 'r', encoding='utf-8-sig') as infile:
+    lines = infile.readlines()
+    for line in lines:
+        line = line.split('#')[0]  # Remove comments
+        if len(line.strip()) == 0:
+            continue
+
+        if line.startswith('l_english:'):
+            continue
+        else:
+            parts = line.split(':')
+            
+            prov_num = parts[0].strip().replace("PROV", "")
+            # Check that prov_num is a valid integer, if not continue.
+            try:
+                prov_num = int(prov_num)
+            except ValueError:
+                continue
+            
+            if prov_num not in Province.prov_num_dict:
+                continue
+
+            prov_name = Province.prov_num_dict[prov_num].name
+            prov_loc = parts[1][1:] # We don't care about the 0 (or in one instance, 2) following the colon
+            prov_loc = prov_loc.removesuffix('\n') # Remove newline character, as some lines lose it when comments are removed.
+
+            Province.prov_num_dict[prov_num].loc = f'{prov_name}_province:{prov_loc}'
+            Location.prov_num_dict[prov_num].loc = f'{prov_name}:{prov_loc}'
+
+# Set loc for unknown continents, superregions, regions, and areas
+for continent in Continent.instances.values():
+    if not hasattr(continent, 'loc'):
+        continent.loc = f'{continent.name}: "UNKNOWN_CONTINENT"'
+    for superregion in continent.superregions:
+        if not hasattr(superregion, 'loc'):
+            superregion.loc = f'{superregion.name}_superregion: "UNKNOWN_SUPERREGION"'
+        for region in superregion.regions:
+            if not hasattr(region, 'loc'):
+                region.loc = f'{region.name}_region: "UNKNOWN_REGION"'
+            for area in region.areas:
+                if not hasattr(area, 'loc'):
+                    area.loc = f'{area.name}_area: "UNKNOWN_AREA"'
+
+with open('output\\game\\main_menu\\localization\\english\\province_names_l_english.yml', 'w', encoding='utf-8-sig') as province_loc_file, \
+     open('output\\game\\main_menu\\localization\\english\\location_names\\location_names_l_english.yml', 'w', encoding='utf-8-sig') as location_loc_file, \
+     open('output\\game\\main_menu\\localization\\english\\area_l_english.yml', 'w', encoding='utf-8-sig') as area_loc_file, \
+     open('output\\game\\main_menu\\localization\\english\\region_names_l_english.yml', 'w', encoding='utf-8-sig') as region_loc_file:
+
+    province_loc_file.write('l_english:\n')
+    location_loc_file.write('l_english:\n')
+    area_loc_file.write('l_english:\n')
+    region_loc_file.write('l_english:\n')
+
+    for continent in Continent.instances.values():
+        location_loc_file.write(f' ##### Continent: {continent.name}\n')
+        province_loc_file.write(f' #### Continent: {continent.name}\n')
+        area_loc_file.write(f' ### Continent: {continent.name}\n')
+        region_loc_file.write(f' ## Continent: {continent.name}\n')
+        region_loc_file.write(' ' + continent.loc + '\n')
+        for superregion in continent.superregions:
+            location_loc_file.write(f' #### Superregion: {superregion.name}\n')
+            province_loc_file.write(f' ### Superregion: {superregion.name}\n')
+            area_loc_file.write(f' ## Superregion: {superregion.name}\n')
+            region_loc_file.write(f' # Superregion: {superregion.name}\n')
+            region_loc_file.write(' ' + superregion.loc + '\n')
+            for region in superregion.regions:
+                location_loc_file.write(f' ### Region: {region.name}\n')
+                province_loc_file.write(f' ## Region: {region.name}\n')
+                area_loc_file.write(f' # Region: {region.name}\n')
+                region_loc_file.write(' ' + region.loc + '\n')
+                for area in region.areas:
+                    location_loc_file.write(f' ## Area: {area.name}\n')
+                    province_loc_file.write(f' # Area: {area.name}\n')
+                    area_loc_file.write(' ' + area.loc + '\n')
+                    for province in area.provinces:
+                        location_loc_file.write(f' # Province: {province.name}\n')
+                        if hasattr(province, 'loc'):
+                            province_loc_file.write(' ' + province.loc + '\n')
+                        for location in province.locations:
+                            if hasattr(location, 'loc'):
+                                location_loc_file.write(' ' + location.loc + '\n')
 
 class Country:
     instances = {}
