@@ -186,7 +186,7 @@ drolas_strait = 43dcfa
 # gulf_of_glass
 gulf_of_glass = 3ec8fa
 # purple_coast
-purple_coast = 72ade0
+purple_coast = 73ade1
 # bay_of_mirrors
 bay_of_mirrors = 3dc8c8
 # sea_of_echoes
@@ -346,7 +346,7 @@ anbennar3645 = 1d90bd
 # anbennar3646
 anbennar3646 = 1eddfb
 # anbennar3647
-anbennar3647 = f693e5
+anbennar3647 = 3b8be3
 # anbennar3648
 anbennar3648 = 175ead
 # anbennar3649
@@ -360,7 +360,7 @@ anbennar3652 = 0b31e6
 # anbennar3653
 anbennar3653 = 164ed0
 # anbennar3654
-anbennar3654 = b91fa2
+anbennar3654 = 3381af
 # anbennar3655
 anbennar3655 = 0c97c1
 # anbennar3656
@@ -400,7 +400,7 @@ anbennar1634 = 01cbcb
 # anbennar3560
 anbennar3560 = 22a1a1
 # anbennar3563
-anbennar3563 = 68c4dd
+anbennar3563 = 68c5dd
 # anbennar3564
 anbennar3564 = 1ba0c2
 # anbennar3565
@@ -455,9 +455,9 @@ anbennar3589 = 077da6
 # anbennar3590
 anbennar3590 = 04a4ce
 # anbennar3591
-anbennar3591 = ad2221
+anbennar3591 = 52bfdb
 # anbennar3592
-anbennar3592 = e6252a
+anbennar3592 = 24649c
 # anbennar3593
 anbennar3593 = 0f7bdb
 # anbennar3594
@@ -467,7 +467,7 @@ anbennar3595 = 2da0a0
 # anbennar3596
 anbennar3596 = 0a5faa
 # anbennar3597
-anbennar3597 = 66e947
+anbennar3597 = 0a86f5
 # anbennar3613
 anbennar3613 = 42ace1
 # anbennar3616
@@ -5449,18 +5449,18 @@ tuuchuweg = 9f8945
 # noms1
 noms1 = 676677
 # noms2
-noms2 = 162F29
+noms2 = 162f29
 # noms3
-noms3 = 6A890E
+noms3 = 6a890e
 ## desolate_plains_area
 # noms19
-noms19 = 6BA99F
+noms19 = 6ba99f
 # noms20
-noms20 = E171FD
+noms20 = e171fd
 # noms28
-noms28 = B4DE12
+noms28 = b4de12
 # noms8
-noms8 = FAB295
+noms8 = fab295
 ## iona_saothar_area
 # anbennar5387
 anbennar5387 = 85f794
@@ -5472,16 +5472,16 @@ anbennar5389 = eec6dc
 anbennar5390 = 7b5697
 ## lock_tormscith_area
 # noms10
-noms10 = 2C9C7A
+noms10 = 2c9c7a
 # noms21
-noms21 = 5E231D
+noms21 = 5e231d
 # noms22
-noms22 = E11B1B
+noms22 = e11b1b
 # noms4
-noms4 = F41DED
+noms4 = f41ded
 ## nomsyulhan_portal_area
 # noms18
-noms18 = 42DC2D
+noms18 = 42dc2d
 ## overgrowth_area
 # anbennar5384
 anbennar5384 = fb5d99
@@ -5491,20 +5491,20 @@ anbennar5385 = a80cd1
 anbennar5386 = 07d648
 ## portal_east_area
 # noms11
-noms11 = 6AD9B1
+noms11 = 6ad9b1
 # noms12
-noms12 = 54A83A
+noms12 = 54a83a
 # noms13
-noms13 = 0D33D2
+noms13 = 0d33d2
 # noms14
-noms14 = E563E3
+noms14 = e563e3
 ## portal_west_area
 # noms15
-noms15 = 0CE50D
+noms15 = 0ce50d
 # noms16
-noms16 = C18924
+noms16 = c18924
 # noms17
-noms17 = A00003
+noms17 = a00003
 ## sanctuary_area
 # anbennar5391
 anbennar5391 = 40668f
@@ -5514,22 +5514,22 @@ anbennar5392 = 49ee9b
 anbennar5393 = f588c1
 ## sand_gate_area
 # noms24
-noms24 = 130F07
+noms24 = 130f07
 # noms25
-noms25 = 90884C
+noms25 = 90884c
 # noms26
-noms26 = 099AF4
+noms26 = 099af4
 # noms27
-noms27 = B8E077
+noms27 = b8e077
 ## three_mountains_valley_area
 # noms5
-noms5 = 7DC51C
+noms5 = 7dc51c
 # noms6
-noms6 = 1256F6
+noms6 = 1256f6
 # noms7
 noms7 = 922916
 # noms9
-noms9 = D82BD3
+noms9 = d82bd3
 ### shuvuushudi_region
 ## baztazhad_area
 # ashagaal
@@ -8408,7 +8408,7 @@ lodan_crags = 154c00
 lonevalley = 1e4880
 ## dragonmaw_area
 # anbennar3577
-anbennar3577 = 01a7a7
+anbennar3577 = 02a7a7
 # kobilderd
 kobilderd = 1a9440
 # rnw_17
@@ -9644,7 +9644,7 @@ rnw_28 = 00bd2e
 # rnw_29
 rnw_29 = f0cb0b
 # rnw_30
-rnw_30 = f00b6
+rnw_30 = f00b61
 # rnw_31
 rnw_31 = ca0bf0
 # rnw_32
@@ -11424,7 +11424,7 @@ unusedland192 = d6b55e
 # unusedland193
 unusedland193 = 83785c
 # unusedland194
-unusedland194 = ec4c1
+unusedland194 = ec4c19
 ## titanoflora_lakelands_16_area
 # unusedland151
 unusedland151 = 8ab539
@@ -11990,7 +11990,7 @@ rnw_111 = 94b569
 # rnw_112
 rnw_112 = a3aa9a
 # rnw_121
-rnw_121 = 65de77
+rnw_121 = f2c627
 # rnw_122
 rnw_122 = 65de77
 ## tekarari_area
@@ -12336,7 +12336,7 @@ anbennar6482 = 08db1e
 # rnw_137
 rnw_137 = afca54
 # rnw_138
-rnw_138 = afca54
+rnw_138 = 5f966e
 ## malogadin_coast_2_area
 # rnw_139
 rnw_139 = e1edae
@@ -12356,7 +12356,7 @@ rnw_144 = 9fbca5
 # rnw_145
 rnw_145 = 815580
 # rnw_146
-rnw_146 = e1199b
+rnw_146 = c13d4d
 ### south_charkuchar_region
 ## south_charkuchar_1_area
 # anbennar6478
@@ -12473,7 +12473,7 @@ rnw_189 = d191a2
 # rnw_190
 rnw_190 = d6a3b0
 # rnw_191
-rnw_191 = db17b9
+rnw_191 = b04864
 ## titanoflora_savanna_1_area
 # rnw_148
 rnw_148 = c88991

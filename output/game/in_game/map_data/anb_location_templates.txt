@@ -6538,7 +6538,7 @@ pashonghea = { topography = flatland vegetation = grasslands climate = continent
 xayfontad = { topography = flatland vegetation = grasslands climate = continental religion = transmutative_path culture = bokai raw_material = copper }
 ## Area: ngoen_area
 # Province: anbennar6300
-anbennar6300 = { topography = flatland vegetation = grasslands climate = continental religion = the_hunt culture = pezarangi_harpy raw_material = gems }
+anbennar6300 = { topography = flatland vegetation = grasslands climate = continental religion = the_hunt culture = semifire_harpy raw_material = gems }
 # Province: huban
 huban = { topography = flatland vegetation = grasslands climate = continental religion = transmutative_path culture = sikai raw_material = copper }
 # Province: phomaban
