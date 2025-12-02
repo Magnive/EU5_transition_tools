@@ -175,7 +175,7 @@ data = dict(sorted(data.items(), key=lambda item: (
 last_continent = None
 last_superregion = None
 last_region = None
-with open('output\\game\\in_game\\map_data\\named_locations\\anb_default.txt', 'w', encoding='utf-8') as outfile:
+with open('output\\game\\in_game\\map_data\\named_locations\\anb_default.txt', 'w', encoding='utf-8-sig') as outfile:
     for key, value in data.items():
         continent = value.get('continent')
         superregion = value.get('superregion')
@@ -239,7 +239,7 @@ for key, value in data.items():
     location = Location(province, location_name, hexcode)
 
 
-with open('output\\game\\in_game\\map_data\\anb_definitions.txt', 'w', encoding='utf-8') as def_file:
+with open('output\\game\\in_game\\map_data\\anb_definitions.txt', 'w', encoding='utf-8-sig') as def_file:
     for continent in Continent.instances.values():
         def_file.write(f'{continent.name} = {{\n')
         for superregion in continent.superregions:
@@ -262,7 +262,7 @@ with open('output\\game\\in_game\\map_data\\anb_definitions.txt', 'w', encoding=
             def_file.write('\t}\n')
         def_file.write('}\n')
 
-with open('output\\game\\in_game\\map_data\\anb_location_templates.txt', 'w', encoding='utf-8') as template_file:
+with open('output\\game\\in_game\\map_data\\anb_location_templates.txt', 'w', encoding='utf-8-sig') as template_file:
     for continent in Continent.instances.values():
         template_file.write(f'##### Continent: {continent.name}\n')
         for superregion in continent.superregions:
@@ -306,7 +306,7 @@ religious_groups_data = load_transition_data(csv_file='anbennar_eu5_transition_d
 religions_data = load_transition_data(csv_file='anbennar_eu5_transition_data_religions.csv',
                                       key_field='religion')
 
-with open('output//game//in_game//common//religion_groups//anb_default.txt', 'w', encoding='utf-8') as religious_groups_file:
+with open('output//game//in_game//common//religion_groups//anb_default.txt', 'w', encoding='utf-8-sig') as religious_groups_file:
     for key, value in religious_groups_data.items():
         color = value.get('color', '255 255 255').strip('(').strip(')').replace(',', '')
         string = f'{key} = {{\n'
@@ -350,7 +350,7 @@ for key, value in religions_data.items():
 
 
 for religious_group in ReligiousGroup.instances.values():
-    with open('output//game//in_game//common//religions//' + religious_group.name +'.txt', 'w', encoding='utf-8') as group_file:
+    with open('output//game//in_game//common//religions//' + religious_group.name +'.txt', 'w', encoding='utf-8-sig') as group_file:
         for religion in religious_group.religions:            
             # Get the data for THIS specific religion
             religion_data = religions_data[religion.name]
@@ -407,7 +407,7 @@ for key, value in cultures_data.items():
 
 # Generate culture files
 for culture_group in CultureGroup.instances.values():
-    with open('output//game//in_game//common//cultures//' + culture_group.name +'.txt', 'w', encoding='utf-8') as group_file:
+    with open('output//game//in_game//common//cultures//' + culture_group.name +'.txt', 'w', encoding='utf-8-sig') as group_file:
         for culture in culture_group.cultures:            
             culture_data = cultures_data[culture.name]
             
@@ -473,7 +473,7 @@ with open('templates/anb_dialect_template.txt', 'r', encoding='utf-8') as f:
 
 # Generate language and dialect files
 for language in Language.instances.values():
-    with open('output//game//in_game//common//languages//' + language.name +'.txt', 'w', encoding='utf-8') as lang_file:
+    with open('output//game//in_game//common//languages//' + language.name +'.txt', 'w', encoding='utf-8-sig') as lang_file:
         # Language template
         language_data = languages_data.get(language.name, {})
         language_string = str(language_placeholder_template)
@@ -532,7 +532,7 @@ for key, value in countries_data.items():
     country = Country(superregion, country_tag)
 
 for superregion in Superregion.instances.values():
-    with open('output//game//in_game//setup//countries//' + superregion.name +'.txt', 'w', encoding='utf-8') as superregion_file:
+    with open('output//game//in_game//setup//countries//' + superregion.name +'.txt', 'w', encoding='utf-8-sig') as superregion_file:
         for country in superregion.countries:
             country_tag = country.tag
             country_data = countries_data.get(country_tag, {})
@@ -565,7 +565,7 @@ rulers = dict(sorted(rulers.items(), key=lambda item: (
 with open('templates/anb_character_template.txt', 'r', encoding='utf-8') as f:
     character_placeholder_template = f.read()
 
-with open('output\\game\\main_menu\\setup\\start\\05_anb_characters.txt', 'w', encoding='utf-8') as rulers_file:
+with open('output\\game\\main_menu\\setup\\start\\05_anb_characters.txt', 'w', encoding='utf-8-sig') as rulers_file:
     for key, value in rulers.items():
         new_string = str(character_placeholder_template)
         new_string = new_string.replace('PH_CHARACTER_TAG', key)
@@ -651,7 +651,7 @@ with open('templates/anb_10_countries_template_file.txt', 'r', encoding='utf-8')
 with open('templates/anb_10_countries_template_country.txt', 'r', encoding='utf-8') as f:
     single_country_template = f.read()
 
-with open('output\\game\\main_menu\\setup\\start\\10_countries.txt', 'w', encoding='utf-8') as country_setup_file:
+with open('output\\game\\main_menu\\setup\\start\\10_countries.txt', 'w', encoding='utf-8-sig') as country_setup_file:
     output_string = str(entire_file_template)
     countries_string = ''
     for country in Country.instances.values():
