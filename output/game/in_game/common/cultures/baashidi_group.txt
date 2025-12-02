@@ -1,4 +1,4 @@
-suhratbi = {
+﻿suhratbi = {
 	language = suhratbi_dialect
 	
 	color = rgb { 100 72 7 }

@@ -1,4 +1,4 @@
-hapremiti = {
+﻿hapremiti = {
 	language = hapremiti_dialect
 	
 	color = rgb { 219 148 35 }

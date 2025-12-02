@@ -1,4 +1,4 @@
-regent_court = { 
+﻿regent_court = { 
 	color = rgb { 182 182 182 }
 	group = cannorian
 	

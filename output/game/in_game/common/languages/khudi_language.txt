@@ -1,4 +1,4 @@
-khudi_language = {
+﻿khudi_language = {
 	color = rgb { 223 247 44 }
 
 	family = common # Placeholder

@@ -1,4 +1,4 @@
-bom_language = {
+﻿bom_language = {
 	color = rgb { 35 153 90 }
 
 	family = common # Placeholder

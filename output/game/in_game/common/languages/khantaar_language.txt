@@ -1,4 +1,4 @@
-khantaar_language = {
+﻿khantaar_language = {
 	color = rgb { 125 120 120 }
 
 	family = common # Placeholder

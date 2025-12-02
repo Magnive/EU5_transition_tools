@@ -1,4 +1,4 @@
-vurebindu_language = {
+﻿vurebindu_language = {
 	color = rgb { 0 102 255 }
 
 	family = common # Placeholder

@@ -1,4 +1,4 @@
-valorman = {
+﻿valorman = {
 	language = valorman_dialect
 	
 	color = rgb { 246 54 77 }

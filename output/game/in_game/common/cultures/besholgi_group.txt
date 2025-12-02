@@ -1,4 +1,4 @@
-second_graphical_culture = {
+﻿second_graphical_culture = {
 	language = second_graphical_culture_dialect
 	
 	color = rgb { 0 0 0 }

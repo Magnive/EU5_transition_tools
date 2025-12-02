@@ -1,4 +1,4 @@
-kamgoro = {
+﻿kamgoro = {
 	language = kamgoro_dialect
 	
 	color = rgb { 0 0 0 }

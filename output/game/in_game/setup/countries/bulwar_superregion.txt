@@ -1,4 +1,4 @@
-F21 = {
+﻿F21 = {
 	color = rgb { 207 98 173 }
 
 	culture_definition = sun_elf

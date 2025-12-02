@@ -1,4 +1,4 @@
-ancestor_worship = { 
+﻿ancestor_worship = { 
 	color = rgb { 254 254 254 }
 	group = dwarven
 	

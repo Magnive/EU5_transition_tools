@@ -1,4 +1,4 @@
-dostanorian_g_language = {
+﻿dostanorian_g_language = {
 	color = rgb { 120 120 120 }
 
 	family = common # Placeholder

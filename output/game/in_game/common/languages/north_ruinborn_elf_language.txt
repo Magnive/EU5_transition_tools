@@ -1,4 +1,4 @@
-north_ruinborn_elf_language = {
+﻿north_ruinborn_elf_language = {
 	color = rgb { 100 100 255 }
 
 	family = common # Placeholder

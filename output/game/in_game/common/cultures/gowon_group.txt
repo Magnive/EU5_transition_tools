@@ -1,4 +1,4 @@
-giteuni = {
+﻿giteuni = {
 	language = giteuni_dialect
 	
 	color = rgb { 192 192 192 }

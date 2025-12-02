@@ -1,4 +1,4 @@
-bulwari_sun_cult = { 
+﻿bulwari_sun_cult = { 
 	color = rgb { 255 201 14 }
 	group = bulwari
 	

@@ -1,4 +1,4 @@
-G02 = {
+﻿G02 = {
 	color = rgb { 65 19 40 }
 
 	culture_definition = mayte

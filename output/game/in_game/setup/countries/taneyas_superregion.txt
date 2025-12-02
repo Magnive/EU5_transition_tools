@@ -1,4 +1,4 @@
-L68 = {
+﻿L68 = {
 	color = rgb { 225 102 153 }
 
 	culture_definition = shagashay_lizardfolk

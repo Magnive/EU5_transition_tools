@@ -1,4 +1,4 @@
-cannorian = {
+﻿cannorian = {
 	color = rgb { 182 182 182 }
 	convert_slaves_at_start = no
 }

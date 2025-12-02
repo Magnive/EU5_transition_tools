@@ -1,4 +1,4 @@
-west_sarhaly_language = {
+﻿west_sarhaly_language = {
 	color = rgb { 250 214 115 }
 
 	family = common # Placeholder

@@ -1,4 +1,4 @@
-gods_of_the_taychend = { 
+﻿gods_of_the_taychend = { 
 	color = rgb { 188 181 73 }
 	group = taychendi
 	

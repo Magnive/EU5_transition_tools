@@ -1,4 +1,4 @@
-kheteratan_language = {
+﻿kheteratan_language = {
 	color = rgb { 219 148 35 }
 
 	family = common # Placeholder

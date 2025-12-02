@@ -1,4 +1,4 @@
-feast_of_the_gods = { 
+﻿feast_of_the_gods = { 
 	color = rgb { 120 127 89 }
 	group = giantkin
 	

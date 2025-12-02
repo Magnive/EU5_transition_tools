@@ -1,4 +1,4 @@
-V01 = {
+﻿V01 = {
 	color = rgb { 223 247 44 }
 
 	culture_definition = oinukhudi

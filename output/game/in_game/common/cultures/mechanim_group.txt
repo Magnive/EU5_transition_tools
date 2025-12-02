@@ -1,4 +1,4 @@
-awoken_mechanim = {
+﻿awoken_mechanim = {
 	language = awoken_mechanim_dialect
 	
 	color = rgb { 0 0 0 }

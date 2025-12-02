@@ -1,4 +1,4 @@
-kobold_dragon_cult = { 
+﻿kobold_dragon_cult = { 
 	color = rgb { 3 85 124 }
 	group = dragon_cult
 	

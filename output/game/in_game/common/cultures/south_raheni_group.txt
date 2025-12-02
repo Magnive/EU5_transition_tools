@@ -1,4 +1,4 @@
-sarniryabsad = {
+﻿sarniryabsad = {
 	language = sarniryabsad_dialect
 	
 	color = rgb { 87 151 238 }

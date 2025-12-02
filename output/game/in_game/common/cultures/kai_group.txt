@@ -1,4 +1,4 @@
-phonan = {
+﻿phonan = {
 	language = phonan_dialect
 	
 	color = rgb { 212 175 55 }

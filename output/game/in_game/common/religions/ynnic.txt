@@ -1,4 +1,4 @@
-ynn_river_worship = { 
+﻿ynn_river_worship = { 
 	color = rgb { 139 172 212 }
 	group = ynnic
 	

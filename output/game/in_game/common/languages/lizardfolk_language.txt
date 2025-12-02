@@ -1,4 +1,4 @@
-lizardfolk_language = {
+﻿lizardfolk_language = {
 	color = rgb { 225 102 153 }
 
 	family = common # Placeholder

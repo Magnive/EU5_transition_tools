@@ -1,4 +1,4 @@
-rioqay_diu = { 
+﻿rioqay_diu = { 
 	color = rgb { 247 214 214 }
 	group = amadian_religion
 	

@@ -1,4 +1,4 @@
-anbenncoster = {
+﻿anbenncoster = {
 	language = anbenncoster_dialect
 	
 	color = rgb { 95 178 186 }

@@ -1,4 +1,4 @@
-nakavy_avo = { 
+﻿nakavy_avo = { 
 	color = rgb { 183 110 121 }
 	group = tanibic_religion
 	

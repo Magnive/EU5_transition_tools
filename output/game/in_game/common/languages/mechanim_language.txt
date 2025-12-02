@@ -1,4 +1,4 @@
-mechanim_language = {
+﻿mechanim_language = {
 	color = rgb { 0 0 0 }
 
 	family = common # Placeholder

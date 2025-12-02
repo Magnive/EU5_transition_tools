@@ -1,4 +1,4 @@
-baashidi_language = {
+﻿baashidi_language = {
 	color = rgb { 100 72 7 }
 
 	family = common # Placeholder

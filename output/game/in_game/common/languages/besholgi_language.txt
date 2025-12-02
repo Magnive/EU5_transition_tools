@@ -1,4 +1,4 @@
-besholgi_language = {
+﻿besholgi_language = {
 	color = rgb { 0 0 0 }
 
 	family = common # Placeholder

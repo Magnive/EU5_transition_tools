@@ -1,4 +1,4 @@
-mteibhar = {
+﻿mteibhar = {
 	language = mteibhar_dialect
 	
 	color = rgb { 181 201 225 }

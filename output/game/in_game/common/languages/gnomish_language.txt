@@ -1,4 +1,4 @@
-gnomish_language = {
+﻿gnomish_language = {
 	color = rgb { 254 207 255 }
 
 	family = common # Placeholder

@@ -1,4 +1,4 @@
-anzalkatsa = { 
+﻿anzalkatsa = { 
 	color = rgb { 104 155 55 }
 	group = lizardfolk_religion
 	

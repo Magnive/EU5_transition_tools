@@ -1,4 +1,4 @@
-corvurian = {
+﻿corvurian = {
 	language = corvurian_dialect
 	
 	color = rgb { 120 120 120 }

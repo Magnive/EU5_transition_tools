@@ -1,4 +1,4 @@
-pyreclaw_gnoll = {
+﻿pyreclaw_gnoll = {
 	language = pyreclaw_gnoll_dialect
 	
 	color = rgb { 160 125 93 }

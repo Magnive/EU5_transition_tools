@@ -1,4 +1,4 @@
-dwarven_language = {
+﻿dwarven_language = {
 	color = rgb { 239 52 52 }
 
 	family = common # Placeholder

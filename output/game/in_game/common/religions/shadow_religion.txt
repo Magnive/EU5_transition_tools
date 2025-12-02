@@ -1,4 +1,4 @@
-night_coven = { 
+﻿night_coven = { 
 	color = rgb { 6 6 6 }
 	group = shadow_religion
 	

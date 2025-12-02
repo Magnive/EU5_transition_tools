@@ -1,4 +1,4 @@
-elven_language = {
+﻿elven_language = {
 	color = rgb { 196 243 246 }
 
 	family = common # Placeholder

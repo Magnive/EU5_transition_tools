@@ -1,4 +1,4 @@
-F65 = {
+﻿F65 = {
 	color = rgb { 5 115 25 }
 
 	culture_definition = windhowler_gnoll

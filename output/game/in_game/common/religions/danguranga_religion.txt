@@ -1,4 +1,4 @@
-mumambarra = { 
+﻿mumambarra = { 
 	color = rgb { 189 103 17 }
 	group = danguranga_religion
 	

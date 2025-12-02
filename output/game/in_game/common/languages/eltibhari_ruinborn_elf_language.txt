@@ -1,4 +1,4 @@
-eltibhari_ruinborn_elf_language = {
+﻿eltibhari_ruinborn_elf_language = {
 	color = rgb { 161 156 76 }
 
 	family = common # Placeholder

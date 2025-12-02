@@ -1,4 +1,4 @@
-manago_poku = { 
+﻿manago_poku = { 
 	color = rgb { 66 66 66 }
 	group = mechanim_religion
 	

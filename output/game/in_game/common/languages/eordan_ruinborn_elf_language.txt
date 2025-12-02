@@ -1,4 +1,4 @@
-eordan_ruinborn_elf_language = {
+﻿eordan_ruinborn_elf_language = {
 	color = rgb { 112 11 187 }
 
 	family = common # Placeholder

@@ -1,4 +1,4 @@
-forest_goblin = {
+﻿forest_goblin = {
 	language = forest_goblin_dialect
 	
 	color = rgb { 43 232 43 }

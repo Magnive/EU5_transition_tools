@@ -1,4 +1,4 @@
-akasi_language = {
+﻿akasi_language = {
 	color = rgb { 68 146 194 }
 
 	family = common # Placeholder

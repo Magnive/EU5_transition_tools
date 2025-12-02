@@ -1,4 +1,4 @@
-desha = {
+﻿desha = {
 	language = desha_dialect
 	
 	color = rgb { 68 146 194 }

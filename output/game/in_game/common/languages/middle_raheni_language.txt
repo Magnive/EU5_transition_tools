@@ -1,4 +1,4 @@
-middle_raheni_language = {
+﻿middle_raheni_language = {
 	color = rgb { 209 228 255 }
 
 	family = common # Placeholder

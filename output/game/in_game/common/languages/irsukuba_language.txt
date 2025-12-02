@@ -1,4 +1,4 @@
-irsukuba_language = {
+﻿irsukuba_language = {
 	color = rgb { 210 180 140 }
 
 	family = common # Placeholder

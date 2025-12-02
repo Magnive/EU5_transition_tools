@@ -1,4 +1,4 @@
-oinukhudi = {
+﻿oinukhudi = {
 	language = oinukhudi_dialect
 	
 	color = rgb { 223 247 44 }

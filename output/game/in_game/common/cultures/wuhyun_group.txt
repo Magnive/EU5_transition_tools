@@ -1,4 +1,4 @@
-ikaniwagain = {
+﻿ikaniwagain = {
 	language = ikaniwagain_dialect
 	
 	color = rgb { 153 76 0 }

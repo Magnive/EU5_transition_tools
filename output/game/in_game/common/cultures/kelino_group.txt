@@ -1,4 +1,4 @@
-kelino = {
+﻿kelino = {
 	language = kelino_dialect
 	
 	color = rgb { 115 54 53 }

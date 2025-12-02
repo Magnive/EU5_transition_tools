@@ -1,4 +1,4 @@
-inyaswarosa_language = {
+﻿inyaswarosa_language = {
 	color = rgb { 246 245 131 }
 
 	family = common # Placeholder

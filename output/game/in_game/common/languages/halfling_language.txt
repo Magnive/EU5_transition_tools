@@ -1,4 +1,4 @@
-halfling_language = {
+﻿halfling_language = {
 	color = rgb { 255 242 100 }
 
 	family = common # Placeholder

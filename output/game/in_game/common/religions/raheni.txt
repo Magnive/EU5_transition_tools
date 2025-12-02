@@ -1,4 +1,4 @@
-high_philosophy = { 
+﻿high_philosophy = { 
 	color = rgb { 73 9 96 }
 	group = raheni
 	

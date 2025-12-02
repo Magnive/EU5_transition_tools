@@ -1,4 +1,4 @@
-G15 = {
+﻿G15 = {
 	color = rgb { 173 215 247 }
 
 	culture_definition = parura

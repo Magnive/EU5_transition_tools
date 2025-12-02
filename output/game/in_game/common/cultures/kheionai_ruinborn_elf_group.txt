@@ -1,4 +1,4 @@
-degabhen = {
+﻿degabhen = {
 	language = degabhen_dialect
 	
 	color = rgb { 225 40 88 }

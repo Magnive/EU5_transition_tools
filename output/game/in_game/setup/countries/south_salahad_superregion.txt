@@ -1,4 +1,4 @@
-F55 = {
+﻿F55 = {
 	color = rgb { 130 35 20 }
 
 	culture_definition = fieldstalker_gnoll

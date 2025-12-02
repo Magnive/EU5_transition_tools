@@ -1,4 +1,4 @@
-tanizu = {
+﻿tanizu = {
 	language = tanizu_dialect
 	
 	color = rgb { 246 245 131 }

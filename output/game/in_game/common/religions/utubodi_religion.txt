@@ -1,4 +1,4 @@
-infinite_self = { 
+﻿infinite_self = { 
 	color = rgb { 198 198 198 }
 	group = utubodi_religion
 	

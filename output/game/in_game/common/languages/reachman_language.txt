@@ -1,4 +1,4 @@
-reachman_language = {
+﻿reachman_language = {
 	color = rgb { 99 138 197 }
 
 	family = common # Placeholder

@@ -1,4 +1,4 @@
-B79 = {
+﻿B79 = {
 	color = rgb { 49 63 0 }
 
 	culture_definition = common_goblin

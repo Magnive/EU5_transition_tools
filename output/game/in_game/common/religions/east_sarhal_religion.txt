@@ -1,4 +1,4 @@
-sky_domain = { 
+﻿sky_domain = { 
 	color = rgb { 150 180 250 }
 	group = east_sarhal_religion
 	

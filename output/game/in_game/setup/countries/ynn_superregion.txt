@@ -1,4 +1,4 @@
-G21 = {
+﻿G21 = {
 	color = rgb { 21 149 9 }
 
 	culture_definition = rzentur

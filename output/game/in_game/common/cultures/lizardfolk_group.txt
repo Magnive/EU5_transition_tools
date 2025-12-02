@@ -1,4 +1,4 @@
-shagashay_lizardfolk = {
+﻿shagashay_lizardfolk = {
 	language = shagashay_lizardfolk_dialect
 	
 	color = rgb { 225 102 153 }

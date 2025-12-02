@@ -1,4 +1,4 @@
-rzentur = {
+﻿rzentur = {
 	language = rzentur_dialect
 	
 	color = rgb { 57 124 64 }

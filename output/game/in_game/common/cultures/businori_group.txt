@@ -1,4 +1,4 @@
-busilari = {
+﻿busilari = {
 	language = busilari_dialect
 	
 	color = rgb { 211 85 4 }

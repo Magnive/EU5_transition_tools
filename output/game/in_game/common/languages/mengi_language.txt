@@ -1,4 +1,4 @@
-mengi_language = {
+﻿mengi_language = {
 	color = rgb { 158 132 0 }
 
 	family = common # Placeholder

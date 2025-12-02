@@ -1,4 +1,4 @@
-kodave_followers = { 
+﻿kodave_followers = { 
 	color = rgb { 235 88 48 }
 	group = triunic_lake
 	

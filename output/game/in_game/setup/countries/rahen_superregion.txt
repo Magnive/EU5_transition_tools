@@ -1,4 +1,4 @@
-R00 = {
+﻿R00 = {
 	color = rgb { 115 6 6 }
 
 	culture_definition = royal_harimari

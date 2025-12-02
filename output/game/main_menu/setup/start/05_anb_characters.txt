@@ -1,4 +1,4 @@
-	Z97_torrieth = {
+﻿	Z97_torrieth = {
 		first_name = { name = torrieth }
 		culture = moon_elf
 		religion = unknown_religion

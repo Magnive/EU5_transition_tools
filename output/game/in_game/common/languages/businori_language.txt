@@ -1,4 +1,4 @@
-businori_language = {
+﻿businori_language = {
 	color = rgb { 211 85 4 }
 
 	family = common # Placeholder

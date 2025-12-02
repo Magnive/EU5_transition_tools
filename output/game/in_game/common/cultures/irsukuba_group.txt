@@ -1,4 +1,4 @@
-kudemtu = {
+﻿kudemtu = {
 	language = kudemtu_dialect
 	
 	color = rgb { 210 180 140 }

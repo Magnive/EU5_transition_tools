@@ -1,4 +1,4 @@
-firanyan_harpy = {
+﻿firanyan_harpy = {
 	language = firanyan_harpy_dialect
 	
 	color = rgb { 200 169 168 }

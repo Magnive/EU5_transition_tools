@@ -1,4 +1,4 @@
-reverian = {
+﻿reverian = {
 	language = reverian_dialect
 	
 	color = rgb { 135 129 189 }

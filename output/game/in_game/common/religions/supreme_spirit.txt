@@ -1,4 +1,4 @@
-umun_omi = { 
+﻿umun_omi = { 
 	color = rgb { 0 63 63 }
 	group = supreme_spirit
 	

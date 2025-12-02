@@ -1,4 +1,4 @@
-H74 = {
+﻿H74 = {
 	color = rgb { 0 105 62 }
 
 	culture_definition = undergrowth_goblin

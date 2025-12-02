@@ -1,4 +1,4 @@
-A59 = {
+﻿A59 = {
 	color = rgb { 120 120 120 }
 
 	culture_definition = corvurian

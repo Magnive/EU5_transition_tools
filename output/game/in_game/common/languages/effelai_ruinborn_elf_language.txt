@@ -1,4 +1,4 @@
-effelai_ruinborn_elf_language = {
+﻿effelai_ruinborn_elf_language = {
 	color = rgb { 0 0 0 }
 
 	family = common # Placeholder

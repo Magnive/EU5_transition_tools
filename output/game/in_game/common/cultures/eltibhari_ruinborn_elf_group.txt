@@ -1,4 +1,4 @@
-eltibhar = {
+﻿eltibhar = {
 	language = eltibhar_dialect
 	
 	color = rgb { 161 156 76 }

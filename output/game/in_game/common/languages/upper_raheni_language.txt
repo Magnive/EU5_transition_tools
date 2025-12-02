@@ -1,4 +1,4 @@
-upper_raheni_language = {
+﻿upper_raheni_language = {
 	color = rgb { 70 76 47 }
 
 	family = common # Placeholder

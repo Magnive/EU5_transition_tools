@@ -1,4 +1,4 @@
-triunic_language = {
+﻿triunic_language = {
 	color = rgb { 20 50 210 }
 
 	family = common # Placeholder

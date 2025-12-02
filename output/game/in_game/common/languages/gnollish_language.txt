@@ -1,4 +1,4 @@
-gnollish_language = {
+﻿gnollish_language = {
 	color = rgb { 160 125 93 }
 
 	family = common # Placeholder

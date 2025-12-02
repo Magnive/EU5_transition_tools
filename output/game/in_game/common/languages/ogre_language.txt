@@ -1,4 +1,4 @@
-ogre_language = {
+﻿ogre_language = {
 	color = rgb { 196 180 132 }
 
 	family = common # Placeholder

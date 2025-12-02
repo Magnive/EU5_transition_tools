@@ -1,4 +1,4 @@
-blue_reachman_r = {
+﻿blue_reachman_r = {
 	language = blue_reachman_r_dialect
 	
 	color = rgb { 99 138 197 }

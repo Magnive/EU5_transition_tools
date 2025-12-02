@@ -1,4 +1,4 @@
-fjord_troll = {
+﻿fjord_troll = {
 	language = fjord_troll_dialect
 	
 	color = rgb { 153 217 234 }

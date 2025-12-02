@@ -1,4 +1,4 @@
-speaking_memory = { 
+﻿speaking_memory = { 
 	color = rgb { 56 29 80 }
 	group = kanolowele_religion
 	

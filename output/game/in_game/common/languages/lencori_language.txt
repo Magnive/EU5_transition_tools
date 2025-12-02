@@ -1,4 +1,4 @@
-lencori_language = {
+﻿lencori_language = {
 	color = rgb { 90 0 0 }
 
 	family = common # Placeholder

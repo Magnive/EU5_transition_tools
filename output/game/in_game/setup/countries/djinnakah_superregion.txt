@@ -1,4 +1,4 @@
-S16 = {
+﻿S16 = {
 	color = rgb { 250 255 245 }
 
 	culture_definition = suhratbi

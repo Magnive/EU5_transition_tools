@@ -1,4 +1,4 @@
-bulwari_language = {
+﻿bulwari_language = {
 	color = rgb { 43 110 96 }
 
 	family = common # Placeholder

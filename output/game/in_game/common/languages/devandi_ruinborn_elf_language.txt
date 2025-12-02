@@ -1,4 +1,4 @@
-devandi_ruinborn_elf_language = {
+﻿devandi_ruinborn_elf_language = {
 	color = rgb { 181 201 225 }
 
 	family = common # Placeholder

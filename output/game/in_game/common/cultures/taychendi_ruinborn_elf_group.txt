@@ -1,4 +1,4 @@
-larankarha = {
+﻿larankarha = {
 	language = larankarha_dialect
 	
 	color = rgb { 180 117 63 }

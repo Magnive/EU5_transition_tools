@@ -1,4 +1,4 @@
-undead_language = {
+﻿undead_language = {
 	color = rgb { 0 0 0 }
 
 	family = common # Placeholder

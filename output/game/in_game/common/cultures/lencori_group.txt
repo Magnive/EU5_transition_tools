@@ -1,4 +1,4 @@
-high_lorentish = {
+﻿high_lorentish = {
 	language = high_lorentish_dialect
 	
 	color = rgb { 90 0 0 }

@@ -1,4 +1,4 @@
-elven_forebears = { 
+﻿elven_forebears = { 
 	color = rgb { 186 241 248 }
 	group = elven
 	

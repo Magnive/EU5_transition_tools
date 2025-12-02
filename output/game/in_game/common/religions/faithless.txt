@@ -1,4 +1,4 @@
-the_thought = { 
+﻿the_thought = { 
 	color = rgb { 221 128 212 }
 	group = faithless
 	

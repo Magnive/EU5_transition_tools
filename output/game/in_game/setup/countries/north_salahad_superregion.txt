@@ -1,4 +1,4 @@
-F57 = {
+﻿F57 = {
 	color = rgb { 90 135 65 }
 
 	culture_definition = khasani

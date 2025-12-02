@@ -1,4 +1,4 @@
-I47 = {
+﻿I47 = {
 	color = rgb { 241 33 156 }
 
 	culture_definition = plain_centaur

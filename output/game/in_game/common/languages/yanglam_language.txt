@@ -1,4 +1,4 @@
-yanglam_language = {
+﻿yanglam_language = {
 	color = rgb { 215 50 125 }
 
 	family = common # Placeholder

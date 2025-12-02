@@ -1,4 +1,4 @@
-yan_language = {
+﻿yan_language = {
 	color = rgb { 156 172 171 }
 
 	family = common # Placeholder

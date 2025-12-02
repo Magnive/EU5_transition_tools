@@ -1,4 +1,4 @@
-N00 = {
+﻿N00 = {
 	color = rgb { 0 0 150 }
 
 	culture_definition = poplacoa

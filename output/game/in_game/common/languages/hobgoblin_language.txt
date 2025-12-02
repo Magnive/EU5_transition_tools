@@ -1,4 +1,4 @@
-hobgoblin_language = {
+﻿hobgoblin_language = {
 	color = rgb { 101 32 13 }
 
 	family = common # Placeholder

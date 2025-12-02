@@ -1,4 +1,4 @@
-gawedi = {
+﻿gawedi = {
 	language = gawedi_dialect
 	
 	color = rgb { 48 51 108 }

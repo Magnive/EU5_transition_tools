@@ -1,4 +1,4 @@
-the_hunt = { 
+﻿the_hunt = { 
 	color = rgb { 173 148 124 }
 	group = harpy_cults
 	

@@ -1,4 +1,4 @@
-zuvunwa = {
+﻿zuvunwa = {
 	language = zuvunwa_dialect
 	
 	color = rgb { 0 102 255 }

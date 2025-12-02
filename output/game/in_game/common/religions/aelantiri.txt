@@ -1,4 +1,4 @@
-weeping_mother = { 
+﻿weeping_mother = { 
 	color = rgb { 255 120 128 }
 	group = aelantiri
 	

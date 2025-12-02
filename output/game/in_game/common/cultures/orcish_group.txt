@@ -1,4 +1,4 @@
-gray_orc = {
+﻿gray_orc = {
 	language = gray_orc_dialect
 	
 	color = rgb { 0 0 0 }

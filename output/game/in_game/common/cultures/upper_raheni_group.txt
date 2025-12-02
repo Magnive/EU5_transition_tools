@@ -1,4 +1,4 @@
-kamtarhid = {
+﻿kamtarhid = {
 	language = kamtarhid_dialect
 	
 	color = rgb { 70 76 47 }

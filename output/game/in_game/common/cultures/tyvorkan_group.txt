@@ -1,4 +1,4 @@
-taric = {
+﻿taric = {
 	language = taric_dialect
 	
 	color = rgb { 20 31 107 }

@@ -1,4 +1,4 @@
-alenic_language = {
+﻿alenic_language = {
 	color = rgb { 48 51 108 }
 
 	family = common # Placeholder

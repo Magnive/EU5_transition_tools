@@ -1,4 +1,4 @@
-L54 = {
+﻿L54 = {
 	color = rgb { 130 119 23 }
 
 	culture_definition = yeteferen

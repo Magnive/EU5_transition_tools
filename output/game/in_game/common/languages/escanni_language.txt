@@ -1,4 +1,4 @@
-escanni_language = {
+﻿escanni_language = {
 	color = rgb { 0 0 0 }
 
 	family = common # Placeholder

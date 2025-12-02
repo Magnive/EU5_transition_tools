@@ -1,4 +1,4 @@
-gotiriei = { 
+﻿gotiriei = { 
 	color = rgb { 145 144 119 }
 	group = eltibhen_religion
 	

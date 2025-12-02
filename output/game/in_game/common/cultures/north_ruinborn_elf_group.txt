@@ -1,4 +1,4 @@
-boek = {
+﻿boek = {
 	language = boek_dialect
 	
 	color = rgb { 100 100 255 }

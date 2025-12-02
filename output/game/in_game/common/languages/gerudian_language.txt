@@ -1,4 +1,4 @@
-gerudian_language = {
+﻿gerudian_language = {
 	color = rgb { 135 129 189 }
 
 	family = common # Placeholder

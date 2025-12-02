@@ -1,4 +1,4 @@
-chippengarder_half_orc = {
+﻿chippengarder_half_orc = {
 	language = chippengarder_half_orc_dialect
 	
 	color = rgb { 209 197 154 }

@@ -1,4 +1,4 @@
-F60 = {
+﻿F60 = {
 	color = rgb { 220 0 20 }
 
 	culture_definition = tijarikheti

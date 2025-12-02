@@ -1,4 +1,4 @@
- = {
+﻿ = {
 	unknown__superregion = {
 		broken_sea_region = {
 			broken_sea_approach_area = {

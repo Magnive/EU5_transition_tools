@@ -1,4 +1,4 @@
-ofehibi = {
+﻿ofehibi = {
 	language = ofehibi_dialect
 	
 	color = rgb { 158 132 0 }

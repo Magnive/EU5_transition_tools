@@ -1,4 +1,4 @@
-lich = {
+﻿lich = {
 	language = lich_dialect
 	
 	color = rgb { 0 0 0 }

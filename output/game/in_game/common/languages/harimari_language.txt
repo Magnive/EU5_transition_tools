@@ -1,4 +1,4 @@
-harimari_language = {
+﻿harimari_language = {
 	color = rgb { 45 27 72 }
 
 	family = common # Placeholder

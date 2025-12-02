@@ -1,4 +1,4 @@
-redscale_kobold = {
+﻿redscale_kobold = {
 	language = redscale_kobold_dialect
 	
 	color = rgb { 174 75 75 }

@@ -1,4 +1,4 @@
-shuvuush = {
+﻿shuvuush = {
 	language = shuvuush_dialect
 	
 	color = rgb { 125 120 120 }

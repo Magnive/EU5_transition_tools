@@ -1,4 +1,4 @@
-trollsbayer_language = {
+﻿trollsbayer_language = {
 	color = rgb { 246 54 77 }
 
 	family = common # Placeholder

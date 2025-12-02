@@ -1,4 +1,4 @@
-ynnic_ruinborn_elf_language = {
+﻿ynnic_ruinborn_elf_language = {
 	color = rgb { 57 124 64 }
 
 	family = common # Placeholder

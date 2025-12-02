@@ -1,4 +1,4 @@
-B17 = {
+﻿B17 = {
 	color = rgb { 143 120 28 }
 
 	culture_definition = silver_dwarf

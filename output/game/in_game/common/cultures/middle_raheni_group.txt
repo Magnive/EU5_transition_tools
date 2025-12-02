@@ -1,4 +1,4 @@
-muthadhaya = {
+﻿muthadhaya = {
 	language = muthadhaya_dialect
 	
 	color = rgb { 209 228 255 }

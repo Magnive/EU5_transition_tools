@@ -1,4 +1,4 @@
-kalun_masks = { 
+﻿kalun_masks = { 
 	color = rgb { 210 20 60 }
 	group = harafic
 	

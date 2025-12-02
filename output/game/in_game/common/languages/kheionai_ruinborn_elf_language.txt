@@ -1,4 +1,4 @@
-kheionai_ruinborn_elf_language = {
+﻿kheionai_ruinborn_elf_language = {
 	color = rgb { 225 40 88 }
 
 	family = common # Placeholder

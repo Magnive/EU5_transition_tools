@@ -1,4 +1,4 @@
-soruinic = {
+﻿soruinic = {
 	language = soruinic_dialect
 	
 	color = rgb { 122 82 114 }

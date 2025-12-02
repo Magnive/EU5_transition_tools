@@ -1,4 +1,4 @@
-R68 = {
+﻿R68 = {
 	color = rgb { 40 75 99 }
 
 	culture_definition = elephant_command

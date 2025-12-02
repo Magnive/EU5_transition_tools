@@ -1,4 +1,4 @@
-goblinic_shamanism = { 
+﻿goblinic_shamanism = { 
 	color = rgb { 127 76 76 }
 	group = goblin
 	

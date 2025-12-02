@@ -1,4 +1,4 @@
-giantkind_language = {
+﻿giantkind_language = {
 	color = rgb { 153 217 234 }
 
 	family = common # Placeholder

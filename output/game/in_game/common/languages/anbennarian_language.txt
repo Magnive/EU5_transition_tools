@@ -1,4 +1,4 @@
-anbennarian_language = {
+﻿anbennarian_language = {
 	color = rgb { 95 178 186 }
 
 	family = common # Placeholder

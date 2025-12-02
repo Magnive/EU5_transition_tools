@@ -1,4 +1,4 @@
-G46 = {
+﻿G46 = {
 	color = rgb { 225 40 88 }
 
 	culture_definition = degabhen

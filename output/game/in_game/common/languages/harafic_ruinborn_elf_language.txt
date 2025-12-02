@@ -1,4 +1,4 @@
-harafic_ruinborn_elf_language = {
+﻿harafic_ruinborn_elf_language = {
 	color = rgb { 160 128 122 }
 
 	family = common # Placeholder

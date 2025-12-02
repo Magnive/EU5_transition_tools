@@ -1,4 +1,4 @@
-elikhetist = { 
+﻿elikhetist = { 
 	color = rgb { 252 162 100 }
 	group = khetist
 	

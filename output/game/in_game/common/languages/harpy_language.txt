@@ -1,4 +1,4 @@
-harpy_language = {
+﻿harpy_language = {
 	color = rgb { 200 169 168 }
 
 	family = common # Placeholder

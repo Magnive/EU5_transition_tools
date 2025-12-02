@@ -1,4 +1,4 @@
-bangowla = {
+﻿bangowla = {
 	language = bangowla_dialect
 	
 	color = rgb { 0 0 0 }

@@ -1,4 +1,4 @@
-tswohvwohii = { 
+﻿tswohvwohii = { 
 	color = rgb { 32 86 26 }
 	group = effelai
 	

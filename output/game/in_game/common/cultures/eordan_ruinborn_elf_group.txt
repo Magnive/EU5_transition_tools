@@ -1,4 +1,4 @@
-selphereg = {
+﻿selphereg = {
 	language = selphereg_dialect
 	
 	color = rgb { 112 11 187 }

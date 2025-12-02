@@ -1,4 +1,4 @@
-ruby_dwarf = {
+﻿ruby_dwarf = {
 	language = ruby_dwarf_dialect
 	
 	color = rgb { 239 52 52 }

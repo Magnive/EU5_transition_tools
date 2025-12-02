@@ -1,4 +1,4 @@
-bahari = {
+﻿bahari = {
 	language = bahari_dialect
 	
 	color = rgb { 43 110 96 }

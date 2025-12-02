@@ -1,4 +1,4 @@
-half_orc = {
+﻿half_orc = {
 	language = half_orc_dialect
 	
 	color = rgb { 0 0 0 }

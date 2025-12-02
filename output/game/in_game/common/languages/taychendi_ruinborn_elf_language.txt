@@ -1,4 +1,4 @@
-taychendi_ruinborn_elf_language = {
+﻿taychendi_ruinborn_elf_language = {
 	color = rgb { 180 117 63 }
 
 	family = common # Placeholder

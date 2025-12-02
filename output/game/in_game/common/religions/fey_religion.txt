@@ -1,4 +1,4 @@
-fey_court = { 
+﻿fey_court = { 
 	color = rgb { 0 114 187 }
 	group = fey_religion
 	

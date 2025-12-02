@@ -1,4 +1,4 @@
-M20 = {
+﻿M20 = {
 	color = rgb { 119 189 128 }
 
 	culture_definition = awoken_mechanim

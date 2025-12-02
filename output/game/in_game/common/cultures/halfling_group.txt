@@ -1,4 +1,4 @@
-imperial_halfling = {
+﻿imperial_halfling = {
 	language = imperial_halfling_dialect
 	
 	color = rgb { 255 242 100 }

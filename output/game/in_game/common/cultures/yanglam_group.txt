@@ -1,4 +1,4 @@
-hujan = {
+﻿hujan = {
 	language = hujan_dialect
 	
 	color = rgb { 215 50 125 }

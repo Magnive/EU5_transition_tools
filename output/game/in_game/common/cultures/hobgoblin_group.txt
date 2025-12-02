@@ -1,4 +1,4 @@
-boar_command = {
+﻿boar_command = {
 	language = boar_command_dialect
 	
 	color = rgb { 101 32 13 }

@@ -1,4 +1,4 @@
-royal_harimari = {
+﻿royal_harimari = {
 	language = royal_harimari_dialect
 	
 	color = rgb { 45 27 72 }

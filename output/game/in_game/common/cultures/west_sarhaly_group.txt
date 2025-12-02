@@ -1,4 +1,4 @@
-mantimatu = {
+﻿mantimatu = {
 	language = mantimatu_dialect
 	
 	color = rgb { 250 214 115 }

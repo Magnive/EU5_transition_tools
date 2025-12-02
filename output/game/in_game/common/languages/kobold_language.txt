@@ -1,4 +1,4 @@
-kobold_language = {
+﻿kobold_language = {
 	color = rgb { 174 75 75 }
 
 	family = common # Placeholder

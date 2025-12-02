@@ -1,4 +1,4 @@
-B63 = {
+﻿B63 = {
 	color = rgb { 139 0 0 }
 
 	culture_definition = moredhalic

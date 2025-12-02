@@ -1,4 +1,4 @@
-H37 = {
+﻿H37 = {
 	color = rgb { 182 210 232 }
 
 	culture_definition = esmari

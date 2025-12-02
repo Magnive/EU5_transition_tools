@@ -1,4 +1,4 @@
-R69 = {
+﻿R69 = {
 	color = rgb { 179 30 30 }
 
 	culture_definition = dragon_command

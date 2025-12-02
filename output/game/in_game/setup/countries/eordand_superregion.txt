@@ -1,4 +1,4 @@
-H01 = {
+﻿H01 = {
 	color = rgb { 112 11 187 }
 
 	culture_definition = selphereg

@@ -1,4 +1,4 @@
-jiangszun = {
+﻿jiangszun = {
 	language = jiangszun_dialect
 	
 	color = rgb { 156 172 171 }

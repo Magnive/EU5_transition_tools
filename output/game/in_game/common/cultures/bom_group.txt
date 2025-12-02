@@ -1,4 +1,4 @@
-ranilau = {
+﻿ranilau = {
 	language = ranilau_dialect
 	
 	color = rgb { 35 153 90 }

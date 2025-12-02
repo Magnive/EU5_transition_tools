@@ -1,4 +1,4 @@
-wuhyun_language = {
+﻿wuhyun_language = {
 	color = rgb { 153 76 0 }
 
 	family = common # Placeholder

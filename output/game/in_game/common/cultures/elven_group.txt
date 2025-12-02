@@ -1,4 +1,4 @@
-moon_elf = {
+﻿moon_elf = {
 	language = moon_elf_dialect
 	
 	color = rgb { 196 243 246 }

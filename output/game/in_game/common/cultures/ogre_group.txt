@@ -1,4 +1,4 @@
-fathide_ogre = {
+﻿fathide_ogre = {
 	language = fathide_ogre_dialect
 	
 	color = rgb { 196 180 132 }

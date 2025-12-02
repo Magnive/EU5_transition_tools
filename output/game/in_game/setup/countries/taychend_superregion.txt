@@ -1,4 +1,4 @@
-G00 = {
+﻿G00 = {
 	color = rgb { 172 40 31 }
 
 	culture_definition = not found

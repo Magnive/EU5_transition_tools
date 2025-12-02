@@ -1,4 +1,4 @@
-irdaeos_worship = { 
+﻿irdaeos_worship = { 
 	color = rgb { 60 40 20 }
 	group = centaur_religion
 	

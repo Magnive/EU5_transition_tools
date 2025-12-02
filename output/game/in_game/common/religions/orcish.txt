@@ -1,4 +1,4 @@
-great_dookan = { 
+﻿great_dookan = { 
 	color = rgb { 43 106 62 }
 	group = orcish
 	
