@@ -564,9 +564,9 @@ with open('input\\loc\\anb_regions_l_english.yml', 'r', encoding='utf-8-sig') as
             loc = loc.removesuffix('\n') # Remove newline character, as some lines lose it when comments are removed.
 
             if name in Region.instances:
-                Region.instances[name].loc = f'{name}_region:{loc}'
+                Region.instances[name].loc = f'{name}:{loc}'
             elif name in Superregion.instances:
-                Superregion.instances[name].loc = f'{name}_superregion:{loc}'
+                Superregion.instances[name].loc = f'{name}:{loc}'
 
 with open('input\\loc\\anb_areas_l_english.yml', 'r', encoding='utf-8-sig') as infile:
     lines = infile.readlines()
@@ -588,7 +588,7 @@ with open('input\\loc\\anb_areas_l_english.yml', 'r', encoding='utf-8-sig') as i
             loc = loc.removesuffix('\n') # Remove newline character, as some lines lose it when comments are removed.
 
             if name in Area.instances:
-                Area.instances[name].loc = f'{name}_area:{loc}'
+                Area.instances[name].loc = f'{name}:{loc}'
 
 with open('input\\loc\\prov_names_l_english.yml', 'r', encoding='utf-8-sig') as infile:
     lines = infile.readlines()
@@ -625,13 +625,13 @@ for continent in Continent.instances.values():
         continent.loc = f'{continent.name}: "UNKNOWN_CONTINENT"'
     for superregion in continent.superregions:
         if not hasattr(superregion, 'loc'):
-            superregion.loc = f'{superregion.name}_superregion: "UNKNOWN_SUPERREGION"'
+            superregion.loc = f'{superregion.name}: "UNKNOWN_SUPERREGION"'
         for region in superregion.regions:
             if not hasattr(region, 'loc'):
-                region.loc = f'{region.name}_region: "UNKNOWN_REGION"'
+                region.loc = f'{region.name}: "UNKNOWN_REGION"'
             for area in region.areas:
                 if not hasattr(area, 'loc'):
-                    area.loc = f'{area.name}_area: "UNKNOWN_AREA"'
+                    area.loc = f'{area.name}: "UNKNOWN_AREA"'
 
 with open('output\\game\\main_menu\\localization\\english\\province_names_l_english.yml', 'w', encoding='utf-8-sig') as province_loc_file, \
      open('output\\game\\main_menu\\localization\\english\\location_names\\location_names_l_english.yml', 'w', encoding='utf-8-sig') as location_loc_file, \
