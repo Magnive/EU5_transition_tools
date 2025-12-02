@@ -1,7 +1,7 @@
 ﻿ynnic_ruinborn_elf_language = {
 	color = rgb { 57 124 64 }
 
-	family = common # Placeholder
+	family = common_language_family # Placeholder
 
 	male_names = {
 	}

@@ -1,7 +1,7 @@
 ﻿akasi_language = {
 	color = rgb { 68 146 194 }
 
-	family = common # Placeholder
+	family = common_language_family # Placeholder
 
 	male_names = {
 	}

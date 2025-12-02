@@ -1,7 +1,7 @@
 ﻿bom_language = {
 	color = rgb { 35 153 90 }
 
-	family = common # Placeholder
+	family = common_language_family # Placeholder
 
 	male_names = {
 	}

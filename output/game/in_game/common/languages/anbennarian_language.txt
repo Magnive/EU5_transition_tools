@@ -1,7 +1,7 @@
 ﻿anbennarian_language = {
 	color = rgb { 95 178 186 }
 
-	family = common # Placeholder
+	family = common_language_family # Placeholder
 
 	male_names = {
 	}

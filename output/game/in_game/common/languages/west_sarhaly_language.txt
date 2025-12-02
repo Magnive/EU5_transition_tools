@@ -1,7 +1,7 @@
 ﻿west_sarhaly_language = {
 	color = rgb { 250 214 115 }
 
-	family = common # Placeholder
+	family = common_language_family # Placeholder
 
 	male_names = {
 	}

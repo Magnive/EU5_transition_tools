@@ -1,7 +1,7 @@
 ﻿alenic_language = {
 	color = rgb { 48 51 108 }
 
-	family = common # Placeholder
+	family = common_language_family # Placeholder
 
 	male_names = {
 	}

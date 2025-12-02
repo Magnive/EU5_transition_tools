@@ -1,7 +1,7 @@
 ﻿gerudian_language = {
 	color = rgb { 135 129 189 }
 
-	family = common # Placeholder
+	family = common_language_family # Placeholder
 
 	male_names = {
 	}

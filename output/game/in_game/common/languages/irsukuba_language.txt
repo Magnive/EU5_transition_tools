@@ -1,7 +1,7 @@
 ﻿irsukuba_language = {
 	color = rgb { 210 180 140 }
 
-	family = common # Placeholder
+	family = common_language_family # Placeholder
 
 	male_names = {
 	}

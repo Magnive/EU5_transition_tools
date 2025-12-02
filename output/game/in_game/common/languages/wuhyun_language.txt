@@ -1,7 +1,7 @@
 ﻿wuhyun_language = {
 	color = rgb { 153 76 0 }
 
-	family = common # Placeholder
+	family = common_language_family # Placeholder
 
 	male_names = {
 	}

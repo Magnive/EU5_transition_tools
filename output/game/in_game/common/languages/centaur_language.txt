@@ -1,7 +1,7 @@
 ﻿centaur_language = {
 	color = rgb { 100 15 15 }
 
-	family = common # Placeholder
+	family = common_language_family # Placeholder
 
 	male_names = {
 	}

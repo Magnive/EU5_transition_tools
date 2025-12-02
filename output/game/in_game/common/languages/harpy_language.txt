@@ -1,7 +1,7 @@
 ﻿harpy_language = {
 	color = rgb { 200 169 168 }
 
-	family = common # Placeholder
+	family = common_language_family # Placeholder
 
 	male_names = {
 	}

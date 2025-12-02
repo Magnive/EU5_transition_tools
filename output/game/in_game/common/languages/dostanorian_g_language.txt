@@ -1,7 +1,7 @@
 ﻿dostanorian_g_language = {
 	color = rgb { 120 120 120 }
 
-	family = common # Placeholder
+	family = common_language_family # Placeholder
 
 	male_names = {
 	}

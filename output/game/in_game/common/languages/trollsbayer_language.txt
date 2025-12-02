@@ -1,7 +1,7 @@
 ﻿trollsbayer_language = {
 	color = rgb { 246 54 77 }
 
-	family = common # Placeholder
+	family = common_language_family # Placeholder
 
 	male_names = {
 	}

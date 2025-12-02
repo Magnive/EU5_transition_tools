@@ -1,7 +1,7 @@
 ﻿elven_language = {
 	color = rgb { 196 243 246 }
 
-	family = common # Placeholder
+	family = common_language_family # Placeholder
 
 	male_names = {
 	}

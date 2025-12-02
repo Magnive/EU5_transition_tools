@@ -1,7 +1,7 @@
 ﻿kai_language = {
 	color = rgb { 212 175 55 }
 
-	family = common # Placeholder
+	family = common_language_family # Placeholder
 
 	male_names = {
 	}

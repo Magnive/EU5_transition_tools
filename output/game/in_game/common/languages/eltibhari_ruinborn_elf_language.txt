@@ -1,7 +1,7 @@
 ﻿eltibhari_ruinborn_elf_language = {
 	color = rgb { 161 156 76 }
 
-	family = common # Placeholder
+	family = common_language_family # Placeholder
 
 	male_names = {
 	}

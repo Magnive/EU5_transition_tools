@@ -1,7 +1,7 @@
 ﻿kobold_language = {
 	color = rgb { 174 75 75 }
 
-	family = common # Placeholder
+	family = common_language_family # Placeholder
 
 	male_names = {
 	}

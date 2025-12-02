@@ -1,7 +1,7 @@
 ﻿kheionai_ruinborn_elf_language = {
 	color = rgb { 225 40 88 }
 
-	family = common # Placeholder
+	family = common_language_family # Placeholder
 
 	male_names = {
 	}

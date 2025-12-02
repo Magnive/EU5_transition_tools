@@ -1,7 +1,7 @@
 ﻿khantaar_language = {
 	color = rgb { 125 120 120 }
 
-	family = common # Placeholder
+	family = common_language_family # Placeholder
 
 	male_names = {
 	}

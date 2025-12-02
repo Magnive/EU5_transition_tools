@@ -1,7 +1,7 @@
 ﻿vurebindu_language = {
 	color = rgb { 0 102 255 }
 
-	family = common # Placeholder
+	family = common_language_family # Placeholder
 
 	male_names = {
 	}

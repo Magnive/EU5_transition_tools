@@ -1,7 +1,7 @@
 ﻿kelino_language = {
 	color = rgb { 115 54 53 }
 
-	family = common # Placeholder
+	family = common_language_family # Placeholder
 
 	male_names = {
 	}

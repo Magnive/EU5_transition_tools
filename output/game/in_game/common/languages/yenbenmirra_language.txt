@@ -1,7 +1,7 @@
 ﻿yenbenmirra_language = {
 	color = rgb { 0 0 0 }
 
-	family = common # Placeholder
+	family = common_language_family # Placeholder
 
 	male_names = {
 	}

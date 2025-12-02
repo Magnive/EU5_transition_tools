@@ -1,7 +1,7 @@
 ﻿triunic_language = {
 	color = rgb { 20 50 210 }
 
-	family = common # Placeholder
+	family = common_language_family # Placeholder
 
 	male_names = {
 	}

@@ -1,7 +1,7 @@
 ﻿middle_raheni_language = {
 	color = rgb { 209 228 255 }
 
-	family = common # Placeholder
+	family = common_language_family # Placeholder
 
 	male_names = {
 	}
