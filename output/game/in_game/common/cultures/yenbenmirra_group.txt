@@ -1,4 +1,4 @@
-﻿bangowla = {
+﻿bangowla_culture = {
 	language = bangowla_dialect
 	
 	color = rgb { 0 0 0 }
@@ -9,11 +9,11 @@
 
 	}	
 	culture_groups = {
-		yenbenmirra_group
+		yenbenmirra_culture_group
 	}
 }
 
-walgakan = {
+walgakan_culture = {
 	language = walgakan_dialect
 	
 	color = rgb { 0 0 0 }
@@ -24,11 +24,11 @@ walgakan = {
 
 	}	
 	culture_groups = {
-		yenbenmirra_group
+		yenbenmirra_culture_group
 	}
 }
 
-yulitja = {
+yulitja_culture = {
 	language = yulitja_dialect
 	
 	color = rgb { 0 0 0 }
@@ -39,11 +39,11 @@ yulitja = {
 
 	}	
 	culture_groups = {
-		yenbenmirra_group
+		yenbenmirra_culture_group
 	}
 }
 
-dunguthapka = {
+dunguthapka_culture = {
 	language = dunguthapka_dialect
 	
 	color = rgb { 0 0 0 }
@@ -54,11 +54,11 @@ dunguthapka = {
 
 	}	
 	culture_groups = {
-		yenbenmirra_group
+		yenbenmirra_culture_group
 	}
 }
 
-baindundhi = {
+baindundhi_culture = {
 	language = baindundhi_dialect
 	
 	color = rgb { 0 0 0 }
@@ -69,11 +69,11 @@ baindundhi = {
 
 	}	
 	culture_groups = {
-		yenbenmirra_group
+		yenbenmirra_culture_group
 	}
 }
 
-malogadin = {
+malogadin_culture = {
 	language = malogadin_dialect
 	
 	color = rgb { 0 0 0 }
@@ -84,7 +84,7 @@ malogadin = {
 
 	}	
 	culture_groups = {
-		yenbenmirra_group
+		yenbenmirra_culture_group
 	}
 }
 

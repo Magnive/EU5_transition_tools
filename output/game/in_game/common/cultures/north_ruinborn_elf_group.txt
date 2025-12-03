@@ -1,4 +1,4 @@
-﻿boek = {
+﻿boek_culture = {
 	language = boek_dialect
 	
 	color = rgb { 100 100 255 }
@@ -9,11 +9,11 @@
 
 	}	
 	culture_groups = {
-		north_ruinborn_elf_group
+		north_ruinborn_elf_culture_group
 	}
 }
 
-kwineh = {
+kwineh_culture = {
 	language = kwineh_dialect
 	
 	color = rgb { 190 99 99 }
@@ -24,11 +24,11 @@ kwineh = {
 
 	}	
 	culture_groups = {
-		north_ruinborn_elf_group
+		north_ruinborn_elf_culture_group
 	}
 }
 
-duskers = {
+duskers_culture = {
 	language = duskers_dialect
 	
 	color = rgb { 0 0 0 }
@@ -39,11 +39,11 @@ duskers = {
 
 	}	
 	culture_groups = {
-		north_ruinborn_elf_group
+		north_ruinborn_elf_culture_group
 	}
 }
 
-starborn = {
+starborn_culture = {
 	language = starborn_dialect
 	
 	color = rgb { 0 0 0 }
@@ -54,11 +54,11 @@ starborn = {
 
 	}	
 	culture_groups = {
-		north_ruinborn_elf_group
+		north_ruinborn_elf_culture_group
 	}
 }
 
-ruinchander = {
+ruinchander_culture = {
 	language = ruinchander_dialect
 	
 	color = rgb { 207 255 123 }
@@ -69,11 +69,11 @@ ruinchander = {
 
 	}	
 	culture_groups = {
-		north_ruinborn_elf_group
+		north_ruinborn_elf_culture_group
 	}
 }
 
-cheshoshi = {
+cheshoshi_culture = {
 	language = cheshoshi_dialect
 	
 	color = rgb { 99 99 99 }
@@ -84,11 +84,11 @@ cheshoshi = {
 
 	}	
 	culture_groups = {
-		north_ruinborn_elf_group
+		north_ruinborn_elf_culture_group
 	}
 }
 
-teira = {
+teira_culture = {
 	language = teira_dialect
 	
 	color = rgb { 0 0 0 }
@@ -99,11 +99,11 @@ teira = {
 
 	}	
 	culture_groups = {
-		north_ruinborn_elf_group
+		north_ruinborn_elf_culture_group
 	}
 }
 
-veykodan = {
+veykodan_culture = {
 	language = veykodan_dialect
 	
 	color = rgb { 0 0 0 }
@@ -114,7 +114,7 @@ veykodan = {
 
 	}	
 	culture_groups = {
-		north_ruinborn_elf_group
+		north_ruinborn_elf_culture_group
 	}
 }
 

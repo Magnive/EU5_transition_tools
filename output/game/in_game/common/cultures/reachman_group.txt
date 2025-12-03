@@ -1,4 +1,4 @@
-﻿blue_reachman_r = {
+﻿blue_reachman_r_culture = {
 	language = blue_reachman_r_dialect
 	
 	color = rgb { 99 138 197 }
@@ -9,11 +9,11 @@
 
 	}	
 	culture_groups = {
-		reachman_group
+		reachman_culture_group
 	}
 }
 
-white_reachman_r = {
+white_reachman_r_culture = {
 	language = white_reachman_r_dialect
 	
 	color = rgb { 128 255 255 }
@@ -24,11 +24,11 @@ white_reachman_r = {
 
 	}	
 	culture_groups = {
-		reachman_group
+		reachman_culture_group
 	}
 }
 
-moorman_r = {
+moorman_r_culture = {
 	language = moorman_r_dialect
 	
 	color = rgb { 71 84 102 }
@@ -39,11 +39,11 @@ moorman_r = {
 
 	}	
 	culture_groups = {
-		reachman_group
+		reachman_culture_group
 	}
 }
 
-green_reachman = {
+green_reachman_culture = {
 	language = green_reachman_dialect
 	
 	color = rgb { 92 70 37 }
@@ -54,11 +54,11 @@ green_reachman = {
 
 	}	
 	culture_groups = {
-		reachman_group
+		reachman_culture_group
 	}
 }
 
-black_reachman = {
+black_reachman_culture = {
 	language = black_reachman_dialect
 	
 	color = rgb { 234 200 200 }
@@ -69,7 +69,7 @@ black_reachman = {
 
 	}	
 	culture_groups = {
-		reachman_group
+		reachman_culture_group
 	}
 }
 

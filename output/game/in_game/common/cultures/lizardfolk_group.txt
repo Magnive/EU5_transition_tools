@@ -1,4 +1,4 @@
-﻿shagashay_lizardfolk = {
+﻿shagashay_lizardfolk_culture = {
 	language = shagashay_lizardfolk_dialect
 	
 	color = rgb { 225 102 153 }
@@ -9,11 +9,11 @@
 
 	}	
 	culture_groups = {
-		lizardfolk_group
+		lizardfolk_culture_group
 	}
 }
 
-ichiadza_lizardfolk = {
+ichiadza_lizardfolk_culture = {
 	language = ichiadza_lizardfolk_dialect
 	
 	color = rgb { 102 225 153 }
@@ -24,11 +24,11 @@ ichiadza_lizardfolk = {
 
 	}	
 	culture_groups = {
-		lizardfolk_group
+		lizardfolk_culture_group
 	}
 }
 
-rhada_lizardfolk = {
+rhada_lizardfolk_culture = {
 	language = rhada_lizardfolk_dialect
 	
 	color = rgb { 0 12 108 }
@@ -39,11 +39,11 @@ rhada_lizardfolk = {
 
 	}	
 	culture_groups = {
-		lizardfolk_group
+		lizardfolk_culture_group
 	}
 }
 
-arraskay_lizardfolk = {
+arraskay_lizardfolk_culture = {
 	language = arraskay_lizardfolk_dialect
 	
 	color = rgb { 0 171 160 }
@@ -54,11 +54,11 @@ arraskay_lizardfolk = {
 
 	}	
 	culture_groups = {
-		lizardfolk_group
+		lizardfolk_culture_group
 	}
 }
 
-shagatyn_lizardfolk = {
+shagatyn_lizardfolk_culture = {
 	language = shagatyn_lizardfolk_dialect
 	
 	color = rgb { 255 255 255 }
@@ -69,11 +69,11 @@ shagatyn_lizardfolk = {
 
 	}	
 	culture_groups = {
-		lizardfolk_group
+		lizardfolk_culture_group
 	}
 }
 
-skarakara_lizardfolk = {
+skarakara_lizardfolk_culture = {
 	language = skarakara_lizardfolk_dialect
 	
 	color = rgb { 7 19 20 }
@@ -84,11 +84,11 @@ skarakara_lizardfolk = {
 
 	}	
 	culture_groups = {
-		lizardfolk_group
+		lizardfolk_culture_group
 	}
 }
 
-mashkay_lizardfolk = {
+mashkay_lizardfolk_culture = {
 	language = mashkay_lizardfolk_dialect
 	
 	color = rgb { 37 81 160 }
@@ -99,11 +99,11 @@ mashkay_lizardfolk = {
 
 	}	
 	culture_groups = {
-		lizardfolk_group
+		lizardfolk_culture_group
 	}
 }
 
-karshyray_lizardfolk = {
+karshyray_lizardfolk_culture = {
 	language = karshyray_lizardfolk_dialect
 	
 	color = rgb { 46 43 224 }
@@ -114,11 +114,11 @@ karshyray_lizardfolk = {
 
 	}	
 	culture_groups = {
-		lizardfolk_group
+		lizardfolk_culture_group
 	}
 }
 
-ashhana_lizardfolk = {
+ashhana_lizardfolk_culture = {
 	language = ashhana_lizardfolk_dialect
 	
 	color = rgb { 204 10 192 }
@@ -129,11 +129,11 @@ ashhana_lizardfolk = {
 
 	}	
 	culture_groups = {
-		lizardfolk_group
+		lizardfolk_culture_group
 	}
 }
 
-adzalanas_lizardfolk = {
+adzalanas_lizardfolk_culture = {
 	language = adzalanas_lizardfolk_dialect
 	
 	color = rgb { 48 0 113 }
@@ -144,11 +144,11 @@ adzalanas_lizardfolk = {
 
 	}	
 	culture_groups = {
-		lizardfolk_group
+		lizardfolk_culture_group
 	}
 }
 
-itayzemby_lizardfolk = {
+itayzemby_lizardfolk_culture = {
 	language = itayzemby_lizardfolk_dialect
 	
 	color = rgb { 46 43 224 }
@@ -159,11 +159,11 @@ itayzemby_lizardfolk = {
 
 	}	
 	culture_groups = {
-		lizardfolk_group
+		lizardfolk_culture_group
 	}
 }
 
-cyazizeta_lizardfolk = {
+cyazizeta_lizardfolk_culture = {
 	language = cyazizeta_lizardfolk_dialect
 	
 	color = rgb { 125 19 106 }
@@ -174,11 +174,11 @@ cyazizeta_lizardfolk = {
 
 	}	
 	culture_groups = {
-		lizardfolk_group
+		lizardfolk_culture_group
 	}
 }
 
-irikin_lizardfolk = {
+irikin_lizardfolk_culture = {
 	language = irikin_lizardfolk_dialect
 	
 	color = rgb { 10 68 50 }
@@ -189,11 +189,11 @@ irikin_lizardfolk = {
 
 	}	
 	culture_groups = {
-		lizardfolk_group
+		lizardfolk_culture_group
 	}
 }
 
-draktaya_lizardfolk = {
+draktaya_lizardfolk_culture = {
 	language = draktaya_lizardfolk_dialect
 	
 	color = rgb { 59 107 78 }
@@ -204,11 +204,11 @@ draktaya_lizardfolk = {
 
 	}	
 	culture_groups = {
-		lizardfolk_group
+		lizardfolk_culture_group
 	}
 }
 
-hishakaya_lizardfolk = {
+hishakaya_lizardfolk_culture = {
 	language = hishakaya_lizardfolk_dialect
 	
 	color = rgb { 59 107 78 }
@@ -219,11 +219,11 @@ hishakaya_lizardfolk = {
 
 	}	
 	culture_groups = {
-		lizardfolk_group
+		lizardfolk_culture_group
 	}
 }
 
-shyashkay_lizardfolk = {
+shyashkay_lizardfolk_culture = {
 	language = shyashkay_lizardfolk_dialect
 	
 	color = rgb { 59 107 78 }
@@ -234,11 +234,11 @@ shyashkay_lizardfolk = {
 
 	}	
 	culture_groups = {
-		lizardfolk_group
+		lizardfolk_culture_group
 	}
 }
 
-ahzdara_lizardfolk = {
+ahzdara_lizardfolk_culture = {
 	language = ahzdara_lizardfolk_dialect
 	
 	color = rgb { 59 107 78 }
@@ -249,7 +249,7 @@ ahzdara_lizardfolk = {
 
 	}	
 	culture_groups = {
-		lizardfolk_group
+		lizardfolk_culture_group
 	}
 }
 

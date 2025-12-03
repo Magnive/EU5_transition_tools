@@ -1,4 +1,4 @@
-﻿corvurian = {
+﻿corvurian_culture = {
 	language = corvurian_dialect
 	
 	color = rgb { 120 120 120 }
@@ -9,11 +9,11 @@
 
 	}	
 	culture_groups = {
-		dostanorian_g_group
+		dostanorian_g_culture_group
 	}
 }
 
-neratican = {
+neratican_culture = {
 	language = neratican_dialect
 	
 	color = rgb { 16 138 144 }
@@ -24,11 +24,11 @@ neratican = {
 
 	}	
 	culture_groups = {
-		dostanorian_g_group
+		dostanorian_g_culture_group
 	}
 }
 
-ourdi = {
+ourdi_culture = {
 	language = ourdi_dialect
 	
 	color = rgb { 90 120 60 }
@@ -39,11 +39,11 @@ ourdi = {
 
 	}	
 	culture_groups = {
-		dostanorian_g_group
+		dostanorian_g_culture_group
 	}
 }
 
-cardesti = {
+cardesti_culture = {
 	language = cardesti_dialect
 	
 	color = rgb { 182 131 46 }
@@ -54,11 +54,11 @@ cardesti = {
 
 	}	
 	culture_groups = {
-		dostanorian_g_group
+		dostanorian_g_culture_group
 	}
 }
 
-dostanorian = {
+dostanorian_culture = {
 	language = dostanorian_dialect
 	
 	color = rgb { 162 0 2 }
@@ -69,11 +69,11 @@ dostanorian = {
 
 	}	
 	culture_groups = {
-		dostanorian_g_group
+		dostanorian_g_culture_group
 	}
 }
 
-ravenmarcher_d = {
+ravenmarcher_d_culture = {
 	language = ravenmarcher_d_dialect
 	
 	color = rgb { 59 52 72 }
@@ -84,11 +84,11 @@ ravenmarcher_d = {
 
 	}	
 	culture_groups = {
-		dostanorian_g_group
+		dostanorian_g_culture_group
 	}
 }
 
-nathalairey = {
+nathalairey_culture = {
 	language = nathalairey_dialect
 	
 	color = rgb { 66 66 66 }
@@ -99,11 +99,11 @@ nathalairey = {
 
 	}	
 	culture_groups = {
-		dostanorian_g_group
+		dostanorian_g_culture_group
 	}
 }
 
-dostanorian_half_elf = {
+dostanorian_half_elf_culture = {
 	language = dostanorian_half_elf_dialect
 	
 	color = rgb { 0 0 0 }
@@ -114,7 +114,7 @@ dostanorian_half_elf = {
 
 	}	
 	culture_groups = {
-		dostanorian_g_group
+		dostanorian_g_culture_group
 	}
 }
 

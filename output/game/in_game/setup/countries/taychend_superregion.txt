@@ -1,228 +1,228 @@
 ﻿G00 = {
 	color = rgb { 172 40 31 }
 
-	culture_definition = not found
+	culture_definition = not found_culture
 	religion_definition = kheionism
 }
 G64 = {
 	color = rgb { 180 117 63 }
 
-	culture_definition = larankarha
+	culture_definition = larankarha_culture
 	religion_definition = gods_of_the_taychend
 }
 G65 = {
 	color = rgb { 255 127 49 }
 
-	culture_definition = advakhalla
+	culture_definition = advakhalla_culture
 	religion_definition = gods_of_the_taychend
 }
 G66 = {
 	color = rgb { 115 207 251 }
 
-	culture_definition = larankarha
+	culture_definition = larankarha_culture
 	religion_definition = gods_of_the_taychend
 }
 G67 = {
 	color = rgb { 216 85 67 }
 
-	culture_definition = kalavendhi
+	culture_definition = kalavendhi_culture
 	religion_definition = gods_of_the_taychend
 }
 G68 = {
 	color = rgb { 245 224 202 }
 
-	culture_definition = kalavendhi
+	culture_definition = kalavendhi_culture
 	religion_definition = gods_of_the_taychend
 }
 G69 = {
 	color = rgb { 45 24 2 }
 
-	culture_definition = kalavendhi
+	culture_definition = kalavendhi_culture
 	religion_definition = gods_of_the_taychend
 }
 G70 = {
 	color = rgb { 112 78 100 }
 
-	culture_definition = kalavendhi
+	culture_definition = kalavendhi_culture
 	religion_definition = gods_of_the_taychend
 }
 G71 = {
 	color = rgb { 24 206 183 }
 
-	culture_definition = kalavendhi
+	culture_definition = kalavendhi_culture
 	religion_definition = gods_of_the_taychend
 }
 G72 = {
 	color = rgb { 169 36 47 }
 
-	culture_definition = larankarha
+	culture_definition = larankarha_culture
 	religion_definition = gods_of_the_taychend
 }
 G73 = {
 	color = rgb { 111 39 30 }
 
-	culture_definition = advakhalla
+	culture_definition = advakhalla_culture
 	religion_definition = gods_of_the_taychend
 }
 G74 = {
 	color = rgb { 100 100 100 }
 
-	culture_definition = yodhanpir
+	culture_definition = yodhanpir_culture
 	religion_definition = gods_of_the_taychend
 }
 G75 = {
 	color = rgb { 53 233 53 }
 
-	culture_definition = yodhanpir
+	culture_definition = yodhanpir_culture
 	religion_definition = gods_of_the_taychend
 }
 G76 = {
 	color = rgb { 76 153 217 }
 
-	culture_definition = yodhanpir
+	culture_definition = yodhanpir_culture
 	religion_definition = gods_of_the_taychend
 }
 G77 = {
 	color = rgb { 173 191 98 }
 
-	culture_definition = yodhanpir
+	culture_definition = yodhanpir_culture
 	religion_definition = gods_of_the_taychend
 }
 G78 = {
 	color = rgb { 197 157 152 }
 
-	culture_definition = advakhalla
+	culture_definition = advakhalla_culture
 	religion_definition = gods_of_the_taychend
 }
 G79 = {
 	color = rgb { 107 110 226 }
 
-	culture_definition = thekvrystana
+	culture_definition = thekvrystana_culture
 	religion_definition = gods_of_the_taychend
 }
 G80 = {
 	color = rgb { 140 134 14 }
 
-	culture_definition = thekvrystana
+	culture_definition = thekvrystana_culture
 	religion_definition = gods_of_the_taychend
 }
 G81 = {
 	color = rgb { 123 30 224 }
 
-	culture_definition = thekvrystana
+	culture_definition = thekvrystana_culture
 	religion_definition = gods_of_the_taychend
 }
 G82 = {
 	color = rgb { 54 42 39 }
 
-	culture_definition = thekvrystana
+	culture_definition = thekvrystana_culture
 	religion_definition = gods_of_the_taychend
 }
 G83 = {
 	color = rgb { 24 27 48 }
 
-	culture_definition = thekvrystana
+	culture_definition = thekvrystana_culture
 	religion_definition = gods_of_the_taychend
 }
 J70 = {
 	color = rgb { 255 230 225 }
 
-	culture_definition = thekvrystana
+	culture_definition = thekvrystana_culture
 	religion_definition = gods_of_the_taychend
 }
 J71 = {
 	color = rgb { 213 164 100 }
 
-	culture_definition = sarihaddi
+	culture_definition = sarihaddi_culture
 	religion_definition = gods_of_the_taychend
 }
 J72 = {
 	color = rgb { 68 9 48 }
 
-	culture_definition = chendhyan
+	culture_definition = chendhyan_culture
 	religion_definition = gods_of_the_taychend
 }
 J73 = {
 	color = rgb { 78 134 166 }
 
-	culture_definition = chendhyan
+	culture_definition = chendhyan_culture
 	religion_definition = gods_of_the_taychend
 }
 J74 = {
 	color = rgb { 55 22 64 }
 
-	culture_definition = chendhyan
+	culture_definition = chendhyan_culture
 	religion_definition = askaeorg
 }
 J75 = {
 	color = rgb { 86 5 15 }
 
-	culture_definition = yodhanpir
+	culture_definition = yodhanpir_culture
 	religion_definition = gods_of_the_taychend
 }
 J76 = {
 	color = rgb { 180 180 198 }
 
-	culture_definition = yodhanpir
+	culture_definition = yodhanpir_culture
 	religion_definition = gods_of_the_taychend
 }
 J77 = {
 	color = rgb { 27 27 32 }
 
-	culture_definition = yodhanpir
+	culture_definition = yodhanpir_culture
 	religion_definition = gods_of_the_taychend
 }
 J78 = {
 	color = rgb { 8 32 61 }
 
-	culture_definition = kalavendhi
+	culture_definition = kalavendhi_culture
 	religion_definition = gods_of_the_taychend
 }
 J79 = {
 	color = rgb { 97 144 98 }
 
-	culture_definition = kalavendhi
+	culture_definition = kalavendhi_culture
 	religion_definition = gods_of_the_taychend
 }
 J80 = {
 	color = rgb { 247 82 136 }
 
-	culture_definition = kalavendhi
+	culture_definition = kalavendhi_culture
 	religion_definition = gods_of_the_taychend
 }
 J81 = {
 	color = rgb { 209 157 45 }
 
-	culture_definition = kalavendhi
+	culture_definition = kalavendhi_culture
 	religion_definition = gods_of_the_taychend
 }
 J82 = {
 	color = rgb { 45 104 35 }
 
-	culture_definition = kalavendhi
+	culture_definition = kalavendhi_culture
 	religion_definition = gods_of_the_taychend
 }
 J83 = {
 	color = rgb { 0 184 54 }
 
-	culture_definition = duguihi
+	culture_definition = duguihi_culture
 	religion_definition = gods_of_the_taychend
 }
 J84 = {
 	color = rgb { 180 70 0 }
 
-	culture_definition = kalavendhi
+	culture_definition = kalavendhi_culture
 	religion_definition = gods_of_the_taychend
 }
 J85 = {
 	color = rgb { 170 0 32 }
 
-	culture_definition = kalavendhi
+	culture_definition = kalavendhi_culture
 	religion_definition = gods_of_the_taychend
 }
 U39 = {
 	color = rgb { 7 3 0 }
 
-	culture_definition = yodhanpir
+	culture_definition = yodhanpir_culture
 	religion_definition = oren_nayiru
 }

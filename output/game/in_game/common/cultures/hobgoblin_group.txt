@@ -1,4 +1,4 @@
-﻿boar_command = {
+﻿boar_command_culture = {
 	language = boar_command_dialect
 	
 	color = rgb { 101 32 13 }
@@ -9,11 +9,11 @@
 
 	}	
 	culture_groups = {
-		hobgoblin_group
+		hobgoblin_culture_group
 	}
 }
 
-wolf_command = {
+wolf_command_culture = {
 	language = wolf_command_dialect
 	
 	color = rgb { 65 58 56 }
@@ -24,11 +24,11 @@ wolf_command = {
 
 	}	
 	culture_groups = {
-		hobgoblin_group
+		hobgoblin_culture_group
 	}
 }
 
-lion_command = {
+lion_command_culture = {
 	language = lion_command_dialect
 	
 	color = rgb { 140 83 1 }
@@ -39,11 +39,11 @@ lion_command = {
 
 	}	
 	culture_groups = {
-		hobgoblin_group
+		hobgoblin_culture_group
 	}
 }
 
-dragon_command = {
+dragon_command_culture = {
 	language = dragon_command_dialect
 	
 	color = rgb { 179 30 30 }
@@ -54,11 +54,11 @@ dragon_command = {
 
 	}	
 	culture_groups = {
-		hobgoblin_group
+		hobgoblin_culture_group
 	}
 }
 
-tiger_command = {
+tiger_command_culture = {
 	language = tiger_command_dialect
 	
 	color = rgb { 176 59 23 }
@@ -69,11 +69,11 @@ tiger_command = {
 
 	}	
 	culture_groups = {
-		hobgoblin_group
+		hobgoblin_culture_group
 	}
 }
 
-elephant_command = {
+elephant_command_culture = {
 	language = elephant_command_dialect
 	
 	color = rgb { 40 75 99 }
@@ -84,11 +84,11 @@ elephant_command = {
 
 	}	
 	culture_groups = {
-		hobgoblin_group
+		hobgoblin_culture_group
 	}
 }
 
-swallow_command = {
+swallow_command_culture = {
 	language = swallow_command_dialect
 	
 	color = rgb { 153 76 0 }
@@ -99,11 +99,11 @@ swallow_command = {
 
 	}	
 	culture_groups = {
-		hobgoblin_group
+		hobgoblin_culture_group
 	}
 }
 
-fenghuang_command = {
+fenghuang_command_culture = {
 	language = fenghuang_command_dialect
 	
 	color = rgb { 150 65 20 }
@@ -114,11 +114,11 @@ fenghuang_command = {
 
 	}	
 	culture_groups = {
-		hobgoblin_group
+		hobgoblin_culture_group
 	}
 }
 
-eagle_command = {
+eagle_command_culture = {
 	language = eagle_command_dialect
 	
 	color = rgb { 0 0 0 }
@@ -129,7 +129,7 @@ eagle_command = {
 
 	}	
 	culture_groups = {
-		hobgoblin_group
+		hobgoblin_culture_group
 	}
 }
 

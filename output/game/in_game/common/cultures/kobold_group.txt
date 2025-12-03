@@ -1,4 +1,4 @@
-﻿redscale_kobold = {
+﻿redscale_kobold_culture = {
 	language = redscale_kobold_dialect
 	
 	color = rgb { 174 75 75 }
@@ -9,11 +9,11 @@
 
 	}	
 	culture_groups = {
-		kobold_group
+		kobold_culture_group
 	}
 }
 
-bluescale_kobold = {
+bluescale_kobold_culture = {
 	language = bluescale_kobold_dialect
 	
 	color = rgb { 75 147 174 }
@@ -24,11 +24,11 @@ bluescale_kobold = {
 
 	}	
 	culture_groups = {
-		kobold_group
+		kobold_culture_group
 	}
 }
 
-greenscale_kobold = {
+greenscale_kobold_culture = {
 	language = greenscale_kobold_dialect
 	
 	color = rgb { 129 151 94 }
@@ -39,11 +39,11 @@ greenscale_kobold = {
 
 	}	
 	culture_groups = {
-		kobold_group
+		kobold_culture_group
 	}
 }
 
-kobildzani_kobold = {
+kobildzani_kobold_culture = {
 	language = kobildzani_kobold_dialect
 	
 	color = rgb { 204 181 189 }
@@ -54,11 +54,11 @@ kobildzani_kobold = {
 
 	}	
 	culture_groups = {
-		kobold_group
+		kobold_culture_group
 	}
 }
 
-darkscale_kobold = {
+darkscale_kobold_culture = {
 	language = darkscale_kobold_dialect
 	
 	color = rgb { 189 8 8 }
@@ -69,11 +69,11 @@ darkscale_kobold = {
 
 	}	
 	culture_groups = {
-		kobold_group
+		kobold_culture_group
 	}
 }
 
-goldscale_kobold = {
+goldscale_kobold_culture = {
 	language = goldscale_kobold_dialect
 	
 	color = rgb { 208 170 45 }
@@ -84,11 +84,11 @@ goldscale_kobold = {
 
 	}	
 	culture_groups = {
-		kobold_group
+		kobold_culture_group
 	}
 }
 
-dragonfire_kobold = {
+dragonfire_kobold_culture = {
 	language = dragonfire_kobold_dialect
 	
 	color = rgb { 179 30 30 }
@@ -99,11 +99,11 @@ dragonfire_kobold = {
 
 	}	
 	culture_groups = {
-		kobold_group
+		kobold_culture_group
 	}
 }
 
-steelscale_kobold = {
+steelscale_kobold_culture = {
 	language = steelscale_kobold_dialect
 	
 	color = rgb { 174 181 189 }
@@ -114,11 +114,11 @@ steelscale_kobold = {
 
 	}	
 	culture_groups = {
-		kobold_group
+		kobold_culture_group
 	}
 }
 
-yawasichya_kobold = {
+yawasichya_kobold_culture = {
 	language = yawasichya_kobold_dialect
 	
 	color = rgb { 0 0 0 }
@@ -129,11 +129,11 @@ yawasichya_kobold = {
 
 	}	
 	culture_groups = {
-		kobold_group
+		kobold_culture_group
 	}
 }
 
-jatukyu_kobold = {
+jatukyu_kobold_culture = {
 	language = jatukyu_kobold_dialect
 	
 	color = rgb { 0 0 0 }
@@ -144,11 +144,11 @@ jatukyu_kobold = {
 
 	}	
 	culture_groups = {
-		kobold_group
+		kobold_culture_group
 	}
 }
 
-unitsan_kobold = {
+unitsan_kobold_culture = {
 	language = unitsan_kobold_dialect
 	
 	color = rgb { 0 0 0 }
@@ -159,11 +159,11 @@ unitsan_kobold = {
 
 	}	
 	culture_groups = {
-		kobold_group
+		kobold_culture_group
 	}
 }
 
-sirimadsik_kobold = {
+sirimadsik_kobold_culture = {
 	language = sirimadsik_kobold_dialect
 	
 	color = rgb { 0 0 0 }
@@ -174,11 +174,11 @@ sirimadsik_kobold = {
 
 	}	
 	culture_groups = {
-		kobold_group
+		kobold_culture_group
 	}
 }
 
-vrendzani_kobold = {
+vrendzani_kobold_culture = {
 	language = vrendzani_kobold_dialect
 	
 	color = rgb { 0 75 77 }
@@ -189,11 +189,11 @@ vrendzani_kobold = {
 
 	}	
 	culture_groups = {
-		kobold_group
+		kobold_culture_group
 	}
 }
 
-dragonmask_kobold = {
+dragonmask_kobold_culture = {
 	language = dragonmask_kobold_dialect
 	
 	color = rgb { 147 255 114 }
@@ -204,11 +204,11 @@ dragonmask_kobold = {
 
 	}	
 	culture_groups = {
-		kobold_group
+		kobold_culture_group
 	}
 }
 
-whitescale_kobold = {
+whitescale_kobold_culture = {
 	language = whitescale_kobold_dialect
 	
 	color = rgb { 0 0 0 }
@@ -219,7 +219,7 @@ whitescale_kobold = {
 
 	}	
 	culture_groups = {
-		kobold_group
+		kobold_culture_group
 	}
 }
 

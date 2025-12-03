@@ -1,570 +1,570 @@
 ﻿I47 = {
 	color = rgb { 241 33 156 }
 
-	culture_definition = plain_centaur
+	culture_definition = plain_centaur_culture
 	religion_definition = irdaeos_worship
 }
 I48 = {
 	color = rgb { 20 20 20 }
 
-	culture_definition = inaer_centaur
+	culture_definition = inaer_centaur_culture
 	religion_definition = irdaeos_worship
 }
 I49 = {
 	color = rgb { 52 44 104 }
 
-	culture_definition = ghanzamh_centaur
+	culture_definition = ghanzamh_centaur_culture
 	religion_definition = irdaeos_worship
 }
 I50 = {
 	color = rgb { 50 110 10 }
 
-	culture_definition = plain_centaur
+	culture_definition = plain_centaur_culture
 	religion_definition = irdaeos_worship
 }
 I51 = {
 	color = rgb { 46 119 160 }
 
-	culture_definition = plain_centaur
+	culture_definition = plain_centaur_culture
 	religion_definition = irdaeos_worship
 }
 I52 = {
 	color = rgb { 32 192 14 }
 
-	culture_definition = plain_centaur
+	culture_definition = plain_centaur_culture
 	religion_definition = irdaeos_worship
 }
 I53 = {
 	color = rgb { 213 229 174 }
 
-	culture_definition = plain_centaur
+	culture_definition = plain_centaur_culture
 	religion_definition = irdaeos_worship
 }
 I54 = {
 	color = rgb { 89 254 173 }
 
-	culture_definition = plain_centaur
+	culture_definition = plain_centaur_culture
 	religion_definition = irdaeos_worship
 }
 I55 = {
 	color = rgb { 186 3 232 }
 
-	culture_definition = ghanzamh_centaur
+	culture_definition = ghanzamh_centaur_culture
 	religion_definition = irdaeos_worship
 }
 I56 = {
 	color = rgb { 100 105 232 }
 
-	culture_definition = plain_centaur
+	culture_definition = plain_centaur_culture
 	religion_definition = irdaeos_worship
 }
 I57 = {
 	color = rgb { 251 168 9 }
 
-	culture_definition = plain_centaur
+	culture_definition = plain_centaur_culture
 	religion_definition = irdaeos_worship
 }
 I58 = {
 	color = rgb { 35 253 153 }
 
-	culture_definition = plain_centaur
+	culture_definition = plain_centaur_culture
 	religion_definition = irdaeos_worship
 }
 I59 = {
 	color = rgb { 101 114 25 }
 
-	culture_definition = plain_centaur
+	culture_definition = plain_centaur_culture
 	religion_definition = irdaeos_worship
 }
 I60 = {
 	color = rgb { 10 210 225 }
 
-	culture_definition = plain_centaur
+	culture_definition = plain_centaur_culture
 	religion_definition = irdaeos_worship
 }
 I61 = {
 	color = rgb { 58 101 87 }
 
-	culture_definition = inaer_centaur
+	culture_definition = inaer_centaur_culture
 	religion_definition = irdaeos_worship
 }
 I62 = {
 	color = rgb { 52 137 68 }
 
-	culture_definition = plain_centaur
+	culture_definition = plain_centaur_culture
 	religion_definition = irdaeos_worship
 }
 I63 = {
 	color = rgb { 9 20 242 }
 
-	culture_definition = inaer_centaur
+	culture_definition = inaer_centaur_culture
 	religion_definition = irdaeos_worship
 }
 I64 = {
 	color = rgb { 91 203 150 }
 
-	culture_definition = inaer_centaur
+	culture_definition = inaer_centaur_culture
 	religion_definition = irdaeos_worship
 }
 I65 = {
 	color = rgb { 244 151 82 }
 
-	culture_definition = inaer_centaur
+	culture_definition = inaer_centaur_culture
 	religion_definition = irdaeos_worship
 }
 I66 = {
 	color = rgb { 252 99 79 }
 
-	culture_definition = inaer_centaur
+	culture_definition = inaer_centaur_culture
 	religion_definition = irdaeos_worship
 }
 I67 = {
 	color = rgb { 81 35 152 }
 
-	culture_definition = plain_centaur
+	culture_definition = plain_centaur_culture
 	religion_definition = irdaeos_worship
 }
 I68 = {
 	color = rgb { 92 86 214 }
 
-	culture_definition = plain_centaur
+	culture_definition = plain_centaur_culture
 	religion_definition = irdaeos_worship
 }
 I69 = {
 	color = rgb { 133 40 162 }
 
-	culture_definition = inaer_centaur
+	culture_definition = inaer_centaur_culture
 	religion_definition = irdaeos_worship
 }
 I70 = {
 	color = rgb { 241 233 250 }
 
-	culture_definition = ghanzamh_centaur
+	culture_definition = ghanzamh_centaur_culture
 	religion_definition = irdaeos_worship
 }
 I71 = {
 	color = rgb { 24 249 75 }
 
-	culture_definition = inaer_centaur
+	culture_definition = inaer_centaur_culture
 	religion_definition = irdaeos_worship
 }
 I72 = {
 	color = rgb { 147 165 172 }
 
-	culture_definition = ghanzamh_centaur
+	culture_definition = ghanzamh_centaur_culture
 	religion_definition = irdaeos_worship
 }
 I73 = {
 	color = rgb { 228 221 80 }
 
-	culture_definition = plain_centaur
+	culture_definition = plain_centaur_culture
 	religion_definition = irdaeos_worship
 }
 I74 = {
 	color = rgb { 236 129 238 }
 
-	culture_definition = plain_centaur
+	culture_definition = plain_centaur_culture
 	religion_definition = irdaeos_worship
 }
 I75 = {
 	color = rgb { 246 217 36 }
 
-	culture_definition = inaer_centaur
+	culture_definition = inaer_centaur_culture
 	religion_definition = irdaeos_worship
 }
 I76 = {
 	color = rgb { 225 36 156 }
 
-	culture_definition = inaer_centaur
+	culture_definition = inaer_centaur_culture
 	religion_definition = irdaeos_worship
 }
 I77 = {
 	color = rgb { 132 93 10 }
 
-	culture_definition = plain_centaur
+	culture_definition = plain_centaur_culture
 	religion_definition = irdaeos_worship
 }
 I78 = {
 	color = rgb { 105 20 30 }
 
-	culture_definition = plain_centaur
+	culture_definition = plain_centaur_culture
 	religion_definition = irdaeos_worship
 }
 I79 = {
 	color = rgb { 244 83 184 }
 
-	culture_definition = plain_centaur
+	culture_definition = plain_centaur_culture
 	religion_definition = irdaeos_worship
 }
 I80 = {
 	color = rgb { 68 240 150 }
 
-	culture_definition = plain_centaur
+	culture_definition = plain_centaur_culture
 	religion_definition = irdaeos_worship
 }
 I81 = {
 	color = rgb { 210 133 104 }
 
-	culture_definition = ghanzamh_centaur
+	culture_definition = ghanzamh_centaur_culture
 	religion_definition = irdaeos_worship
 }
 I82 = {
 	color = rgb { 179 22 102 }
 
-	culture_definition = inaer_centaur
+	culture_definition = inaer_centaur_culture
 	religion_definition = irdaeos_worship
 }
 I83 = {
 	color = rgb { 51 199 195 }
 
-	culture_definition = plain_centaur
+	culture_definition = plain_centaur_culture
 	religion_definition = irdaeos_worship
 }
 I84 = {
 	color = rgb { 161 210 208 }
 
-	culture_definition = plain_centaur
+	culture_definition = plain_centaur_culture
 	religion_definition = irdaeos_worship
 }
 I85 = {
 	color = rgb { 152 89 210 }
 
-	culture_definition = inaer_centaur
+	culture_definition = inaer_centaur_culture
 	religion_definition = irdaeos_worship
 }
 I86 = {
 	color = rgb { 211 238 75 }
 
-	culture_definition = inaer_centaur
+	culture_definition = inaer_centaur_culture
 	religion_definition = irdaeos_worship
 }
 I87 = {
 	color = rgb { 156 204 32 }
 
-	culture_definition = plain_centaur
+	culture_definition = plain_centaur_culture
 	religion_definition = irdaeos_worship
 }
 I88 = {
 	color = rgb { 220 210 40 }
 
-	culture_definition = plain_centaur
+	culture_definition = plain_centaur_culture
 	religion_definition = irdaeos_worship
 }
 I90 = {
 	color = rgb { 196 180 132 }
 
-	culture_definition = fathide_ogre
+	culture_definition = fathide_ogre_culture
 	religion_definition = feast_of_the_gods
 }
 J01 = {
 	color = rgb { 241 33 156 }
 
-	culture_definition = khamgunai
+	culture_definition = khamgunai_culture
 	religion_definition = enuuk_followers
 }
 J02 = {
 	color = rgb { 112 237 125 }
 
-	culture_definition = khamgunai
+	culture_definition = khamgunai_culture
 	religion_definition = enuuk_followers
 }
 J03 = {
 	color = rgb { 188 179 154 }
 
-	culture_definition = khamgunai
+	culture_definition = khamgunai_culture
 	religion_definition = enuuk_followers
 }
 J04 = {
 	color = rgb { 120 242 172 }
 
-	culture_definition = khamgunai
+	culture_definition = khamgunai_culture
 	religion_definition = enuuk_followers
 }
 J05 = {
 	color = rgb { 20 84 187 }
 
-	culture_definition = khamgunai
+	culture_definition = khamgunai_culture
 	religion_definition = enuuk_followers
 }
 J06 = {
 	color = rgb { 172 234 14 }
 
-	culture_definition = khamgunai
+	culture_definition = khamgunai_culture
 	religion_definition = enuuk_followers
 }
 J07 = {
 	color = rgb { 9 146 168 }
 
-	culture_definition = khamgunai
+	culture_definition = khamgunai_culture
 	religion_definition = enuuk_followers
 }
 J08 = {
 	color = rgb { 180 62 138 }
 
-	culture_definition = khamgunai
+	culture_definition = khamgunai_culture
 	religion_definition = enuuk_followers
 }
 J09 = {
 	color = rgb { 255 205 181 }
 
-	culture_definition = metsamic
+	culture_definition = metsamic_culture
 	religion_definition = enuuk_followers
 }
 J10 = {
 	color = rgb { 37 128 21 }
 
-	culture_definition = metsamic
+	culture_definition = metsamic_culture
 	religion_definition = yukel_followers
 }
 J11 = {
 	color = rgb { 128 211 125 }
 
-	culture_definition = khamgunai
+	culture_definition = khamgunai_culture
 	religion_definition = enuuk_followers
 }
 J12 = {
 	color = rgb { 185 34 183 }
 
-	culture_definition = khamgunai
+	culture_definition = khamgunai_culture
 	religion_definition = enuuk_followers
 }
 J13 = {
 	color = rgb { 65 187 188 }
 
-	culture_definition = khamgunai
+	culture_definition = khamgunai_culture
 	religion_definition = yukel_followers
 }
 J14 = {
 	color = rgb { 152 21 30 }
 
-	culture_definition = khamgunai
+	culture_definition = khamgunai_culture
 	religion_definition = enuuk_followers
 }
 J15 = {
 	color = rgb { 68 47 243 }
 
-	culture_definition = zabatlari
+	culture_definition = zabatlari_culture
 	religion_definition = yukel_followers
 }
 J16 = {
 	color = rgb { 206 243 248 }
 
-	culture_definition = khamgunai
+	culture_definition = khamgunai_culture
 	religion_definition = yukel_followers
 }
 J17 = {
 	color = rgb { 220 95 252 }
 
-	culture_definition = zabatlari
+	culture_definition = zabatlari_culture
 	religion_definition = yukel_followers
 }
 J18 = {
 	color = rgb { 75 193 184 }
 
-	culture_definition = zabatlari
+	culture_definition = zabatlari_culture
 	religion_definition = yukel_followers
 }
 J19 = {
 	color = rgb { 153 68 89 }
 
-	culture_definition = zabatlari
+	culture_definition = zabatlari_culture
 	religion_definition = yukel_followers
 }
 J20 = {
 	color = rgb { 124 112 25 }
 
-	culture_definition = zabatlari
+	culture_definition = zabatlari_culture
 	religion_definition = yukel_followers
 }
 J21 = {
 	color = rgb { 110 204 220 }
 
-	culture_definition = metsamic
+	culture_definition = metsamic_culture
 	religion_definition = kodave_followers
 }
 J22 = {
 	color = rgb { 218 154 24 }
 
-	culture_definition = zabatlari
+	culture_definition = zabatlari_culture
 	religion_definition = yukel_followers
 }
 J23 = {
 	color = rgb { 228 86 196 }
 
-	culture_definition = zabatlari
+	culture_definition = zabatlari_culture
 	religion_definition = yukel_followers
 }
 J24 = {
 	color = rgb { 152 113 26 }
 
-	culture_definition = zabatlari
+	culture_definition = zabatlari_culture
 	religion_definition = yukel_followers
 }
 J25 = {
 	color = rgb { 23 87 84 }
 
-	culture_definition = zabatlari
+	culture_definition = zabatlari_culture
 	religion_definition = kodave_followers
 }
 J26 = {
 	color = rgb { 92 59 34 }
 
-	culture_definition = metsamic
+	culture_definition = metsamic_culture
 	religion_definition = kodave_followers
 }
 J27 = {
 	color = rgb { 116 198 181 }
 
-	culture_definition = metsamic
+	culture_definition = metsamic_culture
 	religion_definition = kodave_followers
 }
 J28 = {
 	color = rgb { 51 162 97 }
 
-	culture_definition = metsamic
+	culture_definition = metsamic_culture
 	religion_definition = kodave_followers
 }
 J29 = {
 	color = rgb { 28 204 102 }
 
-	culture_definition = metsamic
+	culture_definition = metsamic_culture
 	religion_definition = kodave_followers
 }
 J30 = {
 	color = rgb { 123 53 232 }
 
-	culture_definition = metsamic
+	culture_definition = metsamic_culture
 	religion_definition = kodave_followers
 }
 J31 = {
 	color = rgb { 252 50 84 }
 
-	culture_definition = khamgunai
+	culture_definition = khamgunai_culture
 	religion_definition = enuuk_followers
 }
 J34 = {
 	color = rgb { 128 211 125 }
 
-	culture_definition = khamgunai
+	culture_definition = khamgunai_culture
 	religion_definition = enuuk_followers
 }
 J35 = {
 	color = rgb { 99 70 38 }
 
-	culture_definition = fathide_ogre
+	culture_definition = fathide_ogre_culture
 	religion_definition = feast_of_the_gods
 }
 J36 = {
 	color = rgb { 100 100 100 }
 
-	culture_definition = fathide_ogre
+	culture_definition = fathide_ogre_culture
 	religion_definition = feast_of_the_gods
 }
 J37 = {
 	color = rgb { 66 80 119 }
 
-	culture_definition = fathide_ogre
+	culture_definition = fathide_ogre_culture
 	religion_definition = feast_of_the_gods
 }
 J38 = {
 	color = rgb { 169 120 120 }
 
-	culture_definition = fathide_ogre
+	culture_definition = fathide_ogre_culture
 	religion_definition = feast_of_the_gods
 }
 J39 = {
 	color = rgb { 56 0 0 }
 
-	culture_definition = fathide_ogre
+	culture_definition = fathide_ogre_culture
 	religion_definition = feast_of_the_gods
 }
 J40 = {
 	color = rgb { 35 46 71 }
 
-	culture_definition = fathide_ogre
+	culture_definition = fathide_ogre_culture
 	religion_definition = feast_of_the_gods
 }
 J41 = {
 	color = rgb { 167 104 35 }
 
-	culture_definition = fathide_ogre
+	culture_definition = fathide_ogre_culture
 	religion_definition = feast_of_the_gods
 }
 J42 = {
 	color = rgb { 152 152 152 }
 
-	culture_definition = fathide_ogre
+	culture_definition = fathide_ogre_culture
 	religion_definition = feast_of_the_gods
 }
 J43 = {
 	color = rgb { 104 76 78 }
 
-	culture_definition = fathide_ogre
+	culture_definition = fathide_ogre_culture
 	religion_definition = feast_of_the_gods
 }
 J44 = {
 	color = rgb { 211 211 211 }
 
-	culture_definition = fathide_ogre
+	culture_definition = fathide_ogre_culture
 	religion_definition = feast_of_the_gods
 }
 J45 = {
 	color = rgb { 54 28 0 }
 
-	culture_definition = fathide_ogre
+	culture_definition = fathide_ogre_culture
 	religion_definition = feast_of_the_gods
 }
 J46 = {
 	color = rgb { 94 195 187 }
 
-	culture_definition = fathide_ogre
+	culture_definition = fathide_ogre_culture
 	religion_definition = feast_of_the_gods
 }
 J47 = {
 	color = rgb { 192 159 68 }
 
-	culture_definition = fathide_ogre
+	culture_definition = fathide_ogre_culture
 	religion_definition = feast_of_the_gods
 }
 J49 = {
 	color = rgb { 148 181 178 }
 
-	culture_definition = zabatlari
+	culture_definition = zabatlari_culture
 	religion_definition = yukel_followers
 }
 J50 = {
 	color = rgb { 218 197 63 }
 
-	culture_definition = metsamic
+	culture_definition = metsamic_culture
 	religion_definition = yukel_followers
 }
 J51 = {
 	color = rgb { 54 233 233 }
 
-	culture_definition = metsamic
+	culture_definition = metsamic_culture
 	religion_definition = kodave_followers
 }
 J52 = {
 	color = rgb { 7 74 74 }
 
-	culture_definition = khamgunai
+	culture_definition = khamgunai_culture
 	religion_definition = enuuk_followers
 }
 J53 = {
 	color = rgb { 70 41 12 }
 
-	culture_definition = zabatlari
+	culture_definition = zabatlari_culture
 	religion_definition = kodave_followers
 }
 J57 = {
 	color = rgb { 92 255 235 }
 
-	culture_definition = avil_centaur
+	culture_definition = avil_centaur_culture
 	religion_definition = irdaeos_worship
 }
 J58 = {
 	color = rgb { 196 55 24 }
 
-	culture_definition = sochar_centaur
+	culture_definition = sochar_centaur_culture
 	religion_definition = irdaeos_worship
 }

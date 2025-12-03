@@ -1,408 +1,408 @@
 ﻿L54 = {
 	color = rgb { 130 119 23 }
 
-	culture_definition = yeteferen
+	culture_definition = yeteferen_culture
 	religion_definition = sky_domain
 }
 L55 = {
 	color = rgb { 255 138 101 }
 
-	culture_definition = naleni_harpy
+	culture_definition = naleni_harpy_culture
 	religion_definition = the_hunt
 }
 L56 = {
 	color = rgb { 94 66 181 }
 
-	culture_definition = ofehibi
+	culture_definition = ofehibi_culture
 	religion_definition = sky_domain
 }
 L57 = {
 	color = rgb { 227 242 253 }
 
-	culture_definition = ofehibi
+	culture_definition = ofehibi_culture
 	religion_definition = sky_domain
 }
 L58 = {
 	color = rgb { 179 157 219 }
 
-	culture_definition = yeteferen
+	culture_definition = yeteferen_culture
 	religion_definition = sky_domain
 }
 L61 = {
 	color = rgb { 176 179 0 }
 
-	culture_definition = metobesebi
+	culture_definition = metobesebi_culture
 	religion_definition = sky_domain
 }
 L62 = {
 	color = rgb { 10 50 50 }
 
-	culture_definition = roaming_harimari
+	culture_definition = roaming_harimari_culture
 	religion_definition = high_philosophy
 }
 L63 = {
 	color = rgb { 213 204 255 }
 
-	culture_definition = antmvura
+	culture_definition = antmvura_culture
 	religion_definition = transmutative_path
 }
 L64 = {
 	color = rgb { 141 110 99 }
 
-	culture_definition = metobesebi
+	culture_definition = metobesebi_culture
 	religion_definition = sky_domain
 }
 L65 = {
 	color = rgb { 20 158 182 }
 
-	culture_definition = yeteferen
+	culture_definition = yeteferen_culture
 	religion_definition = sky_domain
 }
 L66 = {
 	color = rgb { 158 132 0 }
 
-	culture_definition = ofehibi
+	culture_definition = ofehibi_culture
 	religion_definition = shadow_pact
 }
 L67 = {
 	color = rgb { 26 40 73 }
 
-	culture_definition = sitewosi
+	culture_definition = sitewosi_culture
 	religion_definition = sky_domain
 }
 L82 = {
 	color = rgb { 0 204 153 }
 
-	culture_definition = cyazizeta_lizardfolk
+	culture_definition = cyazizeta_lizardfolk_culture
 	religion_definition = beast_memory
 }
 S11 = {
 	color = rgb { 125 19 106 }
 
-	culture_definition = cyazizeta_lizardfolk
+	culture_definition = cyazizeta_lizardfolk_culture
 	religion_definition = beast_memory
 }
 S12 = {
 	color = rgb { 113 75 124 }
 
-	culture_definition = cyazizeta_lizardfolk
+	culture_definition = cyazizeta_lizardfolk_culture
 	religion_definition = beast_memory
 }
 S23 = {
 	color = rgb { 133 23 166 }
 
-	culture_definition = ofehibi
+	culture_definition = ofehibi_culture
 	religion_definition = sky_domain
 }
 S24 = {
 	color = rgb { 30 29 77 }
 
-	culture_definition = yeteferen
+	culture_definition = yeteferen_culture
 	religion_definition = sky_domain
 }
 S25 = {
 	color = rgb { 100 72 196 }
 
-	culture_definition = yeteferen
+	culture_definition = yeteferen_culture
 	religion_definition = sky_domain
 }
 S26 = {
 	color = rgb { 95 77 146 }
 
-	culture_definition = sitewosi
+	culture_definition = sitewosi_culture
 	religion_definition = sky_domain
 }
 S27 = {
 	color = rgb { 0 90 230 }
 
-	culture_definition = kombedak
+	culture_definition = kombedak_culture
 	religion_definition = beast_memory
 }
 S28 = {
 	color = rgb { 179 0 30 }
 
-	culture_definition = kombedak
+	culture_definition = kombedak_culture
 	religion_definition = beast_memory
 }
 S29 = {
 	color = rgb { 230 115 0 }
 
-	culture_definition = wakoodak
+	culture_definition = wakoodak_culture
 	religion_definition = beast_memory
 }
 S30 = {
 	color = rgb { 0 26 17 }
 
-	culture_definition = umsozidak
+	culture_definition = umsozidak_culture
 	religion_definition = shadow_pact
 }
 S31 = {
 	color = rgb { 0 153 153 }
 
-	culture_definition = wakoodak
+	culture_definition = wakoodak_culture
 	religion_definition = beast_memory
 }
 S32 = {
 	color = rgb { 100 20 200 }
 
-	culture_definition = umsozidak
+	culture_definition = umsozidak_culture
 	religion_definition = beast_memory
 }
 S33 = {
 	color = rgb { 250 55 55 }
 
-	culture_definition = tanizu
+	culture_definition = tanizu_culture
 	religion_definition = beast_memory
 }
 S35 = {
 	color = rgb { 222 134 68 }
 
-	culture_definition = tanizu
+	culture_definition = tanizu_culture
 	religion_definition = beast_memory
 }
 S36 = {
 	color = rgb { 94 99 91 }
 
-	culture_definition = tanizu
+	culture_definition = tanizu_culture
 	religion_definition = shadow_pact
 }
 S37 = {
 	color = rgb { 246 245 131 }
 
-	culture_definition = tanizu
+	culture_definition = tanizu_culture
 	religion_definition = beast_memory
 }
 S39 = {
 	color = rgb { 236 65 36 }
 
-	culture_definition = tanizu
+	culture_definition = tanizu_culture
 	religion_definition = beast_memory
 }
 S40 = {
 	color = rgb { 45 124 126 }
 
-	culture_definition = tanizu
+	culture_definition = tanizu_culture
 	religion_definition = beast_memory
 }
 S41 = {
 	color = rgb { 1 69 75 }
 
-	culture_definition = tanizu
+	culture_definition = tanizu_culture
 	religion_definition = beast_memory
 }
 S42 = {
 	color = rgb { 4 135 195 }
 
-	culture_definition = tanizu
+	culture_definition = tanizu_culture
 	religion_definition = beast_memory
 }
 S43 = {
 	color = rgb { 255 245 245 }
 
-	culture_definition = tanizu
+	culture_definition = tanizu_culture
 	religion_definition = beast_memory
 }
 S44 = {
 	color = rgb { 82 12 10 }
 
-	culture_definition = ofehibi
+	culture_definition = ofehibi_culture
 	religion_definition = sky_domain
 }
 S45 = {
 	color = rgb { 73 155 128 }
 
-	culture_definition = talilibeti
+	culture_definition = talilibeti_culture
 	religion_definition = sky_domain
 }
 S46 = {
 	color = rgb { 88 224 69 }
 
-	culture_definition = ofehibi
+	culture_definition = ofehibi_culture
 	religion_definition = sky_domain
 }
 S47 = {
 	color = rgb { 66 14 29 }
 
-	culture_definition = talilibeti
+	culture_definition = talilibeti_culture
 	religion_definition = sky_domain
 }
 S48 = {
 	color = rgb { 231 42 111 }
 
-	culture_definition = talilibeti
+	culture_definition = talilibeti_culture
 	religion_definition = sky_domain
 }
 S49 = {
 	color = rgb { 188 244 177 }
 
-	culture_definition = talilibeti
+	culture_definition = talilibeti_culture
 	religion_definition = sky_domain
 }
 S50 = {
 	color = rgb { 188 224 239 }
 
-	culture_definition = talilibeti
+	culture_definition = talilibeti_culture
 	religion_definition = sky_domain
 }
 S51 = {
 	color = rgb { 222 113 182 }
 
-	culture_definition = metobesebi
+	culture_definition = metobesebi_culture
 	religion_definition = sky_domain
 }
 S52 = {
 	color = rgb { 48 124 69 }
 
-	culture_definition = metobesebi
+	culture_definition = metobesebi_culture
 	religion_definition = sky_domain
 }
 S53 = {
 	color = rgb { 240 133 2 }
 
-	culture_definition = yeteferen
+	culture_definition = yeteferen_culture
 	religion_definition = sky_domain
 }
 S54 = {
 	color = rgb { 188 97 69 }
 
-	culture_definition = yeteferen
+	culture_definition = yeteferen_culture
 	religion_definition = sky_domain
 }
 S55 = {
 	color = rgb { 188 24 126 }
 
-	culture_definition = yeteferen
+	culture_definition = yeteferen_culture
 	religion_definition = sky_domain
 }
 S56 = {
 	color = rgb { 1 222 69 }
 
-	culture_definition = yeteferen
+	culture_definition = yeteferen_culture
 	religion_definition = sky_domain
 }
 S57 = {
 	color = rgb { 58 117 198 }
 
-	culture_definition = yeteferen
+	culture_definition = yeteferen_culture
 	religion_definition = sky_domain
 }
 S58 = {
 	color = rgb { 4 46 2 }
 
-	culture_definition = yeteferen
+	culture_definition = yeteferen_culture
 	religion_definition = sky_domain
 }
 S59 = {
 	color = rgb { 161 69 110 }
 
-	culture_definition = yeteferen
+	culture_definition = yeteferen_culture
 	religion_definition = sky_domain
 }
 S60 = {
 	color = rgb { 148 24 255 }
 
-	culture_definition = yeteferen
+	culture_definition = yeteferen_culture
 	religion_definition = sky_domain
 }
 S61 = {
 	color = rgb { 8 67 215 }
 
-	culture_definition = yeteferen
+	culture_definition = yeteferen_culture
 	religion_definition = sky_domain
 }
 S62 = {
 	color = rgb { 219 237 175 }
 
-	culture_definition = sitewosi
+	culture_definition = sitewosi_culture
 	religion_definition = sky_domain
 }
 S63 = {
 	color = rgb { 5 241 255 }
 
-	culture_definition = sitewosi
+	culture_definition = sitewosi_culture
 	religion_definition = sky_domain
 }
 S64 = {
 	color = rgb { 199 246 255 }
 
-	culture_definition = yeteferen
+	culture_definition = yeteferen_culture
 	religion_definition = sky_domain
 }
 S65 = {
 	color = rgb { 15 122 115 }
 
-	culture_definition = talilibeti
+	culture_definition = talilibeti_culture
 	religion_definition = sky_domain
 }
 S66 = {
 	color = rgb { 45 77 115 }
 
-	culture_definition = royal_harimari
+	culture_definition = royal_harimari_culture
 	religion_definition = high_philosophy
 }
 S67 = {
 	color = rgb { 158 129 215 }
 
-	culture_definition = ofehibi
+	culture_definition = ofehibi_culture
 	religion_definition = sky_domain
 }
 S68 = {
 	color = rgb { 48 24 255 }
 
-	culture_definition = sitewosi
+	culture_definition = sitewosi_culture
 	religion_definition = sky_domain
 }
 S69 = {
 	color = rgb { 148 124 255 }
 
-	culture_definition = ofehibi
+	culture_definition = ofehibi_culture
 	religion_definition = sky_domain
 }
 S73 = {
 	color = rgb { 225 171 4 }
 
-	culture_definition = ofehibi
+	culture_definition = ofehibi_culture
 	religion_definition = sky_domain
 }
 S74 = {
 	color = rgb { 245 66 134 }
 
-	culture_definition = ofehibi
+	culture_definition = ofehibi_culture
 	religion_definition = sky_domain
 }
 S75 = {
 	color = rgb { 252 246 172 }
 
-	culture_definition = ofehibi
+	culture_definition = ofehibi_culture
 	religion_definition = sky_domain
 }
 S76 = {
 	color = rgb { 64 57 125 }
 
-	culture_definition = ofehibi
+	culture_definition = ofehibi_culture
 	religion_definition = sky_domain
 }
 S83 = {
 	color = rgb { 132 222 2 }
 
-	culture_definition = cyazizeta_lizardfolk
+	culture_definition = cyazizeta_lizardfolk_culture
 	religion_definition = beast_memory
 }
 S89 = {
 	color = rgb { 255 236 42 }
 
-	culture_definition = yeteferen
+	culture_definition = yeteferen_culture
 	religion_definition = the_jadd
 }
 SS3 = {
 	color = rgb { 14 107 189 }
 
-	culture_definition = arraskay_lizardfolk
+	culture_definition = arraskay_lizardfolk_culture
 	religion_definition = anzalkatsa
 }
 SS6 = {
 	color = rgb { 198 196 79 }
 
-	culture_definition = arraskay_lizardfolk
+	culture_definition = arraskay_lizardfolk_culture
 	religion_definition = anzalkatsa
 }

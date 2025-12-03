@@ -1,4 +1,4 @@
-﻿kelino = {
+﻿kelino_culture = {
 	language = kelino_dialect
 	
 	color = rgb { 115 54 53 }
@@ -9,11 +9,11 @@
 
 	}	
 	culture_groups = {
-		kelino_group
+		kelino_culture_group
 	}
 }
 
-jahe_kelino = {
+jahe_kelino_culture = {
 	language = jahe_kelino_dialect
 	
 	color = rgb { 160 115 20 }
@@ -24,11 +24,11 @@ jahe_kelino = {
 
 	}	
 	culture_groups = {
-		kelino_group
+		kelino_culture_group
 	}
 }
 
-kano_kelino = {
+kano_kelino_culture = {
 	language = kano_kelino_dialect
 	
 	color = rgb { 160 115 20 }
@@ -39,11 +39,11 @@ kano_kelino = {
 
 	}	
 	culture_groups = {
-		kelino_group
+		kelino_culture_group
 	}
 }
 
-yan_kelino = {
+yan_kelino_culture = {
 	language = yan_kelino_dialect
 	
 	color = rgb { 160 115 20 }
@@ -54,11 +54,11 @@ yan_kelino = {
 
 	}	
 	culture_groups = {
-		kelino_group
+		kelino_culture_group
 	}
 }
 
-gataw = {
+gataw_culture = {
 	language = gataw_dialect
 	
 	color = rgb { 0 0 0 }
@@ -69,11 +69,11 @@ gataw = {
 
 	}	
 	culture_groups = {
-		kelino_group
+		kelino_culture_group
 	}
 }
 
-jahe_half_elf = {
+jahe_half_elf_culture = {
 	language = jahe_half_elf_dialect
 	
 	color = rgb { 160 115 20 }
@@ -84,11 +84,11 @@ jahe_half_elf = {
 
 	}	
 	culture_groups = {
-		kelino_group
+		kelino_culture_group
 	}
 }
 
-jahe_half_elf_cannorianise = {
+jahe_half_elf_cannorianise_culture = {
 	language = jahe_half_elf_cannorianise_dialect
 	
 	color = rgb { 160 115 20 }
@@ -99,7 +99,7 @@ jahe_half_elf_cannorianise = {
 
 	}	
 	culture_groups = {
-		kelino_group
+		kelino_culture_group
 	}
 }
 

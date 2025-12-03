@@ -1,4 +1,4 @@
-﻿pyreclaw_gnoll = {
+﻿pyreclaw_gnoll_culture = {
 	language = pyreclaw_gnoll_dialect
 	
 	color = rgb { 160 125 93 }
@@ -9,11 +9,11 @@
 
 	}	
 	culture_groups = {
-		gnollish_group
+		gnollish_culture_group
 	}
 }
 
-sorrowmane_gnoll = {
+sorrowmane_gnoll_culture = {
 	language = sorrowmane_gnoll_dialect
 	
 	color = rgb { 120 10 10 }
@@ -24,11 +24,11 @@ sorrowmane_gnoll = {
 
 	}	
 	culture_groups = {
-		gnollish_group
+		gnollish_culture_group
 	}
 }
 
-suncrown_gnoll = {
+suncrown_gnoll_culture = {
 	language = suncrown_gnoll_dialect
 	
 	color = rgb { 168 0 55 }
@@ -39,11 +39,11 @@ suncrown_gnoll = {
 
 	}	
 	culture_groups = {
-		gnollish_group
+		gnollish_culture_group
 	}
 }
 
-sandfang_gnoll = {
+sandfang_gnoll_culture = {
 	language = sandfang_gnoll_dialect
 	
 	color = rgb { 171 165 150 }
@@ -54,11 +54,11 @@ sandfang_gnoll = {
 
 	}	
 	culture_groups = {
-		gnollish_group
+		gnollish_culture_group
 	}
 }
 
-seascourge_gnoll = {
+seascourge_gnoll_culture = {
 	language = seascourge_gnoll_dialect
 	
 	color = rgb { 34 173 146 }
@@ -69,11 +69,11 @@ seascourge_gnoll = {
 
 	}	
 	culture_groups = {
-		gnollish_group
+		gnollish_culture_group
 	}
 }
 
-hill_gnoll = {
+hill_gnoll_culture = {
 	language = hill_gnoll_dialect
 	
 	color = rgb { 185 122 87 }
@@ -84,11 +84,11 @@ hill_gnoll = {
 
 	}	
 	culture_groups = {
-		gnollish_group
+		gnollish_culture_group
 	}
 }
 
-flamemarked_gnoll = {
+flamemarked_gnoll_culture = {
 	language = flamemarked_gnoll_dialect
 	
 	color = rgb { 0 0 0 }
@@ -99,11 +99,11 @@ flamemarked_gnoll = {
 
 	}	
 	culture_groups = {
-		gnollish_group
+		gnollish_culture_group
 	}
 }
 
-fieldstalker_gnoll = {
+fieldstalker_gnoll_culture = {
 	language = fieldstalker_gnoll_dialect
 	
 	color = rgb { 160 110 110 }
@@ -114,11 +114,11 @@ fieldstalker_gnoll = {
 
 	}	
 	culture_groups = {
-		gnollish_group
+		gnollish_culture_group
 	}
 }
 
-windhowler_gnoll = {
+windhowler_gnoll_culture = {
 	language = windhowler_gnoll_dialect
 	
 	color = rgb { 5 115 25 }
@@ -129,11 +129,11 @@ windhowler_gnoll = {
 
 	}	
 	culture_groups = {
-		gnollish_group
+		gnollish_culture_group
 	}
 }
 
-khetfeaster_gnoll = {
+khetfeaster_gnoll_culture = {
 	language = khetfeaster_gnoll_dialect
 	
 	color = rgb { 150 149 122 }
@@ -144,11 +144,11 @@ khetfeaster_gnoll = {
 
 	}	
 	culture_groups = {
-		gnollish_group
+		gnollish_culture_group
 	}
 }
 
-ruinscourge_gnoll = {
+ruinscourge_gnoll_culture = {
 	language = ruinscourge_gnoll_dialect
 	
 	color = rgb { 74 58 130 }
@@ -159,11 +159,11 @@ ruinscourge_gnoll = {
 
 	}	
 	culture_groups = {
-		gnollish_group
+		gnollish_culture_group
 	}
 }
 
-dovesworn_gnoll = {
+dovesworn_gnoll_culture = {
 	language = dovesworn_gnoll_dialect
 	
 	color = rgb { 189 171 212 }
@@ -174,7 +174,7 @@ dovesworn_gnoll = {
 
 	}	
 	culture_groups = {
-		gnollish_group
+		gnollish_culture_group
 	}
 }
 

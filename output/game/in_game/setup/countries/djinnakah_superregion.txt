@@ -1,72 +1,72 @@
 ﻿S16 = {
 	color = rgb { 250 255 245 }
 
-	culture_definition = suhratbi
+	culture_definition = suhratbi_culture
 	religion_definition = rinta_seekers
 }
 S17 = {
 	color = rgb { 100 72 7 }
 
-	culture_definition = suhratbi
+	culture_definition = suhratbi_culture
 	religion_definition = rinta_seekers
 }
 S18 = {
 	color = rgb { 225 143 21 }
 
-	culture_definition = dhebiji
+	culture_definition = dhebiji_culture
 	religion_definition = rinta_seekers
 }
 S19 = {
 	color = rgb { 0 72 0 }
 
-	culture_definition = dhebiji
+	culture_definition = dhebiji_culture
 	religion_definition = rinta_seekers
 }
 S20 = {
 	color = rgb { 180 33 33 }
 
-	culture_definition = ashamadi
+	culture_definition = ashamadi_culture
 	religion_definition = rinta_seekers
 }
 S21 = {
 	color = rgb { 57 93 204 }
 
-	culture_definition = ashamadi
+	culture_definition = ashamadi_culture
 	religion_definition = rinta_seekers
 }
 S22 = {
 	color = rgb { 135 132 0 }
 
-	culture_definition = ashamadi
+	culture_definition = ashamadi_culture
 	religion_definition = rinta_seekers
 }
 S85 = {
 	color = rgb { 255 240 150 }
 
-	culture_definition = guryadagga
+	culture_definition = guryadagga_culture
 	religion_definition = genie_cult
 }
 S86 = {
 	color = rgb { 230 191 255 }
 
-	culture_definition = guryadagga
+	culture_definition = guryadagga_culture
 	religion_definition = genie_cult
 }
 S87 = {
 	color = rgb { 143 181 123 }
 
-	culture_definition = guryadagga
+	culture_definition = guryadagga_culture
 	religion_definition = genie_cult
 }
 S88 = {
 	color = rgb { 193 238 255 }
 
-	culture_definition = guryadagga
+	culture_definition = guryadagga_culture
 	religion_definition = genie_cult
 }
 S92 = {
 	color = rgb { 52 137 172 }
 
-	culture_definition = guryadagga
+	culture_definition = guryadagga_culture
 	religion_definition = genie_cult
 }

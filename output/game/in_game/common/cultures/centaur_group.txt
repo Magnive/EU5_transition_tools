@@ -1,4 +1,4 @@
-﻿plain_centaur = {
+﻿plain_centaur_culture = {
 	language = plain_centaur_dialect
 	
 	color = rgb { 100 15 15 }
@@ -9,11 +9,11 @@
 
 	}	
 	culture_groups = {
-		centaur_group
+		centaur_culture_group
 	}
 }
 
-inaer_centaur = {
+inaer_centaur_culture = {
 	language = inaer_centaur_dialect
 	
 	color = rgb { 207 169 55 }
@@ -24,11 +24,11 @@ inaer_centaur = {
 
 	}	
 	culture_groups = {
-		centaur_group
+		centaur_culture_group
 	}
 }
 
-avil_centaur = {
+avil_centaur_culture = {
 	language = avil_centaur_dialect
 	
 	color = rgb { 110 150 64 }
@@ -39,11 +39,11 @@ avil_centaur = {
 
 	}	
 	culture_groups = {
-		centaur_group
+		centaur_culture_group
 	}
 }
 
-irdu_centaur = {
+irdu_centaur_culture = {
 	language = irdu_centaur_dialect
 	
 	color = rgb { 150 100 100 }
@@ -54,11 +54,11 @@ irdu_centaur = {
 
 	}	
 	culture_groups = {
-		centaur_group
+		centaur_culture_group
 	}
 }
 
-ghanzamh_centaur = {
+ghanzamh_centaur_culture = {
 	language = ghanzamh_centaur_dialect
 	
 	color = rgb { 250 100 100 }
@@ -69,11 +69,11 @@ ghanzamh_centaur = {
 
 	}	
 	culture_groups = {
-		centaur_group
+		centaur_culture_group
 	}
 }
 
-sochar_centaur = {
+sochar_centaur_culture = {
 	language = sochar_centaur_dialect
 	
 	color = rgb { 45 115 215 }
@@ -84,11 +84,11 @@ sochar_centaur = {
 
 	}	
 	culture_groups = {
-		centaur_group
+		centaur_culture_group
 	}
 }
 
-anuar_centaur = {
+anuar_centaur_culture = {
 	language = anuar_centaur_dialect
 	
 	color = rgb { 185 5 5 }
@@ -99,11 +99,11 @@ anuar_centaur = {
 
 	}	
 	culture_groups = {
-		centaur_group
+		centaur_culture_group
 	}
 }
 
-abalg_centaur = {
+abalg_centaur_culture = {
 	language = abalg_centaur_dialect
 	
 	color = rgb { 50 90 50 }
@@ -114,7 +114,7 @@ abalg_centaur = {
 
 	}	
 	culture_groups = {
-		centaur_group
+		centaur_culture_group
 	}
 }
 

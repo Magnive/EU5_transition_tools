@@ -1,4 +1,4 @@
-﻿tluinuhi = {
+﻿tluinuhi_culture = {
 	language = tluinuhi_dialect
 	
 	color = rgb { 0 0 0 }
@@ -9,11 +9,11 @@
 
 	}	
 	culture_groups = {
-		yanacotle_group
+		yanacotle_culture_group
 	}
 }
 
-mautpokla = {
+mautpokla_culture = {
 	language = mautpokla_dialect
 	
 	color = rgb { 0 0 0 }
@@ -24,11 +24,11 @@ mautpokla = {
 
 	}	
 	culture_groups = {
-		yanacotle_group
+		yanacotle_culture_group
 	}
 }
 
-poplacoa = {
+poplacoa_culture = {
 	language = poplacoa_dialect
 	
 	color = rgb { 0 0 0 }
@@ -39,11 +39,11 @@ poplacoa = {
 
 	}	
 	culture_groups = {
-		yanacotle_group
+		yanacotle_culture_group
 	}
 }
 
-xoitlonua = {
+xoitlonua_culture = {
 	language = xoitlonua_dialect
 	
 	color = rgb { 0 0 0 }
@@ -54,11 +54,11 @@ xoitlonua = {
 
 	}	
 	culture_groups = {
-		yanacotle_group
+		yanacotle_culture_group
 	}
 }
 
-taupotzlo = {
+taupotzlo_culture = {
 	language = taupotzlo_dialect
 	
 	color = rgb { 0 0 0 }
@@ -69,11 +69,11 @@ taupotzlo = {
 
 	}	
 	culture_groups = {
-		yanacotle_group
+		yanacotle_culture_group
 	}
 }
 
-honolitzlo = {
+honolitzlo_culture = {
 	language = honolitzlo_dialect
 	
 	color = rgb { 0 0 0 }
@@ -84,11 +84,11 @@ honolitzlo = {
 
 	}	
 	culture_groups = {
-		yanacotle_group
+		yanacotle_culture_group
 	}
 }
 
-kuichahiu = {
+kuichahiu_culture = {
 	language = kuichahiu_dialect
 	
 	color = rgb { 0 0 0 }
@@ -99,11 +99,11 @@ kuichahiu = {
 
 	}	
 	culture_groups = {
-		yanacotle_group
+		yanacotle_culture_group
 	}
 }
 
-cuaplatmi = {
+cuaplatmi_culture = {
 	language = cuaplatmi_dialect
 	
 	color = rgb { 0 0 0 }
@@ -114,11 +114,11 @@ cuaplatmi = {
 
 	}	
 	culture_groups = {
-		yanacotle_group
+		yanacotle_culture_group
 	}
 }
 
-woitlono = {
+woitlono_culture = {
 	language = woitlono_dialect
 	
 	color = rgb { 0 0 0 }
@@ -129,11 +129,11 @@ woitlono = {
 
 	}	
 	culture_groups = {
-		yanacotle_group
+		yanacotle_culture_group
 	}
 }
 
-kehepo = {
+kehepo_culture = {
 	language = kehepo_dialect
 	
 	color = rgb { 0 0 0 }
@@ -144,11 +144,11 @@ kehepo = {
 
 	}	
 	culture_groups = {
-		yanacotle_group
+		yanacotle_culture_group
 	}
 }
 
-motlapaxi = {
+motlapaxi_culture = {
 	language = motlapaxi_dialect
 	
 	color = rgb { 0 0 0 }
@@ -159,11 +159,11 @@ motlapaxi = {
 
 	}	
 	culture_groups = {
-		yanacotle_group
+		yanacotle_culture_group
 	}
 }
 
-motzaikli = {
+motzaikli_culture = {
 	language = motzaikli_dialect
 	
 	color = rgb { 0 0 0 }
@@ -174,7 +174,7 @@ motzaikli = {
 
 	}	
 	culture_groups = {
-		yanacotle_group
+		yanacotle_culture_group
 	}
 }
 

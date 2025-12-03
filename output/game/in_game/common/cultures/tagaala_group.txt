@@ -1,4 +1,4 @@
-﻿aliiula = {
+﻿aliiula_culture = {
 	language = aliiula_dialect
 	
 	color = rgb { 0 0 0 }
@@ -9,11 +9,11 @@
 
 	}	
 	culture_groups = {
-		tagaala_group
+		tagaala_culture_group
 	}
 }
 
-togavaopaolo = {
+togavaopaolo_culture = {
 	language = togavaopaolo_dialect
 	
 	color = rgb { 0 0 0 }
@@ -24,11 +24,11 @@ togavaopaolo = {
 
 	}	
 	culture_groups = {
-		tagaala_group
+		tagaala_culture_group
 	}
 }
 
-laautele = {
+laautele_culture = {
 	language = laautele_dialect
 	
 	color = rgb { 0 0 0 }
@@ -39,7 +39,7 @@ laautele = {
 
 	}	
 	culture_groups = {
-		tagaala_group
+		tagaala_culture_group
 	}
 }
 

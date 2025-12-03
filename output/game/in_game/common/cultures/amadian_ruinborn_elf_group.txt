@@ -1,4 +1,4 @@
-﻿quchamar = {
+﻿quchamar_culture = {
 	language = quchamar_dialect
 	
 	color = rgb { 0 0 0 }
@@ -9,11 +9,11 @@
 
 	}	
 	culture_groups = {
-		amadian_ruinborn_elf_group
+		amadian_ruinborn_elf_culture_group
 	}
 }
 
-chaqanel = {
+chaqanel_culture = {
 	language = chaqanel_dialect
 	
 	color = rgb { 0 0 0 }
@@ -24,11 +24,11 @@ chaqanel = {
 
 	}	
 	culture_groups = {
-		amadian_ruinborn_elf_group
+		amadian_ruinborn_elf_culture_group
 	}
 }
 
-quruwei = {
+quruwei_culture = {
 	language = quruwei_dialect
 	
 	color = rgb { 0 0 0 }
@@ -39,11 +39,11 @@ quruwei = {
 
 	}	
 	culture_groups = {
-		amadian_ruinborn_elf_group
+		amadian_ruinborn_elf_culture_group
 	}
 }
 
-chamullach = {
+chamullach_culture = {
 	language = chamullach_dialect
 	
 	color = rgb { 0 0 0 }
@@ -54,11 +54,11 @@ chamullach = {
 
 	}	
 	culture_groups = {
-		amadian_ruinborn_elf_group
+		amadian_ruinborn_elf_culture_group
 	}
 }
 
-banche = {
+banche_culture = {
 	language = banche_dialect
 	
 	color = rgb { 0 0 0 }
@@ -69,11 +69,11 @@ banche = {
 
 	}	
 	culture_groups = {
-		amadian_ruinborn_elf_group
+		amadian_ruinborn_elf_culture_group
 	}
 }
 
-faalte = {
+faalte_culture = {
 	language = faalte_dialect
 	
 	color = rgb { 0 0 0 }
@@ -84,7 +84,7 @@ faalte = {
 
 	}	
 	culture_groups = {
-		amadian_ruinborn_elf_group
+		amadian_ruinborn_elf_culture_group
 	}
 }
 

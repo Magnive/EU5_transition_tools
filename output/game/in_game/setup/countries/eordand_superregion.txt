@@ -1,162 +1,162 @@
 ﻿H01 = {
 	color = rgb { 112 11 187 }
 
-	culture_definition = selphereg
+	culture_definition = selphereg_culture
 	religion_definition = spring_court
 }
 H02 = {
 	color = rgb { 11 187 128 }
 
-	culture_definition = caamas
+	culture_definition = caamas_culture
 	religion_definition = summer_court
 }
 H03 = {
 	color = rgb { 222 65 208 }
 
-	culture_definition = caamas
+	culture_definition = caamas_culture
 	religion_definition = summer_court
 }
 H04 = {
 	color = rgb { 110 229 214 }
 
-	culture_definition = selphereg
+	culture_definition = selphereg_culture
 	religion_definition = spring_court
 }
 H05 = {
 	color = rgb { 133 13 7 }
 
-	culture_definition = selphereg
+	culture_definition = selphereg_culture
 	religion_definition = spring_court
 }
 H06 = {
 	color = rgb { 18 166 3 }
 
-	culture_definition = peitar
+	culture_definition = peitar_culture
 	religion_definition = eordellon
 }
 H07 = {
 	color = rgb { 251 255 227 }
 
-	culture_definition = caamas
+	culture_definition = caamas_culture
 	religion_definition = summer_court
 }
 H08 = {
 	color = rgb { 233 154 64 }
 
-	culture_definition = peitar
+	culture_definition = peitar_culture
 	religion_definition = eordellon
 }
 H09 = {
 	color = rgb { 86 110 30 }
 
-	culture_definition = peitar
+	culture_definition = peitar_culture
 	religion_definition = eordellon
 }
 H10 = {
 	color = rgb { 22 105 163 }
 
-	culture_definition = tuathak
+	culture_definition = tuathak_culture
 	religion_definition = autumn_court
 }
 H11 = {
 	color = rgb { 236 225 166 }
 
-	culture_definition = tuathak
+	culture_definition = tuathak_culture
 	religion_definition = autumn_court
 }
 H12 = {
 	color = rgb { 13 109 42 }
 
-	culture_definition = tuathak
+	culture_definition = tuathak_culture
 	religion_definition = autumn_court
 }
 H13 = {
 	color = rgb { 105 94 138 }
 
-	culture_definition = tuathak
+	culture_definition = tuathak_culture
 	religion_definition = autumn_court
 }
 H14 = {
 	color = rgb { 81 111 128 }
 
-	culture_definition = tuathak
+	culture_definition = tuathak_culture
 	religion_definition = autumn_court
 }
 H15 = {
 	color = rgb { 229 187 211 }
 
-	culture_definition = tuathak
+	culture_definition = tuathak_culture
 	religion_definition = autumn_court
 }
 H16 = {
 	color = rgb { 238 238 238 }
 
-	culture_definition = snecboth
+	culture_definition = snecboth_culture
 	religion_definition = winter_court
 }
 H17 = {
 	color = rgb { 130 209 198 }
 
-	culture_definition = snecboth
+	culture_definition = snecboth_culture
 	religion_definition = winter_court
 }
 H18 = {
 	color = rgb { 145 169 123 }
 
-	culture_definition = snecboth
+	culture_definition = snecboth_culture
 	religion_definition = winter_court
 }
 H19 = {
 	color = rgb { 147 123 169 }
 
-	culture_definition = peitar
+	culture_definition = peitar_culture
 	religion_definition = eordellon
 }
 H20 = {
 	color = rgb { 187 211 229 }
 
-	culture_definition = peitar
+	culture_definition = peitar_culture
 	religion_definition = eordellon
 }
 H99 = {
 	color = rgb { 178 34 34 }
 
-	culture_definition = common_goblin
+	culture_definition = common_goblin_culture
 	religion_definition = goblinic_shamanism
 }
 U40 = {
 	color = rgb { 51 0 77 }
 
-	culture_definition = peitar
+	culture_definition = peitar_culture
 	religion_definition = eordellon
 }
 U41 = {
 	color = rgb { 255 202 0 }
 
-	culture_definition = caamas
+	culture_definition = caamas_culture
 	religion_definition = summer_court
 }
 U43 = {
 	color = rgb { 0 208 225 }
 
-	culture_definition = fograc
+	culture_definition = fograc_culture
 	religion_definition = raeldaeriach
 }
 U44 = {
 	color = rgb { 255 255 255 }
 
-	culture_definition = snecboth
+	culture_definition = snecboth_culture
 	religion_definition = winter_court
 }
 U45 = {
 	color = rgb { 186 186 255 }
 
-	culture_definition = snecboth
+	culture_definition = snecboth_culture
 	religion_definition = winter_court
 }
 U46 = {
 	color = rgb { 255 255 51 }
 
-	culture_definition = caamas
+	culture_definition = caamas_culture
 	religion_definition = summer_court
 }

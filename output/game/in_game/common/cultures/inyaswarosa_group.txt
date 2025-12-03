@@ -1,4 +1,4 @@
-﻿tanizu = {
+﻿tanizu_culture = {
 	language = tanizu_dialect
 	
 	color = rgb { 246 245 131 }
@@ -9,11 +9,11 @@
 
 	}	
 	culture_groups = {
-		inyaswarosa_group
+		inyaswarosa_culture_group
 	}
 }
 
-kombedak = {
+kombedak_culture = {
 	language = kombedak_dialect
 	
 	color = rgb { 179 0 30 }
@@ -24,11 +24,11 @@ kombedak = {
 
 	}	
 	culture_groups = {
-		inyaswarosa_group
+		inyaswarosa_culture_group
 	}
 }
 
-umsozidak = {
+umsozidak_culture = {
 	language = umsozidak_dialect
 	
 	color = rgb { 0 26 17 }
@@ -39,11 +39,11 @@ umsozidak = {
 
 	}	
 	culture_groups = {
-		inyaswarosa_group
+		inyaswarosa_culture_group
 	}
 }
 
-wakoodak = {
+wakoodak_culture = {
 	language = wakoodak_dialect
 	
 	color = rgb { 0 153 153 }
@@ -54,11 +54,11 @@ wakoodak = {
 
 	}	
 	culture_groups = {
-		inyaswarosa_group
+		inyaswarosa_culture_group
 	}
 }
 
-antmvura = {
+antmvura_culture = {
 	language = antmvura_dialect
 	
 	color = rgb { 213 204 255 }
@@ -69,7 +69,7 @@ antmvura = {
 
 	}	
 	culture_groups = {
-		inyaswarosa_group
+		inyaswarosa_culture_group
 	}
 }
 

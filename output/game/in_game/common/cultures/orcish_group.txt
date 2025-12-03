@@ -1,4 +1,4 @@
-﻿gray_orc = {
+﻿gray_orc_culture = {
 	language = gray_orc_dialect
 	
 	color = rgb { 0 0 0 }
@@ -9,11 +9,11 @@
 
 	}	
 	culture_groups = {
-		orcish_group
+		orcish_culture_group
 	}
 }
 
-green_orc = {
+green_orc_culture = {
 	language = green_orc_dialect
 	
 	color = rgb { 82 151 32 }
@@ -24,11 +24,11 @@ green_orc = {
 
 	}	
 	culture_groups = {
-		orcish_group
+		orcish_culture_group
 	}
 }
 
-moltenbrand_orc = {
+moltenbrand_orc_culture = {
 	language = moltenbrand_orc_dialect
 	
 	color = rgb { 0 0 0 }
@@ -39,11 +39,11 @@ moltenbrand_orc = {
 
 	}	
 	culture_groups = {
-		orcish_group
+		orcish_culture_group
 	}
 }
 
-black_orc = {
+black_orc_culture = {
 	language = black_orc_dialect
 	
 	color = rgb { 13 210 70 }
@@ -54,11 +54,11 @@ black_orc = {
 
 	}	
 	culture_groups = {
-		orcish_group
+		orcish_culture_group
 	}
 }
 
-blooded_orc = {
+blooded_orc_culture = {
 	language = blooded_orc_dialect
 	
 	color = rgb { 51 3 14 }
@@ -69,11 +69,11 @@ blooded_orc = {
 
 	}	
 	culture_groups = {
-		orcish_group
+		orcish_culture_group
 	}
 }
 
-manhunter_orc = {
+manhunter_orc_culture = {
 	language = manhunter_orc_dialect
 	
 	color = rgb { 161 210 141 }
@@ -84,11 +84,11 @@ manhunter_orc = {
 
 	}	
 	culture_groups = {
-		orcish_group
+		orcish_culture_group
 	}
 }
 
-drakeclaw_orc = {
+drakeclaw_orc_culture = {
 	language = drakeclaw_orc_dialect
 	
 	color = rgb { 178 135 46 }
@@ -99,11 +99,11 @@ drakeclaw_orc = {
 
 	}	
 	culture_groups = {
-		orcish_group
+		orcish_culture_group
 	}
 }
 
-highhold_orc = {
+highhold_orc_culture = {
 	language = highhold_orc_dialect
 	
 	color = rgb { 100 153 24 }
@@ -114,11 +114,11 @@ highhold_orc = {
 
 	}	
 	culture_groups = {
-		orcish_group
+		orcish_culture_group
 	}
 }
 
-cavelurker_orc = {
+cavelurker_orc_culture = {
 	language = cavelurker_orc_dialect
 	
 	color = rgb { 0 0 0 }
@@ -129,11 +129,11 @@ cavelurker_orc = {
 
 	}	
 	culture_groups = {
-		orcish_group
+		orcish_culture_group
 	}
 }
 
-skull_orc = {
+skull_orc_culture = {
 	language = skull_orc_dialect
 	
 	color = rgb { 239 220 171 }
@@ -144,11 +144,11 @@ skull_orc = {
 
 	}	
 	culture_groups = {
-		orcish_group
+		orcish_culture_group
 	}
 }
 
-tarakar_orc = {
+tarakar_orc_culture = {
 	language = tarakar_orc_dialect
 	
 	color = rgb { 40 48 41 }
@@ -159,11 +159,11 @@ tarakar_orc = {
 
 	}	
 	culture_groups = {
-		orcish_group
+		orcish_culture_group
 	}
 }
 
-emerald_orc = {
+emerald_orc_culture = {
 	language = emerald_orc_dialect
 	
 	color = rgb { 80 220 100 }
@@ -174,11 +174,11 @@ emerald_orc = {
 
 	}	
 	culture_groups = {
-		orcish_group
+		orcish_culture_group
 	}
 }
 
-karakhanbari_orc = {
+karakhanbari_orc_culture = {
 	language = karakhanbari_orc_dialect
 	
 	color = rgb { 90 25 25 }
@@ -189,11 +189,11 @@ karakhanbari_orc = {
 
 	}	
 	culture_groups = {
-		orcish_group
+		orcish_culture_group
 	}
 }
 
-ozgar_orc = {
+ozgar_orc_culture = {
 	language = ozgar_orc_dialect
 	
 	color = rgb { 78 180 20 }
@@ -204,11 +204,11 @@ ozgar_orc = {
 
 	}	
 	culture_groups = {
-		orcish_group
+		orcish_culture_group
 	}
 }
 
-grombar_orc = {
+grombar_orc_culture = {
 	language = grombar_orc_dialect
 	
 	color = rgb { 101 125 134 }
@@ -219,11 +219,11 @@ grombar_orc = {
 
 	}	
 	culture_groups = {
-		orcish_group
+		orcish_culture_group
 	}
 }
 
-rugan_orc = {
+rugan_orc_culture = {
 	language = rugan_orc_dialect
 	
 	color = rgb { 100 180 100 }
@@ -234,11 +234,11 @@ rugan_orc = {
 
 	}	
 	culture_groups = {
-		orcish_group
+		orcish_culture_group
 	}
 }
 
-ungulan_orc = {
+ungulan_orc_culture = {
 	language = ungulan_orc_dialect
 	
 	color = rgb { 20 160 60 }
@@ -249,11 +249,11 @@ ungulan_orc = {
 
 	}	
 	culture_groups = {
-		orcish_group
+		orcish_culture_group
 	}
 }
 
-barumand_orc = {
+barumand_orc_culture = {
 	language = barumand_orc_dialect
 	
 	color = rgb { 220 210 50 }
@@ -264,11 +264,11 @@ barumand_orc = {
 
 	}	
 	culture_groups = {
-		orcish_group
+		orcish_culture_group
 	}
 }
 
-brown_orc = {
+brown_orc_culture = {
 	language = brown_orc_dialect
 	
 	color = rgb { 0 0 0 }
@@ -279,11 +279,11 @@ brown_orc = {
 
 	}	
 	culture_groups = {
-		orcish_group
+		orcish_culture_group
 	}
 }
 
-karashari_orc = {
+karashari_orc_culture = {
 	language = karashari_orc_dialect
 	
 	color = rgb { 28 20 20 }
@@ -294,11 +294,11 @@ karashari_orc = {
 
 	}	
 	culture_groups = {
-		orcish_group
+		orcish_culture_group
 	}
 }
 
-redtusk_orc = {
+redtusk_orc_culture = {
 	language = redtusk_orc_dialect
 	
 	color = rgb { 0 0 0 }
@@ -309,7 +309,7 @@ redtusk_orc = {
 
 	}	
 	culture_groups = {
-		orcish_group
+		orcish_culture_group
 	}
 }
 

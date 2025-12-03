@@ -1,4 +1,4 @@
-﻿awoken_mechanim = {
+﻿awoken_mechanim_culture = {
 	language = awoken_mechanim_dialect
 	
 	color = rgb { 0 0 0 }
@@ -9,11 +9,11 @@
 
 	}	
 	culture_groups = {
-		mechanim_group
+		mechanim_culture_group
 	}
 }
 
-reeflight_mechanim = {
+reeflight_mechanim_culture = {
 	language = reeflight_mechanim_dialect
 	
 	color = rgb { 0 0 0 }
@@ -24,11 +24,11 @@ reeflight_mechanim = {
 
 	}	
 	culture_groups = {
-		mechanim_group
+		mechanim_culture_group
 	}
 }
 
-ashfall_mechanim = {
+ashfall_mechanim_culture = {
 	language = ashfall_mechanim_dialect
 	
 	color = rgb { 0 0 0 }
@@ -39,11 +39,11 @@ ashfall_mechanim = {
 
 	}	
 	culture_groups = {
-		mechanim_group
+		mechanim_culture_group
 	}
 }
 
-soulcycle_mechanim = {
+soulcycle_mechanim_culture = {
 	language = soulcycle_mechanim_dialect
 	
 	color = rgb { 0 0 0 }
@@ -54,11 +54,11 @@ soulcycle_mechanim = {
 
 	}	
 	culture_groups = {
-		mechanim_group
+		mechanim_culture_group
 	}
 }
 
-flameweaver_mechanim = {
+flameweaver_mechanim_culture = {
 	language = flameweaver_mechanim_dialect
 	
 	color = rgb { 0 0 0 }
@@ -69,11 +69,11 @@ flameweaver_mechanim = {
 
 	}	
 	culture_groups = {
-		mechanim_group
+		mechanim_culture_group
 	}
 }
 
-stargrasper_mechanim = {
+stargrasper_mechanim_culture = {
 	language = stargrasper_mechanim_dialect
 	
 	color = rgb { 0 0 0 }
@@ -84,11 +84,11 @@ stargrasper_mechanim = {
 
 	}	
 	culture_groups = {
-		mechanim_group
+		mechanim_culture_group
 	}
 }
 
-mangalclimber_mechanim = {
+mangalclimber_mechanim_culture = {
 	language = mangalclimber_mechanim_dialect
 	
 	color = rgb { 0 0 0 }
@@ -99,11 +99,11 @@ mangalclimber_mechanim = {
 
 	}	
 	culture_groups = {
-		mechanim_group
+		mechanim_culture_group
 	}
 }
 
-sporewalker_mechanim = {
+sporewalker_mechanim_culture = {
 	language = sporewalker_mechanim_dialect
 	
 	color = rgb { 0 0 0 }
@@ -114,11 +114,11 @@ sporewalker_mechanim = {
 
 	}	
 	culture_groups = {
-		mechanim_group
+		mechanim_culture_group
 	}
 }
 
-magitek_mechanim = {
+magitek_mechanim_culture = {
 	language = magitek_mechanim_dialect
 	
 	color = rgb { 0 0 0 }
@@ -129,11 +129,11 @@ magitek_mechanim = {
 
 	}	
 	culture_groups = {
-		mechanim_group
+		mechanim_culture_group
 	}
 }
 
-sparkdrive_mechanim = {
+sparkdrive_mechanim_culture = {
 	language = sparkdrive_mechanim_dialect
 	
 	color = rgb { 0 0 0 }
@@ -144,11 +144,11 @@ sparkdrive_mechanim = {
 
 	}	
 	culture_groups = {
-		mechanim_group
+		mechanim_culture_group
 	}
 }
 
-vymafyzemby_mechanim = {
+vymafyzemby_mechanim_culture = {
 	language = vymafyzemby_mechanim_dialect
 	
 	color = rgb { 0 0 0 }
@@ -159,11 +159,11 @@ vymafyzemby_mechanim = {
 
 	}	
 	culture_groups = {
-		mechanim_group
+		mechanim_culture_group
 	}
 }
 
-coaleater_mechanim = {
+coaleater_mechanim_culture = {
 	language = coaleater_mechanim_dialect
 	
 	color = rgb { 0 0 0 }
@@ -174,11 +174,11 @@ coaleater_mechanim = {
 
 	}	
 	culture_groups = {
-		mechanim_group
+		mechanim_culture_group
 	}
 }
 
-deathwalker_mechanim = {
+deathwalker_mechanim_culture = {
 	language = deathwalker_mechanim_dialect
 	
 	color = rgb { 0 0 0 }
@@ -189,11 +189,11 @@ deathwalker_mechanim = {
 
 	}	
 	culture_groups = {
-		mechanim_group
+		mechanim_culture_group
 	}
 }
 
-glorybound_mechanim = {
+glorybound_mechanim_culture = {
 	language = glorybound_mechanim_dialect
 	
 	color = rgb { 0 0 0 }
@@ -204,11 +204,11 @@ glorybound_mechanim = {
 
 	}	
 	culture_groups = {
-		mechanim_group
+		mechanim_culture_group
 	}
 }
 
-feytouched_mechanim = {
+feytouched_mechanim_culture = {
 	language = feytouched_mechanim_dialect
 	
 	color = rgb { 0 0 0 }
@@ -219,11 +219,11 @@ feytouched_mechanim = {
 
 	}	
 	culture_groups = {
-		mechanim_group
+		mechanim_culture_group
 	}
 }
 
-vytash_mechanim = {
+vytash_mechanim_culture = {
 	language = vytash_mechanim_dialect
 	
 	color = rgb { 0 0 0 }
@@ -234,11 +234,11 @@ vytash_mechanim = {
 
 	}	
 	culture_groups = {
-		mechanim_group
+		mechanim_culture_group
 	}
 }
 
-smokevein_mechanim = {
+smokevein_mechanim_culture = {
 	language = smokevein_mechanim_dialect
 	
 	color = rgb { 0 0 0 }
@@ -249,11 +249,11 @@ smokevein_mechanim = {
 
 	}	
 	culture_groups = {
-		mechanim_group
+		mechanim_culture_group
 	}
 }
 
-spiritfire_mechanim = {
+spiritfire_mechanim_culture = {
 	language = spiritfire_mechanim_dialect
 	
 	color = rgb { 0 0 0 }
@@ -264,11 +264,11 @@ spiritfire_mechanim = {
 
 	}	
 	culture_groups = {
-		mechanim_group
+		mechanim_culture_group
 	}
 }
 
-giltpetal_mechanim = {
+giltpetal_mechanim_culture = {
 	language = giltpetal_mechanim_dialect
 	
 	color = rgb { 0 0 0 }
@@ -279,11 +279,11 @@ giltpetal_mechanim = {
 
 	}	
 	culture_groups = {
-		mechanim_group
+		mechanim_culture_group
 	}
 }
 
-umsoroh_mechanim = {
+umsoroh_mechanim_culture = {
 	language = umsoroh_mechanim_dialect
 	
 	color = rgb { 0 0 0 }
@@ -294,11 +294,11 @@ umsoroh_mechanim = {
 
 	}	
 	culture_groups = {
-		mechanim_group
+		mechanim_culture_group
 	}
 }
 
-udzalkerho_mechanim = {
+udzalkerho_mechanim_culture = {
 	language = udzalkerho_mechanim_dialect
 	
 	color = rgb { 0 0 0 }
@@ -309,11 +309,11 @@ udzalkerho_mechanim = {
 
 	}	
 	culture_groups = {
-		mechanim_group
+		mechanim_culture_group
 	}
 }
 
-masiddu_mechanim = {
+masiddu_mechanim_culture = {
 	language = masiddu_mechanim_dialect
 	
 	color = rgb { 0 0 0 }
@@ -324,11 +324,11 @@ masiddu_mechanim = {
 
 	}	
 	culture_groups = {
-		mechanim_group
+		mechanim_culture_group
 	}
 }
 
-golemkin_mechanim = {
+golemkin_mechanim_culture = {
 	language = golemkin_mechanim_dialect
 	
 	color = rgb { 0 0 0 }
@@ -339,11 +339,11 @@ golemkin_mechanim = {
 
 	}	
 	culture_groups = {
-		mechanim_group
+		mechanim_culture_group
 	}
 }
 
-chainforged_mechanim = {
+chainforged_mechanim_culture = {
 	language = chainforged_mechanim_dialect
 	
 	color = rgb { 0 0 0 }
@@ -354,11 +354,11 @@ chainforged_mechanim = {
 
 	}	
 	culture_groups = {
-		mechanim_group
+		mechanim_culture_group
 	}
 }
 
-songheart_mechanim = {
+songheart_mechanim_culture = {
 	language = songheart_mechanim_dialect
 	
 	color = rgb { 0 0 0 }
@@ -369,11 +369,11 @@ songheart_mechanim = {
 
 	}	
 	culture_groups = {
-		mechanim_group
+		mechanim_culture_group
 	}
 }
 
-runescribed_mechanim = {
+runescribed_mechanim_culture = {
 	language = runescribed_mechanim_dialect
 	
 	color = rgb { 0 0 0 }
@@ -384,11 +384,11 @@ runescribed_mechanim = {
 
 	}	
 	culture_groups = {
-		mechanim_group
+		mechanim_culture_group
 	}
 }
 
-ironheart_mechanim = {
+ironheart_mechanim_culture = {
 	language = ironheart_mechanim_dialect
 	
 	color = rgb { 0 0 0 }
@@ -399,11 +399,11 @@ ironheart_mechanim = {
 
 	}	
 	culture_groups = {
-		mechanim_group
+		mechanim_culture_group
 	}
 }
 
-steelsworn_mechanim = {
+steelsworn_mechanim_culture = {
 	language = steelsworn_mechanim_dialect
 	
 	color = rgb { 0 0 0 }
@@ -414,11 +414,11 @@ steelsworn_mechanim = {
 
 	}	
 	culture_groups = {
-		mechanim_group
+		mechanim_culture_group
 	}
 }
 
-windcast_mechanim = {
+windcast_mechanim_culture = {
 	language = windcast_mechanim_dialect
 	
 	color = rgb { 0 0 0 }
@@ -429,11 +429,11 @@ windcast_mechanim = {
 
 	}	
 	culture_groups = {
-		mechanim_group
+		mechanim_culture_group
 	}
 }
 
-steelfolk_mechanim = {
+steelfolk_mechanim_culture = {
 	language = steelfolk_mechanim_dialect
 	
 	color = rgb { 0 0 0 }
@@ -444,11 +444,11 @@ steelfolk_mechanim = {
 
 	}	
 	culture_groups = {
-		mechanim_group
+		mechanim_culture_group
 	}
 }
 
-nightengine_mechanim = {
+nightengine_mechanim_culture = {
 	language = nightengine_mechanim_dialect
 	
 	color = rgb { 0 0 0 }
@@ -459,11 +459,11 @@ nightengine_mechanim = {
 
 	}	
 	culture_groups = {
-		mechanim_group
+		mechanim_culture_group
 	}
 }
 
-orderwrought_mechanim = {
+orderwrought_mechanim_culture = {
 	language = orderwrought_mechanim_dialect
 	
 	color = rgb { 0 0 0 }
@@ -474,11 +474,11 @@ orderwrought_mechanim = {
 
 	}	
 	culture_groups = {
-		mechanim_group
+		mechanim_culture_group
 	}
 }
 
-soullistener_mechanim = {
+soullistener_mechanim_culture = {
 	language = soullistener_mechanim_dialect
 	
 	color = rgb { 0 0 0 }
@@ -489,7 +489,7 @@ soullistener_mechanim = {
 
 	}	
 	culture_groups = {
-		mechanim_group
+		mechanim_culture_group
 	}
 }
 

@@ -1,66 +1,66 @@
 ﻿F55 = {
 	color = rgb { 130 35 20 }
 
-	culture_definition = fieldstalker_gnoll
+	culture_definition = fieldstalker_gnoll_culture
 	religion_definition = xhazobkult
 }
 F68 = {
 	color = rgb { 45 22 80 }
 
-	culture_definition = echenka
+	culture_definition = echenka_culture
 	religion_definition = shadow_pact
 }
 F71 = {
 	color = rgb { 150 90 0 }
 
-	culture_definition = fieldstalker_gnoll
+	culture_definition = fieldstalker_gnoll_culture
 	religion_definition = xhazobkult
 }
 F72 = {
 	color = rgb { 160 110 110 }
 
-	culture_definition = fieldstalker_gnoll
+	culture_definition = fieldstalker_gnoll_culture
 	religion_definition = kvangahga
 }
 L02 = {
 	color = rgb { 250 214 115 }
 
-	culture_definition = mantimatu
+	culture_definition = mantimatu_culture
 	religion_definition = fangaulan_pantheon
 }
 L04 = {
 	color = rgb { 255 204 0 }
 
-	culture_definition = kudemtu
+	culture_definition = kudemtu_culture
 	religion_definition = elikhetist
 }
 L26 = {
 	color = rgb { 219 217 35 }
 
-	culture_definition = irsmahapan
+	culture_definition = irsmahapan_culture
 	religion_definition = elikhetist
 }
 L29 = {
 	color = rgb { 6 17 79 }
 
-	culture_definition = horakheti
+	culture_definition = horakheti_culture
 	religion_definition = elikhetist
 }
 Q00 = {
 	color = rgb { 233 232 15 }
 
-	culture_definition = hapremiti
+	culture_definition = hapremiti_culture
 	religion_definition = elikhetist
 }
 Q01 = {
 	color = rgb { 183 63 48 }
 
-	culture_definition = pyreclaw_gnoll
+	culture_definition = pyreclaw_gnoll_culture
 	religion_definition = xhazobkult
 }
 U09 = {
 	color = rgb { 160 125 93 }
 
-	culture_definition = pyreclaw_gnoll
+	culture_definition = pyreclaw_gnoll_culture
 	religion_definition = xhazobkult
 }

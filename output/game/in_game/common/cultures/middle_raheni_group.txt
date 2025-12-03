@@ -1,4 +1,4 @@
-﻿muthadhaya = {
+﻿muthadhaya_culture = {
 	language = muthadhaya_dialect
 	
 	color = rgb { 209 228 255 }
@@ -9,11 +9,11 @@
 
 	}	
 	culture_groups = {
-		middle_raheni_group
+		middle_raheni_culture_group
 	}
 }
 
-rasarhid = {
+rasarhid_culture = {
 	language = rasarhid_dialect
 	
 	color = rgb { 153 206 236 }
@@ -24,11 +24,11 @@ rasarhid = {
 
 	}	
 	culture_groups = {
-		middle_raheni_group
+		middle_raheni_culture_group
 	}
 }
 
-sarisungi = {
+sarisungi_culture = {
 	language = sarisungi_dialect
 	
 	color = rgb { 0 95 7 }
@@ -39,11 +39,11 @@ sarisungi = {
 
 	}	
 	culture_groups = {
-		middle_raheni_group
+		middle_raheni_culture_group
 	}
 }
 
-chengrong = {
+chengrong_culture = {
 	language = chengrong_dialect
 	
 	color = rgb { 205 87 137 }
@@ -54,7 +54,7 @@ chengrong = {
 
 	}	
 	culture_groups = {
-		middle_raheni_group
+		middle_raheni_culture_group
 	}
 }
 

@@ -1,468 +1,468 @@
 ﻿B79 = {
 	color = rgb { 49 63 0 }
 
-	culture_definition = common_goblin
+	culture_definition = common_goblin_culture
 	religion_definition = goblinic_shamanism
 }
 F67 = {
 	color = rgb { 34 173 146 }
 
-	culture_definition = seascourge_gnoll
+	culture_definition = seascourge_gnoll_culture
 	religion_definition = xhazobkult
 }
 H21 = {
 	color = rgb { 212 175 55 }
 
-	culture_definition = peitar
+	culture_definition = peitar_culture
 	religion_definition = eordellon
 }
 H22 = {
 	color = rgb { 60 120 180 }
 
-	culture_definition = unknown_culture
+	culture_definition = _culture
 	religion_definition = unknown_religion
 }
 H27 = {
 	color = rgb { 173 27 5 }
 
-	culture_definition = dolindhan
+	culture_definition = dolindhan_culture
 	religion_definition = ynn_river_worship
 }
 I00 = {
 	color = rgb { 13 3 5 }
 
-	culture_definition = forest_goblin
+	culture_definition = forest_goblin_culture
 	religion_definition = goblinic_shamanism
 }
 I89 = {
 	color = rgb { 100 15 15 }
 
-	culture_definition = plain_centaur
+	culture_definition = plain_centaur_culture
 	religion_definition = irdaeos_worship
 }
 I91 = {
 	color = rgb { 207 169 55 }
 
-	culture_definition = plain_centaur
+	culture_definition = plain_centaur_culture
 	religion_definition = irdaeos_worship
 }
 I92 = {
 	color = rgb { 110 150 64 }
 
-	culture_definition = plain_centaur
+	culture_definition = plain_centaur_culture
 	religion_definition = irdaeos_worship
 }
 I93 = {
 	color = rgb { 150 100 100 }
 
-	culture_definition = plain_centaur
+	culture_definition = plain_centaur_culture
 	religion_definition = irdaeos_worship
 }
 I94 = {
 	color = rgb { 250 100 100 }
 
-	culture_definition = ghanzamh_centaur
+	culture_definition = ghanzamh_centaur_culture
 	religion_definition = irdaeos_worship
 }
 I95 = {
 	color = rgb { 45 115 215 }
 
-	culture_definition = sochar_centaur
+	culture_definition = sochar_centaur_culture
 	religion_definition = irdaeos_worship
 }
 I96 = {
 	color = rgb { 185 5 5 }
 
-	culture_definition = anuar_centaur
+	culture_definition = anuar_centaur_culture
 	religion_definition = irdaeos_worship
 }
 I97 = {
 	color = rgb { 50 90 50 }
 
-	culture_definition = abalg_centaur
+	culture_definition = abalg_centaur_culture
 	religion_definition = irdaeos_worship
 }
 I98 = {
 	color = rgb { 34 216 0 }
 
-	culture_definition = cave_goblin
+	culture_definition = cave_goblin_culture
 	religion_definition = goblinic_shamanism
 }
 I99 = {
 	color = rgb { 255 179 230 }
 
-	culture_definition = undergrowth_goblin
+	culture_definition = undergrowth_goblin_culture
 	religion_definition = goblinic_shamanism
 }
 J33 = {
 	color = rgb { 20 50 210 }
 
-	culture_definition = metsamic
+	culture_definition = metsamic_culture
 	religion_definition = kodave_followers
 }
 J54 = {
 	color = rgb { 3 123 252 }
 
-	culture_definition = plain_centaur
+	culture_definition = plain_centaur_culture
 	religion_definition = irdaeos_worship
 }
 J55 = {
 	color = rgb { 11 138 72 }
 
-	culture_definition = plain_centaur
+	culture_definition = plain_centaur_culture
 	religion_definition = irdaeos_worship
 }
 J56 = {
 	color = rgb { 107 19 215 }
 
-	culture_definition = plain_centaur
+	culture_definition = plain_centaur_culture
 	religion_definition = irdaeos_worship
 }
 J99 = {
 	color = rgb { 0 36 84 }
 
-	culture_definition = thekvrystana
+	culture_definition = thekvrystana_culture
 	religion_definition = kheionism
 }
 L59 = {
 	color = rgb { 248 50 180 }
 
-	culture_definition = tanizu
+	culture_definition = tanizu_culture
 	religion_definition = beast_memory
 }
 M03 = {
 	color = rgb { 237 210 38 }
 
-	culture_definition = cave_goblin
+	culture_definition = cave_goblin_culture
 	religion_definition = goblinic_shamanism
 }
 M04 = {
 	color = rgb { 40 48 41 }
 
-	culture_definition = black_orc
+	culture_definition = black_orc_culture
 	religion_definition = old_dookan
 }
 M22 = {
 	color = rgb { 1 1 1 }
 
-	culture_definition = awoken_mechanim
+	culture_definition = awoken_mechanim_culture
 	religion_definition = manago_poku
 }
 M23 = {
 	color = rgb { 1 1 1 }
 
-	culture_definition = awoken_mechanim
+	culture_definition = awoken_mechanim_culture
 	religion_definition = manago_poku
 }
 M24 = {
 	color = rgb { 1 1 1 }
 
-	culture_definition = awoken_mechanim
+	culture_definition = awoken_mechanim_culture
 	religion_definition = manago_poku
 }
 M25 = {
 	color = rgb { 1 1 1 }
 
-	culture_definition = awoken_mechanim
+	culture_definition = awoken_mechanim_culture
 	religion_definition = manago_poku
 }
 M26 = {
 	color = rgb { 1 1 1 }
 
-	culture_definition = awoken_mechanim
+	culture_definition = awoken_mechanim_culture
 	religion_definition = manago_poku
 }
 M27 = {
 	color = rgb { 1 1 1 }
 
-	culture_definition = awoken_mechanim
+	culture_definition = awoken_mechanim_culture
 	religion_definition = manago_poku
 }
 M28 = {
 	color = rgb { 1 1 1 }
 
-	culture_definition = awoken_mechanim
+	culture_definition = awoken_mechanim_culture
 	religion_definition = manago_poku
 }
 M29 = {
 	color = rgb { 1 1 1 }
 
-	culture_definition = awoken_mechanim
+	culture_definition = awoken_mechanim_culture
 	religion_definition = manago_poku
 }
 M30 = {
 	color = rgb { 1 1 1 }
 
-	culture_definition = awoken_mechanim
+	culture_definition = awoken_mechanim_culture
 	religion_definition = manago_poku
 }
 M31 = {
 	color = rgb { 1 1 1 }
 
-	culture_definition = awoken_mechanim
+	culture_definition = awoken_mechanim_culture
 	religion_definition = manago_poku
 }
 M32 = {
 	color = rgb { 1 1 1 }
 
-	culture_definition = awoken_mechanim
+	culture_definition = awoken_mechanim_culture
 	religion_definition = manago_poku
 }
 M33 = {
 	color = rgb { 1 1 1 }
 
-	culture_definition = awoken_mechanim
+	culture_definition = awoken_mechanim_culture
 	religion_definition = manago_poku
 }
 M34 = {
 	color = rgb { 1 1 1 }
 
-	culture_definition = awoken_mechanim
+	culture_definition = awoken_mechanim_culture
 	religion_definition = manago_poku
 }
 M35 = {
 	color = rgb { 1 1 1 }
 
-	culture_definition = awoken_mechanim
+	culture_definition = awoken_mechanim_culture
 	religion_definition = manago_poku
 }
 M50 = {
 	color = rgb { 188 236 153 }
 
-	culture_definition = plain_centaur
+	culture_definition = plain_centaur_culture
 	religion_definition = irdaeos_worship
 }
 M51 = {
 	color = rgb { 188 236 153 }
 
-	culture_definition = plain_centaur
+	culture_definition = plain_centaur_culture
 	religion_definition = irdaeos_worship
 }
 M52 = {
 	color = rgb { 188 236 153 }
 
-	culture_definition = plain_centaur
+	culture_definition = plain_centaur_culture
 	religion_definition = irdaeos_worship
 }
 M53 = {
 	color = rgb { 188 236 153 }
 
-	culture_definition = plain_centaur
+	culture_definition = plain_centaur_culture
 	religion_definition = irdaeos_worship
 }
 M54 = {
 	color = rgb { 188 236 153 }
 
-	culture_definition = royal_harimari
+	culture_definition = royal_harimari_culture
 	religion_definition = high_philosophy
 }
 M55 = {
 	color = rgb { 188 236 153 }
 
-	culture_definition = royal_harimari
+	culture_definition = royal_harimari_culture
 	religion_definition = high_philosophy
 }
 M56 = {
 	color = rgb { 188 236 153 }
 
-	culture_definition = royal_harimari
+	culture_definition = royal_harimari_culture
 	religion_definition = high_philosophy
 }
 M57 = {
 	color = rgb { 188 236 153 }
 
-	culture_definition = royal_harimari
+	culture_definition = royal_harimari_culture
 	religion_definition = high_philosophy
 }
 M58 = {
 	color = rgb { 188 236 153 }
 
-	culture_definition = royal_harimari
+	culture_definition = royal_harimari_culture
 	religion_definition = high_philosophy
 }
 M59 = {
 	color = rgb { 188 236 153 }
 
-	culture_definition = royal_harimari
+	culture_definition = royal_harimari_culture
 	religion_definition = high_philosophy
 }
 M60 = {
 	color = rgb { 188 236 153 }
 
-	culture_definition = royal_harimari
+	culture_definition = royal_harimari_culture
 	religion_definition = high_philosophy
 }
 M61 = {
 	color = rgb { 188 236 153 }
 
-	culture_definition = royal_harimari
+	culture_definition = royal_harimari_culture
 	religion_definition = high_philosophy
 }
 M62 = {
 	color = rgb { 188 236 153 }
 
-	culture_definition = royal_harimari
+	culture_definition = royal_harimari_culture
 	religion_definition = high_philosophy
 }
 M63 = {
 	color = rgb { 188 236 153 }
 
-	culture_definition = arraskay_lizardfolk
+	culture_definition = arraskay_lizardfolk_culture
 	religion_definition = anzalkatsa
 }
 M64 = {
 	color = rgb { 188 236 153 }
 
-	culture_definition = arraskay_lizardfolk
+	culture_definition = arraskay_lizardfolk_culture
 	religion_definition = anzalkatsa
 }
 M65 = {
 	color = rgb { 188 236 153 }
 
-	culture_definition = arraskay_lizardfolk
+	culture_definition = arraskay_lizardfolk_culture
 	religion_definition = anzalkatsa
 }
 M66 = {
 	color = rgb { 188 236 153 }
 
-	culture_definition = arraskay_lizardfolk
+	culture_definition = arraskay_lizardfolk_culture
 	religion_definition = anzalkatsa
 }
 M67 = {
 	color = rgb { 188 236 153 }
 
-	culture_definition = arraskay_lizardfolk
+	culture_definition = arraskay_lizardfolk_culture
 	religion_definition = anzalkatsa
 }
 M68 = {
 	color = rgb { 188 236 153 }
 
-	culture_definition = arraskay_lizardfolk
+	culture_definition = arraskay_lizardfolk_culture
 	religion_definition = anzalkatsa
 }
 M69 = {
 	color = rgb { 188 236 153 }
 
-	culture_definition = silent_harimari
+	culture_definition = silent_harimari_culture
 	religion_definition = high_philosophy
 }
 M70 = {
 	color = rgb { 188 236 153 }
 
-	culture_definition = pyreclaw_gnoll
+	culture_definition = pyreclaw_gnoll_culture
 	religion_definition = xhazobkult
 }
 M71 = {
 	color = rgb { 188 236 153 }
 
-	culture_definition = sandfang_gnoll
+	culture_definition = sandfang_gnoll_culture
 	religion_definition = xhazobkult
 }
 M72 = {
 	color = rgb { 188 236 153 }
 
-	culture_definition = windhowler_gnoll
+	culture_definition = windhowler_gnoll_culture
 	religion_definition = xhazobkult
 }
 M73 = {
 	color = rgb { 188 236 153 }
 
-	culture_definition = fieldstalker_gnoll
+	culture_definition = fieldstalker_gnoll_culture
 	religion_definition = xhazobkult
 }
 M74 = {
 	color = rgb { 188 236 153 }
 
-	culture_definition = sandfang_gnoll
+	culture_definition = sandfang_gnoll_culture
 	religion_definition = xhazobkult
 }
 M75 = {
 	color = rgb { 188 236 153 }
 
-	culture_definition = fieldstalker_gnoll
+	culture_definition = fieldstalker_gnoll_culture
 	religion_definition = xhazobkult
 }
 M76 = {
 	color = rgb { 188 236 153 }
 
-	culture_definition = fieldstalker_gnoll
+	culture_definition = fieldstalker_gnoll_culture
 	religion_definition = xhazobkult
 }
 M77 = {
 	color = rgb { 188 236 153 }
 
-	culture_definition = windhowler_gnoll
+	culture_definition = windhowler_gnoll_culture
 	religion_definition = xhazobkult
 }
 M78 = {
 	color = rgb { 188 236 153 }
 
-	culture_definition = sandfang_gnoll
+	culture_definition = sandfang_gnoll_culture
 	religion_definition = xhazobkult
 }
 M79 = {
 	color = rgb { 188 236 153 }
 
-	culture_definition = arraskay_lizardfolk
+	culture_definition = arraskay_lizardfolk_culture
 	religion_definition = anzalkatsa
 }
 M80 = {
 	color = rgb { 188 236 153 }
 
-	culture_definition = sandfang_gnoll
+	culture_definition = sandfang_gnoll_culture
 	religion_definition = xhazobkult
 }
 S71 = {
 	color = rgb { 238 186 126 }
 
-	culture_definition = unknown_culture
+	culture_definition = _culture
 	religion_definition = unknown_religion
 }
 S84 = {
 	color = rgb { 255 0 0 }
 
-	culture_definition = unknown_culture
+	culture_definition = _culture
 	religion_definition = unknown_religion
 }
 S90 = {
 	color = rgb { 200 190 200 }
 
-	culture_definition = unknown_culture
+	culture_definition = _culture
 	religion_definition = unknown_religion
 }
 S93 = {
 	color = rgb { 100 1 10 }
 
-	culture_definition = guryadagga
+	culture_definition = guryadagga_culture
 	religion_definition = genie_cult
 }
 U27 = {
 	color = rgb { 126 27 133 }
 
-	culture_definition = unknown_culture
+	culture_definition = _culture
 	religion_definition = unknown_religion
 }
 V28 = {
 	color = rgb { 130 180 240 }
 
-	culture_definition = unknown_culture
+	culture_definition = _culture
 	religion_definition = unknown_religion
 }
 Z91 = {
 	color = rgb { 20 31 107 }
 
-	culture_definition = unknown_culture
+	culture_definition = _culture
 	religion_definition = unknown_religion
 }
 Z92 = {
 	color = rgb { 20 107 28 }
 
-	culture_definition = unknown_culture
+	culture_definition = _culture
 	religion_definition = unknown_religion
 }
 Z97 = {
 	color = rgb { 69 69 69 }
 
-	culture_definition = unknown_culture
+	culture_definition = _culture
 	religion_definition = unknown_religion
 }

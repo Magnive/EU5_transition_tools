@@ -1,4 +1,4 @@
-﻿larankarha = {
+﻿larankarha_culture = {
 	language = larankarha_dialect
 	
 	color = rgb { 180 117 63 }
@@ -9,11 +9,11 @@
 
 	}	
 	culture_groups = {
-		taychendi_ruinborn_elf_group
+		taychendi_ruinborn_elf_culture_group
 	}
 }
 
-advakhalla = {
+advakhalla_culture = {
 	language = advakhalla_dialect
 	
 	color = rgb { 197 157 152 }
@@ -24,11 +24,11 @@ advakhalla = {
 
 	}	
 	culture_groups = {
-		taychendi_ruinborn_elf_group
+		taychendi_ruinborn_elf_culture_group
 	}
 }
 
-sarihaddi = {
+sarihaddi_culture = {
 	language = sarihaddi_dialect
 	
 	color = rgb { 213 164 100 }
@@ -39,11 +39,11 @@ sarihaddi = {
 
 	}	
 	culture_groups = {
-		taychendi_ruinborn_elf_group
+		taychendi_ruinborn_elf_culture_group
 	}
 }
 
-yodhanpir = {
+yodhanpir_culture = {
 	language = yodhanpir_dialect
 	
 	color = rgb { 100 100 100 }
@@ -54,11 +54,11 @@ yodhanpir = {
 
 	}	
 	culture_groups = {
-		taychendi_ruinborn_elf_group
+		taychendi_ruinborn_elf_culture_group
 	}
 }
 
-kalavendhi = {
+kalavendhi_culture = {
 	language = kalavendhi_dialect
 	
 	color = rgb { 245 224 202 }
@@ -69,11 +69,11 @@ kalavendhi = {
 
 	}	
 	culture_groups = {
-		taychendi_ruinborn_elf_group
+		taychendi_ruinborn_elf_culture_group
 	}
 }
 
-thekvrystana = {
+thekvrystana_culture = {
 	language = thekvrystana_dialect
 	
 	color = rgb { 54 42 39 }
@@ -84,11 +84,11 @@ thekvrystana = {
 
 	}	
 	culture_groups = {
-		taychendi_ruinborn_elf_group
+		taychendi_ruinborn_elf_culture_group
 	}
 }
 
-bekauta = {
+bekauta_culture = {
 	language = bekauta_dialect
 	
 	color = rgb { 0 0 0 }
@@ -99,11 +99,11 @@ bekauta = {
 
 	}	
 	culture_groups = {
-		taychendi_ruinborn_elf_group
+		taychendi_ruinborn_elf_culture_group
 	}
 }
 
-vaikazelhi = {
+vaikazelhi_culture = {
 	language = vaikazelhi_dialect
 	
 	color = rgb { 0 0 0 }
@@ -114,7 +114,7 @@ vaikazelhi = {
 
 	}	
 	culture_groups = {
-		taychendi_ruinborn_elf_group
+		taychendi_ruinborn_elf_culture_group
 	}
 }
 

@@ -1,4 +1,4 @@
-﻿desha = {
+﻿desha_culture = {
 	language = desha_dialect
 	
 	color = rgb { 68 146 194 }
@@ -9,11 +9,11 @@
 
 	}	
 	culture_groups = {
-		akasi_group
+		akasi_culture_group
 	}
 }
 
-far_akasi = {
+far_akasi_culture = {
 	language = far_akasi_dialect
 	
 	color = rgb { 206 222 199 }
@@ -24,11 +24,11 @@ far_akasi = {
 
 	}	
 	culture_groups = {
-		akasi_group
+		akasi_culture_group
 	}
 }
 
-khasani = {
+khasani_culture = {
 	language = khasani_dialect
 	
 	color = rgb { 90 135 65 }
@@ -39,11 +39,11 @@ khasani = {
 
 	}	
 	culture_groups = {
-		akasi_group
+		akasi_culture_group
 	}
 }
 
-enigrax = {
+enigrax_culture = {
 	language = enigrax_dialect
 	
 	color = rgb { 150 149 122 }
@@ -54,7 +54,7 @@ enigrax = {
 
 	}	
 	culture_groups = {
-		akasi_group
+		akasi_culture_group
 	}
 }
 

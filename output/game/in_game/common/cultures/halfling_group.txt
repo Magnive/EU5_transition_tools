@@ -1,4 +1,4 @@
-﻿imperial_halfling = {
+﻿imperial_halfling_culture = {
 	language = imperial_halfling_dialect
 	
 	color = rgb { 255 242 100 }
@@ -9,11 +9,11 @@
 
 	}	
 	culture_groups = {
-		halfling_group
+		halfling_culture_group
 	}
 }
 
-bluefoot_halfling = {
+bluefoot_halfling_culture = {
 	language = bluefoot_halfling_dialect
 	
 	color = rgb { 226 224 106 }
@@ -24,11 +24,11 @@ bluefoot_halfling = {
 
 	}	
 	culture_groups = {
-		halfling_group
+		halfling_culture_group
 	}
 }
 
-redfoot_halfling = {
+redfoot_halfling_culture = {
 	language = redfoot_halfling_dialect
 	
 	color = rgb { 209 0 54 }
@@ -39,11 +39,11 @@ redfoot_halfling = {
 
 	}	
 	culture_groups = {
-		halfling_group
+		halfling_culture_group
 	}
 }
 
-newfoot_halfling = {
+newfoot_halfling_culture = {
 	language = newfoot_halfling_dialect
 	
 	color = rgb { 181 106 106 }
@@ -54,11 +54,11 @@ newfoot_halfling = {
 
 	}	
 	culture_groups = {
-		halfling_group
+		halfling_culture_group
 	}
 }
 
-visfoot_halfling = {
+visfoot_halfling_culture = {
 	language = visfoot_halfling_dialect
 	
 	color = rgb { 200 200 200 }
@@ -69,11 +69,11 @@ visfoot_halfling = {
 
 	}	
 	culture_groups = {
-		halfling_group
+		halfling_culture_group
 	}
 }
 
-towerfoot_halfling = {
+towerfoot_halfling_culture = {
 	language = towerfoot_halfling_dialect
 	
 	color = rgb { 178 178 178 }
@@ -84,11 +84,11 @@ towerfoot_halfling = {
 
 	}	
 	culture_groups = {
-		halfling_group
+		halfling_culture_group
 	}
 }
 
-pipefoot_halfling = {
+pipefoot_halfling_culture = {
 	language = pipefoot_halfling_dialect
 	
 	color = rgb { 209 130 203 }
@@ -99,11 +99,11 @@ pipefoot_halfling = {
 
 	}	
 	culture_groups = {
-		halfling_group
+		halfling_culture_group
 	}
 }
 
-creekfoot_halfling = {
+creekfoot_halfling_culture = {
 	language = creekfoot_halfling_dialect
 	
 	color = rgb { 147 255 114 }
@@ -114,11 +114,11 @@ creekfoot_halfling = {
 
 	}	
 	culture_groups = {
-		halfling_group
+		halfling_culture_group
 	}
 }
 
-amezatany = {
+amezatany_culture = {
 	language = amezatany_dialect
 	
 	color = rgb { 255 255 0 }
@@ -129,11 +129,11 @@ amezatany = {
 
 	}	
 	culture_groups = {
-		halfling_group
+		halfling_culture_group
 	}
 }
 
-mboala = {
+mboala_culture = {
 	language = mboala_dialect
 	
 	color = rgb { 102 98 236 }
@@ -144,11 +144,11 @@ mboala = {
 
 	}	
 	culture_groups = {
-		halfling_group
+		halfling_culture_group
 	}
 }
 
-mazava = {
+mazava_culture = {
 	language = mazava_dialect
 	
 	color = rgb { 250 188 55 }
@@ -159,11 +159,11 @@ mazava = {
 
 	}	
 	culture_groups = {
-		halfling_group
+		halfling_culture_group
 	}
 }
 
-fomarati = {
+fomarati_culture = {
 	language = fomarati_dialect
 	
 	color = rgb { 157 197 220 }
@@ -174,11 +174,11 @@ fomarati = {
 
 	}	
 	culture_groups = {
-		halfling_group
+		halfling_culture_group
 	}
 }
 
-vyoronsi = {
+vyoronsi_culture = {
 	language = vyoronsi_dialect
 	
 	color = rgb { 165 210 253 }
@@ -189,11 +189,11 @@ vyoronsi = {
 
 	}	
 	culture_groups = {
-		halfling_group
+		halfling_culture_group
 	}
 }
 
-zohebidi = {
+zohebidi_culture = {
 	language = zohebidi_dialect
 	
 	color = rgb { 165 210 253 }
@@ -204,7 +204,7 @@ zohebidi = {
 
 	}	
 	culture_groups = {
-		halfling_group
+		halfling_culture_group
 	}
 }
 

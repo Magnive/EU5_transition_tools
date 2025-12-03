@@ -1,4 +1,4 @@
-﻿sarniryabsad = {
+﻿sarniryabsad_culture = {
 	language = sarniryabsad_dialect
 	
 	color = rgb { 87 151 238 }
@@ -9,11 +9,11 @@
 
 	}	
 	culture_groups = {
-		south_raheni_group
+		south_raheni_culture_group
 	}
 }
 
-dhukharuved = {
+dhukharuved_culture = {
 	language = dhukharuved_dialect
 	
 	color = rgb { 212 107 246 }
@@ -24,11 +24,11 @@ dhukharuved = {
 
 	}	
 	culture_groups = {
-		south_raheni_group
+		south_raheni_culture_group
 	}
 }
 
-rabhidarubsad = {
+rabhidarubsad_culture = {
 	language = rabhidarubsad_dialect
 	
 	color = rgb { 1 47 0 }
@@ -39,11 +39,11 @@ rabhidarubsad = {
 
 	}	
 	culture_groups = {
-		south_raheni_group
+		south_raheni_culture_group
 	}
 }
 
-ghankedhen = {
+ghankedhen_culture = {
 	language = ghankedhen_dialect
 	
 	color = rgb { 234 77 0 }
@@ -54,11 +54,11 @@ ghankedhen = {
 
 	}	
 	culture_groups = {
-		south_raheni_group
+		south_raheni_culture_group
 	}
 }
 
-pasindesh = {
+pasindesh_culture = {
 	language = pasindesh_dialect
 	
 	color = rgb { 200 200 0 }
@@ -69,11 +69,11 @@ pasindesh = {
 
 	}	
 	culture_groups = {
-		south_raheni_group
+		south_raheni_culture_group
 	}
 }
 
-raghamidesh = {
+raghamidesh_culture = {
 	language = raghamidesh_dialect
 	
 	color = rgb { 113 176 50 }
@@ -84,7 +84,7 @@ raghamidesh = {
 
 	}	
 	culture_groups = {
-		south_raheni_group
+		south_raheni_culture_group
 	}
 }
 

@@ -1,4 +1,4 @@
-﻿degabhen = {
+﻿degabhen_culture = {
 	language = degabhen_dialect
 	
 	color = rgb { 225 40 88 }
@@ -9,11 +9,11 @@
 
 	}	
 	culture_groups = {
-		kheionai_ruinborn_elf_group
+		kheionai_ruinborn_elf_culture_group
 	}
 }
 
-oktibhen = {
+oktibhen_culture = {
 	language = oktibhen_dialect
 	
 	color = rgb { 49 163 38 }
@@ -24,11 +24,11 @@ oktibhen = {
 
 	}	
 	culture_groups = {
-		kheionai_ruinborn_elf_group
+		kheionai_ruinborn_elf_culture_group
 	}
 }
 
-kherkabhen = {
+kherkabhen_culture = {
 	language = kherkabhen_dialect
 	
 	color = rgb { 205 205 205 }
@@ -39,11 +39,11 @@ kherkabhen = {
 
 	}	
 	culture_groups = {
-		kheionai_ruinborn_elf_group
+		kheionai_ruinborn_elf_culture_group
 	}
 }
 
-lokebhen = {
+lokebhen_culture = {
 	language = lokebhen_dialect
 	
 	color = rgb { 19 40 36 }
@@ -54,11 +54,11 @@ lokebhen = {
 
 	}	
 	culture_groups = {
-		kheionai_ruinborn_elf_group
+		kheionai_ruinborn_elf_culture_group
 	}
 }
 
-ormabhen = {
+ormabhen_culture = {
 	language = ormabhen_dialect
 	
 	color = rgb { 33 181 150 }
@@ -69,11 +69,11 @@ ormabhen = {
 
 	}	
 	culture_groups = {
-		kheionai_ruinborn_elf_group
+		kheionai_ruinborn_elf_culture_group
 	}
 }
 
-arpebhen = {
+arpebhen_culture = {
 	language = arpebhen_dialect
 	
 	color = rgb { 40 228 237 }
@@ -84,11 +84,11 @@ arpebhen = {
 
 	}	
 	culture_groups = {
-		kheionai_ruinborn_elf_group
+		kheionai_ruinborn_elf_culture_group
 	}
 }
 
-ambhen = {
+ambhen_culture = {
 	language = ambhen_dialect
 	
 	color = rgb { 4 18 225 }
@@ -99,11 +99,11 @@ ambhen = {
 
 	}	
 	culture_groups = {
-		kheionai_ruinborn_elf_group
+		kheionai_ruinborn_elf_culture_group
 	}
 }
 
-kimabhen = {
+kimabhen_culture = {
 	language = kimabhen_dialect
 	
 	color = rgb { 59 30 88 }
@@ -114,11 +114,11 @@ kimabhen = {
 
 	}	
 	culture_groups = {
-		kheionai_ruinborn_elf_group
+		kheionai_ruinborn_elf_culture_group
 	}
 }
 
-empkhebhen = {
+empkhebhen_culture = {
 	language = empkhebhen_dialect
 	
 	color = rgb { 12 160 228 }
@@ -129,11 +129,11 @@ empkhebhen = {
 
 	}	
 	culture_groups = {
-		kheionai_ruinborn_elf_group
+		kheionai_ruinborn_elf_culture_group
 	}
 }
 
-besolabhen = {
+besolabhen_culture = {
 	language = besolabhen_dialect
 	
 	color = rgb { 190 22 247 }
@@ -144,11 +144,11 @@ besolabhen = {
 
 	}	
 	culture_groups = {
-		kheionai_ruinborn_elf_group
+		kheionai_ruinborn_elf_culture_group
 	}
 }
 
-enebhen = {
+enebhen_culture = {
 	language = enebhen_dialect
 	
 	color = rgb { 129 24 94 }
@@ -159,11 +159,11 @@ enebhen = {
 
 	}	
 	culture_groups = {
-		kheionai_ruinborn_elf_group
+		kheionai_ruinborn_elf_culture_group
 	}
 }
 
-deyebhen = {
+deyebhen_culture = {
 	language = deyebhen_dialect
 	
 	color = rgb { 217 113 82 }
@@ -174,11 +174,11 @@ deyebhen = {
 
 	}	
 	culture_groups = {
-		kheionai_ruinborn_elf_group
+		kheionai_ruinborn_elf_culture_group
 	}
 }
 
-apikhobhen = {
+apikhobhen_culture = {
 	language = apikhobhen_dialect
 	
 	color = rgb { 68 5 16 }
@@ -189,11 +189,11 @@ apikhobhen = {
 
 	}	
 	culture_groups = {
-		kheionai_ruinborn_elf_group
+		kheionai_ruinborn_elf_culture_group
 	}
 }
 
-keyobhen = {
+keyobhen_culture = {
 	language = keyobhen_dialect
 	
 	color = rgb { 117 149 237 }
@@ -204,11 +204,11 @@ keyobhen = {
 
 	}	
 	culture_groups = {
-		kheionai_ruinborn_elf_group
+		kheionai_ruinborn_elf_culture_group
 	}
 }
 
-anisibhen = {
+anisibhen_culture = {
 	language = anisibhen_dialect
 	
 	color = rgb { 125 129 88 }
@@ -219,11 +219,11 @@ anisibhen = {
 
 	}	
 	culture_groups = {
-		kheionai_ruinborn_elf_group
+		kheionai_ruinborn_elf_culture_group
 	}
 }
 
-amgrebhen = {
+amgrebhen_culture = {
 	language = amgrebhen_dialect
 	
 	color = rgb { 159 130 188 }
@@ -234,7 +234,7 @@ amgrebhen = {
 
 	}	
 	culture_groups = {
-		kheionai_ruinborn_elf_group
+		kheionai_ruinborn_elf_culture_group
 	}
 }
 

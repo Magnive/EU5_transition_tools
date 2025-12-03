@@ -1,4 +1,4 @@
-﻿fathide_ogre = {
+﻿fathide_ogre_culture = {
 	language = fathide_ogre_dialect
 	
 	color = rgb { 196 180 132 }
@@ -9,11 +9,11 @@
 
 	}	
 	culture_groups = {
-		ogre_group
+		ogre_culture_group
 	}
 }
 
-mossmouth_ogre = {
+mossmouth_ogre_culture = {
 	language = mossmouth_ogre_dialect
 	
 	color = rgb { 78 173 71 }
@@ -24,11 +24,11 @@ mossmouth_ogre = {
 
 	}	
 	culture_groups = {
-		ogre_group
+		ogre_culture_group
 	}
 }
 
-bloodtooth_ogre = {
+bloodtooth_ogre_culture = {
 	language = bloodtooth_ogre_dialect
 	
 	color = rgb { 192 159 68 }
@@ -39,11 +39,11 @@ bloodtooth_ogre = {
 
 	}	
 	culture_groups = {
-		ogre_group
+		ogre_culture_group
 	}
 }
 
-horned_ogre = {
+horned_ogre_culture = {
 	language = horned_ogre_dialect
 	
 	color = rgb { 192 50 70 }
@@ -54,11 +54,11 @@ horned_ogre = {
 
 	}	
 	culture_groups = {
-		ogre_group
+		ogre_culture_group
 	}
 }
 
-soulseeker_ogre = {
+soulseeker_ogre_culture = {
 	language = soulseeker_ogre_dialect
 	
 	color = rgb { 0 0 0 }
@@ -69,11 +69,11 @@ soulseeker_ogre = {
 
 	}	
 	culture_groups = {
-		ogre_group
+		ogre_culture_group
 	}
 }
 
-skyfall_ogre = {
+skyfall_ogre_culture = {
 	language = skyfall_ogre_dialect
 	
 	color = rgb { 0 0 0 }
@@ -84,11 +84,11 @@ skyfall_ogre = {
 
 	}	
 	culture_groups = {
-		ogre_group
+		ogre_culture_group
 	}
 }
 
-seacrest_ogre = {
+seacrest_ogre_culture = {
 	language = seacrest_ogre_dialect
 	
 	color = rgb { 0 0 0 }
@@ -99,11 +99,11 @@ seacrest_ogre = {
 
 	}	
 	culture_groups = {
-		ogre_group
+		ogre_culture_group
 	}
 }
 
-dunesole_ogre = {
+dunesole_ogre_culture = {
 	language = dunesole_ogre_dialect
 	
 	color = rgb { 0 5 128 }
@@ -114,7 +114,7 @@ dunesole_ogre = {
 
 	}	
 	culture_groups = {
-		ogre_group
+		ogre_culture_group
 	}
 }
 

@@ -1,4 +1,4 @@
-﻿oinukhudi = {
+﻿oinukhudi_culture = {
 	language = oinukhudi_dialect
 	
 	color = rgb { 223 247 44 }
@@ -9,11 +9,11 @@
 
 	}	
 	culture_groups = {
-		khudi_group
+		khudi_culture_group
 	}
 }
 
-anarkhudi = {
+anarkhudi_culture = {
 	language = anarkhudi_dialect
 	
 	color = rgb { 140 183 193 }
@@ -24,7 +24,7 @@ anarkhudi = {
 
 	}	
 	culture_groups = {
-		khudi_group
+		khudi_culture_group
 	}
 }
 

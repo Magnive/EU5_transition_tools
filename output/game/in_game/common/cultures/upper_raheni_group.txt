@@ -1,4 +1,4 @@
-﻿kamtarhid = {
+﻿kamtarhid_culture = {
 	language = kamtarhid_dialect
 	
 	color = rgb { 70 76 47 }
@@ -9,11 +9,11 @@
 
 	}	
 	culture_groups = {
-		upper_raheni_group
+		upper_raheni_culture_group
 	}
 }
 
-khedarid = {
+khedarid_culture = {
 	language = khedarid_dialect
 	
 	color = rgb { 98 124 90 }
@@ -24,11 +24,11 @@ khedarid = {
 
 	}	
 	culture_groups = {
-		upper_raheni_group
+		upper_raheni_culture_group
 	}
 }
 
-shamadhan = {
+shamadhan_culture = {
 	language = shamadhan_dialect
 	
 	color = rgb { 140 62 91 }
@@ -39,11 +39,11 @@ shamadhan = {
 
 	}	
 	culture_groups = {
-		upper_raheni_group
+		upper_raheni_culture_group
 	}
 }
 
-shandibad = {
+shandibad_culture = {
 	language = shandibad_dialect
 	
 	color = rgb { 180 0 0 }
@@ -54,11 +54,11 @@ shandibad = {
 
 	}	
 	culture_groups = {
-		upper_raheni_group
+		upper_raheni_culture_group
 	}
 }
 
-rajnadhid = {
+rajnadhid_culture = {
 	language = rajnadhid_dialect
 	
 	color = rgb { 110 74 153 }
@@ -69,11 +69,11 @@ rajnadhid = {
 
 	}	
 	culture_groups = {
-		upper_raheni_group
+		upper_raheni_culture_group
 	}
 }
 
-sobhagand = {
+sobhagand_culture = {
 	language = sobhagand_dialect
 	
 	color = rgb { 145 102 35 }
@@ -84,11 +84,11 @@ sobhagand = {
 
 	}	
 	culture_groups = {
-		upper_raheni_group
+		upper_raheni_culture_group
 	}
 }
 
-ghavaanaj = {
+ghavaanaj_culture = {
 	language = ghavaanaj_dialect
 	
 	color = rgb { 60 25 40 }
@@ -99,11 +99,11 @@ ghavaanaj = {
 
 	}	
 	culture_groups = {
-		upper_raheni_group
+		upper_raheni_culture_group
 	}
 }
 
-shamakhadi = {
+shamakhadi_culture = {
 	language = shamakhadi_dialect
 	
 	color = rgb { 98 124 90 }
@@ -114,7 +114,7 @@ shamakhadi = {
 
 	}	
 	culture_groups = {
-		upper_raheni_group
+		upper_raheni_culture_group
 	}
 }
 

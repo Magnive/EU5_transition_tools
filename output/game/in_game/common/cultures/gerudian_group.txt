@@ -1,4 +1,4 @@
-﻿reverian = {
+﻿reverian_culture = {
 	language = reverian_dialect
 	
 	color = rgb { 135 129 189 }
@@ -9,11 +9,11 @@
 
 	}	
 	culture_groups = {
-		gerudian_group
+		gerudian_culture_group
 	}
 }
 
-west_dalr = {
+west_dalr_culture = {
 	language = west_dalr_dialect
 	
 	color = rgb { 80 100 150 }
@@ -24,11 +24,11 @@ west_dalr = {
 
 	}	
 	culture_groups = {
-		gerudian_group
+		gerudian_culture_group
 	}
 }
 
-east_dalr = {
+east_dalr_culture = {
 	language = east_dalr_dialect
 	
 	color = rgb { 185 122 87 }
@@ -39,11 +39,11 @@ east_dalr = {
 
 	}	
 	culture_groups = {
-		gerudian_group
+		gerudian_culture_group
 	}
 }
 
-olavish = {
+olavish_culture = {
 	language = olavish_dialect
 	
 	color = rgb { 110 66 80 }
@@ -54,11 +54,11 @@ olavish = {
 
 	}	
 	culture_groups = {
-		gerudian_group
+		gerudian_culture_group
 	}
 }
 
-talderannic = {
+talderannic_culture = {
 	language = talderannic_dialect
 	
 	color = rgb { 170 37 246 }
@@ -69,11 +69,11 @@ talderannic = {
 
 	}	
 	culture_groups = {
-		gerudian_group
+		gerudian_culture_group
 	}
 }
 
-perlatter = {
+perlatter_culture = {
 	language = perlatter_dialect
 	
 	color = rgb { 255 249 232 }
@@ -84,11 +84,11 @@ perlatter = {
 
 	}	
 	culture_groups = {
-		gerudian_group
+		gerudian_culture_group
 	}
 }
 
-elnarfolk = {
+elnarfolk_culture = {
 	language = elnarfolk_dialect
 	
 	color = rgb { 0 0 0 }
@@ -99,11 +99,11 @@ elnarfolk = {
 
 	}	
 	culture_groups = {
-		gerudian_group
+		gerudian_culture_group
 	}
 }
 
-taric_gerudian = {
+taric_gerudian_culture = {
 	language = taric_gerudian_dialect
 	
 	color = rgb { 20 31 107 }
@@ -114,11 +114,11 @@ taric_gerudian = {
 
 	}	
 	culture_groups = {
-		gerudian_group
+		gerudian_culture_group
 	}
 }
 
-skamvin = {
+skamvin_culture = {
 	language = skamvin_dialect
 	
 	color = rgb { 0 0 0 }
@@ -129,11 +129,11 @@ skamvin = {
 
 	}	
 	culture_groups = {
-		gerudian_group
+		gerudian_culture_group
 	}
 }
 
-gerudian_reachman = {
+gerudian_reachman_culture = {
 	language = gerudian_reachman_dialect
 	
 	color = rgb { 0 0 0 }
@@ -144,7 +144,7 @@ gerudian_reachman = {
 
 	}	
 	culture_groups = {
-		gerudian_group
+		gerudian_culture_group
 	}
 }
 

@@ -1,4 +1,4 @@
-﻿duguihi = {
+﻿duguihi_culture = {
 	language = duguihi_dialect
 	
 	color = rgb { 0 0 0 }
@@ -9,11 +9,11 @@
 
 	}	
 	culture_groups = {
-		effelai_ruinborn_elf_group
+		effelai_ruinborn_elf_culture_group
 	}
 }
 
-effe = {
+effe_culture = {
 	language = effe_dialect
 	
 	color = rgb { 137 135 123 }
@@ -24,11 +24,11 @@ effe = {
 
 	}	
 	culture_groups = {
-		effelai_ruinborn_elf_group
+		effelai_ruinborn_elf_culture_group
 	}
 }
 
-laii = {
+laii_culture = {
 	language = laii_dialect
 	
 	color = rgb { 234 192 0 }
@@ -39,11 +39,11 @@ laii = {
 
 	}	
 	culture_groups = {
-		effelai_ruinborn_elf_group
+		effelai_ruinborn_elf_culture_group
 	}
 }
 
-parura = {
+parura_culture = {
 	language = parura_dialect
 	
 	color = rgb { 173 215 247 }
@@ -54,11 +54,11 @@ parura = {
 
 	}	
 	culture_groups = {
-		effelai_ruinborn_elf_group
+		effelai_ruinborn_elf_culture_group
 	}
 }
 
-thamvoii = {
+thamvoii_culture = {
 	language = thamvoii_dialect
 	
 	color = rgb { 10 107 34 }
@@ -69,11 +69,11 @@ thamvoii = {
 
 	}	
 	culture_groups = {
-		effelai_ruinborn_elf_group
+		effelai_ruinborn_elf_culture_group
 	}
 }
 
-oonoi = {
+oonoi_culture = {
 	language = oonoi_dialect
 	
 	color = rgb { 0 0 0 }
@@ -84,7 +84,7 @@ oonoi = {
 
 	}	
 	culture_groups = {
-		effelai_ruinborn_elf_group
+		effelai_ruinborn_elf_culture_group
 	}
 }
 

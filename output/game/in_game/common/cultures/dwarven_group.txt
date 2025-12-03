@@ -1,4 +1,4 @@
-﻿ruby_dwarf = {
+﻿ruby_dwarf_culture = {
 	language = ruby_dwarf_dialect
 	
 	color = rgb { 239 52 52 }
@@ -9,11 +9,11 @@
 
 	}	
 	culture_groups = {
-		dwarven_group
+		dwarven_culture_group
 	}
 }
 
-silver_dwarf = {
+silver_dwarf_culture = {
 	language = silver_dwarf_dialect
 	
 	color = rgb { 177 177 177 }
@@ -24,11 +24,11 @@ silver_dwarf = {
 
 	}	
 	culture_groups = {
-		dwarven_group
+		dwarven_culture_group
 	}
 }
 
-stone_dwarf = {
+stone_dwarf_culture = {
 	language = stone_dwarf_dialect
 	
 	color = rgb { 217 231 232 }
@@ -39,11 +39,11 @@ stone_dwarf = {
 
 	}	
 	culture_groups = {
-		dwarven_group
+		dwarven_culture_group
 	}
 }
 
-iron_dwarf = {
+iron_dwarf_culture = {
 	language = iron_dwarf_dialect
 	
 	color = rgb { 217 231 232 }
@@ -54,11 +54,11 @@ iron_dwarf = {
 
 	}	
 	culture_groups = {
-		dwarven_group
+		dwarven_culture_group
 	}
 }
 
-obsidian_dwarf = {
+obsidian_dwarf_culture = {
 	language = obsidian_dwarf_dialect
 	
 	color = rgb { 56 43 70 }
@@ -69,11 +69,11 @@ obsidian_dwarf = {
 
 	}	
 	culture_groups = {
-		dwarven_group
+		dwarven_culture_group
 	}
 }
 
-gold_dwarf = {
+gold_dwarf_culture = {
 	language = gold_dwarf_dialect
 	
 	color = rgb { 255 198 0 }
@@ -84,11 +84,11 @@ gold_dwarf = {
 
 	}	
 	culture_groups = {
-		dwarven_group
+		dwarven_culture_group
 	}
 }
 
-copper_dwarf = {
+copper_dwarf_culture = {
 	language = copper_dwarf_dialect
 	
 	color = rgb { 204 117 21 }
@@ -99,11 +99,11 @@ copper_dwarf = {
 
 	}	
 	culture_groups = {
-		dwarven_group
+		dwarven_culture_group
 	}
 }
 
-kronium_dwarf = {
+kronium_dwarf_culture = {
 	language = kronium_dwarf_dialect
 	
 	color = rgb { 60 40 80 }
@@ -114,11 +114,11 @@ kronium_dwarf = {
 
 	}	
 	culture_groups = {
-		dwarven_group
+		dwarven_culture_group
 	}
 }
 
-quartz_dwarf = {
+quartz_dwarf_culture = {
 	language = quartz_dwarf_dialect
 	
 	color = rgb { 148 201 230 }
@@ -129,11 +129,11 @@ quartz_dwarf = {
 
 	}	
 	culture_groups = {
-		dwarven_group
+		dwarven_culture_group
 	}
 }
 
-sapphire_dwarf = {
+sapphire_dwarf_culture = {
 	language = sapphire_dwarf_dialect
 	
 	color = rgb { 0 25 119 }
@@ -144,11 +144,11 @@ sapphire_dwarf = {
 
 	}	
 	culture_groups = {
-		dwarven_group
+		dwarven_culture_group
 	}
 }
 
-ramsteel_dwarf = {
+ramsteel_dwarf_culture = {
 	language = ramsteel_dwarf_dialect
 	
 	color = rgb { 74 111 121 }
@@ -159,11 +159,11 @@ ramsteel_dwarf = {
 
 	}	
 	culture_groups = {
-		dwarven_group
+		dwarven_culture_group
 	}
 }
 
-mithril_dwarf = {
+mithril_dwarf_culture = {
 	language = mithril_dwarf_dialect
 	
 	color = rgb { 81 231 213 }
@@ -174,11 +174,11 @@ mithril_dwarf = {
 
 	}	
 	culture_groups = {
-		dwarven_group
+		dwarven_culture_group
 	}
 }
 
-dagrite_dwarf = {
+dagrite_dwarf_culture = {
 	language = dagrite_dwarf_dialect
 	
 	color = rgb { 147 191 155 }
@@ -189,11 +189,11 @@ dagrite_dwarf = {
 
 	}	
 	culture_groups = {
-		dwarven_group
+		dwarven_culture_group
 	}
 }
 
-agate_dwarf = {
+agate_dwarf_culture = {
 	language = agate_dwarf_dialect
 	
 	color = rgb { 149 131 101 }
@@ -204,11 +204,11 @@ agate_dwarf = {
 
 	}	
 	culture_groups = {
-		dwarven_group
+		dwarven_culture_group
 	}
 }
 
-platinum_dwarf = {
+platinum_dwarf_culture = {
 	language = platinum_dwarf_dialect
 	
 	color = rgb { 74 80 97 }
@@ -219,11 +219,11 @@ platinum_dwarf = {
 
 	}	
 	culture_groups = {
-		dwarven_group
+		dwarven_culture_group
 	}
 }
 
-opal_dwarf = {
+opal_dwarf_culture = {
 	language = opal_dwarf_dialect
 	
 	color = rgb { 255 228 216 }
@@ -234,11 +234,11 @@ opal_dwarf = {
 
 	}	
 	culture_groups = {
-		dwarven_group
+		dwarven_culture_group
 	}
 }
 
-lead_dwarf = {
+lead_dwarf_culture = {
 	language = lead_dwarf_dialect
 	
 	color = rgb { 160 114 158 }
@@ -249,11 +249,11 @@ lead_dwarf = {
 
 	}	
 	culture_groups = {
-		dwarven_group
+		dwarven_culture_group
 	}
 }
 
-marble_dwarf = {
+marble_dwarf_culture = {
 	language = marble_dwarf_dialect
 	
 	color = rgb { 241 242 227 }
@@ -264,11 +264,11 @@ marble_dwarf = {
 
 	}	
 	culture_groups = {
-		dwarven_group
+		dwarven_culture_group
 	}
 }
 
-cobalt_dwarf = {
+cobalt_dwarf_culture = {
 	language = cobalt_dwarf_dialect
 	
 	color = rgb { 0 71 171 }
@@ -279,11 +279,11 @@ cobalt_dwarf = {
 
 	}	
 	culture_groups = {
-		dwarven_group
+		dwarven_culture_group
 	}
 }
 
-flint_dwarf = {
+flint_dwarf_culture = {
 	language = flint_dwarf_dialect
 	
 	color = rgb { 55 144 90 }
@@ -294,11 +294,11 @@ flint_dwarf = {
 
 	}	
 	culture_groups = {
-		dwarven_group
+		dwarven_culture_group
 	}
 }
 
-titanium_dwarf = {
+titanium_dwarf_culture = {
 	language = titanium_dwarf_dialect
 	
 	color = rgb { 223 187 144 }
@@ -309,11 +309,11 @@ titanium_dwarf = {
 
 	}	
 	culture_groups = {
-		dwarven_group
+		dwarven_culture_group
 	}
 }
 
-pyrite_dwarf = {
+pyrite_dwarf_culture = {
 	language = pyrite_dwarf_dialect
 	
 	color = rgb { 15 82 186 }
@@ -324,11 +324,11 @@ pyrite_dwarf = {
 
 	}	
 	culture_groups = {
-		dwarven_group
+		dwarven_culture_group
 	}
 }
 
-basalt_dwarf = {
+basalt_dwarf_culture = {
 	language = basalt_dwarf_dialect
 	
 	color = rgb { 240 72 72 }
@@ -339,11 +339,11 @@ basalt_dwarf = {
 
 	}	
 	culture_groups = {
-		dwarven_group
+		dwarven_culture_group
 	}
 }
 
-topaz_dwarf = {
+topaz_dwarf_culture = {
 	language = topaz_dwarf_dialect
 	
 	color = rgb { 93 161 154 }
@@ -354,11 +354,11 @@ topaz_dwarf = {
 
 	}	
 	culture_groups = {
-		dwarven_group
+		dwarven_culture_group
 	}
 }
 
-peridot_dwarf = {
+peridot_dwarf_culture = {
 	language = peridot_dwarf_dialect
 	
 	color = rgb { 135 225 135 }
@@ -369,11 +369,11 @@ peridot_dwarf = {
 
 	}	
 	culture_groups = {
-		dwarven_group
+		dwarven_culture_group
 	}
 }
 
-granite_dwarf = {
+granite_dwarf_culture = {
 	language = granite_dwarf_dialect
 	
 	color = rgb { 114 202 227 }
@@ -384,11 +384,11 @@ granite_dwarf = {
 
 	}	
 	culture_groups = {
-		dwarven_group
+		dwarven_culture_group
 	}
 }
 
-amethyst_dwarf = {
+amethyst_dwarf_culture = {
 	language = amethyst_dwarf_dialect
 	
 	color = rgb { 153 108 204 }
@@ -399,11 +399,11 @@ amethyst_dwarf = {
 
 	}	
 	culture_groups = {
-		dwarven_group
+		dwarven_culture_group
 	}
 }
 
-emerald_dwarf = {
+emerald_dwarf_culture = {
 	language = emerald_dwarf_dialect
 	
 	color = rgb { 27 253 102 }
@@ -414,11 +414,11 @@ emerald_dwarf = {
 
 	}	
 	culture_groups = {
-		dwarven_group
+		dwarven_culture_group
 	}
 }
 
-jade_dwarf = {
+jade_dwarf_culture = {
 	language = jade_dwarf_dialect
 	
 	color = rgb { 0 168 107 }
@@ -429,11 +429,11 @@ jade_dwarf = {
 
 	}	
 	culture_groups = {
-		dwarven_group
+		dwarven_culture_group
 	}
 }
 
-malachite_dwarf = {
+malachite_dwarf_culture = {
 	language = malachite_dwarf_dialect
 	
 	color = rgb { 0 125 65 }
@@ -444,11 +444,11 @@ malachite_dwarf = {
 
 	}	
 	culture_groups = {
-		dwarven_group
+		dwarven_culture_group
 	}
 }
 
-amber_dwarf = {
+amber_dwarf_culture = {
 	language = amber_dwarf_dialect
 	
 	color = rgb { 176 146 37 }
@@ -459,11 +459,11 @@ amber_dwarf = {
 
 	}	
 	culture_groups = {
-		dwarven_group
+		dwarven_culture_group
 	}
 }
 
-citrine_dwarf = {
+citrine_dwarf_culture = {
 	language = citrine_dwarf_dialect
 	
 	color = rgb { 36 96 143 }
@@ -474,11 +474,11 @@ citrine_dwarf = {
 
 	}	
 	culture_groups = {
-		dwarven_group
+		dwarven_culture_group
 	}
 }
 
-garnet_dwarf = {
+garnet_dwarf_culture = {
 	language = garnet_dwarf_dialect
 	
 	color = rgb { 247 179 215 }
@@ -489,11 +489,11 @@ garnet_dwarf = {
 
 	}	
 	culture_groups = {
-		dwarven_group
+		dwarven_culture_group
 	}
 }
 
-diamond_dwarf = {
+diamond_dwarf_culture = {
 	language = diamond_dwarf_dialect
 	
 	color = rgb { 200 200 200 }
@@ -504,11 +504,11 @@ diamond_dwarf = {
 
 	}	
 	culture_groups = {
-		dwarven_group
+		dwarven_culture_group
 	}
 }
 
-nephrite_dwarf = {
+nephrite_dwarf_culture = {
 	language = nephrite_dwarf_dialect
 	
 	color = rgb { 159 224 208 }
@@ -519,11 +519,11 @@ nephrite_dwarf = {
 
 	}	
 	culture_groups = {
-		dwarven_group
+		dwarven_culture_group
 	}
 }
 
-steel_dwarf = {
+steel_dwarf_culture = {
 	language = steel_dwarf_dialect
 	
 	color = rgb { 177 177 200 }
@@ -534,11 +534,11 @@ steel_dwarf = {
 
 	}	
 	culture_groups = {
-		dwarven_group
+		dwarven_culture_group
 	}
 }
 
-alloy_dwarf = {
+alloy_dwarf_culture = {
 	language = alloy_dwarf_dialect
 	
 	color = rgb { 243 120 28 }
@@ -549,7 +549,7 @@ alloy_dwarf = {
 
 	}	
 	culture_groups = {
-		dwarven_group
+		dwarven_culture_group
 	}
 }
 

@@ -1,234 +1,234 @@
 ﻿B63 = {
 	color = rgb { 139 0 0 }
 
-	culture_definition = moredhalic
+	culture_definition = moredhalic_culture
 	religion_definition = corinite
 }
 B98 = {
 	color = rgb { 65 100 150 }
 
-	culture_definition = blue_reachman
+	culture_definition = blue_reachman_culture
 	religion_definition = regent_court
 }
 Z08 = {
 	color = rgb { 185 122 87 }
 
-	culture_definition = east_dalr
+	culture_definition = east_dalr_culture
 	religion_definition = skaldhyrric_faith
 }
 Z09 = {
 	color = rgb { 234 200 200 }
 
-	culture_definition = olavish
+	culture_definition = olavish_culture
 	religion_definition = skaldhyrric_faith
 }
 Z10 = {
 	color = rgb { 80 100 150 }
 
-	culture_definition = west_dalr
+	culture_definition = west_dalr_culture
 	religion_definition = skaldhyrric_faith
 }
 Z11 = {
 	color = rgb { 144 178 163 }
 
-	culture_definition = east_dalr
+	culture_definition = east_dalr_culture
 	religion_definition = skaldhyrric_faith
 }
 Z12 = {
 	color = rgb { 76 27 183 }
 
-	culture_definition = olavish
+	culture_definition = olavish_culture
 	religion_definition = skaldhyrric_faith
 }
 Z13 = {
 	color = rgb { 222 87 87 }
 
-	culture_definition = olavish
+	culture_definition = olavish_culture
 	religion_definition = skaldhyrric_faith
 }
 Z14 = {
 	color = rgb { 205 212 244 }
 
-	culture_definition = olavish
+	culture_definition = olavish_culture
 	religion_definition = skaldhyrric_faith
 }
 Z15 = {
 	color = rgb { 70 49 26 }
 
-	culture_definition = olavish
+	culture_definition = olavish_culture
 	religion_definition = skaldhyrric_faith
 }
 Z16 = {
 	color = rgb { 110 66 80 }
 
-	culture_definition = olavish
+	culture_definition = olavish_culture
 	religion_definition = skaldhyrric_faith
 }
 Z17 = {
 	color = rgb { 153 217 234 }
 
-	culture_definition = fjord_troll
+	culture_definition = fjord_troll_culture
 	religion_definition = mountain_watchers
 }
 Z18 = {
 	color = rgb { 125 164 176 }
 
-	culture_definition = gray_orc
+	culture_definition = gray_orc_culture
 	religion_definition = old_dookan
 }
 Z19 = {
 	color = rgb { 136 148 166 }
 
-	culture_definition = gray_orc
+	culture_definition = gray_orc_culture
 	religion_definition = old_dookan
 }
 Z20 = {
 	color = rgb { 150 155 117 }
 
-	culture_definition = common_goblin
+	culture_definition = common_goblin_culture
 	religion_definition = goblinic_shamanism
 }
 Z21 = {
 	color = rgb { 65 178 90 }
 
-	culture_definition = blue_reachman
+	culture_definition = blue_reachman_culture
 	religion_definition = regent_court
 }
 Z22 = {
 	color = rgb { 133 133 160 }
 
-	culture_definition = moon_elf
+	culture_definition = moon_elf_culture
 	religion_definition = regent_court
 }
 Z23 = {
 	color = rgb { 223 124 58 }
 
-	culture_definition = white_reachman
+	culture_definition = white_reachman_culture
 	religion_definition = regent_court
 }
 Z24 = {
 	color = rgb { 190 22 247 }
 
-	culture_definition = blue_reachman
+	culture_definition = blue_reachman_culture
 	religion_definition = regent_court
 }
 Z25 = {
 	color = rgb { 250 65 89 }
 
-	culture_definition = blue_reachman
+	culture_definition = blue_reachman_culture
 	religion_definition = regent_court
 }
 Z26 = {
 	color = rgb { 92 70 37 }
 
-	culture_definition = old_alenic
+	culture_definition = old_alenic_culture
 	religion_definition = regent_court
 }
 Z27 = {
 	color = rgb { 14 20 48 }
 
-	culture_definition = white_reachman
+	culture_definition = white_reachman_culture
 	religion_definition = regent_court
 }
 Z28 = {
 	color = rgb { 99 138 197 }
 
-	culture_definition = blue_reachman
+	culture_definition = blue_reachman_culture
 	religion_definition = regent_court
 }
 Z29 = {
 	color = rgb { 84 87 255 }
 
-	culture_definition = blue_reachman
+	culture_definition = blue_reachman_culture
 	religion_definition = regent_court
 }
 Z30 = {
 	color = rgb { 129 45 67 }
 
-	culture_definition = blue_reachman
+	culture_definition = blue_reachman_culture
 	religion_definition = regent_court
 }
 Z31 = {
 	color = rgb { 154 61 23 }
 
-	culture_definition = blue_reachman
+	culture_definition = blue_reachman_culture
 	religion_definition = regent_court
 }
 Z32 = {
 	color = rgb { 80 107 232 }
 
-	culture_definition = blue_reachman
+	culture_definition = blue_reachman_culture
 	religion_definition = regent_court
 }
 Z33 = {
 	color = rgb { 99 177 200 }
 
-	culture_definition = blue_reachman
+	culture_definition = blue_reachman_culture
 	religion_definition = regent_court
 }
 Z45 = {
 	color = rgb { 128 255 255 }
 
-	culture_definition = white_reachman
+	culture_definition = white_reachman_culture
 	religion_definition = regent_court
 }
 Z47 = {
 	color = rgb { 172 166 217 }
 
-	culture_definition = gray_orc
+	culture_definition = gray_orc_culture
 	religion_definition = old_dookan
 }
 Z48 = {
 	color = rgb { 58 124 223 }
 
-	culture_definition = white_reachman
+	culture_definition = white_reachman_culture
 	religion_definition = regent_court
 }
 Z49 = {
 	color = rgb { 53 164 58 }
 
-	culture_definition = white_reachman
+	culture_definition = white_reachman_culture
 	religion_definition = regent_court
 }
 Z50 = {
 	color = rgb { 101 125 134 }
 
-	culture_definition = gray_orc
+	culture_definition = gray_orc_culture
 	religion_definition = great_dookan
 }
 Z74 = {
 	color = rgb { 62 120 178 }
 
-	culture_definition = fjord_troll
+	culture_definition = fjord_troll_culture
 	religion_definition = mountain_watchers
 }
 Z83 = {
 	color = rgb { 120 0 19 }
 
-	culture_definition = west_dalr
+	culture_definition = west_dalr_culture
 	religion_definition = skaldhyrric_faith
 }
 Z84 = {
 	color = rgb { 44 92 57 }
 
-	culture_definition = west_dalr
+	culture_definition = west_dalr_culture
 	religion_definition = skaldhyrric_faith
 }
 Z85 = {
 	color = rgb { 6 142 155 }
 
-	culture_definition = east_dalr
+	culture_definition = east_dalr_culture
 	religion_definition = skaldhyrric_faith
 }
 Z88 = {
 	color = rgb { 215 218 255 }
 
-	culture_definition = jarnklo_harpy
+	culture_definition = jarnklo_harpy_culture
 	religion_definition = skaldhyrric_faith
 }
 Z89 = {
 	color = rgb { 239 131 131 }
 
-	culture_definition = forest_troll
+	culture_definition = forest_troll_culture
 	religion_definition = mountain_watchers
 }

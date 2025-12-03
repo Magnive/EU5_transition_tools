@@ -1,4 +1,4 @@
-﻿royal_harimari = {
+﻿royal_harimari_culture = {
 	language = royal_harimari_dialect
 	
 	color = rgb { 45 27 72 }
@@ -9,11 +9,11 @@
 
 	}	
 	culture_groups = {
-		harimari_group
+		harimari_culture_group
 	}
 }
 
-primal_harimari = {
+primal_harimari_culture = {
 	language = primal_harimari_dialect
 	
 	color = rgb { 51 31 0 }
@@ -24,11 +24,11 @@ primal_harimari = {
 
 	}	
 	culture_groups = {
-		harimari_group
+		harimari_culture_group
 	}
 }
 
-serene_harimari = {
+serene_harimari_culture = {
 	language = serene_harimari_dialect
 	
 	color = rgb { 209 57 129 }
@@ -39,11 +39,11 @@ serene_harimari = {
 
 	}	
 	culture_groups = {
-		harimari_group
+		harimari_culture_group
 	}
 }
 
-roaming_harimari = {
+roaming_harimari_culture = {
 	language = roaming_harimari_dialect
 	
 	color = rgb { 10 50 50 }
@@ -54,11 +54,11 @@ roaming_harimari = {
 
 	}	
 	culture_groups = {
-		harimari_group
+		harimari_culture_group
 	}
 }
 
-worthy_harimari = {
+worthy_harimari_culture = {
 	language = worthy_harimari_dialect
 	
 	color = rgb { 153 76 0 }
@@ -69,11 +69,11 @@ worthy_harimari = {
 
 	}	
 	culture_groups = {
-		harimari_group
+		harimari_culture_group
 	}
 }
 
-silent_harimari = {
+silent_harimari_culture = {
 	language = silent_harimari_dialect
 	
 	color = rgb { 191 157 111 }
@@ -84,11 +84,11 @@ silent_harimari = {
 
 	}	
 	culture_groups = {
-		harimari_group
+		harimari_culture_group
 	}
 }
 
-ashwoven_harimari = {
+ashwoven_harimari_culture = {
 	language = ashwoven_harimari_dialect
 	
 	color = rgb { 0 0 0 }
@@ -99,7 +99,7 @@ ashwoven_harimari = {
 
 	}	
 	culture_groups = {
-		harimari_group
+		harimari_culture_group
 	}
 }
 

@@ -1,4 +1,4 @@
-﻿taric = {
+﻿taric_culture = {
 	language = taric_dialect
 	
 	color = rgb { 20 31 107 }
@@ -9,11 +9,11 @@
 
 	}	
 	culture_groups = {
-		tyvorkan_group
+		tyvorkan_culture_group
 	}
 }
 
-cagodic = {
+cagodic_culture = {
 	language = cagodic_dialect
 	
 	color = rgb { 20 107 28 }
@@ -24,7 +24,7 @@ cagodic = {
 
 	}	
 	culture_groups = {
-		tyvorkan_group
+		tyvorkan_culture_group
 	}
 }
 

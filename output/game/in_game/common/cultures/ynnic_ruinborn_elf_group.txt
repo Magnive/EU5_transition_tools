@@ -1,4 +1,4 @@
-﻿rzentur = {
+﻿rzentur_culture = {
 	language = rzentur_dialect
 	
 	color = rgb { 57 124 64 }
@@ -9,11 +9,11 @@
 
 	}	
 	culture_groups = {
-		ynnic_ruinborn_elf_group
+		ynnic_ruinborn_elf_culture_group
 	}
 }
 
-old_rzentur = {
+old_rzentur_culture = {
 	language = old_rzentur_dialect
 	
 	color = rgb { 0 0 0 }
@@ -24,11 +24,11 @@ old_rzentur = {
 
 	}	
 	culture_groups = {
-		ynnic_ruinborn_elf_group
+		ynnic_ruinborn_elf_culture_group
 	}
 }
 
-dolindhan = {
+dolindhan_culture = {
 	language = dolindhan_dialect
 	
 	color = rgb { 255 182 24 }
@@ -39,11 +39,11 @@ dolindhan = {
 
 	}	
 	culture_groups = {
-		ynnic_ruinborn_elf_group
+		ynnic_ruinborn_elf_culture_group
 	}
 }
 
-sarda = {
+sarda_culture = {
 	language = sarda_dialect
 	
 	color = rgb { 0 209 255 }
@@ -54,11 +54,11 @@ sarda = {
 
 	}	
 	culture_groups = {
-		ynnic_ruinborn_elf_group
+		ynnic_ruinborn_elf_culture_group
 	}
 }
 
-malacnari = {
+malacnari_culture = {
 	language = malacnari_dialect
 	
 	color = rgb { 0 0 0 }
@@ -69,11 +69,11 @@ malacnari = {
 
 	}	
 	culture_groups = {
-		ynnic_ruinborn_elf_group
+		ynnic_ruinborn_elf_culture_group
 	}
 }
 
-brelari = {
+brelari_culture = {
 	language = brelari_dialect
 	
 	color = rgb { 0 0 0 }
@@ -84,7 +84,7 @@ brelari = {
 
 	}	
 	culture_groups = {
-		ynnic_ruinborn_elf_group
+		ynnic_ruinborn_elf_culture_group
 	}
 }
 

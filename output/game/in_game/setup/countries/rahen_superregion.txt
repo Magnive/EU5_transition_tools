@@ -1,576 +1,576 @@
 ﻿R00 = {
 	color = rgb { 115 6 6 }
 
-	culture_definition = royal_harimari
+	culture_definition = royal_harimari_culture
 	religion_definition = high_philosophy
 }
 R01 = {
 	color = rgb { 113 176 50 }
 
-	culture_definition = raghamidesh
+	culture_definition = raghamidesh_culture
 	religion_definition = high_philosophy
 }
 R02 = {
 	color = rgb { 70 204 114 }
 
-	culture_definition = raghamidesh
+	culture_definition = raghamidesh_culture
 	religion_definition = high_philosophy
 }
 R04 = {
 	color = rgb { 24 47 119 }
 
-	culture_definition = raghamidesh
+	culture_definition = raghamidesh_culture
 	religion_definition = high_philosophy
 }
 R05 = {
 	color = rgb { 209 228 255 }
 
-	culture_definition = muthadhaya
+	culture_definition = muthadhaya_culture
 	religion_definition = high_philosophy
 }
 R06 = {
 	color = rgb { 145 102 35 }
 
-	culture_definition = royal_harimari
+	culture_definition = royal_harimari_culture
 	religion_definition = high_philosophy
 }
 R07 = {
 	color = rgb { 180 0 0 }
 
-	culture_definition = shandibad
+	culture_definition = shandibad_culture
 	religion_definition = high_philosophy
 }
 R08 = {
 	color = rgb { 53 55 83 }
 
-	culture_definition = rajnadhid
+	culture_definition = rajnadhid_culture
 	religion_definition = high_philosophy
 }
 R09 = {
 	color = rgb { 137 229 152 }
 
-	culture_definition = rajnadhid
+	culture_definition = rajnadhid_culture
 	religion_definition = high_philosophy
 }
 R10 = {
 	color = rgb { 110 74 153 }
 
-	culture_definition = royal_harimari
+	culture_definition = royal_harimari_culture
 	religion_definition = high_philosophy
 }
 R11 = {
 	color = rgb { 98 124 90 }
 
-	culture_definition = khedarid
+	culture_definition = khedarid_culture
 	religion_definition = high_philosophy
 }
 R12 = {
 	color = rgb { 212 190 130 }
 
-	culture_definition = rajnadhid
+	culture_definition = rajnadhid_culture
 	religion_definition = high_philosophy
 }
 R13 = {
 	color = rgb { 234 205 43 }
 
-	culture_definition = ghavaanaj
+	culture_definition = ghavaanaj_culture
 	religion_definition = high_philosophy
 }
 R14 = {
 	color = rgb { 204 129 32 }
 
-	culture_definition = ghavaanaj
+	culture_definition = ghavaanaj_culture
 	religion_definition = high_philosophy
 }
 R15 = {
 	color = rgb { 167 160 162 }
 
-	culture_definition = rasarhid
+	culture_definition = rasarhid_culture
 	religion_definition = high_philosophy
 }
 R16 = {
 	color = rgb { 228 228 228 }
 
-	culture_definition = ghavaanaj
+	culture_definition = ghavaanaj_culture
 	religion_definition = high_philosophy
 }
 R17 = {
 	color = rgb { 235 11 0 }
 
-	culture_definition = ghavaanaj
+	culture_definition = ghavaanaj_culture
 	religion_definition = high_philosophy
 }
 R18 = {
 	color = rgb { 15 21 17 }
 
-	culture_definition = ghavaanaj
+	culture_definition = ghavaanaj_culture
 	religion_definition = high_philosophy
 }
 R19 = {
 	color = rgb { 60 25 40 }
 
-	culture_definition = royal_harimari
+	culture_definition = royal_harimari_culture
 	religion_definition = high_philosophy
 }
 R20 = {
 	color = rgb { 0 203 216 }
 
-	culture_definition = royal_harimari
+	culture_definition = royal_harimari_culture
 	religion_definition = high_philosophy
 }
 R21 = {
 	color = rgb { 0 95 7 }
 
-	culture_definition = sarisungi
+	culture_definition = sarisungi_culture
 	religion_definition = high_philosophy
 }
 R22 = {
 	color = rgb { 148 208 42 }
 
-	culture_definition = royal_harimari
+	culture_definition = royal_harimari_culture
 	religion_definition = high_philosophy
 }
 R23 = {
 	color = rgb { 225 117 106 }
 
-	culture_definition = rasarhid
+	culture_definition = rasarhid_culture
 	religion_definition = high_philosophy
 }
 R24 = {
 	color = rgb { 114 37 187 }
 
-	culture_definition = rasarhid
+	culture_definition = rasarhid_culture
 	religion_definition = high_philosophy
 }
 R25 = {
 	color = rgb { 209 57 129 }
 
-	culture_definition = muthadhaya
+	culture_definition = muthadhaya_culture
 	religion_definition = high_philosophy
 }
 R26 = {
 	color = rgb { 153 206 236 }
 
-	culture_definition = rasarhid
+	culture_definition = rasarhid_culture
 	religion_definition = high_philosophy
 }
 R27 = {
 	color = rgb { 35 104 100 }
 
-	culture_definition = ghankedhen
+	culture_definition = ghankedhen_culture
 	religion_definition = high_philosophy
 }
 R28 = {
 	color = rgb { 4 108 45 }
 
-	culture_definition = ghankedhen
+	culture_definition = ghankedhen_culture
 	religion_definition = high_philosophy
 }
 R29 = {
 	color = rgb { 123 55 40 }
 
-	culture_definition = ghankedhen
+	culture_definition = ghankedhen_culture
 	religion_definition = high_philosophy
 }
 R30 = {
 	color = rgb { 32 55 171 }
 
-	culture_definition = ghankedhen
+	culture_definition = ghankedhen_culture
 	religion_definition = high_philosophy
 }
 R31 = {
 	color = rgb { 224 248 22 }
 
-	culture_definition = ghankedhen
+	culture_definition = ghankedhen_culture
 	religion_definition = high_philosophy
 }
 R32 = {
 	color = rgb { 248 75 169 }
 
-	culture_definition = ghankedhen
+	culture_definition = ghankedhen_culture
 	religion_definition = high_philosophy
 }
 R33 = {
 	color = rgb { 119 133 22 }
 
-	culture_definition = sobhagand
+	culture_definition = sobhagand_culture
 	religion_definition = high_philosophy
 }
 R34 = {
 	color = rgb { 15 196 71 }
 
-	culture_definition = rajnadhid
+	culture_definition = rajnadhid_culture
 	religion_definition = high_philosophy
 }
 R35 = {
 	color = rgb { 133 120 156 }
 
-	culture_definition = ghavaanaj
+	culture_definition = ghavaanaj_culture
 	religion_definition = high_philosophy
 }
 R36 = {
 	color = rgb { 136 30 9 }
 
-	culture_definition = royal_harimari
+	culture_definition = royal_harimari_culture
 	religion_definition = high_philosophy
 }
 R37 = {
 	color = rgb { 0 40 180 }
 
-	culture_definition = royal_harimari
+	culture_definition = royal_harimari_culture
 	religion_definition = high_philosophy
 }
 R38 = {
 	color = rgb { 30 58 18 }
 
-	culture_definition = sarniryabsad
+	culture_definition = sarniryabsad_culture
 	religion_definition = high_philosophy
 }
 R39 = {
 	color = rgb { 21 29 75 }
 
-	culture_definition = sarniryabsad
+	culture_definition = sarniryabsad_culture
 	religion_definition = high_philosophy
 }
 R40 = {
 	color = rgb { 212 107 246 }
 
-	culture_definition = royal_harimari
+	culture_definition = royal_harimari_culture
 	religion_definition = high_philosophy
 }
 R41 = {
 	color = rgb { 246 202 107 }
 
-	culture_definition = royal_harimari
+	culture_definition = royal_harimari_culture
 	religion_definition = high_philosophy
 }
 R42 = {
 	color = rgb { 193 89 33 }
 
-	culture_definition = pasindesh
+	culture_definition = pasindesh_culture
 	religion_definition = high_philosophy
 }
 R43 = {
 	color = rgb { 168 168 168 }
 
-	culture_definition = primal_harimari
+	culture_definition = primal_harimari_culture
 	religion_definition = high_philosophy
 }
 R44 = {
 	color = rgb { 116 20 29 }
 
-	culture_definition = raghamidesh
+	culture_definition = raghamidesh_culture
 	religion_definition = high_philosophy
 }
 R45 = {
 	color = rgb { 18 215 217 }
 
-	culture_definition = primal_harimari
+	culture_definition = primal_harimari_culture
 	religion_definition = high_philosophy
 }
 R46 = {
 	color = rgb { 100 98 182 }
 
-	culture_definition = dhukharuved
+	culture_definition = dhukharuved_culture
 	religion_definition = high_philosophy
 }
 R47 = {
 	color = rgb { 156 69 69 }
 
-	culture_definition = royal_harimari
+	culture_definition = royal_harimari_culture
 	religion_definition = high_philosophy
 }
 R48 = {
 	color = rgb { 181 191 135 }
 
-	culture_definition = royal_harimari
+	culture_definition = royal_harimari_culture
 	religion_definition = high_philosophy
 }
 R49 = {
 	color = rgb { 255 72 119 }
 
-	culture_definition = royal_harimari
+	culture_definition = royal_harimari_culture
 	religion_definition = high_philosophy
 }
 R50 = {
 	color = rgb { 51 31 0 }
 
-	culture_definition = primal_harimari
+	culture_definition = primal_harimari_culture
 	religion_definition = high_philosophy
 }
 R51 = {
 	color = rgb { 45 27 72 }
 
-	culture_definition = royal_harimari
+	culture_definition = royal_harimari_culture
 	religion_definition = high_philosophy
 }
 R52 = {
 	color = rgb { 1 47 0 }
 
-	culture_definition = royal_harimari
+	culture_definition = royal_harimari_culture
 	religion_definition = high_philosophy
 }
 R53 = {
 	color = rgb { 44 80 111 }
 
-	culture_definition = sarniryabsad
+	culture_definition = sarniryabsad_culture
 	religion_definition = high_philosophy
 }
 R54 = {
 	color = rgb { 87 79 80 }
 
-	culture_definition = royal_harimari
+	culture_definition = royal_harimari_culture
 	religion_definition = high_philosophy
 }
 R55 = {
 	color = rgb { 32 154 43 }
 
-	culture_definition = royal_harimari
+	culture_definition = royal_harimari_culture
 	religion_definition = high_philosophy
 }
 R56 = {
 	color = rgb { 79 145 255 }
 
-	culture_definition = royal_harimari
+	culture_definition = royal_harimari_culture
 	religion_definition = high_philosophy
 }
 R57 = {
 	color = rgb { 228 160 40 }
 
-	culture_definition = royal_harimari
+	culture_definition = royal_harimari_culture
 	religion_definition = high_philosophy
 }
 R58 = {
 	color = rgb { 87 151 238 }
 
-	culture_definition = sarniryabsad
+	culture_definition = sarniryabsad_culture
 	religion_definition = high_philosophy
 }
 R59 = {
 	color = rgb { 0 120 225 }
 
-	culture_definition = szitu
+	culture_definition = szitu_culture
 	religion_definition = devouring_path
 }
 R60 = {
 	color = rgb { 92 129 113 }
 
-	culture_definition = chengrong
+	culture_definition = chengrong_culture
 	religion_definition = high_philosophy
 }
 R61 = {
 	color = rgb { 200 200 0 }
 
-	culture_definition = royal_harimari
+	culture_definition = royal_harimari_culture
 	religion_definition = high_philosophy
 }
 R62 = {
 	color = rgb { 153 76 0 }
 
-	culture_definition = wolf_command
+	culture_definition = wolf_command_culture
 	religion_definition = godlost
 }
 R63 = {
 	color = rgb { 150 125 80 }
 
-	culture_definition = brown_orc
+	culture_definition = brown_orc_culture
 	religion_definition = old_dookan
 }
 R64 = {
 	color = rgb { 147 91 66 }
 
-	culture_definition = brown_orc
+	culture_definition = brown_orc_culture
 	religion_definition = old_dookan
 }
 R67 = {
 	color = rgb { 176 59 23 }
 
-	culture_definition = tiger_command
+	culture_definition = tiger_command_culture
 	religion_definition = godlost
 }
 R70 = {
 	color = rgb { 82 26 174 }
 
-	culture_definition = royal_harimari
+	culture_definition = royal_harimari_culture
 	religion_definition = high_philosophy
 }
 R71 = {
 	color = rgb { 188 236 153 }
 
-	culture_definition = rabhidarubsad
+	culture_definition = rabhidarubsad_culture
 	religion_definition = high_philosophy
 }
 R72 = {
 	color = rgb { 84 80 77 }
 
-	culture_definition = ghavaanaj
+	culture_definition = ghavaanaj_culture
 	religion_definition = high_philosophy
 }
 R73 = {
 	color = rgb { 33 113 170 }
 
-	culture_definition = shandibad
+	culture_definition = shandibad_culture
 	religion_definition = high_philosophy
 }
 R74 = {
 	color = rgb { 234 77 0 }
 
-	culture_definition = ghankedhen
+	culture_definition = ghankedhen_culture
 	religion_definition = high_philosophy
 }
 R75 = {
 	color = rgb { 53 70 114 }
 
-	culture_definition = rasarhid
+	culture_definition = rasarhid_culture
 	religion_definition = high_philosophy
 }
 R76 = {
 	color = rgb { 25 74 19 }
 
-	culture_definition = rabhidarubsad
+	culture_definition = rabhidarubsad_culture
 	religion_definition = high_philosophy
 }
 R77 = {
 	color = rgb { 60 2 11 }
 
-	culture_definition = royal_harimari
+	culture_definition = royal_harimari_culture
 	religion_definition = high_philosophy
 }
 R78 = {
 	color = rgb { 140 62 91 }
 
-	culture_definition = shamadhan
+	culture_definition = shamadhan_culture
 	religion_definition = high_philosophy
 }
 R79 = {
 	color = rgb { 70 76 47 }
 
-	culture_definition = kamtarhid
+	culture_definition = kamtarhid_culture
 	religion_definition = devouring_path
 }
 R80 = {
 	color = rgb { 40 124 249 }
 
-	culture_definition = khedarid
+	culture_definition = khedarid_culture
 	religion_definition = high_philosophy
 }
 R84 = {
 	color = rgb { 130 232 93 }
 
-	culture_definition = khedarid
+	culture_definition = khedarid_culture
 	religion_definition = high_philosophy
 }
 R85 = {
 	color = rgb { 153 109 181 }
 
-	culture_definition = shamadhan
+	culture_definition = shamadhan_culture
 	religion_definition = accretive_path
 }
 R88 = {
 	color = rgb { 217 61 61 }
 
-	culture_definition = shandibad
+	culture_definition = shandibad_culture
 	religion_definition = high_philosophy
 }
 R89 = {
 	color = rgb { 219 127 46 }
 
-	culture_definition = shandibad
+	culture_definition = shandibad_culture
 	religion_definition = high_philosophy
 }
 R90 = {
 	color = rgb { 255 153 187 }
 
-	culture_definition = chengrong
+	culture_definition = chengrong_culture
 	religion_definition = high_philosophy
 }
 R91 = {
 	color = rgb { 224 79 38 }
 
-	culture_definition = sarniryabsad
+	culture_definition = sarniryabsad_culture
 	religion_definition = high_philosophy
 }
 R92 = {
 	color = rgb { 81 56 181 }
 
-	culture_definition = ranilau
+	culture_definition = ranilau_culture
 	religion_definition = high_philosophy
 }
 R93 = {
 	color = rgb { 167 181 78 }
 
-	culture_definition = ranilau
+	culture_definition = ranilau_culture
 	religion_definition = high_philosophy
 }
 R94 = {
 	color = rgb { 101 32 13 }
 
-	culture_definition = boar_command
+	culture_definition = boar_command_culture
 	religion_definition = godlost
 }
 R96 = {
 	color = rgb { 65 58 56 }
 
-	culture_definition = wolf_command
+	culture_definition = wolf_command_culture
 	religion_definition = godlost
 }
 R97 = {
 	color = rgb { 217 187 55 }
 
-	culture_definition = khedarid
+	culture_definition = khedarid_culture
 	religion_definition = high_philosophy
 }
 R98 = {
 	color = rgb { 12 44 126 }
 
-	culture_definition = raghamidesh
+	culture_definition = raghamidesh_culture
 	religion_definition = high_philosophy
 }
 R99 = {
 	color = rgb { 220 20 60 }
 
-	culture_definition = rabhidarubsad
+	culture_definition = rabhidarubsad_culture
 	religion_definition = the_jadd
 }
 V98 = {
 	color = rgb { 90 15 20 }
 
-	culture_definition = shamadhan
+	culture_definition = shamadhan_culture
 	religion_definition = high_philosophy
 }
 Y31 = {
 	color = rgb { 118 132 250 }
 
-	culture_definition = ghavaanaj
+	culture_definition = ghavaanaj_culture
 	religion_definition = accretive_path
 }
 Y33 = {
 	color = rgb { 226 186 165 }
 
-	culture_definition = rasarhid
+	culture_definition = rasarhid_culture
 	religion_definition = transmutative_path
 }
 Y50 = {
 	color = rgb { 69 69 69 }
 
-	culture_definition = chengrong
+	culture_definition = chengrong_culture
 	religion_definition = high_philosophy
 }
 Y52 = {
 	color = rgb { 205 87 137 }
 
-	culture_definition = chengrong
+	culture_definition = chengrong_culture
 	religion_definition = high_philosophy
 }
 Y53 = {
 	color = rgb { 160 70 95 }
 
-	culture_definition = biengdi
+	culture_definition = biengdi_culture
 	religion_definition = high_philosophy
 }
 Y54 = {
 	color = rgb { 243 120 28 }
 
-	culture_definition = risbeko
+	culture_definition = risbeko_culture
 	religion_definition = mystic_accord
 }

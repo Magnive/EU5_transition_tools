@@ -1,4 +1,4 @@
-﻿jiangszun = {
+﻿jiangszun_culture = {
 	language = jiangszun_dialect
 	
 	color = rgb { 156 172 171 }
@@ -9,11 +9,11 @@
 
 	}	
 	culture_groups = {
-		yan_group
+		yan_culture_group
 	}
 }
 
-beikling = {
+beikling_culture = {
 	language = beikling_dialect
 	
 	color = rgb { 180 155 149 }
@@ -24,11 +24,11 @@ beikling = {
 
 	}	
 	culture_groups = {
-		yan_group
+		yan_culture_group
 	}
 }
 
-gangim = {
+gangim_culture = {
 	language = gangim_dialect
 	
 	color = rgb { 26 158 201 }
@@ -39,11 +39,11 @@ gangim = {
 
 	}	
 	culture_groups = {
-		yan_group
+		yan_culture_group
 	}
 }
 
-naamjyut = {
+naamjyut_culture = {
 	language = naamjyut_dialect
 	
 	color = rgb { 195 42 30 }
@@ -54,11 +54,11 @@ naamjyut = {
 
 	}	
 	culture_groups = {
-		yan_group
+		yan_culture_group
 	}
 }
 
-szitu = {
+szitu_culture = {
 	language = szitu_dialect
 	
 	color = rgb { 220 210 50 }
@@ -69,11 +69,11 @@ szitu = {
 
 	}	
 	culture_groups = {
-		yan_group
+		yan_culture_group
 	}
 }
 
-jiangyang = {
+jiangyang_culture = {
 	language = jiangyang_dialect
 	
 	color = rgb { 11 17 69 }
@@ -84,11 +84,11 @@ jiangyang = {
 
 	}	
 	culture_groups = {
-		yan_group
+		yan_culture_group
 	}
 }
 
-pinghoi = {
+pinghoi_culture = {
 	language = pinghoi_dialect
 	
 	color = rgb { 250 65 89 }
@@ -99,11 +99,11 @@ pinghoi = {
 
 	}	
 	culture_groups = {
-		yan_group
+		yan_culture_group
 	}
 }
 
-haiwai = {
+haiwai_culture = {
 	language = haiwai_dialect
 	
 	color = rgb { 0 0 0 }
@@ -114,11 +114,11 @@ haiwai = {
 
 	}	
 	culture_groups = {
-		yan_group
+		yan_culture_group
 	}
 }
 
-daxug = {
+daxug_culture = {
 	language = daxug_dialect
 	
 	color = rgb { 145 116 70 }
@@ -129,11 +129,11 @@ daxug = {
 
 	}	
 	culture_groups = {
-		yan_group
+		yan_culture_group
 	}
 }
 
-kuldaakin = {
+kuldaakin_culture = {
 	language = kuldaakin_dialect
 	
 	color = rgb { 119 99 188 }
@@ -144,11 +144,11 @@ kuldaakin = {
 
 	}	
 	culture_groups = {
-		yan_group
+		yan_culture_group
 	}
 }
 
-yan_half_orc = {
+yan_half_orc_culture = {
 	language = yan_half_orc_dialect
 	
 	color = rgb { 0 0 0 }
@@ -159,11 +159,11 @@ yan_half_orc = {
 
 	}	
 	culture_groups = {
-		yan_group
+		yan_culture_group
 	}
 }
 
-shuokyuan = {
+shuokyuan_culture = {
 	language = shuokyuan_dialect
 	
 	color = rgb { 0 0 0 }
@@ -174,11 +174,11 @@ shuokyuan = {
 
 	}	
 	culture_groups = {
-		yan_group
+		yan_culture_group
 	}
 }
 
-luoxian = {
+luoxian_culture = {
 	language = luoxian_dialect
 	
 	color = rgb { 0 0 0 }
@@ -189,11 +189,11 @@ luoxian = {
 
 	}	
 	culture_groups = {
-		yan_group
+		yan_culture_group
 	}
 }
 
-naamzau = {
+naamzau_culture = {
 	language = naamzau_dialect
 	
 	color = rgb { 0 0 0 }
@@ -204,7 +204,7 @@ naamzau = {
 
 	}	
 	culture_groups = {
-		yan_group
+		yan_culture_group
 	}
 }
 

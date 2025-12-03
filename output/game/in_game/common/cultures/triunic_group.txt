@@ -1,4 +1,4 @@
-﻿metsamic = {
+﻿metsamic_culture = {
 	language = metsamic_dialect
 	
 	color = rgb { 20 50 210 }
@@ -9,11 +9,11 @@
 
 	}	
 	culture_groups = {
-		triunic_group
+		triunic_culture_group
 	}
 }
 
-zabatlari = {
+zabatlari_culture = {
 	language = zabatlari_dialect
 	
 	color = rgb { 20 50 210 }
@@ -24,11 +24,11 @@ zabatlari = {
 
 	}	
 	culture_groups = {
-		triunic_group
+		triunic_culture_group
 	}
 }
 
-khamgunai = {
+khamgunai_culture = {
 	language = khamgunai_dialect
 	
 	color = rgb { 20 50 210 }
@@ -39,11 +39,11 @@ khamgunai = {
 
 	}	
 	culture_groups = {
-		triunic_group
+		triunic_culture_group
 	}
 }
 
-kukatodic = {
+kukatodic_culture = {
 	language = kukatodic_dialect
 	
 	color = rgb { 0 0 0 }
@@ -54,11 +54,11 @@ kukatodic = {
 
 	}	
 	culture_groups = {
-		triunic_group
+		triunic_culture_group
 	}
 }
 
-orachav = {
+orachav_culture = {
 	language = orachav_dialect
 	
 	color = rgb { 70 41 12 }
@@ -69,11 +69,11 @@ orachav = {
 
 	}	
 	culture_groups = {
-		triunic_group
+		triunic_culture_group
 	}
 }
 
-urmanki = {
+urmanki_culture = {
 	language = urmanki_dialect
 	
 	color = rgb { 7 74 74 }
@@ -84,7 +84,7 @@ urmanki = {
 
 	}	
 	culture_groups = {
-		triunic_group
+		triunic_culture_group
 	}
 }
 

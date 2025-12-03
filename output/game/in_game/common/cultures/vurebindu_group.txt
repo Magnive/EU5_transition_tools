@@ -1,4 +1,4 @@
-﻿zuvunwa = {
+﻿zuvunwa_culture = {
 	language = zuvunwa_dialect
 	
 	color = rgb { 0 102 255 }
@@ -9,11 +9,11 @@
 
 	}	
 	culture_groups = {
-		vurebindu_group
+		vurebindu_culture_group
 	}
 }
 
-kuivanhi = {
+kuivanhi_culture = {
 	language = kuivanhi_dialect
 	
 	color = rgb { 204 130 0 }
@@ -24,11 +24,11 @@ kuivanhi = {
 
 	}	
 	culture_groups = {
-		vurebindu_group
+		vurebindu_culture_group
 	}
 }
 
-kudenta = {
+kudenta_culture = {
 	language = kudenta_dialect
 	
 	color = rgb { 180 80 20 }
@@ -39,11 +39,11 @@ kudenta = {
 
 	}	
 	culture_groups = {
-		vurebindu_group
+		vurebindu_culture_group
 	}
 }
 
-gomzumu = {
+gomzumu_culture = {
 	language = gomzumu_dialect
 	
 	color = rgb { 180 80 20 }
@@ -54,11 +54,11 @@ gomzumu = {
 
 	}	
 	culture_groups = {
-		vurebindu_group
+		vurebindu_culture_group
 	}
 }
 
-egilshibi = {
+egilshibi_culture = {
 	language = egilshibi_dialect
 	
 	color = rgb { 180 80 20 }
@@ -69,7 +69,7 @@ egilshibi = {
 
 	}	
 	culture_groups = {
-		vurebindu_group
+		vurebindu_culture_group
 	}
 }
 

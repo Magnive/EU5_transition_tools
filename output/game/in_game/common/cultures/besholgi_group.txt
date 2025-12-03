@@ -9,11 +9,11 @@
 
 	}	
 	culture_groups = {
-		besholgi_group
+		besholgi_culture_group
 	}
 }
 
-tuugalak = {
+tuugalak_culture = {
 	language = tuugalak_dialect
 	
 	color = rgb { 0 0 0 }
@@ -24,11 +24,11 @@ tuugalak = {
 
 	}	
 	culture_groups = {
-		besholgi_group
+		besholgi_culture_group
 	}
 }
 
-ulukungu = {
+ulukungu_culture = {
 	language = ulukungu_dialect
 	
 	color = rgb { 0 0 0 }
@@ -39,11 +39,11 @@ ulukungu = {
 
 	}	
 	culture_groups = {
-		besholgi_group
+		besholgi_culture_group
 	}
 }
 
-mogirga = {
+mogirga_culture = {
 	language = mogirga_dialect
 	
 	color = rgb { 0 0 0 }
@@ -54,7 +54,7 @@ mogirga = {
 
 	}	
 	culture_groups = {
-		besholgi_group
+		besholgi_culture_group
 	}
 }
 

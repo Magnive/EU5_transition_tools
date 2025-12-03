@@ -314,6 +314,8 @@ with open('output\\game\\in_game\\map_data\\anb_location_templates.txt', 'w', en
                             if religion != '':
                                 location_template_string += f"religion = {religion} "
                             if culture != '':
+                                if not culture.endswith('_culture'):
+                                    culture += '_culture'
                                 location_template_string += f"culture = {culture} "
                             if raw_material != '':
                                 location_template_string += f"raw_material = {raw_material} "
@@ -428,22 +430,40 @@ for key, value in cultures_data.items():
     culture = Culture(culture_group, culture_name)
 
 # Generate culture files
-for culture_group in CultureGroup.instances.values():
-    with open('output//game//in_game//common//cultures//' + culture_group.name +'.txt', 'w', encoding='utf-8-sig') as group_file:
-        for culture in culture_group.cultures:            
-            culture_data = cultures_data[culture.name]
-            
-            new_string = str(culture_placeholder_template)
-            new_string = new_string.replace('PH_CULTURE_NAME', culture.name)
-            new_string = new_string.replace('PH_CULTURE_GROUP', culture_group.name)
-            
-            language = culture_data.get('language/dialect', 'unknown_language')
-            new_string = new_string.replace('PH_LANGUAGE_NAME', language)
-            
-            color = culture_data.get('color', '255 255 255').strip('(').strip(')').replace(',', '')
-            new_string = new_string.replace('PH_COLOR', f'rgb {{ {color} }}')
+with open('output//game//in_game//common//culture_groups//00_culture_groups.txt', 'w', encoding='utf-8-sig') as culture_groups_file:
+    for culture_group in CultureGroup.instances.values():
+        culture_group_name = culture_group.name
+        if culture_group_name.endswith('_group'):
+            culture_group_name = culture_group_name[:-6] + '_culture_group'
+        elif not culture_group_name.endswith('_culture_group'):
+            culture_group_name += '_culture_group'
 
-            group_file.write(new_string)
+        culture_groups_file.write(f'{culture_group_name} = {{\n')
+        culture_groups_file.write('\tcountry_modifier = { }\n')
+        culture_groups_file.write('\tcharacter_modifier = { }\n')
+        culture_groups_file.write('\tlocation_modifier = { }\n')
+        culture_groups_file.write('}\n')
+        culture_groups_file.write('\n')
+        
+        with open('output//game//in_game//common//cultures//' + culture_group.name +'.txt', 'w', encoding='utf-8-sig') as group_file:
+            for culture in culture_group.cultures:
+                culture_data = cultures_data[culture.name]
+
+                culture_name = culture.name
+                if not culture_name.endswith('_culture'):
+                    culture_name += '_culture'
+                
+                new_string = str(culture_placeholder_template)
+                new_string = new_string.replace('PH_CULTURE_NAME', culture_name)
+                new_string = new_string.replace('PH_CULTURE_GROUP', culture_group_name)
+                
+                language = culture_data.get('language/dialect', 'unknown_language')
+                new_string = new_string.replace('PH_LANGUAGE_NAME', language)
+                
+                color = culture_data.get('color', '255 255 255').strip('(').strip(')').replace(',', '')
+                new_string = new_string.replace('PH_COLOR', f'rgb {{ {color} }}')
+
+                group_file.write(new_string)
 
 # Load languages and dialects.
 languages_data = load_transition_data(csv_file='anbennar_eu5_transition_data_language.csv',
@@ -707,6 +727,8 @@ for superregion in Superregion.instances.values():
             new_string = new_string.replace('PH_COLOR', f'rgb {{ {color} }}')
             
             culture = country_data.get('culture_definition', 'unknown_culture')
+            if not culture.endswith('_culture'):
+                culture += '_culture'
             if culture == '':
                 culture = 'unknown_culture'
             new_string = new_string.replace('PH_CULTURE', culture)
@@ -744,7 +766,12 @@ with open('output\\game\\main_menu\\setup\\start\\05_anb_characters.txt', 'w', e
             new_string = new_string.replace('PH_NICKNAME', nickname_string)
         else:
             new_string = new_string.replace('PH_NICKNAME\n', '')
-        new_string = new_string.replace('PH_CULTURE', value.get('culture', '???'))
+
+        culture_string = value.get('culture', '???')
+        if not culture_string.endswith('_culture'):
+            culture_string += '_culture'
+        new_string = new_string.replace('PH_CULTURE', culture_string)
+        
         new_string = new_string.replace('PH_RELIGION', value.get('religion', '???'))
         if value.get('female', 'probably_male') == 'yes':
             new_string = new_string.replace('PH_FEMALE', '\t\tfemale = yes')

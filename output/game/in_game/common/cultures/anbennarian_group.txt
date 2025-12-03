@@ -1,4 +1,4 @@
-﻿anbenncoster = {
+﻿anbenncoster_culture = {
 	language = anbenncoster_dialect
 	
 	color = rgb { 95 178 186 }
@@ -9,11 +9,11 @@
 
 	}	
 	culture_groups = {
-		anbennarian_group
+		anbennarian_culture_group
 	}
 }
 
-half_elf = {
+half_elf_culture = {
 	language = half_elf_dialect
 	
 	color = rgb { 0 0 0 }
@@ -24,11 +24,11 @@ half_elf = {
 
 	}	
 	culture_groups = {
-		anbennarian_group
+		anbennarian_culture_group
 	}
 }
 
-west_damerian = {
+west_damerian_culture = {
 	language = west_damerian_dialect
 	
 	color = rgb { 37 138 164 }
@@ -39,11 +39,11 @@ west_damerian = {
 
 	}	
 	culture_groups = {
-		anbennarian_group
+		anbennarian_culture_group
 	}
 }
 
-east_damerian = {
+east_damerian_culture = {
 	language = east_damerian_dialect
 	
 	color = rgb { 0 165 187 }
@@ -54,11 +54,11 @@ east_damerian = {
 
 	}	
 	culture_groups = {
-		anbennarian_group
+		anbennarian_culture_group
 	}
 }
 
-pearlsedger = {
+pearlsedger_culture = {
 	language = pearlsedger_dialect
 	
 	color = rgb { 255 249 232 }
@@ -69,11 +69,11 @@ pearlsedger = {
 
 	}	
 	culture_groups = {
-		anbennarian_group
+		anbennarian_culture_group
 	}
 }
 
-crownsman = {
+crownsman_culture = {
 	language = crownsman_dialect
 	
 	color = rgb { 221 198 129 }
@@ -84,11 +84,11 @@ crownsman = {
 
 	}	
 	culture_groups = {
-		anbennarian_group
+		anbennarian_culture_group
 	}
 }
 
-vernman = {
+vernman_culture = {
 	language = vernman_dialect
 	
 	color = rgb { 150 0 0 }
@@ -99,11 +99,11 @@ vernman = {
 
 	}	
 	culture_groups = {
-		anbennarian_group
+		anbennarian_culture_group
 	}
 }
 
-exwesser = {
+exwesser_culture = {
 	language = exwesser_dialect
 	
 	color = rgb { 125 182 192 }
@@ -114,11 +114,11 @@ exwesser = {
 
 	}	
 	culture_groups = {
-		anbennarian_group
+		anbennarian_culture_group
 	}
 }
 
-arbarani = {
+arbarani_culture = {
 	language = arbarani_dialect
 	
 	color = rgb { 135 166 165 }
@@ -129,11 +129,11 @@ arbarani = {
 
 	}	
 	culture_groups = {
-		anbennarian_group
+		anbennarian_culture_group
 	}
 }
 
-dhanaenno = {
+dhanaenno_culture = {
 	language = dhanaenno_dialect
 	
 	color = rgb { 16 138 144 }
@@ -144,11 +144,11 @@ dhanaenno = {
 
 	}	
 	culture_groups = {
-		anbennarian_group
+		anbennarian_culture_group
 	}
 }
 
-esmari = {
+esmari_culture = {
 	language = esmari_dialect
 	
 	color = rgb { 241 174 118 }
@@ -159,11 +159,11 @@ esmari = {
 
 	}	
 	culture_groups = {
-		anbennarian_group
+		anbennarian_culture_group
 	}
 }
 
-arannese = {
+arannese_culture = {
 	language = arannese_dialect
 	
 	color = rgb { 31 49 138 }
@@ -174,11 +174,11 @@ arannese = {
 
 	}	
 	culture_groups = {
-		anbennarian_group
+		anbennarian_culture_group
 	}
 }
 
-uelairey = {
+uelairey_culture = {
 	language = uelairey_dialect
 	
 	color = rgb { 103 252 204 }
@@ -189,11 +189,11 @@ uelairey = {
 
 	}	
 	culture_groups = {
-		anbennarian_group
+		anbennarian_culture_group
 	}
 }
 
-aldresian = {
+aldresian_culture = {
 	language = aldresian_dialect
 	
 	color = rgb { 50 255 255 }
@@ -204,11 +204,11 @@ aldresian = {
 
 	}	
 	culture_groups = {
-		anbennarian_group
+		anbennarian_culture_group
 	}
 }
 
-telgeiran = {
+telgeiran_culture = {
 	language = telgeiran_dialect
 	
 	color = rgb { 117 134 143 }
@@ -219,11 +219,11 @@ telgeiran = {
 
 	}	
 	culture_groups = {
-		anbennarian_group
+		anbennarian_culture_group
 	}
 }
 
-pashainey = {
+pashainey_culture = {
 	language = pashainey_dialect
 	
 	color = rgb { 130 55 140 }
@@ -234,11 +234,11 @@ pashainey = {
 
 	}	
 	culture_groups = {
-		anbennarian_group
+		anbennarian_culture_group
 	}
 }
 
-havoric = {
+havoric_culture = {
 	language = havoric_dialect
 	
 	color = rgb { 127 144 168 }
@@ -249,11 +249,11 @@ havoric = {
 
 	}	
 	culture_groups = {
-		anbennarian_group
+		anbennarian_culture_group
 	}
 }
 
-vanburian = {
+vanburian_culture = {
 	language = vanburian_dialect
 	
 	color = rgb { 117 134 143 }
@@ -264,11 +264,11 @@ vanburian = {
 
 	}	
 	culture_groups = {
-		anbennarian_group
+		anbennarian_culture_group
 	}
 }
 
-themarian = {
+themarian_culture = {
 	language = themarian_dialect
 	
 	color = rgb { 182 210 232 }
@@ -279,11 +279,11 @@ themarian = {
 
 	}	
 	culture_groups = {
-		anbennarian_group
+		anbennarian_culture_group
 	}
 }
 
-gliosine = {
+gliosine_culture = {
 	language = gliosine_dialect
 	
 	color = rgb { 0 0 0 }
@@ -294,11 +294,11 @@ gliosine = {
 
 	}	
 	culture_groups = {
-		anbennarian_group
+		anbennarian_culture_group
 	}
 }
 
-arthaman = {
+arthaman_culture = {
 	language = arthaman_dialect
 	
 	color = rgb { 0 0 0 }
@@ -309,11 +309,11 @@ arthaman = {
 
 	}	
 	culture_groups = {
-		anbennarian_group
+		anbennarian_culture_group
 	}
 }
 
-fiadionni = {
+fiadionni_culture = {
 	language = fiadionni_dialect
 	
 	color = rgb { 0 0 0 }
@@ -324,7 +324,7 @@ fiadionni = {
 
 	}	
 	culture_groups = {
-		anbennarian_group
+		anbennarian_culture_group
 	}
 }
 

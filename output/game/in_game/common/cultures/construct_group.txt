@@ -1,4 +1,4 @@
-﻿homunculi = {
+﻿homunculi_culture = {
 	language = homunculi_dialect
 	
 	color = rgb { 0 0 0 }
@@ -9,7 +9,7 @@
 
 	}	
 	culture_groups = {
-		construct_group
+		construct_culture_group
 	}
 }
 

@@ -1,348 +1,348 @@
 ﻿G21 = {
 	color = rgb { 21 149 9 }
 
-	culture_definition = rzentur
+	culture_definition = rzentur_culture
 	religion_definition = drozma_tur
 }
 G22 = {
 	color = rgb { 109 127 29 }
 
-	culture_definition = rzentur
+	culture_definition = rzentur_culture
 	religion_definition = drozma_tur
 }
 G23 = {
 	color = rgb { 113 22 126 }
 
-	culture_definition = rzentur
+	culture_definition = rzentur_culture
 	religion_definition = drozma_tur
 }
 G24 = {
 	color = rgb { 195 207 201 }
 
-	culture_definition = rzentur
+	culture_definition = rzentur_culture
 	religion_definition = drozma_tur
 }
 G25 = {
 	color = rgb { 213 132 33 }
 
-	culture_definition = dolindhan
+	culture_definition = dolindhan_culture
 	religion_definition = ynn_river_worship
 }
 G26 = {
 	color = rgb { 220 18 245 }
 
-	culture_definition = dolindhan
+	culture_definition = dolindhan_culture
 	religion_definition = ynn_river_worship
 }
 G27 = {
 	color = rgb { 77 77 65 }
 
-	culture_definition = dolindhan
+	culture_definition = dolindhan_culture
 	religion_definition = ynn_river_worship
 }
 G28 = {
 	color = rgb { 234 208 227 }
 
-	culture_definition = dolindhan
+	culture_definition = dolindhan_culture
 	religion_definition = ynn_river_worship
 }
 G29 = {
 	color = rgb { 144 77 19 }
 
-	culture_definition = dolindhan
+	culture_definition = dolindhan_culture
 	religion_definition = ynn_river_worship
 }
 G30 = {
 	color = rgb { 18 128 224 }
 
-	culture_definition = dolindhan
+	culture_definition = dolindhan_culture
 	religion_definition = ynn_river_worship
 }
 G31 = {
 	color = rgb { 238 223 54 }
 
-	culture_definition = dolindhan
+	culture_definition = dolindhan_culture
 	religion_definition = ynn_river_worship
 }
 G32 = {
 	color = rgb { 183 26 46 }
 
-	culture_definition = dolindhan
+	culture_definition = dolindhan_culture
 	religion_definition = ynn_river_worship
 }
 G33 = {
 	color = rgb { 48 62 124 }
 
-	culture_definition = dolindhan
+	culture_definition = dolindhan_culture
 	religion_definition = ynn_river_worship
 }
 G34 = {
 	color = rgb { 99 147 104 }
 
-	culture_definition = dolindhan
+	culture_definition = dolindhan_culture
 	religion_definition = ynn_river_worship
 }
 G35 = {
 	color = rgb { 38 115 85 }
 
-	culture_definition = sarda
+	culture_definition = sarda_culture
 	religion_definition = ynn_river_worship
 }
 G36 = {
 	color = rgb { 94 29 246 }
 
-	culture_definition = sarda
+	culture_definition = sarda_culture
 	religion_definition = ynn_river_worship
 }
 G37 = {
 	color = rgb { 184 49 120 }
 
-	culture_definition = sarda
+	culture_definition = sarda_culture
 	religion_definition = ynn_river_worship
 }
 G38 = {
 	color = rgb { 181 90 237 }
 
-	culture_definition = sarda
+	culture_definition = sarda_culture
 	religion_definition = ynn_river_worship
 }
 G39 = {
 	color = rgb { 139 172 212 }
 
-	culture_definition = sarda
+	culture_definition = sarda_culture
 	religion_definition = ynn_river_worship
 }
 G84 = {
 	color = rgb { 101 238 221 }
 
-	culture_definition = sarda
+	culture_definition = sarda_culture
 	religion_definition = ynn_river_worship
 }
 G85 = {
 	color = rgb { 212 238 89 }
 
-	culture_definition = sarda
+	culture_definition = sarda_culture
 	religion_definition = ynn_river_worship
 }
 G86 = {
 	color = rgb { 0 84 43 }
 
-	culture_definition = sarda
+	culture_definition = sarda_culture
 	religion_definition = ynn_river_worship
 }
 G94 = {
 	color = rgb { 177 177 200 }
 
-	culture_definition = stone_dwarf
+	culture_definition = stone_dwarf_culture
 	religion_definition = regent_court
 }
 H24 = {
 	color = rgb { 0 88 0 }
 
-	culture_definition = rzentur
+	culture_definition = rzentur_culture
 	religion_definition = drozma_tur
 }
 H25 = {
 	color = rgb { 237 237 237 }
 
-	culture_definition = sarda
+	culture_definition = sarda_culture
 	religion_definition = ynn_river_worship
 }
 H26 = {
 	color = rgb { 145 193 122 }
 
-	culture_definition = sarda
+	culture_definition = sarda_culture
 	religion_definition = ynn_river_worship
 }
 H34 = {
 	color = rgb { 170 143 131 }
 
-	culture_definition = low_lorentish
+	culture_definition = low_lorentish_culture
 	religion_definition = regent_court
 }
 H35 = {
 	color = rgb { 233 122 86 }
 
-	culture_definition = castellyrian
+	culture_definition = castellyrian_culture
 	religion_definition = corinite
 }
 H44 = {
 	color = rgb { 225 205 107 }
 
-	culture_definition = crownsman
+	culture_definition = crownsman_culture
 	religion_definition = regent_court
 }
 H45 = {
 	color = rgb { 225 205 107 }
 
-	culture_definition = steadsman
+	culture_definition = steadsman_culture
 	religion_definition = regent_court
 }
 H46 = {
 	color = rgb { 148 201 177 }
 
-	culture_definition = east_damerian
+	culture_definition = east_damerian_culture
 	religion_definition = corinite
 }
 H47 = {
 	color = rgb { 148 201 177 }
 
-	culture_definition = istranari
+	culture_definition = istranari_culture
 	religion_definition = corinite
 }
 H48 = {
 	color = rgb { 230 209 49 }
 
-	culture_definition = vernman
+	culture_definition = vernman_culture
 	religion_definition = corinite
 }
 H49 = {
 	color = rgb { 230 209 49 }
 
-	culture_definition = steadsman
+	culture_definition = steadsman_culture
 	religion_definition = corinite
 }
 H52 = {
 	color = rgb { 129 217 235 }
 
-	culture_definition = moon_elf
+	culture_definition = moon_elf_culture
 	religion_definition = elven_forebears
 }
 H53 = {
 	color = rgb { 129 217 235 }
 
-	culture_definition = horizon_elf
+	culture_definition = horizon_elf_culture
 	religion_definition = elven_forebears
 }
 H54 = {
 	color = rgb { 209 130 203 }
 
-	culture_definition = redfoot_halfling
+	culture_definition = redfoot_halfling_culture
 	religion_definition = regent_court
 }
 H55 = {
 	color = rgb { 209 130 203 }
 
-	culture_definition = pipefoot_halfling
+	culture_definition = pipefoot_halfling_culture
 	religion_definition = regent_court
 }
 H56 = {
 	color = rgb { 64 111 169 }
 
-	culture_definition = havoric
+	culture_definition = havoric_culture
 	religion_definition = regent_court
 }
 H57 = {
 	color = rgb { 64 111 169 }
 
-	culture_definition = new_havoric
+	culture_definition = new_havoric_culture
 	religion_definition = regent_court
 }
 H58 = {
 	color = rgb { 209 197 154 }
 
-	culture_definition = half_orc
+	culture_definition = half_orc_culture
 	religion_definition = corinite
 }
 H59 = {
 	color = rgb { 209 197 154 }
 
-	culture_definition = chippengarder_half_orc
+	culture_definition = chippengarder_half_orc_culture
 	religion_definition = corinite
 }
 H60 = {
 	color = rgb { 150 100 200 }
 
-	culture_definition = east_damerian
+	culture_definition = east_damerian_culture
 	religion_definition = regent_court
 }
 H61 = {
 	color = rgb { 150 100 200 }
 
-	culture_definition = steadsman
+	culture_definition = steadsman_culture
 	religion_definition = regent_court
 }
 H64 = {
 	color = rgb { 138 36 118 }
 
-	culture_definition = arannese
+	culture_definition = arannese_culture
 	religion_definition = regent_court
 }
 H65 = {
 	color = rgb { 138 36 118 }
 
-	culture_definition = dustman
+	culture_definition = dustman_culture
 	religion_definition = regent_court
 }
 U21 = {
 	color = rgb { 67 92 183 }
 
-	culture_definition = veykodan
+	culture_definition = veykodan_culture
 	religion_definition = rune_scribes
 }
 U22 = {
 	color = rgb { 77 63 168 }
 
-	culture_definition = veykodan
+	culture_definition = veykodan_culture
 	religion_definition = rune_scribes
 }
 U23 = {
 	color = rgb { 255 109 126 }
 
-	culture_definition = sarda
+	culture_definition = sarda_culture
 	religion_definition = ynn_river_worship
 }
 U24 = {
 	color = rgb { 220 118 48 }
 
-	culture_definition = sarda
+	culture_definition = sarda_culture
 	religion_definition = ynn_river_worship
 }
 U25 = {
 	color = rgb { 5 36 255 }
 
-	culture_definition = sarda
+	culture_definition = sarda_culture
 	religion_definition = ynn_river_worship
 }
 U26 = {
 	color = rgb { 183 80 64 }
 
-	culture_definition = dolindhan
+	culture_definition = dolindhan_culture
 	religion_definition = drozma_tur
 }
 U32 = {
 	color = rgb { 255 68 35 }
 
-	culture_definition = sarda
+	culture_definition = sarda_culture
 	religion_definition = ynn_river_worship
 }
 U33 = {
 	color = rgb { 150 0 0 }
 
-	culture_definition = rzentur
+	culture_definition = rzentur_culture
 	religion_definition = drozma_tur
 }
 U69 = {
 	color = rgb { 0 209 255 }
 
-	culture_definition = sarda
+	culture_definition = sarda_culture
 	religion_definition = ynn_river_worship
 }
 U70 = {
 	color = rgb { 255 182 24 }
 
-	culture_definition = dolindhan
+	culture_definition = dolindhan_culture
 	religion_definition = ynn_river_worship
 }
 U71 = {
 	color = rgb { 57 124 64 }
 
-	culture_definition = rzentur
+	culture_definition = rzentur_culture
 	religion_definition = ynn_river_worship
 }
 U76 = {
 	color = rgb { 199 91 46 }
 
-	culture_definition = dustman
+	culture_definition = dustman_culture
 	religion_definition = regent_court
 }

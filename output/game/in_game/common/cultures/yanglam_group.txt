@@ -1,4 +1,4 @@
-﻿hujan = {
+﻿hujan_culture = {
 	language = hujan_dialect
 	
 	color = rgb { 215 50 125 }
@@ -9,11 +9,11 @@
 
 	}	
 	culture_groups = {
-		yanglam_group
+		yanglam_culture_group
 	}
 }
 
-banyak = {
+banyak_culture = {
 	language = banyak_dialect
 	
 	color = rgb { 215 50 125 }
@@ -24,11 +24,11 @@ banyak = {
 
 	}	
 	culture_groups = {
-		yanglam_group
+		yanglam_culture_group
 	}
 }
 
-paru = {
+paru_culture = {
 	language = paru_dialect
 	
 	color = rgb { 215 50 125 }
@@ -39,11 +39,11 @@ paru = {
 
 	}	
 	culture_groups = {
-		yanglam_group
+		yanglam_culture_group
 	}
 }
 
-sirtana = {
+sirtana_culture = {
 	language = sirtana_dialect
 	
 	color = rgb { 185 97 97 }
@@ -54,7 +54,7 @@ sirtana = {
 
 	}	
 	culture_groups = {
-		yanglam_group
+		yanglam_culture_group
 	}
 }
 

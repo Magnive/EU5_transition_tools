@@ -1,4 +1,4 @@
-﻿kamgoro = {
+﻿kamgoro_culture = {
 	language = kamgoro_dialect
 	
 	color = rgb { 0 0 0 }
@@ -9,11 +9,11 @@
 
 	}	
 	culture_groups = {
-		utubodi_group
+		utubodi_culture_group
 	}
 }
 
-momoki = {
+momoki_culture = {
 	language = momoki_dialect
 	
 	color = rgb { 0 0 0 }
@@ -24,11 +24,11 @@ momoki = {
 
 	}	
 	culture_groups = {
-		utubodi_group
+		utubodi_culture_group
 	}
 }
 
-atuganum = {
+atuganum_culture = {
 	language = atuganum_dialect
 	
 	color = rgb { 0 0 0 }
@@ -39,11 +39,11 @@ atuganum = {
 
 	}	
 	culture_groups = {
-		utubodi_group
+		utubodi_culture_group
 	}
 }
 
-badarari = {
+badarari_culture = {
 	language = badarari_dialect
 	
 	color = rgb { 0 0 0 }
@@ -54,7 +54,7 @@ badarari = {
 
 	}	
 	culture_groups = {
-		utubodi_group
+		utubodi_culture_group
 	}
 }
 

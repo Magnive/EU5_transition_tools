@@ -1,4 +1,4 @@
-﻿bahari = {
+﻿bahari_culture = {
 	language = bahari_dialect
 	
 	color = rgb { 43 110 96 }
@@ -9,11 +9,11 @@
 
 	}	
 	culture_groups = {
-		bulwari_group
+		bulwari_culture_group
 	}
 }
 
-gelkar = {
+gelkar_culture = {
 	language = gelkar_dialect
 	
 	color = rgb { 54 184 198 }
@@ -24,11 +24,11 @@ gelkar = {
 
 	}	
 	culture_groups = {
-		bulwari_group
+		bulwari_culture_group
 	}
 }
 
-brasanni = {
+brasanni_culture = {
 	language = brasanni_dialect
 	
 	color = rgb { 205 233 232 }
@@ -39,11 +39,11 @@ brasanni = {
 
 	}	
 	culture_groups = {
-		bulwari_group
+		bulwari_culture_group
 	}
 }
 
-surani = {
+surani_culture = {
 	language = surani_dialect
 	
 	color = rgb { 245 207 137 }
@@ -54,11 +54,11 @@ surani = {
 
 	}	
 	culture_groups = {
-		bulwari_group
+		bulwari_culture_group
 	}
 }
 
-zanite = {
+zanite_culture = {
 	language = zanite_dialect
 	
 	color = rgb { 213 98 117 }
@@ -69,11 +69,11 @@ zanite = {
 
 	}	
 	culture_groups = {
-		bulwari_group
+		bulwari_culture_group
 	}
 }
 
-abtazari = {
+abtazari_culture = {
 	language = abtazari_dialect
 	
 	color = rgb { 213 98 157 }
@@ -84,11 +84,11 @@ abtazari = {
 
 	}	
 	culture_groups = {
-		bulwari_group
+		bulwari_culture_group
 	}
 }
 
-kuzarami = {
+kuzarami_culture = {
 	language = kuzarami_dialect
 	
 	color = rgb { 80 100 100 }
@@ -99,11 +99,11 @@ kuzarami = {
 
 	}	
 	culture_groups = {
-		bulwari_group
+		bulwari_culture_group
 	}
 }
 
-maqeti = {
+maqeti_culture = {
 	language = maqeti_dialect
 	
 	color = rgb { 190 190 50 }
@@ -114,11 +114,11 @@ maqeti = {
 
 	}	
 	culture_groups = {
-		bulwari_group
+		bulwari_culture_group
 	}
 }
 
-masnsih = {
+masnsih_culture = {
 	language = masnsih_dialect
 	
 	color = rgb { 194 182 105 }
@@ -129,11 +129,11 @@ masnsih = {
 
 	}	
 	culture_groups = {
-		bulwari_group
+		bulwari_culture_group
 	}
 }
 
-sadnatu = {
+sadnatu_culture = {
 	language = sadnatu_dialect
 	
 	color = rgb { 52 87 213 }
@@ -144,11 +144,11 @@ sadnatu = {
 
 	}	
 	culture_groups = {
-		bulwari_group
+		bulwari_culture_group
 	}
 }
 
-bulwari_half_elf = {
+bulwari_half_elf_culture = {
 	language = bulwari_half_elf_dialect
 	
 	color = rgb { 0 0 0 }
@@ -159,11 +159,11 @@ bulwari_half_elf = {
 
 	}	
 	culture_groups = {
-		bulwari_group
+		bulwari_culture_group
 	}
 }
 
-itrahuresi = {
+itrahuresi_culture = {
 	language = itrahuresi_dialect
 	
 	color = rgb { 59 148 235 }
@@ -174,7 +174,7 @@ itrahuresi = {
 
 	}	
 	culture_groups = {
-		bulwari_group
+		bulwari_culture_group
 	}
 }
 

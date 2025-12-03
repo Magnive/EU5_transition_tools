@@ -1,4 +1,4 @@
-﻿suhratbi = {
+﻿suhratbi_culture = {
 	language = suhratbi_dialect
 	
 	color = rgb { 100 72 7 }
@@ -9,11 +9,11 @@
 
 	}	
 	culture_groups = {
-		baashidi_group
+		baashidi_culture_group
 	}
 }
 
-dhebiji = {
+dhebiji_culture = {
 	language = dhebiji_dialect
 	
 	color = rgb { 225 143 21 }
@@ -24,11 +24,11 @@ dhebiji = {
 
 	}	
 	culture_groups = {
-		baashidi_group
+		baashidi_culture_group
 	}
 }
 
-guryadagga = {
+guryadagga_culture = {
 	language = guryadagga_dialect
 	
 	color = rgb { 100 72 7 }
@@ -39,11 +39,11 @@ guryadagga = {
 
 	}	
 	culture_groups = {
-		baashidi_group
+		baashidi_culture_group
 	}
 }
 
-ashamadi = {
+ashamadi_culture = {
 	language = ashamadi_dialect
 	
 	color = rgb { 180 33 33 }
@@ -54,7 +54,7 @@ ashamadi = {
 
 	}	
 	culture_groups = {
-		baashidi_group
+		baashidi_culture_group
 	}
 }
 

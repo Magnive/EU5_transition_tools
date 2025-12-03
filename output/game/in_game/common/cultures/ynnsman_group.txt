@@ -1,4 +1,4 @@
-﻿chippengarder_half_orc = {
+﻿chippengarder_half_orc_culture = {
 	language = chippengarder_half_orc_dialect
 	
 	color = rgb { 209 197 154 }
@@ -9,11 +9,11 @@
 
 	}	
 	culture_groups = {
-		ynnsman_group
+		ynnsman_culture_group
 	}
 }
 
-corinsfielder = {
+corinsfielder_culture = {
 	language = corinsfielder_dialect
 	
 	color = rgb { 233 122 86 }
@@ -24,11 +24,11 @@ corinsfielder = {
 
 	}	
 	culture_groups = {
-		ynnsman_group
+		ynnsman_culture_group
 	}
 }
 
-istranari = {
+istranari_culture = {
 	language = istranari_dialect
 	
 	color = rgb { 148 201 177 }
@@ -39,11 +39,11 @@ istranari = {
 
 	}	
 	culture_groups = {
-		ynnsman_group
+		ynnsman_culture_group
 	}
 }
 
-new_havoric = {
+new_havoric_culture = {
 	language = new_havoric_dialect
 	
 	color = rgb { 64 111 169 }
@@ -54,11 +54,11 @@ new_havoric = {
 
 	}	
 	culture_groups = {
-		ynnsman_group
+		ynnsman_culture_group
 	}
 }
 
-dustman = {
+dustman_culture = {
 	language = dustman_dialect
 	
 	color = rgb { 138 36 118 }
@@ -69,11 +69,11 @@ dustman = {
 
 	}	
 	culture_groups = {
-		ynnsman_group
+		ynnsman_culture_group
 	}
 }
 
-steadsman = {
+steadsman_culture = {
 	language = steadsman_dialect
 	
 	color = rgb { 150 100 200 }
@@ -84,11 +84,11 @@ steadsman = {
 
 	}	
 	culture_groups = {
-		ynnsman_group
+		ynnsman_culture_group
 	}
 }
 
-sarnik = {
+sarnik_culture = {
 	language = sarnik_dialect
 	
 	color = rgb { 0 0 0 }
@@ -99,7 +99,7 @@ sarnik = {
 
 	}	
 	culture_groups = {
-		ynnsman_group
+		ynnsman_culture_group
 	}
 }
 

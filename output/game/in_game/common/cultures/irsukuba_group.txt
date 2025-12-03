@@ -1,4 +1,4 @@
-﻿kudemtu = {
+﻿kudemtu_culture = {
 	language = kudemtu_dialect
 	
 	color = rgb { 210 180 140 }
@@ -9,11 +9,11 @@
 
 	}	
 	culture_groups = {
-		irsukuba_group
+		irsukuba_culture_group
 	}
 }
 
-gumzemo = {
+gumzemo_culture = {
 	language = gumzemo_dialect
 	
 	color = rgb { 102 102 153 }
@@ -24,11 +24,11 @@ gumzemo = {
 
 	}	
 	culture_groups = {
-		irsukuba_group
+		irsukuba_culture_group
 	}
 }
 
-ikilshebe = {
+ikilshebe_culture = {
 	language = ikilshebe_dialect
 	
 	color = rgb { 102 153 0 }
@@ -39,11 +39,11 @@ ikilshebe = {
 
 	}	
 	culture_groups = {
-		irsukuba_group
+		irsukuba_culture_group
 	}
 }
 
-zovanwe = {
+zovanwe_culture = {
 	language = zovanwe_dialect
 	
 	color = rgb { 100 214 11 }
@@ -54,11 +54,11 @@ zovanwe = {
 
 	}	
 	culture_groups = {
-		irsukuba_group
+		irsukuba_culture_group
 	}
 }
 
-kuivendi = {
+kuivendi_culture = {
 	language = kuivendi_dialect
 	
 	color = rgb { 100 214 11 }
@@ -69,11 +69,11 @@ kuivendi = {
 
 	}	
 	culture_groups = {
-		irsukuba_group
+		irsukuba_culture_group
 	}
 }
 
-echenka = {
+echenka_culture = {
 	language = echenka_dialect
 	
 	color = rgb { 45 22 80 }
@@ -84,7 +84,7 @@ echenka = {
 
 	}	
 	culture_groups = {
-		irsukuba_group
+		irsukuba_culture_group
 	}
 }
 

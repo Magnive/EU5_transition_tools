@@ -1,4 +1,4 @@
-﻿hapremiti = {
+﻿hapremiti_culture = {
 	language = hapremiti_dialect
 	
 	color = rgb { 219 148 35 }
@@ -9,11 +9,11 @@
 
 	}	
 	culture_groups = {
-		kheteratan_group
+		kheteratan_culture_group
 	}
 }
 
-irsmahapan = {
+irsmahapan_culture = {
 	language = irsmahapan_dialect
 	
 	color = rgb { 219 217 35 }
@@ -24,11 +24,11 @@ irsmahapan = {
 
 	}	
 	culture_groups = {
-		kheteratan_group
+		kheteratan_culture_group
 	}
 }
 
-shasouran = {
+shasouran_culture = {
 	language = shasouran_dialect
 	
 	color = rgb { 201 173 165 }
@@ -39,11 +39,11 @@ shasouran = {
 
 	}	
 	culture_groups = {
-		kheteratan_group
+		kheteratan_culture_group
 	}
 }
 
-korosheshi = {
+korosheshi_culture = {
 	language = korosheshi_dialect
 	
 	color = rgb { 90 170 150 }
@@ -54,11 +54,11 @@ korosheshi = {
 
 	}	
 	culture_groups = {
-		kheteratan_group
+		kheteratan_culture_group
 	}
 }
 
-tijarikheti = {
+tijarikheti_culture = {
 	language = tijarikheti_dialect
 	
 	color = rgb { 186 89 157 }
@@ -69,11 +69,11 @@ tijarikheti = {
 
 	}	
 	culture_groups = {
-		kheteratan_group
+		kheteratan_culture_group
 	}
 }
 
-horakheti = {
+horakheti_culture = {
 	language = horakheti_dialect
 	
 	color = rgb { 6 17 79 }
@@ -84,11 +84,11 @@ horakheti = {
 
 	}	
 	culture_groups = {
-		kheteratan_group
+		kheteratan_culture_group
 	}
 }
 
-asbaiwix = {
+asbaiwix_culture = {
 	language = asbaiwix_dialect
 	
 	color = rgb { 150 149 122 }
@@ -99,7 +99,7 @@ asbaiwix = {
 
 	}	
 	culture_groups = {
-		kheteratan_group
+		kheteratan_culture_group
 	}
 }
 

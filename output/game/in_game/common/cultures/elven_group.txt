@@ -1,4 +1,4 @@
-﻿moon_elf = {
+﻿moon_elf_culture = {
 	language = moon_elf_dialect
 	
 	color = rgb { 196 243 246 }
@@ -9,11 +9,11 @@
 
 	}	
 	culture_groups = {
-		elven_group
+		elven_culture_group
 	}
 }
 
-star_elf = {
+star_elf_culture = {
 	language = star_elf_dialect
 	
 	color = rgb { 28 31 150 }
@@ -24,11 +24,11 @@ star_elf = {
 
 	}	
 	culture_groups = {
-		elven_group
+		elven_culture_group
 	}
 }
 
-sun_elf = {
+sun_elf_culture = {
 	language = sun_elf_dialect
 	
 	color = rgb { 227 177 52 }
@@ -39,11 +39,11 @@ sun_elf = {
 
 	}	
 	culture_groups = {
-		elven_group
+		elven_culture_group
 	}
 }
 
-sunrise_elf = {
+sunrise_elf_culture = {
 	language = sunrise_elf_dialect
 	
 	color = rgb { 150 65 20 }
@@ -54,11 +54,11 @@ sunrise_elf = {
 
 	}	
 	culture_groups = {
-		elven_group
+		elven_culture_group
 	}
 }
 
-sunset_elf = {
+sunset_elf_culture = {
 	language = sunset_elf_dialect
 	
 	color = rgb { 176 59 23 }
@@ -69,11 +69,11 @@ sunset_elf = {
 
 	}	
 	culture_groups = {
-		elven_group
+		elven_culture_group
 	}
 }
 
-desert_elf = {
+desert_elf_culture = {
 	language = desert_elf_dialect
 	
 	color = rgb { 241 135 50 }
@@ -84,11 +84,11 @@ desert_elf = {
 
 	}	
 	culture_groups = {
-		elven_group
+		elven_culture_group
 	}
 }
 
-dawn_elf = {
+dawn_elf_culture = {
 	language = dawn_elf_dialect
 	
 	color = rgb { 207 140 52 }
@@ -99,11 +99,11 @@ dawn_elf = {
 
 	}	
 	culture_groups = {
-		elven_group
+		elven_culture_group
 	}
 }
 
-horizon_elf = {
+horizon_elf_culture = {
 	language = horizon_elf_dialect
 	
 	color = rgb { 129 217 235 }
@@ -114,11 +114,11 @@ horizon_elf = {
 
 	}	
 	culture_groups = {
-		elven_group
+		elven_culture_group
 	}
 }
 
-eclipse_elf = {
+eclipse_elf_culture = {
 	language = eclipse_elf_dialect
 	
 	color = rgb { 161 42 42 }
@@ -129,11 +129,11 @@ eclipse_elf = {
 
 	}	
 	culture_groups = {
-		elven_group
+		elven_culture_group
 	}
 }
 
-wood_elf = {
+wood_elf_culture = {
 	language = wood_elf_dialect
 	
 	color = rgb { 10 95 13 }
@@ -144,11 +144,11 @@ wood_elf = {
 
 	}	
 	culture_groups = {
-		elven_group
+		elven_culture_group
 	}
 }
 
-sea_elf = {
+sea_elf_culture = {
 	language = sea_elf_dialect
 	
 	color = rgb { 0 0 0 }
@@ -159,7 +159,7 @@ sea_elf = {
 
 	}	
 	culture_groups = {
-		elven_group
+		elven_culture_group
 	}
 }
 

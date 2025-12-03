@@ -1,4 +1,4 @@
-﻿forest_goblin = {
+﻿forest_goblin_culture = {
 	language = forest_goblin_dialect
 	
 	color = rgb { 43 232 43 }
@@ -9,11 +9,11 @@
 
 	}	
 	culture_groups = {
-		goblin_group
+		goblin_culture_group
 	}
 }
 
-trolltamer_goblin = {
+trolltamer_goblin_culture = {
 	language = trolltamer_goblin_dialect
 	
 	color = rgb { 0 0 0 }
@@ -24,11 +24,11 @@ trolltamer_goblin = {
 
 	}	
 	culture_groups = {
-		goblin_group
+		goblin_culture_group
 	}
 }
 
-cave_goblin = {
+cave_goblin_culture = {
 	language = cave_goblin_dialect
 	
 	color = rgb { 250 207 185 }
@@ -39,11 +39,11 @@ cave_goblin = {
 
 	}	
 	culture_groups = {
-		goblin_group
+		goblin_culture_group
 	}
 }
 
-undergrowth_goblin = {
+undergrowth_goblin_culture = {
 	language = undergrowth_goblin_dialect
 	
 	color = rgb { 0 105 62 }
@@ -54,11 +54,11 @@ undergrowth_goblin = {
 
 	}	
 	culture_groups = {
-		goblin_group
+		goblin_culture_group
 	}
 }
 
-rustroad_goblin = {
+rustroad_goblin_culture = {
 	language = rustroad_goblin_dialect
 	
 	color = rgb { 13 53 46 }
@@ -69,11 +69,11 @@ rustroad_goblin = {
 
 	}	
 	culture_groups = {
-		goblin_group
+		goblin_culture_group
 	}
 }
 
-coldcave_goblin = {
+coldcave_goblin_culture = {
 	language = coldcave_goblin_dialect
 	
 	color = rgb { 0 0 0 }
@@ -84,11 +84,11 @@ coldcave_goblin = {
 
 	}	
 	culture_groups = {
-		goblin_group
+		goblin_culture_group
 	}
 }
 
-goldtooth_goblin = {
+goldtooth_goblin_culture = {
 	language = goldtooth_goblin_dialect
 	
 	color = rgb { 148 234 227 }
@@ -99,11 +99,11 @@ goldtooth_goblin = {
 
 	}	
 	culture_groups = {
-		goblin_group
+		goblin_culture_group
 	}
 }
 
-deep_goblin = {
+deep_goblin_culture = {
 	language = deep_goblin_dialect
 	
 	color = rgb { 0 0 0 }
@@ -114,11 +114,11 @@ deep_goblin = {
 
 	}	
 	culture_groups = {
-		goblin_group
+		goblin_culture_group
 	}
 }
 
-straggler_goblin = {
+straggler_goblin_culture = {
 	language = straggler_goblin_dialect
 	
 	color = rgb { 175 129 123 }
@@ -129,11 +129,11 @@ straggler_goblin = {
 
 	}	
 	culture_groups = {
-		goblin_group
+		goblin_culture_group
 	}
 }
 
-common_goblin = {
+common_goblin_culture = {
 	language = common_goblin_dialect
 	
 	color = rgb { 150 155 117 }
@@ -144,11 +144,11 @@ common_goblin = {
 
 	}	
 	culture_groups = {
-		goblin_group
+		goblin_culture_group
 	}
 }
 
-skinburner_goblin = {
+skinburner_goblin_culture = {
 	language = skinburner_goblin_dialect
 	
 	color = rgb { 204 85 0 }
@@ -159,11 +159,11 @@ skinburner_goblin = {
 
 	}	
 	culture_groups = {
-		goblin_group
+		goblin_culture_group
 	}
 }
 
-crawler_goblin = {
+crawler_goblin_culture = {
 	language = crawler_goblin_dialect
 	
 	color = rgb { 41 40 105 }
@@ -174,11 +174,11 @@ crawler_goblin = {
 
 	}	
 	culture_groups = {
-		goblin_group
+		goblin_culture_group
 	}
 }
 
-exodus_goblin = {
+exodus_goblin_culture = {
 	language = exodus_goblin_dialect
 	
 	color = rgb { 100 100 200 }
@@ -189,11 +189,11 @@ exodus_goblin = {
 
 	}	
 	culture_groups = {
-		goblin_group
+		goblin_culture_group
 	}
 }
 
-city_goblin = {
+city_goblin_culture = {
 	language = city_goblin_dialect
 	
 	color = rgb { 99 138 197 }
@@ -204,11 +204,11 @@ city_goblin = {
 
 	}	
 	culture_groups = {
-		goblin_group
+		goblin_culture_group
 	}
 }
 
-march_goblin = {
+march_goblin_culture = {
 	language = march_goblin_dialect
 	
 	color = rgb { 67 111 78 }
@@ -219,11 +219,11 @@ march_goblin = {
 
 	}	
 	culture_groups = {
-		goblin_group
+		goblin_culture_group
 	}
 }
 
-soot_goblin = {
+soot_goblin_culture = {
 	language = soot_goblin_dialect
 	
 	color = rgb { 125 250 185 }
@@ -234,7 +234,7 @@ soot_goblin = {
 
 	}	
 	culture_groups = {
-		goblin_group
+		goblin_culture_group
 	}
 }
 

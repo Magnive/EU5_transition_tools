@@ -1,4 +1,4 @@
-﻿fjord_troll = {
+﻿fjord_troll_culture = {
 	language = fjord_troll_dialect
 	
 	color = rgb { 153 217 234 }
@@ -9,11 +9,11 @@
 
 	}	
 	culture_groups = {
-		giantkind_group
+		giantkind_culture_group
 	}
 }
 
-forest_troll = {
+forest_troll_culture = {
 	language = forest_troll_dialect
 	
 	color = rgb { 239 131 131 }
@@ -24,11 +24,11 @@ forest_troll = {
 
 	}	
 	culture_groups = {
-		giantkind_group
+		giantkind_culture_group
 	}
 }
 
-hill_troll = {
+hill_troll_culture = {
 	language = hill_troll_dialect
 	
 	color = rgb { 118 87 47 }
@@ -39,11 +39,11 @@ hill_troll = {
 
 	}	
 	culture_groups = {
-		giantkind_group
+		giantkind_culture_group
 	}
 }
 
-swamp_troll = {
+swamp_troll_culture = {
 	language = swamp_troll_dialect
 	
 	color = rgb { 40 40 40 }
@@ -54,11 +54,11 @@ swamp_troll = {
 
 	}	
 	culture_groups = {
-		giantkind_group
+		giantkind_culture_group
 	}
 }
 
-cave_troll = {
+cave_troll_culture = {
 	language = cave_troll_dialect
 	
 	color = rgb { 151 79 168 }
@@ -69,11 +69,11 @@ cave_troll = {
 
 	}	
 	culture_groups = {
-		giantkind_group
+		giantkind_culture_group
 	}
 }
 
-true_giant = {
+true_giant_culture = {
 	language = true_giant_dialect
 	
 	color = rgb { 0 0 0 }
@@ -84,7 +84,7 @@ true_giant = {
 
 	}	
 	culture_groups = {
-		giantkind_group
+		giantkind_culture_group
 	}
 }
 

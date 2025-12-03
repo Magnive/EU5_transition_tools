@@ -1,156 +1,156 @@
 ﻿G02 = {
 	color = rgb { 65 19 40 }
 
-	culture_definition = mayte
+	culture_definition = mayte_culture
 	religion_definition = kalun_masks
 }
 G03 = {
 	color = rgb { 58 89 94 }
 
-	culture_definition = kooras
+	culture_definition = kooras_culture
 	religion_definition = jaakaiin
 }
 G43 = {
 	color = rgb { 160 128 122 }
 
-	culture_definition = harafe
+	culture_definition = harafe_culture
 	religion_definition = dai_nadeilhil
 }
 G44 = {
 	color = rgb { 255 255 153 }
 
-	culture_definition = kooras
+	culture_definition = kooras_culture
 	religion_definition = jaakaiin
 }
 G45 = {
 	color = rgb { 108 35 188 }
 
-	culture_definition = mayte
+	culture_definition = mayte_culture
 	religion_definition = kalun_masks
 }
 G87 = {
 	color = rgb { 62 80 88 }
 
-	culture_definition = banche
+	culture_definition = banche_culture
 	religion_definition = rioqay_diu
 }
 G88 = {
 	color = rgb { 94 110 100 }
 
-	culture_definition = chamullach
+	culture_definition = chamullach_culture
 	religion_definition = rioqay_diu
 }
 G89 = {
 	color = rgb { 75 62 30 }
 
-	culture_definition = chaqanel
+	culture_definition = chaqanel_culture
 	religion_definition = rioqay_diu
 }
 G97 = {
 	color = rgb { 117 134 143 }
 
-	culture_definition = esmari
+	culture_definition = esmari_culture
 	religion_definition = regent_court
 }
 H30 = {
 	color = rgb { 245 217 233 }
 
-	culture_definition = cliff_gnome
+	culture_definition = cliff_gnome_culture
 	religion_definition = the_thought
 }
 H31 = {
 	color = rgb { 174 181 189 }
 
-	culture_definition = bluescale_kobold
+	culture_definition = bluescale_kobold_culture
 	religion_definition = the_thought
 }
 H32 = {
 	color = rgb { 125 250 185 }
 
-	culture_definition = city_goblin
+	culture_definition = city_goblin_culture
 	religion_definition = the_thought
 }
 J86 = {
 	color = rgb { 90 88 60 }
 
-	culture_definition = quruwei
+	culture_definition = quruwei_culture
 	religion_definition = rioqay_diu
 }
 J87 = {
 	color = rgb { 80 62 88 }
 
-	culture_definition = faalte
+	culture_definition = faalte_culture
 	religion_definition = rioqay_diu
 }
 J88 = {
 	color = rgb { 82 208 57 }
 
-	culture_definition = quchamar
+	culture_definition = quchamar_culture
 	religion_definition = rioqay_diu
 }
 J89 = {
 	color = rgb { 249 239 252 }
 
-	culture_definition = quchamar
+	culture_definition = quchamar_culture
 	religion_definition = rioqay_diu
 }
 J90 = {
 	color = rgb { 166 209 222 }
 
-	culture_definition = quchamar
+	culture_definition = quchamar_culture
 	religion_definition = rioqay_diu
 }
 J91 = {
 	color = rgb { 249 108 141 }
 
-	culture_definition = quchamar
+	culture_definition = quchamar_culture
 	religion_definition = rioqay_diu
 }
 J92 = {
 	color = rgb { 243 250 143 }
 
-	culture_definition = quchamar
+	culture_definition = quchamar_culture
 	religion_definition = rioqay_diu
 }
 J93 = {
 	color = rgb { 75 62 30 }
 
-	culture_definition = quchamar
+	culture_definition = quchamar_culture
 	religion_definition = rioqay_diu
 }
 U28 = {
 	color = rgb { 80 154 178 }
 
-	culture_definition = kooras
+	culture_definition = kooras_culture
 	religion_definition = jaakaiin
 }
 U29 = {
 	color = rgb { 200 113 63 }
 
-	culture_definition = kooras
+	culture_definition = kooras_culture
 	religion_definition = jaakaiin
 }
 U30 = {
 	color = rgb { 24 12 27 }
 
-	culture_definition = mayte
+	culture_definition = mayte_culture
 	religion_definition = death_cult_of_cheshosh
 }
 U31 = {
 	color = rgb { 31 81 255 }
 
-	culture_definition = soot_goblin
+	culture_definition = soot_goblin_culture
 	religion_definition = the_thought
 }
 U42 = {
 	color = rgb { 34 204 0 }
 
-	culture_definition = caamas
+	culture_definition = caamas_culture
 	religion_definition = summer_court
 }
 Z44 = {
 	color = rgb { 145 112 200 }
 
-	culture_definition = star_elf
+	culture_definition = star_elf_culture
 	religion_definition = elven_forebears
 }

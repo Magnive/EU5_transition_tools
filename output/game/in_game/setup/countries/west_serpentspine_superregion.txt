@@ -1,330 +1,330 @@
 ﻿B17 = {
 	color = rgb { 143 120 28 }
 
-	culture_definition = silver_dwarf
+	culture_definition = silver_dwarf_culture
 	religion_definition = regent_court
 }
 F47 = {
 	color = rgb { 255 198 0 }
 
-	culture_definition = gold_dwarf
+	culture_definition = gold_dwarf_culture
 	religion_definition = ancestor_worship
 }
 H68 = {
 	color = rgb { 175 52 52 }
 
-	culture_definition = ruby_dwarf
+	culture_definition = ruby_dwarf_culture
 	religion_definition = ancestor_worship
 }
 H69 = {
 	color = rgb { 100 130 210 }
 
-	culture_definition = silver_dwarf
+	culture_definition = silver_dwarf_culture
 	religion_definition = regent_court
 }
 H70 = {
 	color = rgb { 40 200 225 }
 
-	culture_definition = silver_dwarf
+	culture_definition = silver_dwarf_culture
 	religion_definition = ancestor_worship
 }
 H71 = {
 	color = rgb { 115 115 115 }
 
-	culture_definition = silver_dwarf
+	culture_definition = silver_dwarf_culture
 	religion_definition = ancestor_worship
 }
 H72 = {
 	color = rgb { 100 153 24 }
 
-	culture_definition = highhold_orc
+	culture_definition = highhold_orc_culture
 	religion_definition = old_dookan
 }
 H73 = {
 	color = rgb { 178 135 46 }
 
-	culture_definition = drakeclaw_orc
+	culture_definition = drakeclaw_orc_culture
 	religion_definition = old_dookan
 }
 H75 = {
 	color = rgb { 13 53 46 }
 
-	culture_definition = rustroad_goblin
+	culture_definition = rustroad_goblin_culture
 	religion_definition = goblinic_shamanism
 }
 H76 = {
 	color = rgb { 200 200 200 }
 
-	culture_definition = diamond_dwarf
+	culture_definition = diamond_dwarf_culture
 	religion_definition = ancestor_worship
 }
 H77 = {
 	color = rgb { 247 179 215 }
 
-	culture_definition = garnet_dwarf
+	culture_definition = garnet_dwarf_culture
 	religion_definition = ancestor_worship
 }
 H78 = {
 	color = rgb { 36 96 143 }
 
-	culture_definition = citrine_dwarf
+	culture_definition = citrine_dwarf_culture
 	religion_definition = ancestor_worship
 }
 H80 = {
 	color = rgb { 161 210 141 }
 
-	culture_definition = manhunter_orc
+	culture_definition = manhunter_orc_culture
 	religion_definition = great_dookan
 }
 H81 = {
 	color = rgb { 51 3 14 }
 
-	culture_definition = blooded_orc
+	culture_definition = blooded_orc_culture
 	religion_definition = old_dookan
 }
 H82 = {
 	color = rgb { 148 234 227 }
 
-	culture_definition = goldtooth_goblin
+	culture_definition = goldtooth_goblin_culture
 	religion_definition = goblinic_shamanism
 }
 H83 = {
 	color = rgb { 147 133 140 }
 
-	culture_definition = drakeclaw_orc
+	culture_definition = drakeclaw_orc_culture
 	religion_definition = old_dookan
 }
 H84 = {
 	color = rgb { 62 25 41 }
 
-	culture_definition = rustroad_goblin
+	culture_definition = rustroad_goblin_culture
 	religion_definition = goblinic_shamanism
 }
 H85 = {
 	color = rgb { 233 233 255 }
 
-	culture_definition = rustroad_goblin
+	culture_definition = rustroad_goblin_culture
 	religion_definition = goblinic_shamanism
 }
 H86 = {
 	color = rgb { 239 220 171 }
 
-	culture_definition = skull_orc
+	culture_definition = skull_orc_culture
 	religion_definition = old_dookan
 }
 H87 = {
 	color = rgb { 175 129 123 }
 
-	culture_definition = straggler_goblin
+	culture_definition = straggler_goblin_culture
 	religion_definition = goblinic_shamanism
 }
 H89 = {
 	color = rgb { 250 207 185 }
 
-	culture_definition = cave_goblin
+	culture_definition = cave_goblin_culture
 	religion_definition = goblinic_shamanism
 }
 H90 = {
 	color = rgb { 41 40 105 }
 
-	culture_definition = crawler_goblin
+	culture_definition = crawler_goblin_culture
 	religion_definition = goblinic_shamanism
 }
 H91 = {
 	color = rgb { 13 210 70 }
 
-	culture_definition = black_orc
+	culture_definition = black_orc_culture
 	religion_definition = old_dookan
 }
 H94 = {
 	color = rgb { 8 14 42 }
 
-	culture_definition = obsidian_dwarf
+	culture_definition = obsidian_dwarf_culture
 	religion_definition = runefather_worship
 }
 H95 = {
 	color = rgb { 220 217 236 }
 
-	culture_definition = copper_dwarf
+	culture_definition = copper_dwarf_culture
 	religion_definition = ancestor_worship
 }
 H96 = {
 	color = rgb { 150 177 240 }
 
-	culture_definition = silver_dwarf
+	culture_definition = silver_dwarf_culture
 	religion_definition = ancestor_worship
 }
 H97 = {
 	color = rgb { 66 66 66 }
 
-	culture_definition = ruby_dwarf
+	culture_definition = ruby_dwarf_culture
 	religion_definition = ancestor_worship
 }
 I01 = {
 	color = rgb { 60 40 80 }
 
-	culture_definition = kronium_dwarf
+	culture_definition = kronium_dwarf_culture
 	religion_definition = ancestor_worship
 }
 I02 = {
 	color = rgb { 148 201 230 }
 
-	culture_definition = quartz_dwarf
+	culture_definition = quartz_dwarf_culture
 	religion_definition = ancestor_worship
 }
 I03 = {
 	color = rgb { 0 25 119 }
 
-	culture_definition = sapphire_dwarf
+	culture_definition = sapphire_dwarf_culture
 	religion_definition = ancestor_worship
 }
 I04 = {
 	color = rgb { 74 111 121 }
 
-	culture_definition = ramsteel_dwarf
+	culture_definition = ramsteel_dwarf_culture
 	religion_definition = ancestor_worship
 }
 I05 = {
 	color = rgb { 81 231 213 }
 
-	culture_definition = mithril_dwarf
+	culture_definition = mithril_dwarf_culture
 	religion_definition = ancestor_worship
 }
 I06 = {
 	color = rgb { 147 191 155 }
 
-	culture_definition = dagrite_dwarf
+	culture_definition = dagrite_dwarf_culture
 	religion_definition = ancestor_worship
 }
 I07 = {
 	color = rgb { 149 131 101 }
 
-	culture_definition = agate_dwarf
+	culture_definition = agate_dwarf_culture
 	religion_definition = ancestor_worship
 }
 I08 = {
 	color = rgb { 74 80 97 }
 
-	culture_definition = platinum_dwarf
+	culture_definition = platinum_dwarf_culture
 	religion_definition = ancestor_worship
 }
 I09 = {
 	color = rgb { 255 228 216 }
 
-	culture_definition = opal_dwarf
+	culture_definition = opal_dwarf_culture
 	religion_definition = ancestor_worship
 }
 I10 = {
 	color = rgb { 160 114 158 }
 
-	culture_definition = lead_dwarf
+	culture_definition = lead_dwarf_culture
 	religion_definition = ancestor_worship
 }
 I11 = {
 	color = rgb { 241 242 227 }
 
-	culture_definition = marble_dwarf
+	culture_definition = marble_dwarf_culture
 	religion_definition = ancestor_worship
 }
 I12 = {
 	color = rgb { 0 71 171 }
 
-	culture_definition = cobalt_dwarf
+	culture_definition = cobalt_dwarf_culture
 	religion_definition = ancestor_worship
 }
 I13 = {
 	color = rgb { 55 144 90 }
 
-	culture_definition = flint_dwarf
+	culture_definition = flint_dwarf_culture
 	religion_definition = ancestor_worship
 }
 I14 = {
 	color = rgb { 223 187 144 }
 
-	culture_definition = titanium_dwarf
+	culture_definition = titanium_dwarf_culture
 	religion_definition = ancestor_worship
 }
 I15 = {
 	color = rgb { 15 82 186 }
 
-	culture_definition = pyrite_dwarf
+	culture_definition = pyrite_dwarf_culture
 	religion_definition = ancestor_worship
 }
 I16 = {
 	color = rgb { 240 72 72 }
 
-	culture_definition = basalt_dwarf
+	culture_definition = basalt_dwarf_culture
 	religion_definition = ancestor_worship
 }
 I17 = {
 	color = rgb { 93 161 154 }
 
-	culture_definition = topaz_dwarf
+	culture_definition = topaz_dwarf_culture
 	religion_definition = ancestor_worship
 }
 I23 = {
 	color = rgb { 56 43 70 }
 
-	culture_definition = obsidian_dwarf
+	culture_definition = obsidian_dwarf_culture
 	religion_definition = runefather_worship
 }
 I24 = {
 	color = rgb { 33 64 96 }
 
-	culture_definition = jade_dwarf
+	culture_definition = jade_dwarf_culture
 	religion_definition = ancestor_worship
 }
 J32 = {
 	color = rgb { 78 173 71 }
 
-	culture_definition = mossmouth_ogre
+	culture_definition = mossmouth_ogre_culture
 	religion_definition = feast_of_the_gods
 }
 J48 = {
 	color = rgb { 22 45 22 }
 
-	culture_definition = mossmouth_ogre
+	culture_definition = mossmouth_ogre_culture
 	religion_definition = feast_of_the_gods
 }
 M01 = {
 	color = rgb { 151 79 168 }
 
-	culture_definition = cave_troll
+	culture_definition = cave_troll_culture
 	religion_definition = goblinic_shamanism
 }
 M05 = {
 	color = rgb { 204 85 0 }
 
-	culture_definition = skinburner_goblin
+	culture_definition = skinburner_goblin_culture
 	religion_definition = goblinic_shamanism
 }
 S78 = {
 	color = rgb { 47 9 91 }
 
-	culture_definition = suhratbi
+	culture_definition = suhratbi_culture
 	religion_definition = rinta_seekers
 }
 S79 = {
 	color = rgb { 248 247 205 }
 
-	culture_definition = suhratbi
+	culture_definition = suhratbi_culture
 	religion_definition = rinta_seekers
 }
 Z55 = {
 	color = rgb { 189 8 8 }
 
-	culture_definition = darkscale_kobold
+	culture_definition = darkscale_kobold_culture
 	religion_definition = nimrithan
 }
 Z56 = {
 	color = rgb { 81 16 16 }
 
-	culture_definition = darkscale_kobold
+	culture_definition = darkscale_kobold_culture
 	religion_definition = kobold_dragon_cult
 }
 Z82 = {
 	color = rgb { 10 18 8 }
 
-	culture_definition = black_orc
+	culture_definition = black_orc_culture
 	religion_definition = old_dookan
 }

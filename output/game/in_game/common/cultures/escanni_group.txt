@@ -1,4 +1,4 @@
-﻿half_orc = {
+﻿half_orc_culture = {
 	language = half_orc_dialect
 	
 	color = rgb { 0 0 0 }
@@ -9,11 +9,11 @@
 
 	}	
 	culture_groups = {
-		escanni_group
+		escanni_culture_group
 	}
 }
 
-ungulan_half_orc = {
+ungulan_half_orc_culture = {
 	language = ungulan_half_orc_dialect
 	
 	color = rgb { 20 160 60 }
@@ -24,11 +24,11 @@ ungulan_half_orc = {
 
 	}	
 	culture_groups = {
-		escanni_group
+		escanni_culture_group
 	}
 }
 
-grombar_half_orc = {
+grombar_half_orc_culture = {
 	language = grombar_half_orc_dialect
 	
 	color = rgb { 101 125 134 }
@@ -39,11 +39,11 @@ grombar_half_orc = {
 
 	}	
 	culture_groups = {
-		escanni_group
+		escanni_culture_group
 	}
 }
 
-black_castanorian = {
+black_castanorian_culture = {
 	language = black_castanorian_dialect
 	
 	color = rgb { 0 0 0 }
@@ -54,11 +54,11 @@ black_castanorian = {
 
 	}	
 	culture_groups = {
-		escanni_group
+		escanni_culture_group
 	}
 }
 
-castanorian = {
+castanorian_culture = {
 	language = castanorian_dialect
 	
 	color = rgb { 255 255 255 }
@@ -69,11 +69,11 @@ castanorian = {
 
 	}	
 	culture_groups = {
-		escanni_group
+		escanni_culture_group
 	}
 }
 
-castellyrian = {
+castellyrian_culture = {
 	language = castellyrian_dialect
 	
 	color = rgb { 144 144 200 }
@@ -84,11 +84,11 @@ castellyrian = {
 
 	}	
 	culture_groups = {
-		escanni_group
+		escanni_culture_group
 	}
 }
 
-marcher = {
+marcher_culture = {
 	language = marcher_dialect
 	
 	color = rgb { 230 216 166 }
@@ -99,11 +99,11 @@ marcher = {
 
 	}	
 	culture_groups = {
-		escanni_group
+		escanni_culture_group
 	}
 }
 
-adenner = {
+adenner_culture = {
 	language = adenner_dialect
 	
 	color = rgb { 15 117 187 }
@@ -114,11 +114,11 @@ adenner = {
 
 	}	
 	culture_groups = {
-		escanni_group
+		escanni_culture_group
 	}
 }
 
-white_reachman = {
+white_reachman_culture = {
 	language = white_reachman_dialect
 	
 	color = rgb { 128 255 255 }
@@ -129,11 +129,11 @@ white_reachman = {
 
 	}	
 	culture_groups = {
-		escanni_group
+		escanni_culture_group
 	}
 }
 
-farrani_half_elf = {
+farrani_half_elf_culture = {
 	language = farrani_half_elf_dialect
 	
 	color = rgb { 160 185 85 }
@@ -144,11 +144,11 @@ farrani_half_elf = {
 
 	}	
 	culture_groups = {
-		escanni_group
+		escanni_culture_group
 	}
 }
 
-merine = {
+merine_culture = {
 	language = merine_dialect
 	
 	color = rgb { 192 192 192 }
@@ -159,11 +159,11 @@ merine = {
 
 	}	
 	culture_groups = {
-		escanni_group
+		escanni_culture_group
 	}
 }
 
-luciander = {
+luciander_culture = {
 	language = luciander_dialect
 	
 	color = rgb { 136 36 9 }
@@ -174,11 +174,11 @@ luciander = {
 
 	}	
 	culture_groups = {
-		escanni_group
+		escanni_culture_group
 	}
 }
 
-ancardian = {
+ancardian_culture = {
 	language = ancardian_dialect
 	
 	color = rgb { 226 186 165 }
@@ -189,11 +189,11 @@ ancardian = {
 
 	}	
 	culture_groups = {
-		escanni_group
+		escanni_culture_group
 	}
 }
 
-rogieran = {
+rogieran_culture = {
 	language = rogieran_dialect
 	
 	color = rgb { 82 158 181 }
@@ -204,11 +204,11 @@ rogieran = {
 
 	}	
 	culture_groups = {
-		escanni_group
+		escanni_culture_group
 	}
 }
 
-elikhander = {
+elikhander_culture = {
 	language = elikhander_dialect
 	
 	color = rgb { 232 118 121 }
@@ -219,11 +219,11 @@ elikhander = {
 
 	}	
 	culture_groups = {
-		escanni_group
+		escanni_culture_group
 	}
 }
 
-heartman = {
+heartman_culture = {
 	language = heartman_dialect
 	
 	color = rgb { 246 54 3 }
@@ -234,11 +234,11 @@ heartman = {
 
 	}	
 	culture_groups = {
-		escanni_group
+		escanni_culture_group
 	}
 }
 
-alenori = {
+alenori_culture = {
 	language = alenori_dialect
 	
 	color = rgb { 0 71 171 }
@@ -249,11 +249,11 @@ alenori = {
 
 	}	
 	culture_groups = {
-		escanni_group
+		escanni_culture_group
 	}
 }
 
-stalboric = {
+stalboric_culture = {
 	language = stalboric_dialect
 	
 	color = rgb { 164 145 223 }
@@ -264,11 +264,11 @@ stalboric = {
 
 	}	
 	culture_groups = {
-		escanni_group
+		escanni_culture_group
 	}
 }
 
-ravenmarcher = {
+ravenmarcher_culture = {
 	language = ravenmarcher_dialect
 	
 	color = rgb { 59 52 72 }
@@ -279,11 +279,11 @@ ravenmarcher = {
 
 	}	
 	culture_groups = {
-		escanni_group
+		escanni_culture_group
 	}
 }
 
-ionnic = {
+ionnic_culture = {
 	language = ionnic_dialect
 	
 	color = rgb { 226 200 107 }
@@ -294,11 +294,11 @@ ionnic = {
 
 	}	
 	culture_groups = {
-		escanni_group
+		escanni_culture_group
 	}
 }
 
-estairey = {
+estairey_culture = {
 	language = estairey_dialect
 	
 	color = rgb { 182 196 235 }
@@ -309,11 +309,11 @@ estairey = {
 
 	}	
 	culture_groups = {
-		escanni_group
+		escanni_culture_group
 	}
 }
 
-nurcestiran = {
+nurcestiran_culture = {
 	language = nurcestiran_dialect
 	
 	color = rgb { 209 160 107 }
@@ -324,11 +324,11 @@ nurcestiran = {
 
 	}	
 	culture_groups = {
-		escanni_group
+		escanni_culture_group
 	}
 }
 
-esthili = {
+esthili_culture = {
 	language = esthili_dialect
 	
 	color = rgb { 35 38 40 }
@@ -339,11 +339,11 @@ esthili = {
 
 	}	
 	culture_groups = {
-		escanni_group
+		escanni_culture_group
 	}
 }
 
-rosanda = {
+rosanda_culture = {
 	language = rosanda_dialect
 	
 	color = rgb { 131 52 54 }
@@ -354,11 +354,11 @@ rosanda = {
 
 	}	
 	culture_groups = {
-		escanni_group
+		escanni_culture_group
 	}
 }
 
-covenbladic = {
+covenbladic_culture = {
 	language = covenbladic_dialect
 	
 	color = rgb { 168 211 244 }
@@ -369,11 +369,11 @@ covenbladic = {
 
 	}	
 	culture_groups = {
-		escanni_group
+		escanni_culture_group
 	}
 }
 
-corintari = {
+corintari_culture = {
 	language = corintari_dialect
 	
 	color = rgb { 233 82 86 }
@@ -384,11 +384,11 @@ corintari = {
 
 	}	
 	culture_groups = {
-		escanni_group
+		escanni_culture_group
 	}
 }
 
-black_demesner = {
+black_demesner_culture = {
 	language = black_demesner_dialect
 	
 	color = rgb { 6 6 6 }
@@ -399,11 +399,11 @@ black_demesner = {
 
 	}	
 	culture_groups = {
-		escanni_group
+		escanni_culture_group
 	}
 }
 
-moredhalic = {
+moredhalic_culture = {
 	language = moredhalic_dialect
 	
 	color = rgb { 218 165 32 }
@@ -414,7 +414,7 @@ moredhalic = {
 
 	}	
 	culture_groups = {
-		escanni_group
+		escanni_culture_group
 	}
 }
 

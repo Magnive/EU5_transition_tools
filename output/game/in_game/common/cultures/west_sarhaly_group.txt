@@ -1,4 +1,4 @@
-﻿mantimatu = {
+﻿mantimatu_culture = {
 	language = mantimatu_dialect
 	
 	color = rgb { 250 214 115 }
@@ -9,11 +9,11 @@
 
 	}	
 	culture_groups = {
-		west_sarhaly_group
+		west_sarhaly_culture_group
 	}
 }
 
-ndurubu = {
+ndurubu_culture = {
 	language = ndurubu_dialect
 	
 	color = rgb { 255 153 0 }
@@ -24,11 +24,11 @@ ndurubu = {
 
 	}	
 	culture_groups = {
-		west_sarhaly_group
+		west_sarhaly_culture_group
 	}
 }
 
-kaino = {
+kaino_culture = {
 	language = kaino_dialect
 	
 	color = rgb { 99 134 15 }
@@ -39,11 +39,11 @@ kaino = {
 
 	}	
 	culture_groups = {
-		west_sarhaly_group
+		west_sarhaly_culture_group
 	}
 }
 
-tamajoba = {
+tamajoba_culture = {
 	language = tamajoba_dialect
 	
 	color = rgb { 128 0 32 }
@@ -54,11 +54,11 @@ tamajoba = {
 
 	}	
 	culture_groups = {
-		west_sarhaly_group
+		west_sarhaly_culture_group
 	}
 }
 
-taafi = {
+taafi_culture = {
 	language = taafi_dialect
 	
 	color = rgb { 255 255 153 }
@@ -69,11 +69,11 @@ taafi = {
 
 	}	
 	culture_groups = {
-		west_sarhaly_group
+		west_sarhaly_culture_group
 	}
 }
 
-jiromji = {
+jiromji_culture = {
 	language = jiromji_dialect
 	
 	color = rgb { 102 153 255 }
@@ -84,11 +84,11 @@ jiromji = {
 
 	}	
 	culture_groups = {
-		west_sarhaly_group
+		west_sarhaly_culture_group
 	}
 }
 
-binwarji = {
+binwarji_culture = {
 	language = binwarji_dialect
 	
 	color = rgb { 192 192 192 }
@@ -99,7 +99,7 @@ binwarji = {
 
 	}	
 	culture_groups = {
-		west_sarhaly_group
+		west_sarhaly_culture_group
 	}
 }
 

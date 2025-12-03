@@ -1,4 +1,4 @@
-﻿mteibhar = {
+﻿mteibhar_culture = {
 	language = mteibhar_dialect
 	
 	color = rgb { 181 201 225 }
@@ -9,11 +9,11 @@
 
 	}	
 	culture_groups = {
-		devandi_ruinborn_elf_group
+		devandi_ruinborn_elf_culture_group
 	}
 }
 
-basobhar = {
+basobhar_culture = {
 	language = basobhar_dialect
 	
 	color = rgb { 0 0 0 }
@@ -24,11 +24,11 @@ basobhar = {
 
 	}	
 	culture_groups = {
-		devandi_ruinborn_elf_group
+		devandi_ruinborn_elf_culture_group
 	}
 }
 
-chendhyan = {
+chendhyan_culture = {
 	language = chendhyan_dialect
 	
 	color = rgb { 127 151 75 }
@@ -39,7 +39,7 @@ chendhyan = {
 
 	}	
 	culture_groups = {
-		devandi_ruinborn_elf_group
+		devandi_ruinborn_elf_culture_group
 	}
 }
 

@@ -1,4 +1,4 @@
-﻿huinui = {
+﻿huinui_culture = {
 	language = huinui_dialect
 	
 	color = rgb { 0 0 0 }
@@ -9,11 +9,11 @@
 
 	}	
 	culture_groups = {
-		anakue_group
+		anakue_culture_group
 	}
 }
 
-maukepa = {
+maukepa_culture = {
 	language = maukepa_dialect
 	
 	color = rgb { 0 0 0 }
@@ -24,11 +24,11 @@ maukepa = {
 
 	}	
 	culture_groups = {
-		anakue_group
+		anakue_culture_group
 	}
 }
 
-haloalao = {
+haloalao_culture = {
 	language = haloalao_dialect
 	
 	color = rgb { 0 0 0 }
@@ -39,11 +39,11 @@ haloalao = {
 
 	}	
 	culture_groups = {
-		anakue_group
+		anakue_culture_group
 	}
 }
 
-moilona = {
+moilona_culture = {
 	language = moilona_dialect
 	
 	color = rgb { 0 0 0 }
@@ -54,11 +54,11 @@ moilona = {
 
 	}	
 	culture_groups = {
-		anakue_group
+		anakue_culture_group
 	}
 }
 
-maupalo = {
+maupalo_culture = {
 	language = maupalo_dialect
 	
 	color = rgb { 0 0 0 }
@@ -69,11 +69,11 @@ maupalo = {
 
 	}	
 	culture_groups = {
-		anakue_group
+		anakue_culture_group
 	}
 }
 
-holoino = {
+holoino_culture = {
 	language = holoino_dialect
 	
 	color = rgb { 0 0 0 }
@@ -84,11 +84,11 @@ holoino = {
 
 	}	
 	culture_groups = {
-		anakue_group
+		anakue_culture_group
 	}
 }
 
-kaukai = {
+kaukai_culture = {
 	language = kaukai_dialect
 	
 	color = rgb { 0 0 0 }
@@ -99,11 +99,11 @@ kaukai = {
 
 	}	
 	culture_groups = {
-		anakue_group
+		anakue_culture_group
 	}
 }
 
-kapelami = {
+kapelami_culture = {
 	language = kapelami_dialect
 	
 	color = rgb { 0 0 0 }
@@ -114,11 +114,11 @@ kapelami = {
 
 	}	
 	culture_groups = {
-		anakue_group
+		anakue_culture_group
 	}
 }
 
-wailana = {
+wailana_culture = {
 	language = wailana_dialect
 	
 	color = rgb { 0 0 0 }
@@ -129,11 +129,11 @@ wailana = {
 
 	}	
 	culture_groups = {
-		anakue_group
+		anakue_culture_group
 	}
 }
 
-kahuipa = {
+kahuipa_culture = {
 	language = kahuipa_dialect
 	
 	color = rgb { 0 0 0 }
@@ -144,11 +144,11 @@ kahuipa = {
 
 	}	
 	culture_groups = {
-		anakue_group
+		anakue_culture_group
 	}
 }
 
-molopai = {
+molopai_culture = {
 	language = molopai_dialect
 	
 	color = rgb { 0 0 0 }
@@ -159,11 +159,11 @@ molopai = {
 
 	}	
 	culture_groups = {
-		anakue_group
+		anakue_culture_group
 	}
 }
 
-mokaika = {
+mokaika_culture = {
 	language = mokaika_dialect
 	
 	color = rgb { 0 0 0 }
@@ -174,7 +174,7 @@ mokaika = {
 
 	}	
 	culture_groups = {
-		anakue_group
+		anakue_culture_group
 	}
 }
 

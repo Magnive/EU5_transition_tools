@@ -1,180 +1,180 @@
 ﻿V01 = {
 	color = rgb { 223 247 44 }
 
-	culture_definition = oinukhudi
+	culture_definition = oinukhudi_culture
 	religion_definition = un_khudai
 }
 V02 = {
 	color = rgb { 83 17 150 }
 
-	culture_definition = plateau_runsukhi
+	culture_definition = plateau_runsukhi_culture
 	religion_definition = levaajan
 }
 V03 = {
 	color = rgb { 34 177 76 }
 
-	culture_definition = runsukhi
+	culture_definition = runsukhi_culture
 	religion_definition = levaajan
 }
 V04 = {
 	color = rgb { 21 18 222 }
 
-	culture_definition = plateau_runsukhi
+	culture_definition = plateau_runsukhi_culture
 	religion_definition = levaajan
 }
 V05 = {
 	color = rgb { 224 220 197 }
 
-	culture_definition = ashwoven_harimari
+	culture_definition = ashwoven_harimari_culture
 	religion_definition = high_philosophy
 }
 V06 = {
 	color = rgb { 255 242 0 }
 
-	culture_definition = plateau_runsukhi
+	culture_definition = plateau_runsukhi_culture
 	religion_definition = levaajan
 }
 V07 = {
 	color = rgb { 0 162 232 }
 
-	culture_definition = soulseeker_ogre
+	culture_definition = soulseeker_ogre_culture
 	religion_definition = sudomegi
 }
 V08 = {
 	color = rgb { 112 68 44 }
 
-	culture_definition = soulseeker_ogre
+	culture_definition = soulseeker_ogre_culture
 	religion_definition = sudomegi
 }
 V09 = {
 	color = rgb { 136 0 21 }
 
-	culture_definition = soulseeker_ogre
+	culture_definition = soulseeker_ogre_culture
 	religion_definition = sudomegi
 }
 V10 = {
 	color = rgb { 255 174 201 }
 
-	culture_definition = soulseeker_ogre
+	culture_definition = soulseeker_ogre_culture
 	religion_definition = sudomegi
 }
 V11 = {
 	color = rgb { 92 99 86 }
 
-	culture_definition = eagle_command
+	culture_definition = eagle_command_culture
 	religion_definition = eagle_worship
 }
 V12 = {
 	color = rgb { 250 110 17 }
 
-	culture_definition = eagle_command
+	culture_definition = eagle_command_culture
 	religion_definition = eagle_worship
 }
 V13 = {
 	color = rgb { 48 156 36 }
 
-	culture_definition = eagle_command
+	culture_definition = eagle_command_culture
 	religion_definition = eagle_worship
 }
 V14 = {
 	color = rgb { 63 72 204 }
 
-	culture_definition = eagle_command
+	culture_definition = eagle_command_culture
 	religion_definition = eagle_worship
 }
 V15 = {
 	color = rgb { 140 183 193 }
 
-	culture_definition = anarkhudi
+	culture_definition = anarkhudi_culture
 	religion_definition = un_khudai
 }
 V16 = {
 	color = rgb { 118 87 47 }
 
-	culture_definition = hill_troll
+	culture_definition = hill_troll_culture
 	religion_definition = un_khudai
 }
 V17 = {
 	color = rgb { 5 205 255 }
 
-	culture_definition = eagle_command
+	culture_definition = eagle_command_culture
 	religion_definition = eagle_worship
 }
 V18 = {
 	color = rgb { 233 116 81 }
 
-	culture_definition = soulseeker_ogre
+	culture_definition = soulseeker_ogre_culture
 	religion_definition = sudomegi
 }
 V20 = {
 	color = rgb { 21 25 126 }
 
-	culture_definition = nuzenapu_harpy
+	culture_definition = nuzenapu_harpy_culture
 	religion_definition = eagle_worship
 }
 V24 = {
 	color = rgb { 208 139 98 }
 
-	culture_definition = shuvuush
+	culture_definition = shuvuush_culture
 	religion_definition = saanorgegh
 }
 V25 = {
 	color = rgb { 90 95 130 }
 
-	culture_definition = shuvuush
+	culture_definition = shuvuush_culture
 	religion_definition = saanorgegh
 }
 V26 = {
 	color = rgb { 185 134 219 }
 
-	culture_definition = shuvuush
+	culture_definition = shuvuush_culture
 	religion_definition = saanorgegh
 }
 V27 = {
 	color = rgb { 160 45 45 }
 
-	culture_definition = giteuni
+	culture_definition = giteuni_culture
 	religion_definition = neokttareum
 }
 Y90 = {
 	color = rgb { 70 30 30 }
 
-	culture_definition = kuuldaar
+	culture_definition = kuuldaar_culture
 	religion_definition = saanorgegh
 }
 Y91 = {
 	color = rgb { 125 120 120 }
 
-	culture_definition = kuuldaar
+	culture_definition = kuuldaar_culture
 	religion_definition = saanorgegh
 }
 Y92 = {
 	color = rgb { 50 115 168 }
 
-	culture_definition = guwaadun
+	culture_definition = guwaadun_culture
 	religion_definition = saanorgegh
 }
 Y93 = {
 	color = rgb { 60 160 120 }
 
-	culture_definition = wonju
+	culture_definition = wonju_culture
 	religion_definition = neokttareum
 }
 Y94 = {
 	color = rgb { 115 85 40 }
 
-	culture_definition = guwaadun
+	culture_definition = guwaadun_culture
 	religion_definition = neokttareum
 }
 Y95 = {
 	color = rgb { 192 192 192 }
 
-	culture_definition = giteuni
+	culture_definition = giteuni_culture
 	religion_definition = neokttareum
 }
 Y96 = {
 	color = rgb { 15 90 125 }
 
-	culture_definition = shuvuush
+	culture_definition = shuvuush_culture
 	religion_definition = saanorgegh
 }

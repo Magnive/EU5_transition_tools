@@ -1,4 +1,4 @@
-﻿bloodfeeders = {
+﻿bloodfeeders_culture = {
 	language = bloodfeeders_dialect
 	
 	color = rgb { 0 0 0 }
@@ -9,11 +9,11 @@
 
 	}	
 	culture_groups = {
-		degenerated_elf_group
+		degenerated_elf_culture_group
 	}
 }
 
-silent_watchers = {
+silent_watchers_culture = {
 	language = silent_watchers_dialect
 	
 	color = rgb { 0 0 0 }
@@ -24,11 +24,11 @@ silent_watchers = {
 
 	}	
 	culture_groups = {
-		degenerated_elf_group
+		degenerated_elf_culture_group
 	}
 }
 
-cursed_ones = {
+cursed_ones_culture = {
 	language = cursed_ones_dialect
 	
 	color = rgb { 0 0 0 }
@@ -39,11 +39,11 @@ cursed_ones = {
 
 	}	
 	culture_groups = {
-		degenerated_elf_group
+		degenerated_elf_culture_group
 	}
 }
 
-leechmen = {
+leechmen_culture = {
 	language = leechmen_dialect
 	
 	color = rgb { 0 0 0 }
@@ -54,11 +54,11 @@ leechmen = {
 
 	}	
 	culture_groups = {
-		degenerated_elf_group
+		degenerated_elf_culture_group
 	}
 }
 
-seedthrall = {
+seedthrall_culture = {
 	language = seedthrall_dialect
 	
 	color = rgb { 0 0 0 }
@@ -69,11 +69,11 @@ seedthrall = {
 
 	}	
 	culture_groups = {
-		degenerated_elf_group
+		degenerated_elf_culture_group
 	}
 }
 
-ice_sleepers = {
+ice_sleepers_culture = {
 	language = ice_sleepers_dialect
 	
 	color = rgb { 0 0 0 }
@@ -84,7 +84,7 @@ ice_sleepers = {
 
 	}	
 	culture_groups = {
-		degenerated_elf_group
+		degenerated_elf_culture_group
 	}
 }
 

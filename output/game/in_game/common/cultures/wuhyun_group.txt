@@ -1,4 +1,4 @@
-﻿ikaniwagain = {
+﻿ikaniwagain_culture = {
 	language = ikaniwagain_dialect
 	
 	color = rgb { 153 76 0 }
@@ -9,11 +9,11 @@
 
 	}	
 	culture_groups = {
-		wuhyun_group
+		wuhyun_culture_group
 	}
 }
 
-kintonan = {
+kintonan_culture = {
 	language = kintonan_dialect
 	
 	color = rgb { 153 76 0 }
@@ -24,11 +24,11 @@ kintonan = {
 
 	}	
 	culture_groups = {
-		wuhyun_group
+		wuhyun_culture_group
 	}
 }
 
-azepyanunin = {
+azepyanunin_culture = {
 	language = azepyanunin_dialect
 	
 	color = rgb { 153 76 0 }
@@ -39,11 +39,11 @@ azepyanunin = {
 
 	}	
 	culture_groups = {
-		wuhyun_group
+		wuhyun_culture_group
 	}
 }
 
-wuhyun_half_orc = {
+wuhyun_half_orc_culture = {
 	language = wuhyun_half_orc_dialect
 	
 	color = rgb { 153 76 0 }
@@ -54,11 +54,11 @@ wuhyun_half_orc = {
 
 	}	
 	culture_groups = {
-		wuhyun_group
+		wuhyun_culture_group
 	}
 }
 
-rinonokegyun = {
+rinonokegyun_culture = {
 	language = rinonokegyun_dialect
 	
 	color = rgb { 153 76 0 }
@@ -69,7 +69,7 @@ rinonokegyun = {
 
 	}	
 	culture_groups = {
-		wuhyun_group
+		wuhyun_culture_group
 	}
 }
 

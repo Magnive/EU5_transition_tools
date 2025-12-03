@@ -1,4 +1,4 @@
-﻿selphereg = {
+﻿selphereg_culture = {
 	language = selphereg_dialect
 	
 	color = rgb { 112 11 187 }
@@ -9,11 +9,11 @@
 
 	}	
 	culture_groups = {
-		eordan_ruinborn_elf_group
+		eordan_ruinborn_elf_culture_group
 	}
 }
 
-caamas = {
+caamas_culture = {
 	language = caamas_dialect
 	
 	color = rgb { 11 187 128 }
@@ -24,11 +24,11 @@ caamas = {
 
 	}	
 	culture_groups = {
-		eordan_ruinborn_elf_group
+		eordan_ruinborn_elf_culture_group
 	}
 }
 
-peitar = {
+peitar_culture = {
 	language = peitar_dialect
 	
 	color = rgb { 233 154 64 }
@@ -39,11 +39,11 @@ peitar = {
 
 	}	
 	culture_groups = {
-		eordan_ruinborn_elf_group
+		eordan_ruinborn_elf_culture_group
 	}
 }
 
-tuathak = {
+tuathak_culture = {
 	language = tuathak_dialect
 	
 	color = rgb { 22 105 163 }
@@ -54,11 +54,11 @@ tuathak = {
 
 	}	
 	culture_groups = {
-		eordan_ruinborn_elf_group
+		eordan_ruinborn_elf_culture_group
 	}
 }
 
-snecboth = {
+snecboth_culture = {
 	language = snecboth_dialect
 	
 	color = rgb { 238 238 238 }
@@ -69,11 +69,11 @@ snecboth = {
 
 	}	
 	culture_groups = {
-		eordan_ruinborn_elf_group
+		eordan_ruinborn_elf_culture_group
 	}
 }
 
-fograc = {
+fograc_culture = {
 	language = fograc_dialect
 	
 	color = rgb { 0 208 225 }
@@ -84,7 +84,7 @@ fograc = {
 
 	}	
 	culture_groups = {
-		eordan_ruinborn_elf_group
+		eordan_ruinborn_elf_culture_group
 	}
 }
 

@@ -1,4 +1,4 @@
-﻿shuvuush = {
+﻿shuvuush_culture = {
 	language = shuvuush_dialect
 	
 	color = rgb { 125 120 120 }
@@ -9,11 +9,11 @@
 
 	}	
 	culture_groups = {
-		khantaar_group
+		khantaar_culture_group
 	}
 }
 
-runsukhi = {
+runsukhi_culture = {
 	language = runsukhi_dialect
 	
 	color = rgb { 0 0 0 }
@@ -24,11 +24,11 @@ runsukhi = {
 
 	}	
 	culture_groups = {
-		khantaar_group
+		khantaar_culture_group
 	}
 }
 
-plateau_runsukhi = {
+plateau_runsukhi_culture = {
 	language = plateau_runsukhi_dialect
 	
 	color = rgb { 0 0 0 }
@@ -39,11 +39,11 @@ plateau_runsukhi = {
 
 	}	
 	culture_groups = {
-		khantaar_group
+		khantaar_culture_group
 	}
 }
 
-kuuldaar = {
+kuuldaar_culture = {
 	language = kuuldaar_dialect
 	
 	color = rgb { 0 0 0 }
@@ -54,7 +54,7 @@ kuuldaar = {
 
 	}	
 	culture_groups = {
-		khantaar_group
+		khantaar_culture_group
 	}
 }
 

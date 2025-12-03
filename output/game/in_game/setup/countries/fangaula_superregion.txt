@@ -1,174 +1,174 @@
 ﻿F65 = {
 	color = rgb { 5 115 25 }
 
-	culture_definition = windhowler_gnoll
+	culture_definition = windhowler_gnoll_culture
 	religion_definition = xhazobkult
 }
 F69 = {
 	color = rgb { 89 73 29 }
 
-	culture_definition = windhowler_gnoll
+	culture_definition = windhowler_gnoll_culture
 	religion_definition = kvangahga
 }
 F73 = {
 	color = rgb { 90 100 45 }
 
-	culture_definition = binwarji
+	culture_definition = binwarji_culture
 	religion_definition = fangaulan_pantheon
 }
 L10 = {
 	color = rgb { 102 153 255 }
 
-	culture_definition = jiromji
+	culture_definition = jiromji_culture
 	religion_definition = fangaulan_pantheon
 }
 L13 = {
 	color = rgb { 102 255 255 }
 
-	culture_definition = mantimatu
+	culture_definition = mantimatu_culture
 	religion_definition = elikhetist
 }
 L14 = {
 	color = rgb { 92 92 92 }
 
-	culture_definition = tamajoba
+	culture_definition = tamajoba_culture
 	religion_definition = fangaulan_pantheon
 }
 L15 = {
 	color = rgb { 99 134 15 }
 
-	culture_definition = kaino
+	culture_definition = kaino_culture
 	religion_definition = fangaulan_pantheon
 }
 L16 = {
 	color = rgb { 255 153 0 }
 
-	culture_definition = ndurubu
+	culture_definition = ndurubu_culture
 	religion_definition = fangaulan_pantheon
 }
 L17 = {
 	color = rgb { 255 255 153 }
 
-	culture_definition = taafi
+	culture_definition = taafi_culture
 	religion_definition = fangaulan_pantheon
 }
 L18 = {
 	color = rgb { 54 84 167 }
 
-	culture_definition = kaino
+	culture_definition = kaino_culture
 	religion_definition = fangaulan_pantheon
 }
 L19 = {
 	color = rgb { 35 57 32 }
 
-	culture_definition = kaino
+	culture_definition = kaino_culture
 	religion_definition = fangaulan_pantheon
 }
 L20 = {
 	color = rgb { 50 84 50 }
 
-	culture_definition = kaino
+	culture_definition = kaino_culture
 	religion_definition = fangaulan_pantheon
 }
 L21 = {
 	color = rgb { 128 0 32 }
 
-	culture_definition = tamajoba
+	culture_definition = tamajoba_culture
 	religion_definition = fangaulan_pantheon
 }
 L22 = {
 	color = rgb { 192 192 192 }
 
-	culture_definition = binwarji
+	culture_definition = binwarji_culture
 	religion_definition = fangaulan_pantheon
 }
 L23 = {
 	color = rgb { 185 220 220 }
 
-	culture_definition = binwarji
+	culture_definition = binwarji_culture
 	religion_definition = fangaulan_pantheon
 }
 L24 = {
 	color = rgb { 156 78 53 }
 
-	culture_definition = mantimatu
+	culture_definition = mantimatu_culture
 	religion_definition = noukahi_pantheon
 }
 L25 = {
 	color = rgb { 0 5 128 }
 
-	culture_definition = dunesole_ogre
+	culture_definition = dunesole_ogre_culture
 	religion_definition = fangaulan_pantheon
 }
 L49 = {
 	color = rgb { 20 50 30 }
 
-	culture_definition = kaino
+	culture_definition = kaino_culture
 	religion_definition = fangaulan_pantheon
 }
 L53 = {
 	color = rgb { 165 98 38 }
 
-	culture_definition = amezatany
+	culture_definition = amezatany_culture
 	religion_definition = nakavy_avo
 }
 L60 = {
 	color = rgb { 250 155 28 }
 
-	culture_definition = binwarji
+	culture_definition = binwarji_culture
 	religion_definition = fangaulan_pantheon
 }
 Q02 = {
 	color = rgb { 4 34 9 }
 
-	culture_definition = windhowler_gnoll
+	culture_definition = windhowler_gnoll_culture
 	religion_definition = xhazobkult
 }
 S72 = {
 	color = rgb { 165 210 253 }
 
-	culture_definition = vyoronsi
+	culture_definition = vyoronsi_culture
 	religion_definition = nakavy_avo
 }
 S94 = {
 	color = rgb { 128 128 255 }
 
-	culture_definition = ndurubu
+	culture_definition = ndurubu_culture
 	religion_definition = fangaulan_pantheon
 }
 S95 = {
 	color = rgb { 195 195 11 }
 
-	culture_definition = ndurubu
+	culture_definition = ndurubu_culture
 	religion_definition = fangaulan_pantheon
 }
 S96 = {
 	color = rgb { 222 160 234 }
 
-	culture_definition = tamajoba
+	culture_definition = tamajoba_culture
 	religion_definition = genie_cult
 }
 S97 = {
 	color = rgb { 239 228 176 }
 
-	culture_definition = kaino
+	culture_definition = kaino_culture
 	religion_definition = fangaulan_pantheon
 }
 S98 = {
 	color = rgb { 0 255 128 }
 
-	culture_definition = amezatany
+	culture_definition = amezatany_culture
 	religion_definition = nakavy_avo
 }
 S99 = {
 	color = rgb { 100 255 128 }
 
-	culture_definition = binwarji
+	culture_definition = binwarji_culture
 	religion_definition = fangaulan_pantheon
 }
 SS1 = {
 	color = rgb { 181 84 71 }
 
-	culture_definition = arraskay_lizardfolk
+	culture_definition = arraskay_lizardfolk_culture
 	religion_definition = anzalkatsa
 }

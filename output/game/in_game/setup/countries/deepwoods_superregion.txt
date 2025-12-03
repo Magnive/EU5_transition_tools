@@ -1,132 +1,132 @@
 ﻿B65 = {
 	color = rgb { 0 139 0 }
 
-	culture_definition = moredhalic
+	culture_definition = moredhalic_culture
 	religion_definition = corinite
 }
 B82 = {
 	color = rgb { 158 178 139 }
 
-	culture_definition = forest_goblin
+	culture_definition = forest_goblin_culture
 	religion_definition = pactseeker
 }
 I26 = {
 	color = rgb { 58 136 239 }
 
-	culture_definition = wood_elf
+	culture_definition = wood_elf_culture
 	religion_definition = fey_court
 }
 I27 = {
 	color = rgb { 203 69 165 }
 
-	culture_definition = wood_elf
+	culture_definition = wood_elf_culture
 	religion_definition = fey_court
 }
 I28 = {
 	color = rgb { 100 195 113 }
 
-	culture_definition = wood_elf
+	culture_definition = wood_elf_culture
 	religion_definition = fey_court
 }
 I29 = {
 	color = rgb { 255 252 222 }
 
-	culture_definition = wood_elf
+	culture_definition = wood_elf_culture
 	religion_definition = fey_court
 }
 I30 = {
 	color = rgb { 206 141 47 }
 
-	culture_definition = wood_elf
+	culture_definition = wood_elf_culture
 	religion_definition = fey_court
 }
 I31 = {
 	color = rgb { 238 53 123 }
 
-	culture_definition = wood_elf
+	culture_definition = wood_elf_culture
 	religion_definition = fey_court
 }
 I32 = {
 	color = rgb { 43 56 144 }
 
-	culture_definition = wood_elf
+	culture_definition = wood_elf_culture
 	religion_definition = fey_court
 }
 I33 = {
 	color = rgb { 159 158 159 }
 
-	culture_definition = wood_elf
+	culture_definition = wood_elf_culture
 	religion_definition = fey_court
 }
 I34 = {
 	color = rgb { 102 45 145 }
 
-	culture_definition = wood_elf
+	culture_definition = wood_elf_culture
 	religion_definition = fey_court
 }
 I35 = {
 	color = rgb { 196 162 186 }
 
-	culture_definition = forest_goblin
+	culture_definition = forest_goblin_culture
 	religion_definition = goblinic_shamanism
 }
 I36 = {
 	color = rgb { 106 86 34 }
 
-	culture_definition = forest_goblin
+	culture_definition = forest_goblin_culture
 	religion_definition = goblinic_shamanism
 }
 I37 = {
 	color = rgb { 206 115 3 }
 
-	culture_definition = forest_goblin
+	culture_definition = forest_goblin_culture
 	religion_definition = pactseeker
 }
 I38 = {
 	color = rgb { 240 248 95 }
 
-	culture_definition = green_orc
+	culture_definition = green_orc_culture
 	religion_definition = great_dookan
 }
 I39 = {
 	color = rgb { 76 242 66 }
 
-	culture_definition = green_orc
+	culture_definition = green_orc_culture
 	religion_definition = great_dookan
 }
 I40 = {
 	color = rgb { 167 178 12 }
 
-	culture_definition = green_orc
+	culture_definition = green_orc_culture
 	religion_definition = great_dookan
 }
 I41 = {
 	color = rgb { 192 219 80 }
 
-	culture_definition = green_orc
+	culture_definition = green_orc_culture
 	religion_definition = great_dookan
 }
 I42 = {
 	color = rgb { 151 108 14 }
 
-	culture_definition = green_orc
+	culture_definition = green_orc_culture
 	religion_definition = great_dookan
 }
 I43 = {
 	color = rgb { 11 26 4 }
 
-	culture_definition = green_orc
+	culture_definition = green_orc_culture
 	religion_definition = great_dookan
 }
 I44 = {
 	color = rgb { 129 69 4 }
 
-	culture_definition = green_orc
+	culture_definition = green_orc_culture
 	religion_definition = great_dookan
 }
 I45 = {
 	color = rgb { 10 95 13 }
 
-	culture_definition = wood_elf
+	culture_definition = wood_elf_culture
 	religion_definition = fey_court
 }

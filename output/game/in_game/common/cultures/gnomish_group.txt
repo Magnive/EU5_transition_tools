@@ -1,4 +1,4 @@
-﻿cliff_gnome = {
+﻿cliff_gnome_culture = {
 	language = cliff_gnome_dialect
 	
 	color = rgb { 254 207 255 }
@@ -9,11 +9,11 @@
 
 	}	
 	culture_groups = {
-		gnomish_group
+		gnomish_culture_group
 	}
 }
 
-creek_gnome = {
+creek_gnome_culture = {
 	language = creek_gnome_dialect
 	
 	color = rgb { 207 255 123 }
@@ -24,11 +24,11 @@ creek_gnome = {
 
 	}	
 	culture_groups = {
-		gnomish_group
+		gnomish_culture_group
 	}
 }
 
-glacier_gnome = {
+glacier_gnome_culture = {
 	language = glacier_gnome_dialect
 	
 	color = rgb { 0 66 114 }
@@ -39,11 +39,11 @@ glacier_gnome = {
 
 	}	
 	culture_groups = {
-		gnomish_group
+		gnomish_culture_group
 	}
 }
 
-imperial_gnome = {
+imperial_gnome_culture = {
 	language = imperial_gnome_dialect
 	
 	color = rgb { 210 62 230 }
@@ -54,11 +54,11 @@ imperial_gnome = {
 
 	}	
 	culture_groups = {
-		gnomish_group
+		gnomish_culture_group
 	}
 }
 
-delta_gnome = {
+delta_gnome_culture = {
 	language = delta_gnome_dialect
 	
 	color = rgb { 90 170 150 }
@@ -69,11 +69,11 @@ delta_gnome = {
 
 	}	
 	culture_groups = {
-		gnomish_group
+		gnomish_culture_group
 	}
 }
 
-tinker_gnome = {
+tinker_gnome_culture = {
 	language = tinker_gnome_dialect
 	
 	color = rgb { 245 217 233 }
@@ -84,11 +84,11 @@ tinker_gnome = {
 
 	}	
 	culture_groups = {
-		gnomish_group
+		gnomish_culture_group
 	}
 }
 
-frontier_gnome = {
+frontier_gnome_culture = {
 	language = frontier_gnome_dialect
 	
 	color = rgb { 0 0 0 }
@@ -99,7 +99,7 @@ frontier_gnome = {
 
 	}	
 	culture_groups = {
-		gnomish_group
+		gnomish_culture_group
 	}
 }
 

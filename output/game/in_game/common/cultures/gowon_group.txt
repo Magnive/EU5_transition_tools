@@ -1,4 +1,4 @@
-﻿giteuni = {
+﻿giteuni_culture = {
 	language = giteuni_dialect
 	
 	color = rgb { 192 192 192 }
@@ -9,11 +9,11 @@
 
 	}	
 	culture_groups = {
-		gowon_group
+		gowon_culture_group
 	}
 }
 
-wonju = {
+wonju_culture = {
 	language = wonju_dialect
 	
 	color = rgb { 60 160 120 }
@@ -24,11 +24,11 @@ wonju = {
 
 	}	
 	culture_groups = {
-		gowon_group
+		gowon_culture_group
 	}
 }
 
-dudimkkun = {
+dudimkkun_culture = {
 	language = dudimkkun_dialect
 	
 	color = rgb { 0 0 0 }
@@ -39,11 +39,11 @@ dudimkkun = {
 
 	}	
 	culture_groups = {
-		gowon_group
+		gowon_culture_group
 	}
 }
 
-guwaadun = {
+guwaadun_culture = {
 	language = guwaadun_dialect
 	
 	color = rgb { 15 90 125 }
@@ -54,7 +54,7 @@ guwaadun = {
 
 	}	
 	culture_groups = {
-		gowon_group
+		gowon_culture_group
 	}
 }
 

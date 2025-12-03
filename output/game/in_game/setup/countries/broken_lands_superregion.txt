@@ -1,36 +1,36 @@
 ﻿H37 = {
 	color = rgb { 182 210 232 }
 
-	culture_definition = esmari
+	culture_definition = esmari_culture
 	religion_definition = regent_court
 }
 H50 = {
 	color = rgb { 66 245 200 }
 
-	culture_definition = half_orc
+	culture_definition = half_orc_culture
 	religion_definition = regent_court
 }
 H51 = {
 	color = rgb { 66 245 200 }
 
-	culture_definition = half_orc
+	culture_definition = half_orc_culture
 	religion_definition = regent_court
 }
 U50 = {
 	color = rgb { 202 224 15 }
 
-	culture_definition = esmari
+	culture_definition = esmari_culture
 	religion_definition = regent_court
 }
 U66 = {
 	color = rgb { 0 66 114 }
 
-	culture_definition = cliff_gnome
+	culture_definition = cliff_gnome_culture
 	religion_definition = the_thought
 }
 U72 = {
 	color = rgb { 0 75 77 }
 
-	culture_definition = vrendzani_kobold
+	culture_definition = vrendzani_kobold_culture
 	religion_definition = drozma_tur
 }

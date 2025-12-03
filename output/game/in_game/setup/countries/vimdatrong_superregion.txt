@@ -1,396 +1,396 @@
 ﻿R68 = {
 	color = rgb { 40 75 99 }
 
-	culture_definition = elephant_command
+	culture_definition = elephant_command_culture
 	religion_definition = godlost
 }
 R82 = {
 	color = rgb { 255 225 61 }
 
-	culture_definition = goldscale_kobold
+	culture_definition = goldscale_kobold_culture
 	religion_definition = accretive_path
 }
 R83 = {
 	color = rgb { 207 253 188 }
 
-	culture_definition = pezarangi_harpy
+	culture_definition = pezarangi_harpy_culture
 	religion_definition = the_hunt
 }
 R87 = {
 	color = rgb { 85 201 237 }
 
-	culture_definition = hujan
+	culture_definition = hujan_culture
 	religion_definition = high_philosophy
 }
 V99 = {
 	color = rgb { 132 108 193 }
 
-	culture_definition = biengdi
+	culture_definition = biengdi_culture
 	religion_definition = high_philosophy
 }
 Y11 = {
 	color = rgb { 32 55 171 }
 
-	culture_definition = szitu
+	culture_definition = szitu_culture
 	religion_definition = accretive_path
 }
 Y12 = {
 	color = rgb { 220 18 245 }
 
-	culture_definition = serene_harimari
+	culture_definition = serene_harimari_culture
 	religion_definition = accretive_path
 }
 Y28 = {
 	color = rgb { 220 210 50 }
 
-	culture_definition = szitu
+	culture_definition = szitu_culture
 	religion_definition = accretive_path
 }
 Y29 = {
 	color = rgb { 211 85 4 }
 
-	culture_definition = szitu
+	culture_definition = szitu_culture
 	religion_definition = transmutative_path
 }
 Y30 = {
 	color = rgb { 170 76 66 }
 
-	culture_definition = szitu
+	culture_definition = szitu_culture
 	religion_definition = accretive_path
 }
 Y32 = {
 	color = rgb { 95 178 186 }
 
-	culture_definition = szitu
+	culture_definition = szitu_culture
 	religion_definition = transmutative_path
 }
 Y34 = {
 	color = rgb { 19 62 234 }
 
-	culture_definition = sikai
+	culture_definition = sikai_culture
 	religion_definition = transmutative_path
 }
 Y35 = {
 	color = rgb { 68 5 16 }
 
-	culture_definition = szitu
+	culture_definition = szitu_culture
 	religion_definition = accretive_path
 }
 Y36 = {
 	color = rgb { 226 200 107 }
 
-	culture_definition = sikai
+	culture_definition = sikai_culture
 	religion_definition = transmutative_path
 }
 Y37 = {
 	color = rgb { 209 0 54 }
 
-	culture_definition = primal_harimari
+	culture_definition = primal_harimari_culture
 	religion_definition = accretive_path
 }
 Y38 = {
 	color = rgb { 200 200 200 }
 
-	culture_definition = ranilau
+	culture_definition = ranilau_culture
 	religion_definition = transmutative_path
 }
 Y39 = {
 	color = rgb { 112 11 187 }
 
-	culture_definition = pezarangi_harpy
+	culture_definition = pezarangi_harpy_culture
 	religion_definition = transmutative_path
 }
 Y40 = {
 	color = rgb { 99 147 104 }
 
-	culture_definition = teplin
+	culture_definition = teplin_culture
 	religion_definition = transmutative_path
 }
 Y41 = {
 	color = rgb { 255 201 15 }
 
-	culture_definition = sikai
+	culture_definition = sikai_culture
 	religion_definition = transmutative_path
 }
 Y42 = {
 	color = rgb { 126 131 206 }
 
-	culture_definition = szitu
+	culture_definition = szitu_culture
 	religion_definition = transmutative_path
 }
 Y43 = {
 	color = rgb { 33 64 96 }
 
-	culture_definition = szitu
+	culture_definition = szitu_culture
 	religion_definition = transmutative_path
 }
 Y44 = {
 	color = rgb { 35 176 23 }
 
-	culture_definition = szitu
+	culture_definition = szitu_culture
 	religion_definition = accretive_path
 }
 Y45 = {
 	color = rgb { 205 212 244 }
 
-	culture_definition = serene_harimari
+	culture_definition = serene_harimari_culture
 	religion_definition = accretive_path
 }
 Y46 = {
 	color = rgb { 40 228 237 }
 
-	culture_definition = szitu
+	culture_definition = szitu_culture
 	religion_definition = accretive_path
 }
 Y47 = {
 	color = rgb { 192 128 45 }
 
-	culture_definition = szitu
+	culture_definition = szitu_culture
 	religion_definition = transmutative_path
 }
 Y48 = {
 	color = rgb { 38 115 85 }
 
-	culture_definition = rasarhid
+	culture_definition = rasarhid_culture
 	religion_definition = accretive_path
 }
 Y49 = {
 	color = rgb { 133 120 156 }
 
-	culture_definition = szitu
+	culture_definition = szitu_culture
 	religion_definition = accretive_path
 }
 Y51 = {
 	color = rgb { 35 153 90 }
 
-	culture_definition = ranilau
+	culture_definition = ranilau_culture
 	religion_definition = high_philosophy
 }
 Y55 = {
 	color = rgb { 136 165 164 }
 
-	culture_definition = biengdi
+	culture_definition = biengdi_culture
 	religion_definition = high_philosophy
 }
 Y56 = {
 	color = rgb { 85 240 205 }
 
-	culture_definition = hinphat
+	culture_definition = hinphat_culture
 	religion_definition = transmutative_path
 }
 Y57 = {
 	color = rgb { 120 215 100 }
 
-	culture_definition = gon
+	culture_definition = gon_culture
 	religion_definition = transmutative_path
 }
 Y58 = {
 	color = rgb { 227 79 79 }
 
-	culture_definition = teplin
+	culture_definition = teplin_culture
 	religion_definition = high_philosophy
 }
 Y59 = {
 	color = rgb { 73 121 107 }
 
-	culture_definition = sikai
+	culture_definition = sikai_culture
 	religion_definition = transmutative_path
 }
 Y60 = {
 	color = rgb { 20 50 30 }
 
-	culture_definition = sikai
+	culture_definition = sikai_culture
 	religion_definition = transmutative_path
 }
 Y61 = {
 	color = rgb { 151 108 14 }
 
-	culture_definition = risbeko
+	culture_definition = risbeko_culture
 	religion_definition = mystic_accord
 }
 Y62 = {
 	color = rgb { 84 111 192 }
 
-	culture_definition = sikai
+	culture_definition = sikai_culture
 	religion_definition = transmutative_path
 }
 Y63 = {
 	color = rgb { 159 224 208 }
 
-	culture_definition = nephrite_dwarf
+	culture_definition = nephrite_dwarf_culture
 	religion_definition = dwarven_pantheon
 }
 Y64 = {
 	color = rgb { 250 65 89 }
 
-	culture_definition = naamjyut
+	culture_definition = naamjyut_culture
 	religion_definition = transmutative_path
 }
 Y65 = {
 	color = rgb { 160 115 20 }
 
-	culture_definition = jahe_half_elf
+	culture_definition = jahe_half_elf_culture
 	religion_definition = high_philosophy
 }
 Y66 = {
 	color = rgb { 213 213 90 }
 
-	culture_definition = tamran
+	culture_definition = tamran_culture
 	religion_definition = transmutative_path
 }
 Y67 = {
 	color = rgb { 240 200 20 }
 
-	culture_definition = tamran
+	culture_definition = tamran_culture
 	religion_definition = high_philosophy
 }
 Y68 = {
 	color = rgb { 110 230 160 }
 
-	culture_definition = gon
+	culture_definition = gon_culture
 	religion_definition = transmutative_path
 }
 Y69 = {
 	color = rgb { 115 54 53 }
 
-	culture_definition = kelino
+	culture_definition = kelino_culture
 	religion_definition = high_philosophy
 }
 Y70 = {
 	color = rgb { 212 175 55 }
 
-	culture_definition = phonan
+	culture_definition = phonan_culture
 	religion_definition = accretive_path
 }
 Y71 = {
 	color = rgb { 22 105 163 }
 
-	culture_definition = bokai
+	culture_definition = bokai_culture
 	religion_definition = transmutative_path
 }
 Y72 = {
 	color = rgb { 181 0 20 }
 
-	culture_definition = binhrung
+	culture_definition = binhrung_culture
 	religion_definition = transmutative_path
 }
 Y73 = {
 	color = rgb { 185 97 97 }
 
-	culture_definition = sirtana
+	culture_definition = sirtana_culture
 	religion_definition = mystic_accord
 }
 Y74 = {
 	color = rgb { 60 115 20 }
 
-	culture_definition = paru
+	culture_definition = paru_culture
 	religion_definition = mystic_accord
 }
 Y75 = {
 	color = rgb { 62 180 137 }
 
-	culture_definition = hujan
+	culture_definition = hujan_culture
 	religion_definition = mystic_accord
 }
 Y76 = {
 	color = rgb { 147 191 155 }
 
-	culture_definition = hujan
+	culture_definition = hujan_culture
 	religion_definition = mystic_accord
 }
 Y77 = {
 	color = rgb { 68 78 62 }
 
-	culture_definition = hujan
+	culture_definition = hujan_culture
 	religion_definition = mystic_accord
 }
 Y78 = {
 	color = rgb { 129 24 94 }
 
-	culture_definition = hujan
+	culture_definition = hujan_culture
 	religion_definition = mystic_accord
 }
 Y79 = {
 	color = rgb { 113 232 24 }
 
-	culture_definition = banyak
+	culture_definition = banyak_culture
 	religion_definition = mystic_accord
 }
 Y80 = {
 	color = rgb { 41 107 66 }
 
-	culture_definition = banyak
+	culture_definition = banyak_culture
 	religion_definition = mystic_accord
 }
 Y81 = {
 	color = rgb { 223 124 58 }
 
-	culture_definition = paru
+	culture_definition = paru_culture
 	religion_definition = mystic_accord
 }
 Y82 = {
 	color = rgb { 81 111 128 }
 
-	culture_definition = banyak
+	culture_definition = banyak_culture
 	religion_definition = mystic_accord
 }
 Y83 = {
 	color = rgb { 169 36 47 }
 
-	culture_definition = paru
+	culture_definition = paru_culture
 	religion_definition = mystic_accord
 }
 Y84 = {
 	color = rgb { 253 249 80 }
 
-	culture_definition = paru
+	culture_definition = paru_culture
 	religion_definition = mystic_accord
 }
 Y86 = {
 	color = rgb { 136 30 9 }
 
-	culture_definition = sikai
+	culture_definition = sikai_culture
 	religion_definition = transmutative_path
 }
 Y87 = {
 	color = rgb { 110 205 180 }
 
-	culture_definition = hinphat
+	culture_definition = hinphat_culture
 	religion_definition = transmutative_path
 }
 Y88 = {
 	color = rgb { 170 180 145 }
 
-	culture_definition = hinphat
+	culture_definition = hinphat_culture
 	religion_definition = transmutative_path
 }
 Y97 = {
 	color = rgb { 255 174 0 }
 
-	culture_definition = tamran
+	culture_definition = tamran_culture
 	religion_definition = transmutative_path
 }
 Y99 = {
 	color = rgb { 153 3 48 }
 
-	culture_definition = szitu
+	culture_definition = szitu_culture
 	religion_definition = accretive_path
 }
 Z62 = {
 	color = rgb { 170 200 65 }
 
-	culture_definition = sikai
+	culture_definition = sikai_culture
 	religion_definition = accretive_path
 }
 Z63 = {
 	color = rgb { 135 125 85 }
 
-	culture_definition = bokai
+	culture_definition = bokai_culture
 	religion_definition = accretive_path
 }
 Z64 = {
 	color = rgb { 215 50 125 }
 
-	culture_definition = hujan
+	culture_definition = hujan_culture
 	religion_definition = mystic_accord
 }

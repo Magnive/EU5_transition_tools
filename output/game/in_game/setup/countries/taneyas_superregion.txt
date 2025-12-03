@@ -1,264 +1,264 @@
 ﻿L68 = {
 	color = rgb { 225 102 153 }
 
-	culture_definition = shagashay_lizardfolk
+	culture_definition = shagashay_lizardfolk_culture
 	religion_definition = anzalkatsa
 }
 L69 = {
 	color = rgb { 102 225 153 }
 
-	culture_definition = ichiadza_lizardfolk
+	culture_definition = ichiadza_lizardfolk_culture
 	religion_definition = anzalkatsa
 }
 L70 = {
 	color = rgb { 255 255 255 }
 
-	culture_definition = shagatyn_lizardfolk
+	culture_definition = shagatyn_lizardfolk_culture
 	religion_definition = anzalkatsa
 }
 L71 = {
 	color = rgb { 7 19 20 }
 
-	culture_definition = skarakara_lizardfolk
+	culture_definition = skarakara_lizardfolk_culture
 	religion_definition = anzalkatsa
 }
 L72 = {
 	color = rgb { 0 255 0 }
 
-	culture_definition = arraskay_lizardfolk
+	culture_definition = arraskay_lizardfolk_culture
 	religion_definition = anzalkatsa
 }
 L73 = {
 	color = rgb { 0 184 212 }
 
-	culture_definition = ashhana_lizardfolk
+	culture_definition = ashhana_lizardfolk_culture
 	religion_definition = zaradyrra
 }
 L74 = {
 	color = rgb { 204 102 255 }
 
-	culture_definition = ashhana_lizardfolk
+	culture_definition = ashhana_lizardfolk_culture
 	religion_definition = zaradyrra
 }
 L75 = {
 	color = rgb { 106 7 47 }
 
-	culture_definition = ashhana_lizardfolk
+	culture_definition = ashhana_lizardfolk_culture
 	religion_definition = zaradyrra
 }
 L76 = {
 	color = rgb { 204 255 51 }
 
-	culture_definition = ashhana_lizardfolk
+	culture_definition = ashhana_lizardfolk_culture
 	religion_definition = zaradyrra
 }
 L77 = {
 	color = rgb { 250 188 55 }
 
-	culture_definition = ashhana_lizardfolk
+	culture_definition = ashhana_lizardfolk_culture
 	religion_definition = zaradyrra
 }
 L78 = {
 	color = rgb { 204 102 0 }
 
-	culture_definition = ashhana_lizardfolk
+	culture_definition = ashhana_lizardfolk_culture
 	religion_definition = zaradyrra
 }
 L79 = {
 	color = rgb { 67 240 153 }
 
-	culture_definition = ashhana_lizardfolk
+	culture_definition = ashhana_lizardfolk_culture
 	religion_definition = zaradyrra
 }
 L80 = {
 	color = rgb { 204 10 192 }
 
-	culture_definition = ashhana_lizardfolk
+	culture_definition = ashhana_lizardfolk_culture
 	religion_definition = zaradyrra
 }
 L81 = {
 	color = rgb { 37 81 160 }
 
-	culture_definition = mashkay_lizardfolk
+	culture_definition = mashkay_lizardfolk_culture
 	religion_definition = anzalkatsa
 }
 L83 = {
 	color = rgb { 204 255 102 }
 
-	culture_definition = rhada_lizardfolk
+	culture_definition = rhada_lizardfolk_culture
 	religion_definition = anzalkatsa
 }
 L84 = {
 	color = rgb { 0 12 108 }
 
-	culture_definition = rhada_lizardfolk
+	culture_definition = rhada_lizardfolk_culture
 	religion_definition = anzalkatsa
 }
 L85 = {
 	color = rgb { 81 229 74 }
 
-	culture_definition = rhada_lizardfolk
+	culture_definition = rhada_lizardfolk_culture
 	religion_definition = zaradyrra
 }
 L86 = {
 	color = rgb { 204 51 255 }
 
-	culture_definition = ashhana_lizardfolk
+	culture_definition = ashhana_lizardfolk_culture
 	religion_definition = zaradyrra
 }
 L87 = {
 	color = rgb { 48 0 113 }
 
-	culture_definition = ashhana_lizardfolk
+	culture_definition = ashhana_lizardfolk_culture
 	religion_definition = zaradyrra
 }
 L88 = {
 	color = rgb { 217 82 66 }
 
-	culture_definition = ashhana_lizardfolk
+	culture_definition = ashhana_lizardfolk_culture
 	religion_definition = zaradyrra
 }
 L89 = {
 	color = rgb { 165 181 67 }
 
-	culture_definition = ashhana_lizardfolk
+	culture_definition = ashhana_lizardfolk_culture
 	religion_definition = zaradyrra
 }
 L90 = {
 	color = rgb { 52 121 239 }
 
-	culture_definition = ichiadza_lizardfolk
+	culture_definition = ichiadza_lizardfolk_culture
 	religion_definition = anzalkatsa
 }
 L91 = {
 	color = rgb { 102 108 12 }
 
-	culture_definition = arraskay_lizardfolk
+	culture_definition = arraskay_lizardfolk_culture
 	religion_definition = anzalkatsa
 }
 L92 = {
 	color = rgb { 59 47 96 }
 
-	culture_definition = arraskay_lizardfolk
+	culture_definition = arraskay_lizardfolk_culture
 	religion_definition = anzalkatsa
 }
 L93 = {
 	color = rgb { 101 221 79 }
 
-	culture_definition = arraskay_lizardfolk
+	culture_definition = arraskay_lizardfolk_culture
 	religion_definition = anzalkatsa
 }
 L94 = {
 	color = rgb { 46 55 235 }
 
-	culture_definition = shagatyn_lizardfolk
+	culture_definition = shagatyn_lizardfolk_culture
 	religion_definition = anzalkatsa
 }
 L95 = {
 	color = rgb { 0 171 160 }
 
-	culture_definition = arraskay_lizardfolk
+	culture_definition = arraskay_lizardfolk_culture
 	religion_definition = anzalkatsa
 }
 L96 = {
 	color = rgb { 10 68 50 }
 
-	culture_definition = arraskay_lizardfolk
+	culture_definition = arraskay_lizardfolk_culture
 	religion_definition = anzalkatsa
 }
 L97 = {
 	color = rgb { 10 105 120 }
 
-	culture_definition = arraskay_lizardfolk
+	culture_definition = arraskay_lizardfolk_culture
 	religion_definition = anzalkatsa
 }
 L98 = {
 	color = rgb { 28 199 124 }
 
-	culture_definition = ichiadza_lizardfolk
+	culture_definition = ichiadza_lizardfolk_culture
 	religion_definition = anzalkatsa
 }
 L99 = {
 	color = rgb { 99 158 117 }
 
-	culture_definition = ichiadza_lizardfolk
+	culture_definition = ichiadza_lizardfolk_culture
 	religion_definition = anzalkatsa
 }
 S13 = {
 	color = rgb { 221 217 91 }
 
-	culture_definition = arraskay_lizardfolk
+	culture_definition = arraskay_lizardfolk_culture
 	religion_definition = anzalkatsa
 }
 S14 = {
 	color = rgb { 132 164 42 }
 
-	culture_definition = arraskay_lizardfolk
+	culture_definition = arraskay_lizardfolk_culture
 	religion_definition = anzalkatsa
 }
 S15 = {
 	color = rgb { 46 43 224 }
 
-	culture_definition = karshyray_lizardfolk
+	culture_definition = karshyray_lizardfolk_culture
 	religion_definition = anzalkatsa
 }
 S34 = {
 	color = rgb { 70 213 176 }
 
-	culture_definition = cyazizeta_lizardfolk
+	culture_definition = cyazizeta_lizardfolk_culture
 	religion_definition = beast_memory
 }
 S38 = {
 	color = rgb { 153 33 166 }
 
-	culture_definition = tanizu
+	culture_definition = tanizu_culture
 	religion_definition = beast_memory
 }
 S80 = {
 	color = rgb { 248 0 53 }
 
-	culture_definition = ashhana_lizardfolk
+	culture_definition = ashhana_lizardfolk_culture
 	religion_definition = zaradyrra
 }
 S81 = {
 	color = rgb { 59 107 78 }
 
-	culture_definition = arraskay_lizardfolk
+	culture_definition = arraskay_lizardfolk_culture
 	religion_definition = anzalkatsa
 }
 SS0 = {
 	color = rgb { 38 38 38 }
 
-	culture_definition = arraskay_lizardfolk
+	culture_definition = arraskay_lizardfolk_culture
 	religion_definition = anzalkatsa
 }
 SS4 = {
 	color = rgb { 170 242 255 }
 
-	culture_definition = arraskay_lizardfolk
+	culture_definition = arraskay_lizardfolk_culture
 	religion_definition = anzalkatsa
 }
 SS5 = {
 	color = rgb { 6 43 173 }
 
-	culture_definition = arraskay_lizardfolk
+	culture_definition = arraskay_lizardfolk_culture
 	religion_definition = anzalkatsa
 }
 SS7 = {
 	color = rgb { 0 93 11 }
 
-	culture_definition = arraskay_lizardfolk
+	culture_definition = arraskay_lizardfolk_culture
 	religion_definition = anzalkatsa
 }
 U47 = {
 	color = rgb { 150 32 30 }
 
-	culture_definition = ashhana_lizardfolk
+	culture_definition = ashhana_lizardfolk_culture
 	religion_definition = shadow_pact
 }
 U99 = {
 	color = rgb { 240 210 199 }
 
-	culture_definition = ashhana_lizardfolk
+	culture_definition = ashhana_lizardfolk_culture
 	religion_definition = zaradyrra
 }

@@ -1,4 +1,4 @@
-﻿lich = {
+﻿lich_culture = {
 	language = lich_dialect
 	
 	color = rgb { 0 0 0 }
@@ -9,11 +9,11 @@
 
 	}	
 	culture_groups = {
-		undead_group
+		undead_culture_group
 	}
 }
 
-lesser_undead = {
+lesser_undead_culture = {
 	language = lesser_undead_dialect
 	
 	color = rgb { 0 0 0 }
@@ -24,7 +24,7 @@ lesser_undead = {
 
 	}	
 	culture_groups = {
-		undead_group
+		undead_culture_group
 	}
 }
 

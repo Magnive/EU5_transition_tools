@@ -1,4 +1,4 @@
-﻿busilari = {
+﻿busilari_culture = {
 	language = busilari_dialect
 	
 	color = rgb { 211 85 4 }
@@ -9,11 +9,11 @@
 
 	}	
 	culture_groups = {
-		businori_group
+		businori_culture_group
 	}
 }
 
-tefori = {
+tefori_culture = {
 	language = tefori_dialect
 	
 	color = rgb { 207 182 100 }
@@ -24,11 +24,11 @@ tefori = {
 
 	}	
 	culture_groups = {
-		businori_group
+		businori_culture_group
 	}
 }
 
-ilatani = {
+ilatani_culture = {
 	language = ilatani_dialect
 	
 	color = rgb { 59 148 235 }
@@ -39,11 +39,11 @@ ilatani = {
 
 	}	
 	culture_groups = {
-		businori_group
+		businori_culture_group
 	}
 }
 
-nariandi = {
+nariandi_culture = {
 	language = nariandi_dialect
 	
 	color = rgb { 0 0 0 }
@@ -54,11 +54,11 @@ nariandi = {
 
 	}	
 	culture_groups = {
-		businori_group
+		businori_culture_group
 	}
 }
 
-businori_half_elf = {
+businori_half_elf_culture = {
 	language = businori_half_elf_dialect
 	
 	color = rgb { 0 0 0 }
@@ -69,7 +69,7 @@ businori_half_elf = {
 
 	}	
 	culture_groups = {
-		businori_group
+		businori_culture_group
 	}
 }
 

@@ -1,4 +1,4 @@
-﻿firanyan_harpy = {
+﻿firanyan_harpy_culture = {
 	language = firanyan_harpy_dialect
 	
 	color = rgb { 200 169 168 }
@@ -9,11 +9,11 @@
 
 	}	
 	culture_groups = {
-		harpy_group
+		harpy_culture_group
 	}
 }
 
-siadunan_harpy = {
+siadunan_harpy_culture = {
 	language = siadunan_harpy_dialect
 	
 	color = rgb { 173 228 219 }
@@ -24,11 +24,11 @@ siadunan_harpy = {
 
 	}	
 	culture_groups = {
-		harpy_group
+		harpy_culture_group
 	}
 }
 
-naleni_harpy = {
+naleni_harpy_culture = {
 	language = naleni_harpy_dialect
 	
 	color = rgb { 255 138 101 }
@@ -39,11 +39,11 @@ naleni_harpy = {
 
 	}	
 	culture_groups = {
-		harpy_group
+		harpy_culture_group
 	}
 }
 
-pezarangi_harpy = {
+pezarangi_harpy_culture = {
 	language = pezarangi_harpy_dialect
 	
 	color = rgb { 112 11 187 }
@@ -54,11 +54,11 @@ pezarangi_harpy = {
 
 	}	
 	culture_groups = {
-		harpy_group
+		harpy_culture_group
 	}
 }
 
-reishao_harpy = {
+reishao_harpy_culture = {
 	language = reishao_harpy_dialect
 	
 	color = rgb { 40 75 99 }
@@ -69,11 +69,11 @@ reishao_harpy = {
 
 	}	
 	culture_groups = {
-		harpy_group
+		harpy_culture_group
 	}
 }
 
-kiohan_harpy = {
+kiohan_harpy_culture = {
 	language = kiohan_harpy_dialect
 	
 	color = rgb { 238 46 46 }
@@ -84,11 +84,11 @@ kiohan_harpy = {
 
 	}	
 	culture_groups = {
-		harpy_group
+		harpy_culture_group
 	}
 }
 
-nzeri_harpy = {
+nzeri_harpy_culture = {
 	language = nzeri_harpy_dialect
 	
 	color = rgb { 50 125 159 }
@@ -99,11 +99,11 @@ nzeri_harpy = {
 
 	}	
 	culture_groups = {
-		harpy_group
+		harpy_culture_group
 	}
 }
 
-jarnklo_harpy = {
+jarnklo_harpy_culture = {
 	language = jarnklo_harpy_dialect
 	
 	color = rgb { 215 218 255 }
@@ -114,11 +114,11 @@ jarnklo_harpy = {
 
 	}	
 	culture_groups = {
-		harpy_group
+		harpy_culture_group
 	}
 }
 
-nuzenapu_harpy = {
+nuzenapu_harpy_culture = {
 	language = nuzenapu_harpy_dialect
 	
 	color = rgb { 21 25 126 }
@@ -129,11 +129,11 @@ nuzenapu_harpy = {
 
 	}	
 	culture_groups = {
-		harpy_group
+		harpy_culture_group
 	}
 }
 
-stonewing_harpy = {
+stonewing_harpy_culture = {
 	language = stonewing_harpy_dialect
 	
 	color = rgb { 0 0 0 }
@@ -144,7 +144,7 @@ stonewing_harpy = {
 
 	}	
 	culture_groups = {
-		harpy_group
+		harpy_culture_group
 	}
 }
 

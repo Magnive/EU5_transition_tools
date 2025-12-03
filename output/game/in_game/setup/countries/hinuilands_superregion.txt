@@ -1,66 +1,66 @@
 ﻿M10 = {
 	color = rgb { 53 205 190 }
 
-	culture_definition = awoken_mechanim
+	culture_definition = awoken_mechanim_culture
 	religion_definition = manago_poku
 }
 M11 = {
 	color = rgb { 60 181 41 }
 
-	culture_definition = awoken_mechanim
+	culture_definition = awoken_mechanim_culture
 	religion_definition = manago_poku
 }
 M12 = {
 	color = rgb { 226 149 60 }
 
-	culture_definition = awoken_mechanim
+	culture_definition = awoken_mechanim_culture
 	religion_definition = manago_poku
 }
 M13 = {
 	color = rgb { 118 55 172 }
 
-	culture_definition = awoken_mechanim
+	culture_definition = awoken_mechanim_culture
 	religion_definition = manago_poku
 }
 M14 = {
 	color = rgb { 166 50 77 }
 
-	culture_definition = awoken_mechanim
+	culture_definition = awoken_mechanim_culture
 	religion_definition = manago_poku
 }
 M15 = {
 	color = rgb { 208 100 61 }
 
-	culture_definition = awoken_mechanim
+	culture_definition = awoken_mechanim_culture
 	religion_definition = manago_poku
 }
 M16 = {
 	color = rgb { 186 24 24 }
 
-	culture_definition = awoken_mechanim
+	culture_definition = awoken_mechanim_culture
 	religion_definition = manago_poku
 }
 M17 = {
 	color = rgb { 94 228 107 }
 
-	culture_definition = awoken_mechanim
+	culture_definition = awoken_mechanim_culture
 	religion_definition = manago_poku
 }
 M18 = {
 	color = rgb { 42 118 218 }
 
-	culture_definition = awoken_mechanim
+	culture_definition = awoken_mechanim_culture
 	religion_definition = manago_poku
 }
 M19 = {
 	color = rgb { 99 113 201 }
 
-	culture_definition = awoken_mechanim
+	culture_definition = awoken_mechanim_culture
 	religion_definition = manago_poku
 }
 N57 = {
 	color = rgb { 237 199 74 }
 
-	culture_definition = holoino
+	culture_definition = holoino_culture
 	religion_definition = endless_ocean
 }

@@ -1,4 +1,4 @@
-﻿valorman = {
+﻿valorman_culture = {
 	language = valorman_dialect
 	
 	color = rgb { 246 54 77 }
@@ -9,11 +9,11 @@
 
 	}	
 	culture_groups = {
-		trollsbayer_group
+		trollsbayer_culture_group
 	}
 }
 
-isobeliner = {
+isobeliner_culture = {
 	language = isobeliner_dialect
 	
 	color = rgb { 98 52 54 }
@@ -24,11 +24,11 @@ isobeliner = {
 
 	}	
 	culture_groups = {
-		trollsbayer_group
+		trollsbayer_culture_group
 	}
 }
 
-zanlibi = {
+zanlibi_culture = {
 	language = zanlibi_dialect
 	
 	color = rgb { 167 98 117 }
@@ -39,11 +39,11 @@ zanlibi = {
 
 	}	
 	culture_groups = {
-		trollsbayer_group
+		trollsbayer_culture_group
 	}
 }
 
-marlliander = {
+marlliander_culture = {
 	language = marlliander_dialect
 	
 	color = rgb { 31 49 238 }
@@ -54,11 +54,11 @@ marlliander = {
 
 	}	
 	culture_groups = {
-		trollsbayer_group
+		trollsbayer_culture_group
 	}
 }
 
-cestirmarker = {
+cestirmarker_culture = {
 	language = cestirmarker_dialect
 	
 	color = rgb { 38 34 128 }
@@ -69,7 +69,7 @@ cestirmarker = {
 
 	}	
 	culture_groups = {
-		trollsbayer_group
+		trollsbayer_culture_group
 	}
 }
 

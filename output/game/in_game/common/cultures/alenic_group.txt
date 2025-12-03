@@ -1,4 +1,4 @@
-﻿gawedi = {
+﻿gawedi_culture = {
 	language = gawedi_dialect
 	
 	color = rgb { 48 51 108 }
@@ -9,11 +9,11 @@
 
 	}	
 	culture_groups = {
-		alenic_group
+		alenic_culture_group
 	}
 }
 
-old_alenic = {
+old_alenic_culture = {
 	language = old_alenic_dialect
 	
 	color = rgb { 82 130 152 }
@@ -24,11 +24,11 @@ old_alenic = {
 
 	}	
 	culture_groups = {
-		alenic_group
+		alenic_culture_group
 	}
 }
 
-blue_reachman = {
+blue_reachman_culture = {
 	language = blue_reachman_dialect
 	
 	color = rgb { 99 138 197 }
@@ -39,11 +39,11 @@ blue_reachman = {
 
 	}	
 	culture_groups = {
-		alenic_group
+		alenic_culture_group
 	}
 }
 
-vertesker = {
+vertesker_culture = {
 	language = vertesker_dialect
 	
 	color = rgb { 57 81 87 }
@@ -54,11 +54,11 @@ vertesker = {
 
 	}	
 	culture_groups = {
-		alenic_group
+		alenic_culture_group
 	}
 }
 
-moorman = {
+moorman_culture = {
 	language = moorman_dialect
 	
 	color = rgb { 71 84 102 }
@@ -69,11 +69,11 @@ moorman = {
 
 	}	
 	culture_groups = {
-		alenic_group
+		alenic_culture_group
 	}
 }
 
-wexonard = {
+wexonard_culture = {
 	language = wexonard_dialect
 	
 	color = rgb { 97 0 137 }
@@ -84,11 +84,11 @@ wexonard = {
 
 	}	
 	culture_groups = {
-		alenic_group
+		alenic_culture_group
 	}
 }
 
-marrodic = {
+marrodic_culture = {
 	language = marrodic_dialect
 	
 	color = rgb { 157 121 115 }
@@ -99,11 +99,11 @@ marrodic = {
 
 	}	
 	culture_groups = {
-		alenic_group
+		alenic_culture_group
 	}
 }
 
-westman = {
+westman_culture = {
 	language = westman_dialect
 	
 	color = rgb { 0 0 0 }
@@ -114,11 +114,11 @@ westman = {
 
 	}	
 	culture_groups = {
-		alenic_group
+		alenic_culture_group
 	}
 }
 
-alenic_half_elf = {
+alenic_half_elf_culture = {
 	language = alenic_half_elf_dialect
 	
 	color = rgb { 0 0 0 }
@@ -129,7 +129,7 @@ alenic_half_elf = {
 
 	}	
 	culture_groups = {
-		alenic_group
+		alenic_culture_group
 	}
 }
 
