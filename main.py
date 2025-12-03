@@ -622,16 +622,16 @@ with open('input\\loc\\prov_names_l_english.yml', 'r', encoding='utf-8-sig') as 
 # Set loc for unknown continents, superregions, regions, and areas
 for continent in Continent.instances.values():
     if not hasattr(continent, 'loc'):
-        continent.loc = f'{continent.name}: "UNKNOWN_CONTINENT"'
+        continent.loc = f'{continent.name}: "UNKNOWN CONTINENT"'
     for superregion in continent.superregions:
         if not hasattr(superregion, 'loc'):
-            superregion.loc = f'{superregion.name}: "UNKNOWN_SUPERREGION"'
+            superregion.loc = f'{superregion.name}: "UNKNOWN SUPERREGION"'
         for region in superregion.regions:
             if not hasattr(region, 'loc'):
-                region.loc = f'{region.name}: "UNKNOWN_REGION"'
+                region.loc = f'{region.name}: "UNKNOWN REGION"'
             for area in region.areas:
                 if not hasattr(area, 'loc'):
-                    area.loc = f'{area.name}: "UNKNOWN_AREA"'
+                    area.loc = f'{area.name}: "UNKNOWN AREA"'
 
 with open('output\\game\\main_menu\\localization\\english\\province_names_l_english.yml', 'w', encoding='utf-8-sig') as province_loc_file, \
      open('output\\game\\main_menu\\localization\\english\\location_names\\location_names_l_english.yml', 'w', encoding='utf-8-sig') as location_loc_file, \

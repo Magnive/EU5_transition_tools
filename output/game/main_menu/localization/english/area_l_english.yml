@@ -86,7 +86,7 @@
  # Region: torn_sea_region
  torn_sea_area: "Torn Sea"
  # Region: unknown_unknown__superregion_region
- unknown_unknown_unknown__superregion_region_area: "UNKNOWN_AREA"
+ unknown_unknown_unknown__superregion_region_area: "UNKNOWN AREA"
  # Region: west_aelantir_coast_region
  west_aelantir_coast_area: "West Aelantir Coast"
  # Region: west_salahad_coast_region
@@ -455,7 +455,7 @@
  zerkis_area: "Zerkis"
  ## Superregion: unknown_africa_superregion
  # Region: unknown_unknown_africa_superregion_region
- unknown_unknown_unknown_africa_superregion_region_area: "UNKNOWN_AREA"
+ unknown_unknown_unknown_africa_superregion_region_area: "UNKNOWN AREA"
  ### Continent: asia
  ## Superregion: forbidden_lands_superregion
  # Region: east_forbidden_plains_region
@@ -669,7 +669,7 @@
  yodhilakra_area: "Yodhilakra"
  ## Superregion: unknown_asia_superregion
  # Region: unknown_unknown_asia_superregion_region
- unknown_unknown_unknown_asia_superregion_region_area: "UNKNOWN_AREA"
+ unknown_unknown_unknown_asia_superregion_region_area: "UNKNOWN AREA"
  ## Superregion: vimdatrong_superregion
  # Region: bomdan_region
  banhlubei_area: "Banhlubei"
@@ -779,7 +779,7 @@
  ### Continent: debug_continent
  ## Superregion: unknown_debug_continent_superregion
  # Region: unknown_unknown_debug_continent_superregion_region
- unknown_unknown_unknown_debug_continent_superregion_region_area: "UNKNOWN_AREA"
+ unknown_unknown_unknown_debug_continent_superregion_region_area: "UNKNOWN AREA"
  ### Continent: europe
  ## Superregion: deepwoods_portal_superregion
  # Region: deepwoods_portal_region
@@ -926,7 +926,7 @@
  southern_giants_tears_area: "Southern Giants Tears"
  ## Superregion: unknown_europe_superregion
  # Region: unknown_unknown_europe_superregion_region
- unknown_unknown_unknown_europe_superregion_region_area: "UNKNOWN_AREA"
+ unknown_unknown_unknown_europe_superregion_region_area: "UNKNOWN AREA"
  ## Superregion: western_cannor_superregion
  # Region: alenic_frontier_region
  alenic_expanse_area: "Alenic Expanse"
@@ -1265,7 +1265,7 @@
  wertunbe_area: "Wertunbe"
  ## Superregion: unknown_north_america_superregion
  # Region: unknown_unknown_north_america_superregion_region
- unknown_unknown_unknown_north_america_superregion_region_area: "UNKNOWN_AREA"
+ unknown_unknown_unknown_north_america_superregion_region_area: "UNKNOWN AREA"
  ## Superregion: ynn_superregion
  # Region: dolindha_region
  amacimst_area: "Amacimst"
@@ -1514,7 +1514,7 @@
  west_insyaan_lowlands_9_area: "West Insyaan Lowlands Area 9"
  ## Superregion: unknown_oceania_superregion
  # Region: unknown_unknown_oceania_superregion_region
- unknown_unknown_unknown_oceania_superregion_region_area: "UNKNOWN_AREA"
+ unknown_unknown_unknown_oceania_superregion_region_area: "UNKNOWN AREA"
  ### Continent: serpentspine
  ## Superregion: east_serpentspine_superregion
  # Region: jade_mines_region
@@ -1552,7 +1552,7 @@
  the_kariats_area: "The Kariats"
  ## Superregion: unknown_serpentspine_superregion
  # Region: unknown_unknown_serpentspine_superregion_region
- unknown_unknown_unknown_serpentspine_superregion_region_area: "UNKNOWN_AREA"
+ unknown_unknown_unknown_serpentspine_superregion_region_area: "UNKNOWN AREA"
  ## Superregion: west_serpentspine_superregion
  # Region: middle_dwarovar_region
  deep_ones_lair_area: "Deep One's Lair"
@@ -1811,6 +1811,6 @@
  tirsin_area: "Tirsin"
  ## Superregion: unknown_south_america_superregion
  # Region: unknown_unknown_south_america_superregion_region
- unknown_unknown_unknown_south_america_superregion_region_area: "UNKNOWN_AREA"
+ unknown_unknown_unknown_south_america_superregion_region_area: "UNKNOWN AREA"
  ### Continent: unknown_continent
  ## Superregion: unknown_superregion
