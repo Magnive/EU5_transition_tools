@@ -1,7 +1,7 @@
 ﻿G00 = {
 	color = rgb { 172 40 31 }
 
-	culture_definition = anbennarian_culture
+	culture_definition = testorian_culture
 	religion_definition = kheionism
 }
 G64 = {

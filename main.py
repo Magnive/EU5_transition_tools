@@ -1,6 +1,7 @@
 import csv
 import pandas as pd
 import os
+import re
 
 class Continent:
     instances = {}
@@ -138,9 +139,9 @@ with open('anbennar_eu5_transition_data_countries.csv', 'r', encoding='utf-8-sig
         if country_tag in tag_conversion_dict:
             row['tag'] = tag_conversion_dict[country_tag]
 
-        # Changing "not found" culture entries to "anbennarian"
+        # Changing "not found" culture entries to "testorian_culture"
         if row.get('culture_definition', '') == 'not found':
-            row['culture_definition'] = 'anbennarian'
+            row['culture_definition'] = 'testorian_culture'
 
         writer.writerow(row)
 
@@ -165,9 +166,9 @@ with open('anbennar_eu5_transition_data_rulers.csv', 'r', encoding='utf-8-sig') 
                 new_char_country_tag = tag_conversion_dict[char_country_tag]
                 row['character_tag'] = new_char_country_tag + character_tag[3:]
 
-        # Changing "not found" culture entries to "anbennarian"
+        # Changing "not found" culture entries to "testorian_culture"
         if row.get('culture', '') == 'not found':
-            row['culture'] = 'anbennarian'
+            row['culture'] = 'testorian_culture'
 
         writer.writerow(row)
 
@@ -745,14 +746,14 @@ for superregion in Superregion.instances.values():
             
             culture = country_data.get('culture_definition', 'unknown_culture')
             if culture == '':
-                culture = 'anbennarian_culture' # Placeholder default culture
+                culture = 'testorian_culture' # Placeholder default culture
             if not culture.endswith('_culture'):
                 culture += '_culture'
             new_string = new_string.replace('PH_CULTURE', culture)
             
             religion = country_data.get('religion_definition', 'unknown_religion')
             if religion == '':
-                religion = 'regent_court' # Placeholder default religion
+                religion = 'testorian_religion' # Placeholder default religion
             new_string = new_string.replace('PH_RELIGION', religion)
 
             superregion_file.write(new_string)
