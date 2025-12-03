@@ -32,4 +32,9 @@ with open('input\\eu4_ports.csv', 'r', encoding='utf-8') as infile, \
         row['y'] = new_y
         writer.writerow(row)
 
-
+# Open output file and strip the newline from the final line.
+with open('output\\game\\in_game\\map_data\\eu5_ports.csv', 'r', encoding='utf-8') as outfile:
+    lines = outfile.readlines()
+with open('output\\game\\in_game\\map_data\\eu5_ports.csv', 'w', encoding='utf-8', newline='') as outfile:
+    outfile.writelines(lines[:-1])
+    outfile.write(lines[-1].rstrip('\n'))
