@@ -4469,8 +4469,8 @@ anbennar6596 = 8036e4
 anbennar6746 = 58630b
 # anbennar6747
 anbennar6747 = b25239
-# atvatnstisðl
-atvatnstisðl = 2b39f0
+# atvatnstisl
+atvatnstisl = 2b39f0
 # central_salahad
 central_salahad = ca2ead
 # central_salahad_2
@@ -7988,12 +7988,12 @@ hagisandr = 81aab0
 ## vaengrheim_area
 # anbennar6272
 anbennar6272 = d80311
-# djupfýri
-djupfýri = 483708
-# smíðafjall
-smíðafjall = ec9fea
-# vængrheim
-vængrheim = 619c1c
+# djupfri
+djupfri = 483708
+# smafjall
+smafjall = ec9fea
+# vngrheim
+vngrheim = 619c1c
 ## zeindalr_area
 # anbennar6285
 anbennar6285 = 287a7f
@@ -8123,9 +8123,11 @@ the_frozen_north = c8924f
 # the_godshield
 the_godshield = e1df19
 # titans_rest_mountains
-titans_rest_mountains = e1df13
+titans_rest_mountains = 5fc8c8
 # titans_rest_mountains_2
 titans_rest_mountains_2 = 01f6f6
+# titans_rest_mountains_3
+titans_rest_mountains_3 = e1df13
 # trollwastes
 trollwastes = 46e5e7
 #### western_cannor_superregion
@@ -8978,8 +8980,8 @@ south_viswall = 899ec0
 ## antir_drop_area
 # antirhalan
 antirhalan = 3b6040
-# mugalleán
-mugalleán = 3c8c00
+# mugallen
+mugallen = 3c8c00
 ## arannen_area
 # arannen
 arannen = 0a2c7e

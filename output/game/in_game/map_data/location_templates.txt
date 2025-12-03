@@ -4469,8 +4469,8 @@ anbennar6596 = { topography = mountain_wasteland vegetation = woods climate = ar
 anbennar6746 = { topography = mountain_wasteland vegetation = woods climate = arctic }
 # Province: anbennar6747
 anbennar6747 = { topography = mountain_wasteland vegetation = woods climate = arctic }
-# Province: atvatnstisðl
-atvatnstisðl = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: atvatnstisl
+atvatnstisl = { topography = mountain_wasteland vegetation = woods climate = arctic }
 # Province: central_salahad
 central_salahad = { topography = mountain_wasteland vegetation = woods climate = arctic }
 # Province: central_salahad_2
@@ -7988,12 +7988,12 @@ hagisandr = { topography = flatland vegetation = grasslands climate = continenta
 ## Area: vaengrheim_area
 # Province: anbennar6272
 anbennar6272 = { topography = flatland vegetation = grasslands climate = continental raw_material = placeholder_unknown }
-# Province: djupfýri
-djupfýri = { topography = flatland vegetation = grasslands climate = continental religion = skaldhyrric_faith culture = jarnklo_harpy_culture raw_material = fur }
-# Province: smíðafjall
-smíðafjall = { topography = flatland vegetation = grasslands climate = continental religion = skaldhyrric_faith culture = jarnklo_harpy_culture raw_material = iron }
-# Province: vængrheim
-vængrheim = { topography = flatland vegetation = grasslands climate = continental religion = skaldhyrric_faith culture = jarnklo_harpy_culture raw_material = incense }
+# Province: djupfri
+djupfri = { topography = flatland vegetation = grasslands climate = continental religion = skaldhyrric_faith culture = jarnklo_harpy_culture raw_material = fur }
+# Province: smafjall
+smafjall = { topography = flatland vegetation = grasslands climate = continental religion = skaldhyrric_faith culture = jarnklo_harpy_culture raw_material = iron }
+# Province: vngrheim
+vngrheim = { topography = flatland vegetation = grasslands climate = continental religion = skaldhyrric_faith culture = jarnklo_harpy_culture raw_material = incense }
 ## Area: zeindalr_area
 # Province: anbennar6285
 anbennar6285 = { topography = flatland vegetation = grasslands climate = continental raw_material = placeholder_unknown }
@@ -8126,6 +8126,8 @@ the_godshield = { topography = mountain_wasteland vegetation = woods climate = a
 titans_rest_mountains = { topography = mountain_wasteland vegetation = woods climate = arctic }
 # Province: titans_rest_mountains_2
 titans_rest_mountains_2 = { topography = mountain_wasteland vegetation = woods climate = arctic }
+# Province: titans_rest_mountains_3
+titans_rest_mountains_3 = { topography = mountain_wasteland vegetation = woods climate = arctic }
 # Province: trollwastes
 trollwastes = { topography = mountain_wasteland vegetation = woods climate = arctic }
 #### Superregion: western_cannor_superregion
@@ -8978,8 +8980,8 @@ south_viswall = { topography = flatland vegetation = grasslands climate = contin
 ## Area: antir_drop_area
 # Province: antirhalan
 antirhalan = { topography = flatland vegetation = grasslands climate = continental religion = regent_court culture = arannese_culture raw_material = placeholder_unknown }
-# Province: mugalleán
-mugalleán = { topography = flatland vegetation = grasslands climate = continental religion = regent_court culture = arannese_culture raw_material = placeholder_unknown }
+# Province: mugallen
+mugallen = { topography = flatland vegetation = grasslands climate = continental religion = regent_court culture = arannese_culture raw_material = placeholder_unknown }
 ## Area: arannen_area
 # Province: arannen
 arannen = { topography = flatland vegetation = grasslands climate = continental religion = regent_court culture = arannese_culture raw_material = placeholder_unknown }

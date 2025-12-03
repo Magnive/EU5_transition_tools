@@ -4470,8 +4470,8 @@
  anbennar6746: "Ertikan Starash"
  # Province: anbennar6747
  anbennar6747: "Ertikan Starash"
- # Province: atvatnstisðl
- atvatnstisðl: "Dao Nako"
+ # Province: atvatnstisl
+ atvatnstisl: "Dao Nako"
  # Province: central_salahad
  central_salahad: "Central Salahad"
  # Province: central_salahad_2
@@ -7989,12 +7989,12 @@
  ## Area: vaengrheim_area
  # Province: anbennar6272
  anbennar6272: "Kronetindur"
- # Province: djupfýri
- djupfýri: "Djupfýri"
- # Province: smíðafjall
- smíðafjall: "Smíðafjall"
- # Province: vængrheim
- vængrheim: "Vængheim"
+ # Province: djupfri
+ djupfri: "Djupfýri"
+ # Province: smafjall
+ smafjall: "Smíðafjall"
+ # Province: vngrheim
+ vngrheim: "Vængheim"
  ## Area: zeindalr_area
  # Province: anbennar6285
  anbennar6285: "Hjarnmork"
@@ -8127,6 +8127,8 @@
  titans_rest_mountains: "Titan's Rest Mountains"
  # Province: titans_rest_mountains_2
  titans_rest_mountains_2: "Titan's Rest Mountains"
+ # Province: titans_rest_mountains_3
+ titans_rest_mountains_3: "Titan's Rest Mountains"
  # Province: trollwastes
  trollwastes: "Trollwastes" 
  #### Superregion: western_cannor_superregion
@@ -8979,8 +8981,8 @@
  ## Area: antir_drop_area
  # Province: antirhalan
  antirhalan: "Antirhalan"
- # Province: mugalleán
- mugalleán: "Mugalleán"
+ # Province: mugallen
+ mugallen: "Mugalleán"
  ## Area: arannen_area
  # Province: arannen
  arannen: "Arannen"

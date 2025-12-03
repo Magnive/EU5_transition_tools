@@ -54,7 +54,7 @@
 	anbennar6596
 	anbennar6746
 	anbennar6747
-	atvatnstisðl
+	atvatnstisl
 	central_salahad
 	central_salahad_2
 	dezpa_sedara
@@ -121,6 +121,7 @@
 	the_godshield
 	titans_rest_mountains
 	titans_rest_mountains_2
+	titans_rest_mountains_3
 	trollwastes
 	arberith_wastes
 	armonadh

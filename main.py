@@ -108,6 +108,10 @@ with open('anbennar_eu5_transition_data_locations.csv', 'r', encoding='utf-8-sig
                 converted_core_tags.append(core_tag)
         row['cores'] = ','.join(converted_core_tags)
 
+        # Strip illegal characters from province and location name fields.
+        row['province'] = re.sub(r'[^a-z_0-9]', '', row.get('province', '').replace('-', '_').lower())
+        row['location_name'] = re.sub(r'[^a-z_0-9]', '', row.get('location_name', '').replace('-', '_').lower())
+
         # Append suffix to province if duplicate
         province_name = row.get('province', '')
         if province_name in seen_provinces:

@@ -2463,7 +2463,7 @@
  anbennar6596_province: "Gleti Sedara"
  anbennar6746_province: "Ertikan Starash"
  anbennar6747_province: "Ertikan Starash"
- atvatnstisðl_province: "Dao Nako"
+ atvatnstisl_province: "Dao Nako"
  central_salahad_province: "Central Salahad"
  central_salahad_2_province: "Central Salahad"
  dezpa_sedara_province: "Dezpa Sedara"
@@ -4452,9 +4452,9 @@
  hagisandr_province: "Hagisandr"
  # Area: vaengrheim_area
  anbennar6272_province: "Kronetindur"
- djupfýri_province: "Djupfýri"
- smíðafjall_province: "Smíðafjall"
- vængrheim_province: "Vængheim"
+ djupfri_province: "Djupfýri"
+ smafjall_province: "Smíðafjall"
+ vngrheim_province: "Vængheim"
  # Area: zeindalr_area
  anbennar6285_province: "Hjarnmork"
  ikhlodlogr_province: "Ikhlodlogr"
@@ -4527,6 +4527,7 @@
  the_godshield_province: "The Godshield"
  titans_rest_mountains_province: "Titan's Rest Mountains"
  titans_rest_mountains_2_province: "Titan's Rest Mountains"
+ titans_rest_mountains_3_province: "Titan's Rest Mountains"
  trollwastes_province: "Trollwastes" 
  ### Superregion: western_cannor_superregion
  ## Region: alenic_frontier_region
@@ -5007,7 +5008,7 @@
  ## Region: the_borders_region
  # Area: antir_drop_area
  antirhalan_province: "Antirhalan"
- mugalleán_province: "Mugalleán"
+ mugallen_province: "Mugalleán"
  # Area: arannen_area
  arannen_province: "Arannen"
  endersby_province: "Endersby"

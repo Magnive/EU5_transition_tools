@@ -2915,7 +2915,7 @@ africa = {
 				anbennar6596_province = { anbennar6596 }
 				anbennar6746_province = { anbennar6746 }
 				anbennar6747_province = { anbennar6747 }
-				atvatnstisðl_province = { atvatnstisðl }
+				atvatnstisl_province = { atvatnstisl }
 				central_salahad_province = { central_salahad }
 				central_salahad_2_province = { central_salahad_2 }
 				dezpa_sedara_province = { dezpa_sedara }
@@ -5363,9 +5363,9 @@ europe = {
 			}
 			vaengrheim_area = {
 				anbennar6272_province = { anbennar6272 }
-				djupfýri_province = { djupfýri }
-				smíðafjall_province = { smíðafjall }
-				vængrheim_province = { vængrheim }
+				djupfri_province = { djupfri }
+				smafjall_province = { smafjall }
+				vngrheim_province = { vngrheim }
 			}
 			zeindalr_area = {
 				anbennar6285_province = { anbennar6285 }
@@ -5450,6 +5450,7 @@ europe = {
 				the_godshield_province = { the_godshield }
 				titans_rest_mountains_province = { titans_rest_mountains }
 				titans_rest_mountains_2_province = { titans_rest_mountains_2 }
+				titans_rest_mountains_3_province = { titans_rest_mountains_3 }
 				trollwastes_province = { trollwastes }
 			}
 		}
@@ -6038,7 +6039,7 @@ europe = {
 		the_borders_region = {
 			antir_drop_area = {
 				antirhalan_province = { antirhalan }
-				mugalleán_province = { mugalleán }
+				mugallen_province = { mugallen }
 			}
 			arannen_area = {
 				arannen_province = { arannen }

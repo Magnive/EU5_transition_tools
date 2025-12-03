@@ -2030,7 +2030,7 @@ countries = {
 		
 		A57 = {
 			own_control_core = {
-				mugalleán
+				mugallen
 				aiscestir
 				bordercliff
 			}
@@ -5903,7 +5903,7 @@ countries = {
 		
 			our_cores_conquered_by_others = {
 				antirhalan
-				mugalleán
+				mugallen
 				varlosen
 			}
 		
@@ -45059,9 +45059,9 @@ countries = {
 		
 		Z88 = {
 			own_control_core = {
-				djupfýri
-				smíðafjall
-				vængrheim
+				djupfri
+				smafjall
+				vngrheim
 			}
 		
 			own_conquered = {
