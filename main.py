@@ -138,6 +138,10 @@ with open('anbennar_eu5_transition_data_countries.csv', 'r', encoding='utf-8-sig
         if country_tag in tag_conversion_dict:
             row['tag'] = tag_conversion_dict[country_tag]
 
+        # Changing "not found" culture entries to "anbennarian"
+        if row.get('culture_definition', '') == 'not found':
+            row['culture_definition'] = 'anbennarian'
+
         writer.writerow(row)
 
 # Open rulers.csv and apply tag conversions to tag field and the first 3 characters of character_tag field
@@ -160,6 +164,10 @@ with open('anbennar_eu5_transition_data_rulers.csv', 'r', encoding='utf-8-sig') 
             if char_country_tag in tag_conversion_dict:
                 new_char_country_tag = tag_conversion_dict[char_country_tag]
                 row['character_tag'] = new_char_country_tag + character_tag[3:]
+
+        # Changing "not found" culture entries to "anbennarian"
+        if row.get('culture', '') == 'not found':
+            row['culture'] = 'anbennarian'
 
         writer.writerow(row)
 
@@ -643,6 +651,7 @@ with open('input\\loc\\prov_names_l_english.yml', 'r', encoding='utf-8-sig') as 
             prov_name = Province.prov_num_dict[prov_num].name
             prov_loc = parts[1][1:] # We don't care about the 0 (or in one instance, 2) following the colon
             prov_loc = prov_loc.removesuffix('\n') # Remove newline character, as some lines lose it when comments are removed.
+            prov_loc = prov_loc.replace('_', ' ')  # Replace underscores with spaces for loc
 
             Province.prov_num_dict[prov_num].loc = f'{prov_name}_province:{prov_loc}'
             Location.prov_num_dict[prov_num].loc = f'{prov_name}:{prov_loc}'
