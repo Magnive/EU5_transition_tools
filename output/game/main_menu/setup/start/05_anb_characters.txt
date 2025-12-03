@@ -10718,7 +10718,7 @@
 
 	G00_kelindas = {
 		first_name = { name = kelindas }
-		culture = not found_culture
+		culture = anbennarian_culture
 		religion = kheionism
 		adm = 64 dip = 80 mil = 96
 		birth_date = 1526.3.9

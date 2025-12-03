@@ -275,7 +275,7 @@ africa,bulwar_superregion,F96,Xhurekal,sareyand,suncrown_gnoll_dialect,suncrown_
 africa,bulwar_superregion,F97,Bastard Empire,bulwar,sun_elf_dialect,sun_elf,bulwari_sun_cult,,,,"(172, 39, 60)"
 africa,bulwar_superregion,F98,Harpylen,heunthume,firanyan_harpy_dialect,firanyan_harpy,the_hunt,,,,"(200, 169, 168)"
 africa,bulwar_superregion,F99,Jadd Civil War,ebbusubtu,desert_elf_dialect,desert_elf,the_jadd,,,,"(172, 30, 11)"
-south_america,taychend_superregion,G00,Ameion Civil War,nakar_mlerek,not found_dialect,not found,kheionism,,,,"(172, 40, 31)"
+south_america,taychend_superregion,G00,Ameion Civil War,nakar_mlerek,not found_dialect,anbennarian,kheionism,,,,"(172, 40, 31)"
 north_america,ruin_proper_superregion,G01,Boek,boektaraw,boek_dialect,boek,dotimism,,,,"(100, 100, 255)"
 north_america,torn_gates_superregion,G02,Mayte,icetca_iliztli,mayte_dialect,mayte,kalun_masks,,,,"(65, 19, 40)"
 north_america,torn_gates_superregion,G03,Kooras,kooras,kooras_dialect,kooras,jaakaiin,,,,"(58, 89, 94)"
