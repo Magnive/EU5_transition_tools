@@ -1,6 +1,6 @@
 ﻿l_english:
- ## Continent: 
- : "UNKNOWN CONTINENT"
+ ## Continent: unknown_continent
+ unknown_continent: "UNKNOWN CONTINENT"
  # Superregion: unknown__superregion
  unknown__superregion: "UNKNOWN SUPERREGION"
  broken_sea_region: "Broken Sea"

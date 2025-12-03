@@ -208,24 +208,32 @@ for key, value in data.items():
 
     # Create or get Continent
     if continent_name in Continent.instances:
+        if continent.name == '':
+            continent.name = 'unknown_continent'
         continent = Continent.instances[continent_name]
     else:
         continent = Continent(continent_name)
 
     # Create or get Superregion
     if superregion_name in Superregion.instances:
+        if superregion.name == '':
+            superregion.name = f'unknown_{continent_name}_superregion'
         superregion = Superregion.instances[superregion_name]
     else:
         superregion = Superregion(continent, superregion_name)
 
     # Create or get Region
     if region_name in Region.instances:
+        if region.name == '':
+            region.name = f'unknown_{superregion_name}_region'
         region = Region.instances[region_name]
     else:
         region = Region(superregion, region_name)
 
     # Create or get Area
     if area_name in Area.instances:
+        if area.name == '':
+            area.name = f'unknown_{region_name}_area'
         area = Area.instances[area_name]
     else:
         area = Area(region, area_name) 
