@@ -19,8 +19,8 @@ H21 = {
 H22 = {
 	color = rgb { 60 120 180 }
 
-	culture_definition = _culture
-	religion_definition = unknown_religion
+	culture_definition = anbennarian_culture
+	religion_definition = regent_court
 }
 H27 = {
 	color = rgb { 173 27 5 }
@@ -415,20 +415,20 @@ M80 = {
 S71 = {
 	color = rgb { 238 186 126 }
 
-	culture_definition = _culture
-	religion_definition = unknown_religion
+	culture_definition = anbennarian_culture
+	religion_definition = regent_court
 }
 S84 = {
 	color = rgb { 255 0 0 }
 
-	culture_definition = _culture
-	religion_definition = unknown_religion
+	culture_definition = anbennarian_culture
+	religion_definition = regent_court
 }
 S90 = {
 	color = rgb { 200 190 200 }
 
-	culture_definition = _culture
-	religion_definition = unknown_religion
+	culture_definition = anbennarian_culture
+	religion_definition = regent_court
 }
 S93 = {
 	color = rgb { 100 1 10 }
@@ -439,30 +439,30 @@ S93 = {
 U27 = {
 	color = rgb { 126 27 133 }
 
-	culture_definition = _culture
-	religion_definition = unknown_religion
+	culture_definition = anbennarian_culture
+	religion_definition = regent_court
 }
 V28 = {
 	color = rgb { 130 180 240 }
 
-	culture_definition = _culture
-	religion_definition = unknown_religion
+	culture_definition = anbennarian_culture
+	religion_definition = regent_court
 }
 Z91 = {
 	color = rgb { 20 31 107 }
 
-	culture_definition = _culture
-	religion_definition = unknown_religion
+	culture_definition = anbennarian_culture
+	religion_definition = regent_court
 }
 Z92 = {
 	color = rgb { 20 107 28 }
 
-	culture_definition = _culture
-	religion_definition = unknown_religion
+	culture_definition = anbennarian_culture
+	religion_definition = regent_court
 }
 Z97 = {
 	color = rgb { 69 69 69 }
 
-	culture_definition = _culture
-	religion_definition = unknown_religion
+	culture_definition = anbennarian_culture
+	religion_definition = regent_court
 }

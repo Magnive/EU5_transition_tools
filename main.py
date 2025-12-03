@@ -255,7 +255,7 @@ for key, value in data.items():
         location = Location(province, location_name, prov_num, hexcode)
 
 
-with open('output\\game\\in_game\\map_data\\named_locations\\anb_default.txt', 'w', encoding='utf-8-sig') as outfile:
+with open('output\\game\\in_game\\map_data\\named_locations\\00_default.txt', 'w', encoding='utf-8-sig') as outfile:
     for continent in Continent.instances.values():
         outfile.write('##### ' + continent.name + '\n')
         for superregion in continent.superregions:
@@ -269,7 +269,7 @@ with open('output\\game\\in_game\\map_data\\named_locations\\anb_default.txt', '
                         for location in province.locations:
                             outfile.write(f"{location.name} = {location.hexcode}\n")
 
-with open('output\\game\\in_game\\map_data\\anb_definitions.txt', 'w', encoding='utf-8-sig') as def_file:
+with open('output\\game\\in_game\\map_data\\definitions.txt', 'w', encoding='utf-8-sig') as def_file:
     for continent in Continent.instances.values():
         def_file.write(f'{continent.name} = {{\n')
         for superregion in continent.superregions:
@@ -292,7 +292,7 @@ with open('output\\game\\in_game\\map_data\\anb_definitions.txt', 'w', encoding=
             def_file.write('\t}\n')
         def_file.write('}\n')
 
-with open('output\\game\\in_game\\map_data\\anb_location_templates.txt', 'w', encoding='utf-8-sig') as template_file:
+with open('output\\game\\in_game\\map_data\\location_templates.txt', 'w', encoding='utf-8-sig') as template_file:
     for continent in Continent.instances.values():
         template_file.write(f'##### Continent: {continent.name}\n')
         for superregion in continent.superregions:
@@ -447,9 +447,9 @@ with open('output//game//in_game//common//culture_groups//00_culture_groups.txt'
             culture_group_name += '_culture_group'
 
         culture_groups_file.write(f'{culture_group_name} = {{\n')
-        culture_groups_file.write('\tcountry_modifier = { }\n')
-        culture_groups_file.write('\tcharacter_modifier = { }\n')
-        culture_groups_file.write('\tlocation_modifier = { }\n')
+        culture_groups_file.write('\t# country_modifier = { }\n')
+        culture_groups_file.write('\t# character_modifier = { }\n')
+        culture_groups_file.write('\t# location_modifier = { }\n')
         culture_groups_file.write('}\n')
         culture_groups_file.write('\n')
         
@@ -735,15 +735,15 @@ for superregion in Superregion.instances.values():
             new_string = new_string.replace('PH_COLOR', f'rgb {{ {color} }}')
             
             culture = country_data.get('culture_definition', 'unknown_culture')
+            if culture == '':
+                culture = 'anbennarian_culture' # Placeholder default culture
             if not culture.endswith('_culture'):
                 culture += '_culture'
-            if culture == '':
-                culture = 'unknown_culture'
             new_string = new_string.replace('PH_CULTURE', culture)
             
             religion = country_data.get('religion_definition', 'unknown_religion')
             if religion == '':
-                religion = 'unknown_religion'
+                religion = 'regent_court' # Placeholder default religion
             new_string = new_string.replace('PH_RELIGION', religion)
 
             superregion_file.write(new_string)

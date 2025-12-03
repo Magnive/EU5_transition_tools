@@ -1,414 +1,414 @@
 ﻿anbennarian_culture_group = {
-	country_modifier = { }
-	character_modifier = { }
-	location_modifier = { }
+	# country_modifier = { }
+	# character_modifier = { }
+	# location_modifier = { }
 }
 
 alenic_culture_group = {
-	country_modifier = { }
-	character_modifier = { }
-	location_modifier = { }
+	# country_modifier = { }
+	# character_modifier = { }
+	# location_modifier = { }
 }
 
 businori_culture_group = {
-	country_modifier = { }
-	character_modifier = { }
-	location_modifier = { }
+	# country_modifier = { }
+	# character_modifier = { }
+	# location_modifier = { }
 }
 
 escanni_culture_group = {
-	country_modifier = { }
-	character_modifier = { }
-	location_modifier = { }
+	# country_modifier = { }
+	# character_modifier = { }
+	# location_modifier = { }
 }
 
 dostanorian_g_culture_group = {
-	country_modifier = { }
-	character_modifier = { }
-	location_modifier = { }
+	# country_modifier = { }
+	# character_modifier = { }
+	# location_modifier = { }
 }
 
 kheteratan_culture_group = {
-	country_modifier = { }
-	character_modifier = { }
-	location_modifier = { }
+	# country_modifier = { }
+	# character_modifier = { }
+	# location_modifier = { }
 }
 
 lencori_culture_group = {
-	country_modifier = { }
-	character_modifier = { }
-	location_modifier = { }
+	# country_modifier = { }
+	# character_modifier = { }
+	# location_modifier = { }
 }
 
 reachman_culture_group = {
-	country_modifier = { }
-	character_modifier = { }
-	location_modifier = { }
+	# country_modifier = { }
+	# character_modifier = { }
+	# location_modifier = { }
 }
 
 halfling_culture_group = {
-	country_modifier = { }
-	character_modifier = { }
-	location_modifier = { }
+	# country_modifier = { }
+	# character_modifier = { }
+	# location_modifier = { }
 }
 
 gnomish_culture_group = {
-	country_modifier = { }
-	character_modifier = { }
-	location_modifier = { }
+	# country_modifier = { }
+	# character_modifier = { }
+	# location_modifier = { }
 }
 
 gerudian_culture_group = {
-	country_modifier = { }
-	character_modifier = { }
-	location_modifier = { }
+	# country_modifier = { }
+	# character_modifier = { }
+	# location_modifier = { }
 }
 
 giantkind_culture_group = {
-	country_modifier = { }
-	character_modifier = { }
-	location_modifier = { }
+	# country_modifier = { }
+	# character_modifier = { }
+	# location_modifier = { }
 }
 
 elven_culture_group = {
-	country_modifier = { }
-	character_modifier = { }
-	location_modifier = { }
+	# country_modifier = { }
+	# character_modifier = { }
+	# location_modifier = { }
 }
 
 dwarven_culture_group = {
-	country_modifier = { }
-	character_modifier = { }
-	location_modifier = { }
+	# country_modifier = { }
+	# character_modifier = { }
+	# location_modifier = { }
 }
 
 kobold_culture_group = {
-	country_modifier = { }
-	character_modifier = { }
-	location_modifier = { }
+	# country_modifier = { }
+	# character_modifier = { }
+	# location_modifier = { }
 }
 
 gnollish_culture_group = {
-	country_modifier = { }
-	character_modifier = { }
-	location_modifier = { }
+	# country_modifier = { }
+	# character_modifier = { }
+	# location_modifier = { }
 }
 
 orcish_culture_group = {
-	country_modifier = { }
-	character_modifier = { }
-	location_modifier = { }
+	# country_modifier = { }
+	# character_modifier = { }
+	# location_modifier = { }
 }
 
 goblin_culture_group = {
-	country_modifier = { }
-	character_modifier = { }
-	location_modifier = { }
+	# country_modifier = { }
+	# character_modifier = { }
+	# location_modifier = { }
 }
 
 bulwari_culture_group = {
-	country_modifier = { }
-	character_modifier = { }
-	location_modifier = { }
+	# country_modifier = { }
+	# character_modifier = { }
+	# location_modifier = { }
 }
 
 harpy_culture_group = {
-	country_modifier = { }
-	character_modifier = { }
-	location_modifier = { }
+	# country_modifier = { }
+	# character_modifier = { }
+	# location_modifier = { }
 }
 
 upper_raheni_culture_group = {
-	country_modifier = { }
-	character_modifier = { }
-	location_modifier = { }
+	# country_modifier = { }
+	# character_modifier = { }
+	# location_modifier = { }
 }
 
 middle_raheni_culture_group = {
-	country_modifier = { }
-	character_modifier = { }
-	location_modifier = { }
+	# country_modifier = { }
+	# character_modifier = { }
+	# location_modifier = { }
 }
 
 south_raheni_culture_group = {
-	country_modifier = { }
-	character_modifier = { }
-	location_modifier = { }
+	# country_modifier = { }
+	# character_modifier = { }
+	# location_modifier = { }
 }
 
 hobgoblin_culture_group = {
-	country_modifier = { }
-	character_modifier = { }
-	location_modifier = { }
+	# country_modifier = { }
+	# character_modifier = { }
+	# location_modifier = { }
 }
 
 wuhyun_culture_group = {
-	country_modifier = { }
-	character_modifier = { }
-	location_modifier = { }
+	# country_modifier = { }
+	# character_modifier = { }
+	# location_modifier = { }
 }
 
 harimari_culture_group = {
-	country_modifier = { }
-	character_modifier = { }
-	location_modifier = { }
+	# country_modifier = { }
+	# character_modifier = { }
+	# location_modifier = { }
 }
 
 centaur_culture_group = {
-	country_modifier = { }
-	character_modifier = { }
-	location_modifier = { }
+	# country_modifier = { }
+	# character_modifier = { }
+	# location_modifier = { }
 }
 
 ogre_culture_group = {
-	country_modifier = { }
-	character_modifier = { }
-	location_modifier = { }
+	# country_modifier = { }
+	# character_modifier = { }
+	# location_modifier = { }
 }
 
 triunic_culture_group = {
-	country_modifier = { }
-	character_modifier = { }
-	location_modifier = { }
+	# country_modifier = { }
+	# character_modifier = { }
+	# location_modifier = { }
 }
 
 kheionai_ruinborn_elf_culture_group = {
-	country_modifier = { }
-	character_modifier = { }
-	location_modifier = { }
+	# country_modifier = { }
+	# character_modifier = { }
+	# location_modifier = { }
 }
 
 eltibhari_ruinborn_elf_culture_group = {
-	country_modifier = { }
-	character_modifier = { }
-	location_modifier = { }
+	# country_modifier = { }
+	# character_modifier = { }
+	# location_modifier = { }
 }
 
 devandi_ruinborn_elf_culture_group = {
-	country_modifier = { }
-	character_modifier = { }
-	location_modifier = { }
+	# country_modifier = { }
+	# character_modifier = { }
+	# location_modifier = { }
 }
 
 north_ruinborn_elf_culture_group = {
-	country_modifier = { }
-	character_modifier = { }
-	location_modifier = { }
+	# country_modifier = { }
+	# character_modifier = { }
+	# location_modifier = { }
 }
 
 eordan_ruinborn_elf_culture_group = {
-	country_modifier = { }
-	character_modifier = { }
-	location_modifier = { }
+	# country_modifier = { }
+	# character_modifier = { }
+	# location_modifier = { }
 }
 
 south_ruinborn_elf_culture_group = {
-	country_modifier = { }
-	character_modifier = { }
-	location_modifier = { }
+	# country_modifier = { }
+	# character_modifier = { }
+	# location_modifier = { }
 }
 
 harafic_ruinborn_elf_culture_group = {
-	country_modifier = { }
-	character_modifier = { }
-	location_modifier = { }
+	# country_modifier = { }
+	# character_modifier = { }
+	# location_modifier = { }
 }
 
 effelai_ruinborn_elf_culture_group = {
-	country_modifier = { }
-	character_modifier = { }
-	location_modifier = { }
+	# country_modifier = { }
+	# character_modifier = { }
+	# location_modifier = { }
 }
 
 degenerated_elf_culture_group = {
-	country_modifier = { }
-	character_modifier = { }
-	location_modifier = { }
+	# country_modifier = { }
+	# character_modifier = { }
+	# location_modifier = { }
 }
 
 construct_culture_group = {
-	country_modifier = { }
-	character_modifier = { }
-	location_modifier = { }
+	# country_modifier = { }
+	# character_modifier = { }
+	# location_modifier = { }
 }
 
 undead_culture_group = {
-	country_modifier = { }
-	character_modifier = { }
-	location_modifier = { }
+	# country_modifier = { }
+	# character_modifier = { }
+	# location_modifier = { }
 }
 
 amadian_ruinborn_elf_culture_group = {
-	country_modifier = { }
-	character_modifier = { }
-	location_modifier = { }
+	# country_modifier = { }
+	# character_modifier = { }
+	# location_modifier = { }
 }
 
 taychendi_ruinborn_elf_culture_group = {
-	country_modifier = { }
-	character_modifier = { }
-	location_modifier = { }
+	# country_modifier = { }
+	# character_modifier = { }
+	# location_modifier = { }
 }
 
 ynnic_ruinborn_elf_culture_group = {
-	country_modifier = { }
-	character_modifier = { }
-	location_modifier = { }
+	# country_modifier = { }
+	# character_modifier = { }
+	# location_modifier = { }
 }
 
 ynnsman_culture_group = {
-	country_modifier = { }
-	character_modifier = { }
-	location_modifier = { }
+	# country_modifier = { }
+	# character_modifier = { }
+	# location_modifier = { }
 }
 
 trollsbayer_culture_group = {
-	country_modifier = { }
-	character_modifier = { }
-	location_modifier = { }
+	# country_modifier = { }
+	# character_modifier = { }
+	# location_modifier = { }
 }
 
 bom_culture_group = {
-	country_modifier = { }
-	character_modifier = { }
-	location_modifier = { }
+	# country_modifier = { }
+	# character_modifier = { }
+	# location_modifier = { }
 }
 
 besholgi_culture_group = {
-	country_modifier = { }
-	character_modifier = { }
-	location_modifier = { }
+	# country_modifier = { }
+	# character_modifier = { }
+	# location_modifier = { }
 }
 
 kai_culture_group = {
-	country_modifier = { }
-	character_modifier = { }
-	location_modifier = { }
+	# country_modifier = { }
+	# character_modifier = { }
+	# location_modifier = { }
 }
 
 kelino_culture_group = {
-	country_modifier = { }
-	character_modifier = { }
-	location_modifier = { }
+	# country_modifier = { }
+	# character_modifier = { }
+	# location_modifier = { }
 }
 
 yanglam_culture_group = {
-	country_modifier = { }
-	character_modifier = { }
-	location_modifier = { }
+	# country_modifier = { }
+	# character_modifier = { }
+	# location_modifier = { }
 }
 
 yan_culture_group = {
-	country_modifier = { }
-	character_modifier = { }
-	location_modifier = { }
+	# country_modifier = { }
+	# character_modifier = { }
+	# location_modifier = { }
 }
 
 gowon_culture_group = {
-	country_modifier = { }
-	character_modifier = { }
-	location_modifier = { }
+	# country_modifier = { }
+	# character_modifier = { }
+	# location_modifier = { }
 }
 
 khantaar_culture_group = {
-	country_modifier = { }
-	character_modifier = { }
-	location_modifier = { }
+	# country_modifier = { }
+	# character_modifier = { }
+	# location_modifier = { }
 }
 
 akasi_culture_group = {
-	country_modifier = { }
-	character_modifier = { }
-	location_modifier = { }
+	# country_modifier = { }
+	# character_modifier = { }
+	# location_modifier = { }
 }
 
 vurebindu_culture_group = {
-	country_modifier = { }
-	character_modifier = { }
-	location_modifier = { }
+	# country_modifier = { }
+	# character_modifier = { }
+	# location_modifier = { }
 }
 
 irsukuba_culture_group = {
-	country_modifier = { }
-	character_modifier = { }
-	location_modifier = { }
+	# country_modifier = { }
+	# character_modifier = { }
+	# location_modifier = { }
 }
 
 west_sarhaly_culture_group = {
-	country_modifier = { }
-	character_modifier = { }
-	location_modifier = { }
+	# country_modifier = { }
+	# character_modifier = { }
+	# location_modifier = { }
 }
 
 mengi_culture_group = {
-	country_modifier = { }
-	character_modifier = { }
-	location_modifier = { }
+	# country_modifier = { }
+	# character_modifier = { }
+	# location_modifier = { }
 }
 
 lizardfolk_culture_group = {
-	country_modifier = { }
-	character_modifier = { }
-	location_modifier = { }
+	# country_modifier = { }
+	# character_modifier = { }
+	# location_modifier = { }
 }
 
 baashidi_culture_group = {
-	country_modifier = { }
-	character_modifier = { }
-	location_modifier = { }
+	# country_modifier = { }
+	# character_modifier = { }
+	# location_modifier = { }
 }
 
 inyaswarosa_culture_group = {
-	country_modifier = { }
-	character_modifier = { }
-	location_modifier = { }
+	# country_modifier = { }
+	# character_modifier = { }
+	# location_modifier = { }
 }
 
 khudi_culture_group = {
-	country_modifier = { }
-	character_modifier = { }
-	location_modifier = { }
+	# country_modifier = { }
+	# character_modifier = { }
+	# location_modifier = { }
 }
 
 yenbenmirra_culture_group = {
-	country_modifier = { }
-	character_modifier = { }
-	location_modifier = { }
+	# country_modifier = { }
+	# character_modifier = { }
+	# location_modifier = { }
 }
 
 tagaala_culture_group = {
-	country_modifier = { }
-	character_modifier = { }
-	location_modifier = { }
+	# country_modifier = { }
+	# character_modifier = { }
+	# location_modifier = { }
 }
 
 yanacotle_culture_group = {
-	country_modifier = { }
-	character_modifier = { }
-	location_modifier = { }
+	# country_modifier = { }
+	# character_modifier = { }
+	# location_modifier = { }
 }
 
 anakue_culture_group = {
-	country_modifier = { }
-	character_modifier = { }
-	location_modifier = { }
+	# country_modifier = { }
+	# character_modifier = { }
+	# location_modifier = { }
 }
 
 utubodi_culture_group = {
-	country_modifier = { }
-	character_modifier = { }
-	location_modifier = { }
+	# country_modifier = { }
+	# character_modifier = { }
+	# location_modifier = { }
 }
 
 tyvorkan_culture_group = {
-	country_modifier = { }
-	character_modifier = { }
-	location_modifier = { }
+	# country_modifier = { }
+	# character_modifier = { }
+	# location_modifier = { }
 }
 
 mechanim_culture_group = {
-	country_modifier = { }
-	character_modifier = { }
-	location_modifier = { }
+	# country_modifier = { }
+	# character_modifier = { }
+	# location_modifier = { }
 }
 
