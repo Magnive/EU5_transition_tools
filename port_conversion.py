@@ -18,7 +18,7 @@ def convert_coords(x, y):
 
 
 with open('input\\eu4_ports.csv', 'r', encoding='utf-8') as infile, \
-    open('output\\game\\in_game\\map_data\\eu5_ports.csv', 'w', encoding='utf-8', newline='') as outfile:
+    open('output\\game\\in_game\\map_data\\ports.csv', 'w', encoding='utf-8', newline='') as outfile:
     reader = csv.DictReader(infile, delimiter=';')
     fieldnames = reader.fieldnames
     writer = csv.DictWriter(outfile, fieldnames=fieldnames, delimiter=';')
@@ -33,8 +33,8 @@ with open('input\\eu4_ports.csv', 'r', encoding='utf-8') as infile, \
         writer.writerow(row)
 
 # Open output file and strip the newline from the final line.
-with open('output\\game\\in_game\\map_data\\eu5_ports.csv', 'r', encoding='utf-8') as outfile:
+with open('output\\game\\in_game\\map_data\\ports.csv', 'r', encoding='utf-8') as outfile:
     lines = outfile.readlines()
-with open('output\\game\\in_game\\map_data\\eu5_ports.csv', 'w', encoding='utf-8', newline='') as outfile:
+with open('output\\game\\in_game\\map_data\\ports.csv', 'w', encoding='utf-8', newline='') as outfile:
     outfile.writelines(lines[:-1])
     outfile.write(lines[-1].rstrip('\n'))
